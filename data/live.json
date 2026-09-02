@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T20:34:20.572Z",
+  "generated": "2026-09-02T20:50:57.438Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -24,18 +24,18 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Atlanta police recruit killed in motorcycle crash on way to work, officials say",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWtGTnZZSWhXUU9xOXZibTNjYWlIQVdxYXg3blIzcWtHVDhSZUoxMkJFX0FTdGVSRHViWmdqZ3FDYnZGc2VaSHIya01nZURSV2ZyVGMxY3ktTHRncXRxcFhxWG1lNDlJb1d1M1ZzWDZzWjUwX1dxbXFXeDRPQ3FhcWU1TDdpMVpwX2gw?oc=5",
+      "published": "2026-09-01T20:05:42.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
       "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
       "published": "2026-09-01T17:59:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
-      "source": "The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
-      "published": "2026-09-01T13:55:00.000Z",
-      "feed": "recalls"
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
@@ -46,7 +46,7 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "The News Journal",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -59,18 +59,18 @@
       "feed": "us-safety"
     },
     {
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "kiro7.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T13:22:09.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
       "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Gordon Lee student continues recovery after golf cart crash in Chickamauga",
-      "source": "WTVC",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1BsSnZwM080N2JCLUlpWE1iM3Zja0tOWnB2dExkd1lodUxYOFZQVlp1ZVd1SW43dWNZaGRGcVJ6eW1oZkdBaEZSUzJJNktsR2Rkbl9fbWh0NW82WGhIS3BSLVlSYTlQaUhUUWFjVHpPUlpRLVMwNklCRDdtTmx6V2t1bW9PLWl5cTdBUHBsZVZYX0FjeDFkSGc1OGgwZGhjVTZGcmNjeExCZVVweWttejN3LW1FVmFuRVRRNmp1dkFtQQ?oc=5",
-      "published": "2026-08-30T23:39:52.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
@@ -144,7 +144,7 @@
     },
     {
       "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
-      "source": "Law360",
+      "source": "law360.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
       "published": "2026-08-17T20:41:00.000Z",
       "feed": "injurylaw"
