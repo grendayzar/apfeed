@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T22:34:10.335Z",
+  "generated": "2026-09-02T22:49:34.756Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,13 +9,6 @@
   ],
   "count": 22,
   "items": [
-    {
-      "title": "Three lanes closed after crash on I-85 south in metro Atlanta",
-      "source": "95.5 WSB",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdTNk5fSG1HOU1zQW55UGl3SUZDdkJoeUFfWWJsUkNyQzNabVdOdVJwTm1qekZQenZHRzZNeERmOHpiTnNFNmdudEgyQ3JpeTFBQTB3dmdDejU1TTJ3d0VDZWdCNElzZHhLdDRNWGVYUFh1UU9qNG93OHZLTTlmRHJXS3BNM0NUSEZOUUJNbFJLcTU4VVEyUXNxNVJxY24zX1ZibTIwWDRmMEFBMS10SWEyRkp2UGRuMHVz0gHPAUFVX3lxTFBYZVhtd3A1QkkwcDJNUmI3cHJCdHRJSDB3WjNacEVwZHRfTGRRVHNZYTRDMURFdkJQdUlTanNMQURqSnBmaHBGb1UtUXpiOGk3SG9feGRpZjlBdzZXZE1ISkdkN0JSYWpYN3pZQm94SU1xZVNVcVhCZ2dHMk5aQXkxLVI1bEQ1cGZXbWt5VVJzcDBQcWxOdTQtUFRQazJ0eWxGQUx1eFltVVB5WG5HZFhRQWQteXBpcU5LRGhqM1lrcWc0UnhvQnhUNWJwMFluYw?oc=5",
-      "published": "2026-09-02T18:19:19.000Z",
-      "feed": "ga-roads"
-    },
     {
       "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
       "source": "FOX 5 Atlanta",
@@ -45,13 +38,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
-      "published": "2026-09-01T15:37:21.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
       "source": "FinancialContent",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
@@ -67,7 +53,7 @@
     },
     {
       "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "morningstar.com",
+      "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
       "published": "2026-08-31T13:37:35.000Z",
       "feed": "us-safety"
@@ -108,6 +94,20 @@
       "feed": "recalls"
     },
     {
+      "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
+      "published": "2026-08-28T16:27:57.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Car crash in Atlanta sends 1 person to hospital",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUhvMmpYUERibTdidGZ1bFJBU1NzZTdlMDBpSVVfMDcyc210b2p1YlJKTGFLMU5WU2d2N2JHT1BCcG5qVFk4dE04bkltcGhGX05TbmJhcldTOXlxV2hLMXNTUVJmQmRyVzFXOTktbUhQSkVLZDJVSzRUZG4wMEhLSHBZRWotdkFfOGdIZzFyR0RwXy1uNnh2eFpGQmJiZl91VkZaVEN6RVRSUVBTdWFMWmMySlktTEZyekJQM0F2QkZ5OFR2TnFvMVRWNHRoYUNkbjE2Mg?oc=5",
+      "published": "2026-08-28T08:47:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Person hit, killed by vehicle on I-75/85; lanes reopen",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVFBVHd1ZjlfaWRENlhaN2FfRW1oS1prRTdwN0lOMk9DVnl1eVFEV0dwVWVxTkY1S3RMSkxfWDZsLW91cUszVVZscS1CM2dTcHVrTlRyZG9VdU50VVNLQ0NFaGJaMXQxdXRsRVM5dlVXczhSb3JhWEMycUlwckI2TXhjdUpvYTRPaGZhamRQNjBmOVU1WXZVN3JFcG5rTVXSAbMBQVVfeXFMTXhkUTJyMDNuUkh1WUJaNUFPTmdBVmRyT3hSNWxVbUdyUVNhU09BT1JTUWl2TlR1ekt3VWIwSnBWMmVmQkxxSEE4SmwyX0gxbTBkV0hGOHRQSENsNm1MbUtZWDZod2RXY1VDeWRxelFfd1JJNHdqTVB1ZnpWT3YwRnJtRWJQQkZDcjZzMEp4Z2ltM2xJMFduZmJTRGxmQXNrSXk5cEFiOXQwcFNKOUpNZzNtWXM?oc=5",
@@ -116,7 +116,7 @@
     },
     {
       "title": "I-75/85 major shutdown in middle of Atlanta",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXllS2xNMXZ5cU9SeVpBWktkMjdaZDFXOV9XdDUwNWhseDhSZXEyMmlKSF9DTlB1REdGOXJwNmVsdncwVTFGWEdaelFGNXNtNy11b0xUUTk0YXhyc2dZcUYwYTU0U0QyZ1JRRC01TWhBU0JNVkMzaVZvYzZpOUg5aGZkZmRlTGctcVA1WEtkLUpleENBeEs5c3VDOTNvRUpoT2pSNTlJWlRKV3BaZ3Z6clhmWkZsLTJyVWlEZg?oc=5",
       "published": "2026-08-27T12:17:00.000Z",
       "feed": "ga-metro"
