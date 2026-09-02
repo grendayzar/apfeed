@@ -1,1 +1,41 @@
+name: Refresh wire
 
+# Runs every 20 minutes and commits data/live.json back to the repo,
+# which republishes GitHub Pages. Also runnable by hand from the
+# Actions tab (Refresh wire → Run workflow).
+on:
+  schedule:
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-wire
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Build data/live.json
+        run: node scripts/refresh.mjs
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "road-watch-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/live.json; then
+            echo "No change."
+            exit 0
+          fi
+          git add data/live.json
+          git commit -m "Refresh wire — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
