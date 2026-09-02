@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T16:36:19.957Z",
+  "generated": "2026-09-02T16:52:34.297Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -52,13 +52,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
       "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
@@ -70,13 +63,6 @@
       "source": "News4JAX",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdlJkeHI0c3NGd0hqa1BnUWxPajEySFlYNHVPSXM3R1Z6QjNFX2pJVkp4ZTVpeFhRVUFiRnlzZ2pjZ1VkOG1ONzNoNTV0NVhKTEFEYzdTbmxDcm5Dam90MVhsaW56cFMxM0pINFZuR2xfSURYYWZCeEtqeW1DX21jVU1QOGNITDJTdmxoX2RBZ3pxQ3JORHlwT21IVGFnaDZXVzRSUGMwakFwM3l4MV9CTllZMlhnb3VrY2VST0M3dGtMYXV6b1djMmNZcEo3dFpqcjM0NUxEdVJ3YWVMS3BtY3l4M2l2Mjg?oc=5",
       "published": "2026-08-31T11:07:08.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Georgia man seriously injured in dirt bike crash, community launches fundraiser",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaWJHdXpOeXVjLVFSeXBZcjAxb2ZMMUluaFRrd2NtMG96MlRSM1lYQVFQUm1OT3NidDY4Sk9hbWtBMGVlZ1Z6ZGZyb0c3SnEyOUFRa2tCUVJFem5IWG1ya0JZN2J2VEtIZExGQ3hGRzVkci1ndGJuWmt2UjVwWlpwSVJMYzBmazdMRmNUaGpRVG1aTEFkZzExaTQ5OXdVdmdEX3BSM3NRQ3UwdURPZDJNdUYyaTFEakRxbUQ4djVUR1NoU0hpcl9VSWR5WEFIQTd5WFHSAeYBQVVfeXFMUDhvcU5IT2U1NkVaZzFUZnNBUlFDNlhPUTFIQ0NiLXNScXROSWVhT1l0a1dEd25PRkNCdk1RcVZkY0c5MUFrOHBiaWRYVzViSjlzcHlBVlhZM0lFUWlFTkI0ZzNra0hTdXcyOXBDY2NfQnRoYXhvZFA2RW90YnlMZjQ1MGFra1lyRjRjUFN4enZmNy1DWGdJczJQdUhITFotTUJDclpaWERtNV9SaVZ0WTFRdVBsLXk5UGFZcEVkUkV3bDVHUF93cENzRUJ0Y1lhVW1wMGZZWU8wUmV1VUJQa1NGNmNCZGc?oc=5",
-      "published": "2026-08-30T21:09:33.000Z",
       "feed": "ga-roads"
     },
     {
@@ -94,11 +80,25 @@
       "feed": "ga-roads"
     },
     {
+      "title": "What’s really driving recalls of cars at risk of bursting into flames? It’s not EVs.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUxZcTBaYWFLaVI2dTBIWS1oSjlITmV0XzZ2S0x2LURsbklFcGFoOHN6TFpGU0k4eGd2VmtTZmJsTUxITFJRUXJvWVpHQ3hubHZJUm03NVN5ZWd1T0dXR1Ytd21mbWktd25oeUd2SHVjRHZqWG4zNUtreGFxUkE5ZXh4aW5WNnNWZWRSM0NZbWZWYkFFbWpRdmJ5TWZVOElDTi1OZ3BJOGEwRGFPYS0tVEUtYk45aklPSVF2S1EwdTQ?oc=5",
+      "published": "2026-08-28T17:00:01.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T16:27:57.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Person hit, killed by vehicle on I-75/85; lanes reopen",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVFBVHd1ZjlfaWRENlhaN2FfRW1oS1prRTdwN0lOMk9DVnl1eVFEV0dwVWVxTkY1S3RMSkxfWDZsLW91cUszVVZscS1CM2dTcHVrTlRyZG9VdU50VVNLQ0NFaGJaMXQxdXRsRVM5dlVXczhSb3JhWEMycUlwckI2TXhjdUpvYTRPaGZhamRQNjBmOVU1WXZVN3JFcG5rTVXSAbMBQVVfeXFMTXhkUTJyMDNuUkh1WUJaNUFPTmdBVmRyT3hSNWxVbUdyUVNhU09BT1JTUWl2TlR1ekt3VWIwSnBWMmVmQkxxSEE4SmwyX0gxbTBkV0hGOHRQSENsNm1MbUtZWDZod2RXY1VDeWRxelFfd1JJNHdqTVB1ZnpWT3YwRnJtRWJQQkZDcjZzMEp4Z2ltM2xJMFduZmJTRGxmQXNrSXk5cEFiOXQwcFNKOUpNZzNtWXM?oc=5",
+      "published": "2026-08-27T20:57:12.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "I-75/85 major shutdown in middle of Atlanta",
@@ -109,23 +109,23 @@
     },
     {
       "title": "Why staying inside your vehicle could save your life",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYVZFX3YxbFpnVG54SGItdVZvcjdWb2d4V0dFY1V5bGkwRDVkam1MWElzeTlXNVhQVVktUjEtakZpaUhNNWtDTnNZemphUzNjUDA4R1JTajJPUXBNSXhGVVpVbUNsc1VjT1h6VlZBQktySy1BcXA0SnoxVUxqeGw2UldPTjBmNk5ocXlkcndRT2o3Z9IBlwFBVV95cUxOdnRGSEh3MlRvRmN6WVQ5NkdtMkg4eVdmY1dDalh1dXZUOUFsS3FtS04yMDAtLUowaEM5V0xRYWZibDFlSnZNT2dIQ18td2ZtdkxwVG0yZVp5UldUU1N6aGdtN2pLMDhEVm5udEcyXzRHTmRNOW5wRHJZZFVQMUlYc0p5V0Z0eGlUSF8zbFJJVVk5c2E1U1Jr?oc=5",
       "published": "2026-08-27T09:40:44.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Pedestrian crash closes I-75/85NB Thursday morning",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUk5SUzFjLXMxd05WYWx2UUdwUGdxR2xLdzQ5NmF1WmVkSGxrWDQ5QXRxeEpzckpTOW1KVUt3ZVgtNHVQTzZ1bEg0WTNaWHdwd3d6M2dubGtvVUE0V2x3S2xSeHDSAWpBVV95cUxPWlhtX3YzQVR1X0xhaUNsVnlKREhsSi1fSjBlQ1pDWk1BQ1Zyem1IUkItZGNVdUFudWFNSVlic25ZczI1M1NUSm41TGpxeGRjMFR4X2tKVzFMajdIakgwZXNpOEIyV1lvMWRB?oc=5",
       "published": "2026-08-27T09:38:50.000Z",
       "feed": "ga-metro"
     },
     {
-      "title": "The Jerome Law Firm P.A. Outlines Criminal Defense, Personal Injury, and Civil Litigation",
-      "source": "Issuewire.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTBCVTFTYXhYQVB5djJOeWJlUk1JTVBwUl80bVhseTg5RXVNQ0YzTDVMZVZpNGtwTkIzVFBTMVZjdkZNeFJJZHhUNjJOU2ljeHhYR2xCRGtQRDZGR2JMNExzcDhpdnFPN0xka0xMeUQySXgxbWxGSGtGZ1JwM1Bfc3hNZjlDck5XTy0zSU1GZGhwZXZRd3BEcXR1Ujhkakc2SDV3OE9SRWZlTlhPa216cjBGZVFfbEhMWk1SUE5xV2tnbUdYa3c0?oc=5",
-      "published": "2026-08-22T07:08:58.000Z",
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T18:07:40.000Z",
       "feed": "injurylaw"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "title": "How to Find Car Insurance When You Have a Bad Driving Record",
-      "source": "consumerreports.org",
+      "source": "Consumer Reports",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0NBU2VNV2VkNWM4Qjl6d0lXbGUteXJVbVBnN3VneUc0eG5jd1pFUUl3OTlBVXZlZ3dHVDdxRlM4SGRJRzdOaE54WjEyUnR0WjNMMWlqN3dvRWpIbTlEQ3NVTTBGVzJSWnNRWlhuOVVCY1ZCdlFZN1N6aHVFMHFHdnVDNWFPWHJ0TmRCMC1INVRvcGVkT3pBYXJxMXJBQXRMMGN0a3dUdmQyaHNxZ1dWZG5nRjN4QVozRGdJejZuY05kN3M?oc=5",
       "published": "2026-08-20T07:00:00.000Z",
       "feed": "us-safety"
