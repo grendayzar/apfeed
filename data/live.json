@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T17:31:28.747Z",
+  "generated": "2026-09-02T17:48:54.951Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
@@ -53,17 +53,10 @@
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "The National Law Review",
+      "source": "natlawreview.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
-      "source": "AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
-      "published": "2026-08-30T09:26:16.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
