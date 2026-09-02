@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T23:30:25.261Z",
+  "generated": "2026-09-02T23:48:50.568Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,13 +10,6 @@
   "count": 23,
   "items": [
     {
-      "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
-      "published": "2026-09-02T17:56:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
@@ -24,10 +17,10 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
-      "published": "2026-09-02T05:37:51.000Z",
+      "title": "Grieving couple offers forgiveness after Gwinnett street racing crash kills unborn son",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWd3ZnJlbGNSd1JSM3BTb3A3WG1oS29yRkRFUmZhZ2pXWFczTmVKRzJ4QkRsQ3lTTWZ0Vng2RmZCdlRlZU0yRWtiZ01RY2I5OUJfdDlaS2JxTmF3ZEc1c193UFR6UkM0UlRnUlJJaWVzRjNZRjRsT3NtOTJGTEtEM3FxNl9EaWlidG0xX0NZdEVDN0U2TzFQem5xaUFDWEdCNkkzSVdfYlIwT3N1S3VGSlBuWVhjRkFTZzFTVEZ5bzJkZnpvblcwd0dRY9IB3wFBVV95cUxPUXBFR2lsM2RmcU1FajNTdVFJZ0l5OUpvaVRianRPazR0Q1JYLU5saDhXZVRRN1BqZXEzSS1Qb1plbVZ0TjhzZ3Y2cGl0WTlUSFJkX003anFlaVpmVGYtMldhTmVhMTlnUkhqcTV2NkZkOE1Jd3RpWWZlTzFvbVQ3Umxxc0g4NXNBX2MxSV9Henc1OHBqSng1MVNEUnZrQ0h6MnBiVzAxRGUwZmRRMWtQYmk1M0E4dUNVUXBJend4ZGhNSmVLWjdvb0JQbElrWG1LMkh4ZEJrcV9MRHhWc2Vn?oc=5",
+      "published": "2026-09-01T21:57:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -60,7 +53,7 @@
     },
     {
       "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "morningstar.com",
+      "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
       "published": "2026-08-31T13:37:35.000Z",
       "feed": "us-safety"
@@ -87,6 +80,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Gordon Lee student continues recovery after golf cart crash in Chickamauga",
+      "source": "WTVC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1BsSnZwM080N2JCLUlpWE1iM3Zja0tOWnB2dExkd1lodUxYOFZQVlp1ZVd1SW43dWNZaGRGcVJ6eW1oZkdBaEZSUzJJNktsR2Rkbl9fbWh0NW82WGhIS3BSLVlSYTlQaUhUUWFjVHpPUlpRLVMwNklCRDdtTmx6V2t1bW9PLWl5cTdBUHBsZVZYX0FjeDFkSGc1OGgwZGhjVTZGcmNjeExCZVVweWttejN3LW1FVmFuRVRRNmp1dkFtQQ?oc=5",
+      "published": "2026-08-30T23:39:52.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
       "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
@@ -102,7 +102,7 @@
     },
     {
       "title": "What’s really driving recalls of cars at risk of bursting into flames? It’s not EVs.",
-      "source": "washingtonpost.com",
+      "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUxZcTBaYWFLaVI2dTBIWS1oSjlITmV0XzZ2S0x2LURsbklFcGFoOHN6TFpGU0k4eGd2VmtTZmJsTUxITFJRUXJvWVpHQ3hubHZJUm03NVN5ZWd1T0dXR1Ytd21mbWktd25oeUd2SHVjRHZqWG4zNUtreGFxUkE5ZXh4aW5WNnNWZWRSM0NZbWZWYkFFbWpRdmJ5TWZVOElDTi1OZ3BJOGEwRGFPYS0tVEUtYk45aklPSVF2S1EwdTQ?oc=5",
       "published": "2026-08-28T17:00:01.000Z",
       "feed": "recalls"
@@ -143,6 +143,13 @@
       "feed": "injurylaw"
     },
     {
+      "title": "LCSO increasing OWI enforcement ahead of Labor Day",
+      "source": "WKVI Information Center",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXEzVXFJY29aR2Nzbm1NYy16OGZDMGp3M3lPWmNZTlNZUGh6T0RteGg5YXU1S0tFY05hTC1KX29Sa3ZqdFkzQU9qVkgzcEgtSnk5VnlXaHVWWVpMVUplTWE0c3VWT0h0YjhKVVgxd3RPU1dQdENOS3FVOThyMnZ3eEZB?oc=5",
+      "published": "2026-08-24T10:01:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "American Drivers Completely Fine With Some Speeding: Study",
       "source": "Ford Authority",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVTVXVTJDMXpzdkd1bkdwU1ZvOGw4ZHVQN1l6bUdMWjJhM3g4c3ROc3JvcFp6U2ktUHhZeFoza1dMcEVtTHNldW5qd25HQUN6WERtTW9ldmNVdmZWaDNzZy15MXpWZVZ2R25sUU1DeWpnOEx3M3NzN3hJRC1uSVp4ZUd0MFJLbFF4TDBrYTZRS3JfZF9PdE5v?oc=5",
@@ -153,13 +160,6 @@
       "title": "Drive sober August 21 through September 7 and every day",
       "source": "Bennington Banner",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORGwtYXQ2Vi1KNHlwZ243SGxsTTk1U2xYcWF6UDMtclE5eUM1SFREelZ4QTJLRkdJRnNCeXFjUTB2SHF1aE9ZUERlTkI2ZjVmMkt1M2VyS0cxeXJTeWtSLWJDY3dXWVVwblhmYmZLRkZXUHFGUC1oMHBUeDlscXVidGVWLTd2V0FuaW5aN1hCMDF6dS1MbFA0LVFGMUx3dFBsUFZ3OFRiaG1jYTFXbEJLa3BUdkV5bDduTDQ2Wko2V3p4QVc1U3NLSExabHhmVXhmcS15YXhPc3g2dnFGcjdfUTVRWQ?oc=5",
-      "published": "2026-08-20T07:00:00.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "How to Find Car Insurance When You Have a Bad Driving Record",
-      "source": "Consumer Reports",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0NBU2VNV2VkNWM4Qjl6d0lXbGUteXJVbVBnN3VneUc0eG5jd1pFUUl3OTlBVXZlZ3dHVDdxRlM4SGRJRzdOaE54WjEyUnR0WjNMMWlqN3dvRWpIbTlEQ3NVTTBGVzJSWnNRWlhuOVVCY1ZCdlFZN1N6aHVFMHFHdnVDNWFPWHJ0TmRCMC1INVRvcGVkT3pBYXJxMXJBQXRMMGN0a3dUdmQyaHNxZ1dWZG5nRjN4QVozRGdJejZuY05kN3M?oc=5",
       "published": "2026-08-20T07:00:00.000Z",
       "feed": "us-safety"
     },
