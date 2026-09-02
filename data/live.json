@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T18:20:45.565Z",
+  "generated": "2026-09-02T18:51:38.643Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "APD trainee dies in southeast Atlanta motorcycle crash",
-      "source": "roughdraftatlanta.com",
+      "source": "Rough Draft Atlanta",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wYTBCdy1nc3FBZlN1UWh2TTQ4TVVaWG9kNUtsWFF3XzhnOVd5cHR3ZjNBZ1cyX2VNQmxYeENWc04zUDdQTDJ0djVPYTFXdmFieXhHemM5cmViMWpTMTFla2Y0SFQ1Q3RBcG90WVgwUm94NmdwX2pTcg?oc=5",
       "published": "2026-09-01T20:55:14.000Z",
       "feed": "ga-roads"
@@ -31,10 +31,10 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "FleetOwner",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
-      "published": "2026-09-01T12:27:50.000Z",
+      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
+      "source": "The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
+      "published": "2026-09-01T13:55:00.000Z",
       "feed": "recalls"
     },
     {
@@ -43,13 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
       "published": "2026-09-01T00:01:00.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
-      "published": "2026-08-31T15:03:00.000Z",
-      "feed": "recalls"
     },
     {
       "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
@@ -74,14 +67,14 @@
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T16:27:57.000Z",
       "feed": "recalls"
     },
     {
       "title": "Vehicle crashes into Macon home rooftop",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZGFHV2k3NlpJVFRJWkZjVmNOWHBFN2VaQ1RoVV94ZGk4ajEwV3ZNNHpmdV9oa19sZ3RiM25NdFEtMUZ3b1VFMWNiaDA3NS1qXzAwdkhxaENPcHl2LTBGLWNPTDB0cUhqdy1QRXFqRjJOQzI4dXhFYUxlYXhBVkZmdjRMTTB3WVk5b2dhQTdhMHF6d9IBlwFBVV95cUxOX3JxdS1LMURlVkJDRWJTdF9JUWhIdnRMODRwUE5WQXN0dGdYNGpiUmRFZjJxRzlDZG5Xdzh6RTNHQzU2WWZ4a0Jra3Q0cmUzc184ZlZWZ1N2RE1LRGdkdmlfd0tRUGFvNHlXWFdaM3dQVm14eVNUUWoyMWtNMnlsOE1ra19acXJZUWpRU0kxQXY5M19VejY4?oc=5",
       "published": "2026-08-27T22:57:27.000Z",
       "feed": "ga-roads"
@@ -101,8 +94,15 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Stellantis recalls 844,000 US vehicles to address rearview camera software issue",
+      "source": "Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGpwRlFuaVpzcWZCOTRCaXNldERBSjVSdTdyQW1SMkFPbkVMemVDb1kwcmpFN1ljUzVjcjNyRWw2YWVaN1lhX1F4UVo4eXdSN1BnN2I4bEQ2NDlGVklSSUNjdnN0MDJ1WDVfM2Zhdl9XN3A0VHZPdGtXVkFjUmFoX0pSckZ0YWFxdVhYc2F3SXRnS1UydEM2WUdxM1o?oc=5",
+      "published": "2026-08-27T10:12:32.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Pedestrian crash closes I-75/85NB Thursday morning",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUk5SUzFjLXMxd05WYWx2UUdwUGdxR2xLdzQ5NmF1WmVkSGxrWDQ5QXRxeEpzckpTOW1KVUt3ZVgtNHVQTzZ1bEg0WTNaWHdwd3d6M2dubGtvVUE0V2x3S2xSeHDSAWpBVV95cUxPWlhtX3YzQVR1X0xhaUNsVnlKREhsSi1fSjBlQ1pDWk1BQ1Zyem1IUkItZGNVdUFudWFNSVlic25ZczI1M1NUSm41TGpxeGRjMFR4X2tKVzFMajdIakgwZXNpOEIyV1lvMWRB?oc=5",
       "published": "2026-08-27T09:38:50.000Z",
       "feed": "ga-metro"
@@ -144,7 +144,7 @@
     },
     {
       "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
-      "source": "Law360",
+      "source": "law360.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
       "published": "2026-08-17T20:41:00.000Z",
       "feed": "injurylaw"
