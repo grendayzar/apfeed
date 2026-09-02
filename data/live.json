@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T20:50:57.438Z",
+  "generated": "2026-09-02T21:15:33.661Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,13 +7,27 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 20,
+  "count": 23,
   "items": [
     {
-      "title": "I-85 S crash causes major delays at Indian Trail Lilburn Road",
+      "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
       "published": "2026-09-02T17:14:47.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
+      "source": "KVII",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
+      "published": "2026-09-02T05:37:51.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Grieving couple offers forgiveness after Gwinnett street racing crash kills unborn son",
+      "source": "atlantanewsfirst.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWd3ZnJlbGNSd1JSM3BTb3A3WG1oS29yRkRFUmZhZ2pXWFczTmVKRzJ4QkRsQ3lTTWZ0Vng2RmZCdlRlZU0yRWtiZ01RY2I5OUJfdDlaS2JxTmF3ZEc1c193UFR6UkM0UlRnUlJJaWVzRjNZRjRsT3NtOTJGTEtEM3FxNl9EaWlidG0xX0NZdEVDN0U2TzFQem5xaUFDWEdCNkkzSVdfYlIwT3N1S3VGSlBuWVhjRkFTZzFTVEZ5bzJkZnpvblcwd0dRY9IB3wFBVV95cUxPUXBFR2lsM2RmcU1FajNTdVFJZ0l5OUpvaVRianRPazR0Q1JYLU5saDhXZVRRN1BqZXEzSS1Qb1plbVZ0TjhzZ3Y2cGl0WTlUSFJkX003anFlaVpmVGYtMldhTmVhMTlnUkhqcTV2NkZkOE1Jd3RpWWZlTzFvbVQ3Umxxc0g4NXNBX2MxSV9Henc1OHBqSng1MVNEUnZrQ0h6MnBiVzAxRGUwZmRRMWtQYmk1M0E4dUNVUXBJend4ZGhNSmVLWjdvb0JQbElrWG1LMkh4ZEJrcV9MRHhWc2Vn?oc=5",
+      "published": "2026-09-01T21:57:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -21,13 +35,6 @@
       "source": "roughdraftatlanta.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wYTBCdy1nc3FBZlN1UWh2TTQ4TVVaWG9kNUtsWFF3XzhnOVd5cHR3ZjNBZ1cyX2VNQmxYeENWc04zUDdQTDJ0djVPYTFXdmFieXhHemM5cmViMWpTMTFla2Y0SFQ1Q3RBcG90WVgwUm94NmdwX2pTcg?oc=5",
       "published": "2026-09-01T20:55:14.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Atlanta police recruit killed in motorcycle crash on way to work, officials say",
-      "source": "AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOWtGTnZZSWhXUU9xOXZibTNjYWlIQVdxYXg3blIzcWtHVDhSZUoxMkJFX0FTdGVSRHViWmdqZ3FDYnZGc2VaSHIya01nZURSV2ZyVGMxY3ktTHRncXRxcFhxWG1lNDlJb1d1M1ZzWDZzWjUwX1dxbXFXeDRPQ3FhcWU1TDdpMVpwX2gw?oc=5",
-      "published": "2026-09-01T20:05:42.000Z",
       "feed": "ga-roads"
     },
     {
@@ -73,11 +80,25 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
+      "published": "2026-08-30T09:26:16.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUFMMmNLYUprR2R0bk9DbWtoZVdWS2hpdmN3cWVCOTB1elIyUURJbDRvX1lseWk2Q0JnWHFiTWxPSlU5WjFmNWcxN05GVmdQT3lFYWhvUWRxWElXOEpzV1Z1M25pdDhpaS1qY2hWMVpjR3RwZ2ExOXR4OC1LNDYxNEM4bWtuMlR5LWYySzh0dUhxX2c1bVM1dTNCU0lqLTZQMFo5NXdvRTdHc1NvdVJB0gHDAUFVX3lxTE55b3FrNXgyRlpfcEdQX0FSN053enVZMWJCT3pYQUFQY2FFZUtDZExGZUMwdVlJMzVodTE4dmtvTXl0Ykt4THI3YUEzVE5OUDJXT3d2SHhJcm91UWxhTG1CdmxEUGYxb0xaTEtINlhKU2ZuTTlOdkg0RWdDemVsbzA1Q3BSQmJRTF9TOWs2cTJXR2lCTm5JYTlMWXhES181MUZVQnhqUEZxdjNCZ0N1VUJQdE9lQ1hIMDRDN2xtVFNwM2p0SQ?oc=5",
       "published": "2026-08-29T14:16:00.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
+    },
+    {
+      "title": "What’s really driving recalls of cars at risk of bursting into flames? It’s not EVs.",
+      "source": "The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUxZcTBaYWFLaVI2dTBIWS1oSjlITmV0XzZ2S0x2LURsbklFcGFoOHN6TFpGU0k4eGd2VmtTZmJsTUxITFJRUXJvWVpHQ3hubHZJUm03NVN5ZWd1T0dXR1Ytd21mbWktd25oeUd2SHVjRHZqWG4zNUtreGFxUkE5ZXh4aW5WNnNWZWRSM0NZbWZWYkFFbWpRdmJ5TWZVOElDTi1OZ3BJOGEwRGFPYS0tVEUtYk45aklPSVF2S1EwdTQ?oc=5",
+      "published": "2026-08-28T17:00:01.000Z",
+      "feed": "recalls"
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
@@ -85,6 +106,13 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T16:27:57.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Car crash in Atlanta sends 1 person to hospital",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUhvMmpYUERibTdidGZ1bFJBU1NzZTdlMDBpSVVfMDcyc210b2p1YlJKTGFLMU5WU2d2N2JHT1BCcG5qVFk4dE04bkltcGhGX05TbmJhcldTOXlxV2hLMXNTUVJmQmRyVzFXOTktbUhQSkVLZDJVSzRUZG4wMEhLSHBZRWotdkFfOGdIZzFyR0RwXy1uNnh2eFpGQmJiZl91VkZaVEN6RVRSUVBTdWFMWmMySlktTEZyekJQM0F2QkZ5OFR2TnFvMVRWNHRoYUNkbjE2Mg?oc=5",
+      "published": "2026-08-28T08:47:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Person hit, killed by vehicle on I-75/85; lanes reopen",
@@ -98,7 +126,7 @@
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXllS2xNMXZ5cU9SeVpBWktkMjdaZDFXOV9XdDUwNWhseDhSZXEyMmlKSF9DTlB1REdGOXJwNmVsdncwVTFGWEdaelFGNXNtNy11b0xUUTk0YXhyc2dZcUYwYTU0U0QyZ1JRRC01TWhBU0JNVkMzaVZvYzZpOUg5aGZkZmRlTGctcVA1WEtkLUpleENBeEs5c3VDOTNvRUpoT2pSNTlJWlRKV3BaZ3Z6clhmWkZsLTJyVWlEZg?oc=5",
       "published": "2026-08-27T12:17:00.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "Pedestrian crash closes I-75/85NB Thursday morning",
@@ -113,13 +141,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
       "published": "2026-08-24T18:07:40.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "NHTSA Opens Investigation Into GM V-8s That Won’t Stop Imploding, Despite Receiving Recall Remedy",
-      "source": "Car and Driver",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3ZxUEIzNXJocDVDenZDZEZJcmYwZnBfcENWb0NTalplQWM1RERQS29TUm4yV25rWFdKek5zLVFkSFg5R1RkZ3ZTdjJtWEVTUHphdjNJQTFJaWFBbWRrUENuekdWTGxkUWFIbnVFeVc2TXRFcS0zNzBfcDJ6elN6YmVrZXc0Q3BNbGZRekR5YmxBemZBQVE?oc=5",
-      "published": "2026-08-21T07:00:00.000Z",
-      "feed": "recalls"
     },
     {
       "title": "American Drivers Completely Fine With Some Speeding: Study",
@@ -144,7 +165,7 @@
     },
     {
       "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
-      "source": "law360.com",
+      "source": "Law360",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
       "published": "2026-08-17T20:41:00.000Z",
       "feed": "injurylaw"
