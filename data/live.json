@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T16:18:05.168Z",
+  "generated": "2026-09-02T16:36:19.957Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -24,13 +24,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
-      "source": "The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
-      "published": "2026-09-01T13:55:00.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
       "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
@@ -53,10 +46,17 @@
     },
     {
       "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "morningstar.com",
+      "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
       "published": "2026-08-31T13:37:35.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "KIRO 7 News Seattle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T13:22:09.000Z",
+      "feed": "recalls"
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
@@ -64,6 +64,13 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "I-95 NB reopens in Glynn County after semi flips in crash with another tractor-trailer",
+      "source": "News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdlJkeHI0c3NGd0hqa1BnUWxPajEySFlYNHVPSXM3R1Z6QjNFX2pJVkp4ZTVpeFhRVUFiRnlzZ2pjZ1VkOG1ONzNoNTV0NVhKTEFEYzdTbmxDcm5Dam90MVhsaW56cFMxM0pINFZuR2xfSURYYWZCeEtqeW1DX21jVU1QOGNITDJTdmxoX2RBZ3pxQ3JORHlwT21IVGFnaDZXVzRSUGMwakFwM3l4MV9CTllZMlhnb3VrY2VST0M3dGtMYXV6b1djMmNZcEo3dFpqcjM0NUxEdVJ3YWVMS3BtY3l4M2l2Mjg?oc=5",
+      "published": "2026-08-31T11:07:08.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Georgia man seriously injured in dirt bike crash, community launches fundraiser",
@@ -94,13 +101,6 @@
       "feed": "recalls"
     },
     {
-      "title": "78-year-old dies after crashing into Macon home, sheriff's office says",
-      "source": "WGXA",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSUVGdVliWEh6NndjM2lscmVQWFVQMGh1dnB0c3F0WnBQN1lPZGs4aVlGQ2JEbHlsN0ljd2N2Z2NmbjJzRkgwMHJ1X3c3ekZ4V19udUo0MHlVWmFfeXN5azhoaHF2aDl2ODNtWkxSc01VSUdwWHdZNmJ5Wm9xLXB0a3RMVmZHUDI5a1BzX2VWY1MtSXBnem5Cbi02Vzk3MU9yZWl3V0pjUm1fQzdjRE8zek0yVEpxdHRyYkFlV0w0NmZlQWVUdmtMY2duNG9XLW1YdFhiRTlBMVZHQVFtWlBVV0ZQNGdUSlBVVTFr?oc=5",
-      "published": "2026-08-27T20:49:40.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "I-75/85 major shutdown in middle of Atlanta",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXllS2xNMXZ5cU9SeVpBWktkMjdaZDFXOV9XdDUwNWhseDhSZXEyMmlKSF9DTlB1REdGOXJwNmVsdncwVTFGWEdaelFGNXNtNy11b0xUUTk0YXhyc2dZcUYwYTU0U0QyZ1JRRC01TWhBU0JNVkMzaVZvYzZpOUg5aGZkZmRlTGctcVA1WEtkLUpleENBeEs5c3VDOTNvRUpoT2pSNTlJWlRKV3BaZ3Z6clhmWkZsLTJyVWlEZg?oc=5",
@@ -122,10 +122,10 @@
       "feed": "ga-metro"
     },
     {
-      "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T18:07:40.000Z",
+      "title": "The Jerome Law Firm P.A. Outlines Criminal Defense, Personal Injury, and Civil Litigation",
+      "source": "Issuewire.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOTBCVTFTYXhYQVB5djJOeWJlUk1JTVBwUl80bVhseTg5RXVNQ0YzTDVMZVZpNGtwTkIzVFBTMVZjdkZNeFJJZHhUNjJOU2ljeHhYR2xCRGtQRDZGR2JMNExzcDhpdnFPN0xka0xMeUQySXgxbWxGSGtGZ1JwM1Bfc3hNZjlDck5XTy0zSU1GZGhwZXZRd3BEcXR1Ujhkakc2SDV3OE9SRWZlTlhPa216cjBGZVFfbEhMWk1SUE5xV2tnbUdYa3c0?oc=5",
+      "published": "2026-08-22T07:08:58.000Z",
       "feed": "injurylaw"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "title": "How to Find Car Insurance When You Have a Bad Driving Record",
-      "source": "Consumer Reports",
+      "source": "consumerreports.org",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN0NBU2VNV2VkNWM4Qjl6d0lXbGUteXJVbVBnN3VneUc0eG5jd1pFUUl3OTlBVXZlZ3dHVDdxRlM4SGRJRzdOaE54WjEyUnR0WjNMMWlqN3dvRWpIbTlEQ3NVTTBGVzJSWnNRWlhuOVVCY1ZCdlFZN1N6aHVFMHFHdnVDNWFPWHJ0TmRCMC1INVRvcGVkT3pBYXJxMXJBQXRMMGN0a3dUdmQyaHNxZ1dWZG5nRjN4QVozRGdJejZuY05kN3M?oc=5",
       "published": "2026-08-20T07:00:00.000Z",
       "feed": "us-safety"
