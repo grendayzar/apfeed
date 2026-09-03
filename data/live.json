@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T06:25:29.941Z",
+  "generated": "2026-09-03T06:54:05.029Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,13 +10,6 @@
   "count": 23,
   "items": [
     {
-      "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
-      "published": "2026-09-02T17:56:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
@@ -25,7 +18,7 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
+      "source": "abc7amarillo.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
@@ -45,10 +38,10 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "FleetOwner",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
-      "published": "2026-09-01T12:27:50.000Z",
+      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
+      "source": "The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
+      "published": "2026-09-01T13:55:00.000Z",
       "feed": "recalls"
     },
     {
@@ -56,6 +49,13 @@
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmhxUHd5OEFjQnljdklBZ3hpdVZaanIyZzBWYXFQTUE3d0RkeWdCamNpY3JBUXNobDdXdHdqLTViczQxZHp2RGZPWkRvMDEwcjRXWk5pcVlqV2xJdVNDX1VIV2V6dXM0TzN2ZzBQVWhTQlQ2b0lzb2dpQmc0MGZhVHVXQ05jTFc5c01pbzE2SDJtU2lLNk92dlFEdDhodWkxQUQ3aVRfY2tnUVRJY3hMZTNLWUVNMzdnRG5UbzI4MU41M3EtX1dwX0pRVmotWm9kQ3JkMnRLMmdXdlY5X1NQUlZMTQ?oc=5",
       "published": "2026-09-01T12:08:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Man charged in deadly pedestrian crash in Warren County",
+      "source": "WRDW",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFMxcXBsTGFnM0dtXzh0dFJ1ajVCWWFxRVVsbldqcEpnTURtc1VkVF9mLU5zLWRwV0hEZXc2a1VnMGJHd2tsSl9vdHJEeVV3TlcyNkNwRWgxeEFMM1VtcV9CYS1TeGhHb0RqR2pvaVdZSHY0ZDgwV3paUm1reW9mUGtQZmlaZnJWcFHSAZ4BQVVfeXFMUDNWMlZ2MllGbTFCZ3hiS1k2cVRGdkxDZ2RRcWdkYXR1QjAwNnJMSFRLVWRmcmlnbFFBRUtlNUxYRVVEUWt6dGJ3X01XM0dYNF9GNkl0X192bGZlSkZYaFZFSDE0TENqUjFyTzF0OERRWWRDMnZJSHE1c2JYMEkyZjQ5azVxTUJ5X3pYQ2pReDNPelNQWWx6ejZnWGZ4ZXc?oc=5",
+      "published": "2026-09-01T11:10:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "morningstar.com",
+      "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
       "published": "2026-08-31T13:37:35.000Z",
       "feed": "us-safety"
@@ -151,7 +151,7 @@
     },
     {
       "title": "Drive sober August 21 through September 7 and every day",
-      "source": "Bennington Banner",
+      "source": "benningtonbanner.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORGwtYXQ2Vi1KNHlwZ243SGxsTTk1U2xYcWF6UDMtclE5eUM1SFREelZ4QTJLRkdJRnNCeXFjUTB2SHF1aE9ZUERlTkI2ZjVmMkt1M2VyS0cxeXJTeWtSLWJDY3dXWVVwblhmYmZLRkZXUHFGUC1oMHBUeDlscXVidGVWLTd2V0FuaW5aN1hCMDF6dS1MbFA0LVFGMUx3dFBsUFZ3OFRiaG1jYTFXbEJLa3BUdkV5bDduTDQ2Wko2V3p4QVc1U3NLSExabHhmVXhmcS15YXhPc3g2dnFGcjdfUTVRWQ?oc=5",
       "published": "2026-08-20T07:00:00.000Z",
       "feed": "us-safety"
