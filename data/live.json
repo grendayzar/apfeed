@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T18:19:55.451Z",
+  "generated": "2026-09-03T18:40:10.606Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -59,18 +59,18 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
-      "published": "2026-09-01T15:37:21.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Atlanta police recruit dies in Moreland Avenue crash",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
       "published": "2026-09-01T13:25:45.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
+      "source": "FleetOwner",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
+      "published": "2026-09-01T12:27:50.000Z",
+      "feed": "recalls"
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
@@ -94,18 +94,18 @@
       "feed": "recalls"
     },
     {
+      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
+      "source": "Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
+      "published": "2026-08-31T13:37:35.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
       "source": "KIRO 7 News Seattle",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkNkNF9xdnItM0U5T2FOWWNNMjVVcE95YTA4NUZadl9Ub2pqS1FoSFlXbjA4a29NbVIyN2dBZFljMnpRZDFldmwzMURBbnZ2SjNkRDh6bjdjS05SM1lVVzNrNWJBODhuWDVDay0zM1ZEYWRXTkdFSGxNYkpUTlJfTDk2SXZlZGhpMGJ4MXZpdDdkMDMtb0Z3TzdNdmtockN6MURKaEl4Z2tnRzkzS2F5TEpSNlpreVdIbVg5OVdDZEFIdVZWR0NUSi1kajNKVHFqNTNuMDF3MGhaX1RjaW1QUWxrQ2dvQU1ZcE55LXN6UWlmaGhHVm9vMGxtbjduWFE?oc=5",
-      "published": "2026-08-31T13:06:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "I-95 NB reopens in Glynn County after semi flips in crash with another tractor-trailer",
@@ -151,7 +151,7 @@
     },
     {
       "title": "BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power Due to a Defective Driveshaft",
-      "source": "Car and Driver",
+      "source": "caranddriver.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVlORjNJZVVyYVZfZzFnNnpiamUySS1udnlTVURkQ0pHS0pVN2RsOXQxb2l4SkRmV1ByeTM3aERYRmJmZklvZFo3NWx4QXo1aW04TmZXdHVnYnczRXNXZ3B1TFJadjQ3UDBUeUdERG1wNDNXY29YdlRreVRaOFJkbGIwQW4xclJhTjFHcw?oc=5",
       "published": "2026-08-21T07:00:00.000Z",
       "feed": "recalls"
