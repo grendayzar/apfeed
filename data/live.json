@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T00:54:21.110Z",
+  "generated": "2026-09-03T01:20:15.011Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,22 +7,8 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 23,
+  "count": 22,
   "items": [
-    {
-      "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
-      "published": "2026-09-02T17:56:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
-      "published": "2026-09-02T05:37:51.000Z",
-      "feed": "ga-roads"
-    },
     {
       "title": "APD trainee dies in southeast Atlanta motorcycle crash",
       "source": "Rough Draft Atlanta",
@@ -74,7 +60,7 @@
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
+      "source": "kiro7.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
@@ -88,9 +74,16 @@
     },
     {
       "title": "I-95 NB reopens in Glynn County after semi flips in crash with another tractor-trailer",
-      "source": "News4JAX",
+      "source": "news4jax.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdlJkeHI0c3NGd0hqa1BnUWxPajEySFlYNHVPSXM3R1Z6QjNFX2pJVkp4ZTVpeFhRVUFiRnlzZ2pjZ1VkOG1ONzNoNTV0NVhKTEFEYzdTbmxDcm5Dam90MVhsaW56cFMxM0pINFZuR2xfSURYYWZCeEtqeW1DX21jVU1QOGNITDJTdmxoX2RBZ3pxQ3JORHlwT21IVGFnaDZXVzRSUGMwakFwM3l4MV9CTllZMlhnb3VrY2VST0M3dGtMYXV6b1djMmNZcEo3dFpqcjM0NUxEdVJ3YWVMS3BtY3l4M2l2Mjg?oc=5",
       "published": "2026-08-31T11:07:08.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Gordon Lee student continues recovery after golf cart crash in Chickamauga",
+      "source": "WTVC",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc1BsSnZwM080N2JCLUlpWE1iM3Zja0tOWnB2dExkd1lodUxYOFZQVlp1ZVd1SW43dWNZaGRGcVJ6eW1oZkdBaEZSUzJJNktsR2Rkbl9fbWh0NW82WGhIS3BSLVlSYTlQaUhUUWFjVHpPUlpRLVMwNklCRDdtTmx6V2t1bW9PLWl5cTdBUHBsZVZYX0FjeDFkSGc1OGgwZGhjVTZGcmNjeExCZVVweWttejN3LW1FVmFuRVRRNmp1dkFtQQ?oc=5",
+      "published": "2026-08-30T23:39:52.000Z",
       "feed": "ga-roads"
     },
     {
@@ -105,7 +98,7 @@
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUFMMmNLYUprR2R0bk9DbWtoZVdWS2hpdmN3cWVCOTB1elIyUURJbDRvX1lseWk2Q0JnWHFiTWxPSlU5WjFmNWcxN05GVmdQT3lFYWhvUWRxWElXOEpzV1Z1M25pdDhpaS1qY2hWMVpjR3RwZ2ExOXR4OC1LNDYxNEM4bWtuMlR5LWYySzh0dUhxX2c1bVM1dTNCU0lqLTZQMFo5NXdvRTdHc1NvdVJB0gHDAUFVX3lxTE55b3FrNXgyRlpfcEdQX0FSN053enVZMWJCT3pYQUFQY2FFZUtDZExGZUMwdVlJMzVodTE4dmtvTXl0Ykt4THI3YUEzVE5OUDJXT3d2SHhJcm91UWxhTG1CdmxEUGYxb0xaTEtINlhKU2ZuTTlOdkg0RWdDemVsbzA1Q3BSQmJRTF9TOWs2cTJXR2lCTm5JYTlMWXhES181MUZVQnhqUEZxdjNCZ0N1VUJQdE9lQ1hIMDRDN2xtVFNwM2p0SQ?oc=5",
       "published": "2026-08-29T14:16:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "What’s really driving recalls of cars at risk of bursting into flames? It’s not EVs.",
@@ -165,7 +158,7 @@
     },
     {
       "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
-      "source": "Law360",
+      "source": "law360.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
       "published": "2026-08-17T20:41:00.000Z",
       "feed": "injurylaw"
