@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T02:20:25.049Z",
+  "generated": "2026-09-03T05:21:15.875Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,10 +10,17 @@
   "count": 23,
   "items": [
     {
-      "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
-      "published": "2026-09-02T17:14:47.000Z",
+      "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
+      "source": "24-7PressRelease.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
+      "published": "2026-09-02T18:52:27.000Z",
+      "feed": "injurylaw"
+    },
+    {
+      "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
+      "published": "2026-09-02T17:56:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -21,13 +28,6 @@
       "source": "KVII",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Grieving couple offers forgiveness after Gwinnett street racing crash kills unborn son",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdWd3ZnJlbGNSd1JSM3BTb3A3WG1oS29yRkRFUmZhZ2pXWFczTmVKRzJ4QkRsQ3lTTWZ0Vng2RmZCdlRlZU0yRWtiZ01RY2I5OUJfdDlaS2JxTmF3ZEc1c193UFR6UkM0UlRnUlJJaWVzRjNZRjRsT3NtOTJGTEtEM3FxNl9EaWlidG0xX0NZdEVDN0U2TzFQem5xaUFDWEdCNkkzSVdfYlIwT3N1S3VGSlBuWVhjRkFTZzFTVEZ5bzJkZnpvblcwd0dRYw?oc=5",
-      "published": "2026-09-01T21:57:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -52,6 +52,20 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
+      "published": "2026-09-01T15:37:21.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Atlanta police recruit dies in Moreland Avenue crash",
+      "source": "fox5atlanta.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
+      "published": "2026-09-01T13:25:45.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
       "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
@@ -67,51 +81,30 @@
     },
     {
       "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "morningstar.com",
+      "source": "Morningstar",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
       "published": "2026-08-31T13:37:35.000Z",
       "feed": "us-safety"
     },
     {
-      "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
-      "published": "2026-08-31T11:55:30.000Z",
-      "feed": "injurylaw"
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "KIRO 7 News Seattle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T13:22:09.000Z",
+      "feed": "recalls"
     },
     {
-      "title": "I-95 NB reopens in Glynn County after semi flips in crash with another tractor-trailer",
-      "source": "News4JAX",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdlJkeHI0c3NGd0hqa1BnUWxPajEySFlYNHVPSXM3R1Z6QjNFX2pJVkp4ZTVpeFhRVUFiRnlzZ2pjZ1VkOG1ONzNoNTV0NVhKTEFEYzdTbmxDcm5Dam90MVhsaW56cFMxM0pINFZuR2xfSURYYWZCeEtqeW1DX21jVU1QOGNITDJTdmxoX2RBZ3pxQ3JORHlwT21IVGFnaDZXVzRSUGMwakFwM3l4MV9CTllZMlhnb3VrY2VST0M3dGtMYXV6b1djMmNZcEo3dFpqcjM0NUxEdVJ3YWVMS3BtY3l4M2l2Mjg?oc=5",
-      "published": "2026-08-31T11:07:08.000Z",
+      "title": "Child airlifted to Atlanta hospital after head-on crash in Houston County",
+      "source": "13WMAZ",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
+      "published": "2026-08-31T01:08:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
-      "source": "AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
-      "published": "2026-08-30T09:26:16.000Z",
-      "feed": "ga-metro"
-    },
-    {
-      "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUFMMmNLYUprR2R0bk9DbWtoZVdWS2hpdmN3cWVCOTB1elIyUURJbDRvX1lseWk2Q0JnWHFiTWxPSlU5WjFmNWcxN05GVmdQT3lFYWhvUWRxWElXOEpzV1Z1M25pdDhpaS1qY2hWMVpjR3RwZ2ExOXR4OC1LNDYxNEM4bWtuMlR5LWYySzh0dUhxX2c1bVM1dTNCU0lqLTZQMFo5NXdvRTdHc1NvdVJB0gHDAUFVX3lxTE55b3FrNXgyRlpfcEdQX0FSN053enVZMWJCT3pYQUFQY2FFZUtDZExGZUMwdVlJMzVodTE4dmtvTXl0Ykt4THI3YUEzVE5OUDJXT3d2SHhJcm91UWxhTG1CdmxEUGYxb0xaTEtINlhKU2ZuTTlOdkg0RWdDemVsbzA1Q3BSQmJRTF9TOWs2cTJXR2lCTm5JYTlMWXhES181MUZVQnhqUEZxdjNCZ0N1VUJQdE9lQ1hIMDRDN2xtVFNwM2p0SQ?oc=5",
-      "published": "2026-08-29T14:16:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "What’s really driving recalls of cars at risk of bursting into flames? It’s not EVs.",
       "source": "The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUxZcTBaYWFLaVI2dTBIWS1oSjlITmV0XzZ2S0x2LURsbklFcGFoOHN6TFpGU0k4eGd2VmtTZmJsTUxITFJRUXJvWVpHQ3hubHZJUm03NVN5ZWd1T0dXR1Ytd21mbWktd25oeUd2SHVjRHZqWG4zNUtreGFxUkE5ZXh4aW5WNnNWZWRSM0NZbWZWYkFFbWpRdmJ5TWZVOElDTi1OZ3BJOGEwRGFPYS0tVEUtYk45aklPSVF2S1EwdTQ?oc=5",
       "published": "2026-08-28T17:00:01.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "cnbc.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzBMZk0yelNaOTlHLTJVeTFnY2RKOTZhTmpQdHloRVptR2FrbDByTk1EV2pra1g4T3pLU01idExra3RwckYxS2wzd0s2alFEUTZkUXVKYkx5X0xhc1hseTZTcVNUWW5LX3pMWmRaQTdFZkRsRTdaQm5raDA4eUVMT2pFSGJldC1RNzBNMmlvZ1Z3U0NKc0U0YUtnU2xkbjljS0dWLUZhc1Y5UVZXQ3FzQ255cGNGQ0ZS0gG-AUFVX3lxTE9CdzBINVBwRVpad0VUS1RVR2VibUg2U3FhTlJWazlhUDRrSm15MWdQVTZCRXhLSzBXMm9rZ3o5Qy0xbWlqaGpxaUtTTlh5TVZEQ2FjamZsMWdLTWJwOGVGR1htczJQRG9oX2hFWmdDdG11QWZtY3Y2V2Y2VU5JMlZMYnJRZC1rRTZQVjYxQ094eFB6OVZhNjlGRlRNMkdBR21GR1dVczUtVkZWcEU1c3k1eU5SUEVRMDk5aW05Tmc?oc=5",
-      "published": "2026-08-28T12:15:11.000Z",
       "feed": "recalls"
     },
     {
@@ -122,24 +115,31 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Stellantis recalls 844,000 US vehicles to address rearview camera software issue",
-      "source": "Yahoo Autos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGpwRlFuaVpzcWZCOTRCaXNldERBSjVSdTdyQW1SMkFPbkVMemVDb1kwcmpFN1ljUzVjcjNyRWw2YWVaN1lhX1F4UVo4eXdSN1BnN2I4bEQ2NDlGVklSSUNjdnN0MDJ1WDVfM2Zhdl9XN3A0VHZPdGtXVkFjUmFoX0pSckZ0YWFxdVhYc2F3SXRnS1UydEM2WUdxM1o?oc=5",
-      "published": "2026-08-27T10:12:32.000Z",
-      "feed": "recalls"
+      "title": "All northbound lanes reopen following deadly pedestrian crash on I-75/85",
+      "source": "95.5 WSB",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHNHdm1jVEU1QUViSG9XaGtqbGplWmFiaE9CWkVXLTZrT1F3WEM0ZFJxUlZrUE5LOWNBOVo1WDh3WjVUS3lVUF9aeFltSUY2TUNkUllwdi1lNkZTdE91NERjUTlJdGhOMlVlY09wSWVOeVpPdXQ3RXYwTUdtU3dKUnBHeE9iaVVJMGxET0NvQ19OajZIa3d0MHYtaGZHZTgzV3lpNXFjel9EV0Z0OWZTZlQ1WGZWQnhQVDBxQWYzMmMtemp5N3Y1NFp3RdIB3wFBVV95cUxNU0NBWWhnQjlKSWV3UTZZNGtkekNOUVpzeHdYWGE4WjNrS3Nxa1pxNDYzM3EwY1Z5QzN6elZWQVlrcUFVUWZJTTV3RTJ4Z1NxWU9LalJBR3haZmtuRC0tcXhTNVNuaVc5ZFpwUHVpY29wYTEzdm9vZl91UU1mMklZSVpQenZHdllFaE9hUlpDdGNIZUFkZVZXNjkwZENiTzVfbFMtbFM2dVh5NTdNa2t5UGpkcGJ5RVVvT3gxa3NORU1CTTNZUWd3S0h0VExFbHMxWGtpZWVremNIeGVkbFRn?oc=5",
+      "published": "2026-08-27T11:21:47.000Z",
+      "feed": "ga-metro"
+    },
+    {
+      "title": "Tractor-trailer driver killed in I-20 crash",
+      "source": "fox10tv.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmtnTW8tTWthYXBVUnhkaVBKejBzMVAwTElVeHFQNmR5QkFZU2pNYkFoNkItYUJvaUd0TlJaQWplYWhxX3NfVmN3VzdkOEJRMHphSHNyTWZSY2EyLW9oWk1VZVc2SEVpU09tY0dCMFpveEFxbzhJdG5GVWk5bGtGdFRuX29zTGR3a2c?oc=5",
+      "published": "2026-08-27T11:12:00.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "Pedestrian crash closes I-75/85NB Thursday morning",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUk5SUzFjLXMxd05WYWx2UUdwUGdxR2xLdzQ5NmF1WmVkSGxrWDQ5QXRxeEpzckpTOW1KVUt3ZVgtNHVQTzZ1bEg0WTNaWHdwd3d6M2dubGtvVUE0V2x3S2xSeHDSAWpBVV95cUxPWlhtX3YzQVR1X0xhaUNsVnlKREhsSi1fSjBlQ1pDWk1BQ1Zyem1IUkItZGNVdUFudWFNSVlic25ZczI1M1NUSm41TGpxeGRjMFR4X2tKVzFMajdIakgwZXNpOEIyV1lvMWRB?oc=5",
       "published": "2026-08-27T09:38:50.000Z",
       "feed": "ga-metro"
     },
     {
-      "title": "LCSO increasing OWI enforcement ahead of Labor Day",
-      "source": "WKVI Information Center",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXEzVXFJY29aR2Nzbm1NYy16OGZDMGp3M3lPWmNZTlNZUGh6T0RteGg5YXU1S0tFY05hTC1KX29Sa3ZqdFkzQU9qVkgzcEgtSnk5VnlXaHVWWVpMVUplTWE0c3VWT0h0YjhKVVgxd3RPU1dQdENOS3FVOThyMnZ3eEZB?oc=5",
-      "published": "2026-08-24T10:01:00.000Z",
+      "title": "Do traffic accidents increase during back-to-school season? What the data shows",
+      "source": "aol.ca",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3pQSUpfNnhwVFBYczE5LTVrTjJLck1OWmdzajExOEVnaXUxSURzaFlDV1FjZklvZkR4Skc1X1FmVnludVpEVlVtYnpBdk0wc2d4Qkk0aUZIa2QzY1Z4WXU5Qnl3UmFPNWxzYUdRQ2ZYYlM0bWx0bHVRRVQweUxhY1BkQVUxRmRZ?oc=5",
+      "published": "2026-08-26T02:12:44.000Z",
       "feed": "us-safety"
     },
     {
@@ -151,14 +151,14 @@
     },
     {
       "title": "American Drivers Completely Fine With Some Speeding: Study",
-      "source": "fordauthority.com",
+      "source": "Ford Authority",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVTVXVTJDMXpzdkd1bkdwU1ZvOGw4ZHVQN1l6bUdMWjJhM3g4c3ROc3JvcFp6U2ktUHhZeFoza1dMcEVtTHNldW5qd25HQUN6WERtTW9ldmNVdmZWaDNzZy15MXpWZVZ2R25sUU1DeWpnOEx3M3NzN3hJRC1uSVp4ZUd0MFJLbFF4TDBrYTZRS3JfZF9PdE5v?oc=5",
       "published": "2026-08-20T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Drive sober August 21 through September 7 and every day",
-      "source": "Bennington Banner",
+      "source": "benningtonbanner.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORGwtYXQ2Vi1KNHlwZ243SGxsTTk1U2xYcWF6UDMtclE5eUM1SFREelZ4QTJLRkdJRnNCeXFjUTB2SHF1aE9ZUERlTkI2ZjVmMkt1M2VyS0cxeXJTeWtSLWJDY3dXWVVwblhmYmZLRkZXUHFGUC1oMHBUeDlscXVidGVWLTd2V0FuaW5aN1hCMDF6dS1MbFA0LVFGMUx3dFBsUFZ3OFRiaG1jYTFXbEJLa3BUdkV5bDduTDQ2Wko2V3p4QVc1U3NLSExabHhmVXhmcS15YXhPc3g2dnFGcjdfUTVRWQ?oc=5",
       "published": "2026-08-20T07:00:00.000Z",
       "feed": "us-safety"
