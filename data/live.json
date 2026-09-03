@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T08:37:46.423Z",
+  "generated": "2026-09-03T08:54:23.967Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,14 +11,14 @@
   "items": [
     {
       "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
       "published": "2026-09-02T17:56:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
+      "source": "abc7amarillo.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
@@ -46,7 +46,7 @@
     },
     {
       "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
-      "source": "The Detroit News",
+      "source": "detroitnews.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
       "published": "2026-09-01T13:55:00.000Z",
       "feed": "recalls"
@@ -78,13 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnJzd1ducWptZVZ0YWliV0phY0trbmFBZ2JERHZiRnNPMmxxSXozZkcxZC1aa2l6amJJY2hCNTF1eElKdXF6VlFuNU9EOTZ2MFNHVExFd0JVVTU0ek1vaEpiSnE2R0dCNHpzYWJNQ0hkQ25hX2xfcHQyeTRvMVFWM0pwQVJsV3k0SFV3WjU3UHlpSUhsbUI1S1BvNTJWWDQwT0piY28zM0s4LTY0ZkdIa3pDSGlidVNuanNEMHJwMnAtMW5zX1JDc0lCZ0JmZ0tIbEFjM1o0MEtCNW8?oc=5",
       "published": "2026-08-31T17:06:00.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "Georgia DOT suspends lane closures for Labor Day weekend",
-      "source": "wtvcfox",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ3pjOEtZLVpTNEk1NnFlR0Z4R1hMVGZlUEFzTXBYb2t4alo1MzJjalhjVWctVWFSWll0TzRLZm5HaEU0aS00REFwc1pjN05Ia1VYVHVKWW1BN011ckVyajNrcklYT2d3WDZITHhpQTdBemZMTk5WZ0RPaXFHanpkYXdCZno5Q1BsQXNnTnl3Y0tXczY2a0JUZ0hR?oc=5",
-      "published": "2026-08-31T14:11:28.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
@@ -129,18 +122,18 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Tractor-trailer driver killed in I-20 crash",
+      "source": "fox10tv.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmtnTW8tTWthYXBVUnhkaVBKejBzMVAwTElVeHFQNmR5QkFZU2pNYkFoNkItYUJvaUd0TlJaQWplYWhxX3NfVmN3VzdkOEJRMHphSHNyTWZSY2EyLW9oWk1VZVc2SEVpU09tY0dCMFpveEFxbzhJdG5GVWk5bGtGdFRuX29zTGR3a2c?oc=5",
+      "published": "2026-08-27T11:12:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Pedestrian crash closes I-75/85NB Thursday morning",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iUk5SUzFjLXMxd05WYWx2UUdwUGdxR2xLdzQ5NmF1WmVkSGxrWDQ5QXRxeEpzckpTOW1KVUt3ZVgtNHVQTzZ1bEg0WTNaWHdwd3d6M2dubGtvVUE0V2x3S2xSeHDSAWpBVV95cUxPWlhtX3YzQVR1X0xhaUNsVnlKREhsSi1fSjBlQ1pDWk1BQ1Zyem1IUkItZGNVdUFudWFNSVlic25ZczI1M1NUSm41TGpxeGRjMFR4X2tKVzFMajdIakgwZXNpOEIyV1lvMWRB?oc=5",
       "published": "2026-08-27T09:38:50.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Illinois Records 423 Speeding Deaths in 2024 as US Speed-Related Toll Hits 11,288 Fatalities",
-      "source": "Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1NQcXNmV0JWWmRzZW95LVQyNWFkbm43XzYxQS04TkJNLW1RcHV2S2JxUWs2UC1LRkpud3luQmo5MkpOX0lRY2l6c0RsZHgtdTZNRkY4T20tdlV4TlZPTHlZMzFsSkdqcUZUUWRrMlpnMnB3bmV0MHdUWlF1LWlDRXlFSFVPYmhxWkFva1dudw?oc=5",
-      "published": "2026-08-27T01:51:57.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "What's Going on With Georgia's State-Wide Business Court?",
@@ -151,14 +144,21 @@
     },
     {
       "title": "LCSO increasing OWI enforcement ahead of Labor Day",
-      "source": "wkvi.com",
+      "source": "WKVI Information Center",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXEzVXFJY29aR2Nzbm1NYy16OGZDMGp3M3lPWmNZTlNZUGh6T0RteGg5YXU1S0tFY05hTC1KX29Sa3ZqdFkzQU9qVkgzcEgtSnk5VnlXaHVWWVpMVUplTWE0c3VWT0h0YjhKVVgxd3RPU1dQdENOS3FVOThyMnZ3eEZB?oc=5",
       "published": "2026-08-24T10:01:00.000Z",
       "feed": "us-safety"
     },
     {
+      "title": "Area law enforcement agencies selected for Drive Sober or Get Pulled Over campaign",
+      "source": "1340 KGFW",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14TUk5NU9kT1hiMGZCeFMwN1VxSWhidnFDVUdNNVdlUGhYXzFtbnN0LV9vNzhIa0RFSDN5SEhGdEw0YXRiZ0ZXZUVMMA?oc=5",
+      "published": "2026-08-21T19:45:15.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
-      "source": "Law360",
+      "source": "law360.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
       "published": "2026-08-17T20:41:00.000Z",
       "feed": "injurylaw"
