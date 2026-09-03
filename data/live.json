@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T13:34:59.442Z",
+  "generated": "2026-09-03T13:51:36.991Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,35 +7,63 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 4,
+  "count": 8,
   "items": [
     {
-      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
-      "published": "2026-08-31T13:37:35.000Z",
-      "feed": "us-safety"
+      "title": "Crash on I-285 eastbound in DeKalb County",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdDJTN1o1UkJaUlpiVzBHVWI5djh3YTV1bkhoVDR5ZDgzbE9SMHNiOGt1aktwUnI1dTh3N29rZ0d1dUpaMlBmWVhzS2F1ZWdmUWJYV1g0U1lnZ0lYMkRtVEFfRUlTbDBGZU8wbDBIT2N2bDB0NkNucm5NSVcxdk9SVjhubjhrQ2daSXJaX1dOQnByOVA4NDFSX1NieEZpUkJ2X1pEbHlmN24wamtfbm4yNk1kTnFIVnp4Z19EUnRicDFtYnFwWG1GUlJzUFM?oc=5",
+      "published": "2026-09-03T10:48:00.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "Illinois Records 423 Speeding Deaths in 2024 as US Speed-Related Toll Hits 11,288 Fatalities",
-      "source": "Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1NQcXNmV0JWWmRzZW95LVQyNWFkbm43XzYxQS04TkJNLW1RcHV2S2JxUWs2UC1LRkpud3luQmo5MkpOX0lRY2l6c0RsZHgtdTZNRkY4T20tdlV4TlZPTHlZMzFsSkdqcUZUUWRrMlpnMnB3bmV0MHdUWlF1LWlDRXlFSFVPYmhxWkFva1dudw?oc=5",
-      "published": "2026-08-27T01:51:57.000Z",
-      "feed": "us-safety"
+      "title": "First Alert Traffic: Crash involving semi-truck shuts lanes on I-285",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONS1fRU1URWROYU56NW1CU0M2cG1LWUswMXIxNkVMYmNfMXVsTzlyRE5GMEtfMzZxbmF4QXlfMG5YOVhvOXYtQk41dGVKYmlQcGxQbGF6dWE0TUlLUVFuRU0zMWttWmxaQ24tUXZONnVMbzlSMnNsYVhTZmlQcHBIUXJFYUE0RHZ6SFdoZE9SX3NSSHRlYTZKcThMSURLQnJjMEYxa3lfRU8zemFrLXFhbWpULVhzdw?oc=5",
+      "published": "2026-09-03T02:36:42.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "LCSO increasing OWI enforcement ahead of Labor Day",
-      "source": "WKVI Information Center",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXEzVXFJY29aR2Nzbm1NYy16OGZDMGp3M3lPWmNZTlNZUGh6T0RteGg5YXU1S0tFY05hTC1KX29Sa3ZqdFkzQU9qVkgzcEgtSnk5VnlXaHVWWVpMVUplTWE0c3VWT0h0YjhKVVgxd3RPU1dQdENOS3FVOThyMnZ3eEZB?oc=5",
-      "published": "2026-08-24T10:01:00.000Z",
-      "feed": "us-safety"
+      "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
+      "published": "2026-09-02T11:56:53.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "Beyond the speed limit: What real accident prevention looks like on today's roads",
-      "source": "104.5 WOKV",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSm1LN1pnZmF0ZVJ2S2QyMVh4WlFVdEYxRG1qdmYyVHdBUUNnZ3l2Rm1QU1B4NkVTVHdtb3dLckJEMzhXUUQtbGRrbGpSTlJnaW1DRlR3UHE5RWUzVkthUmpRaGd5SDFNd2xMeXd4RjEtdTdmUnBJRzJSUGxmY2ZpT1RWVlB4d9IBmgFBVV95cUxPWVJVbHJVMUh6cmhKTUJxaTZDVGh5QmxPSW9sNGVzbXR2dUl4Qm5EdVhZNThwcFpGWDRRanVDWWNvODBjWXFHSnRrT0RSZllGOW40dW1PbFBBd1VpUktva083TFgwYzh2STljNVdMTVBObEZ1Yjh0TXRxNk9kMzM3TVh5dUpqTlVmQ0N3VmlqV0NYaG81MXpzdERR?oc=5",
+      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
+      "published": "2026-09-01T15:37:21.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Here is your guide to metro Atlanta road projects this week",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWIyYnF1RmFSLVdIQVBkV3JQQzZ1VTVQb1QwNjN3R1Q3R3ZsYnFoOEs1aHdHc1ZpY3A3N1djeHc3MHZyV2syOWR1ZVcwbnZUSW5NMlhjX2h6alc0RkVtUzdoXzBDbkR5VUN6elRqYVN2anR3bFdaNS1QZjdYUjlzR1E4c2ptSW12UmpyYg?oc=5",
+      "published": "2026-08-31T23:25:53.000Z",
+      "feed": "ga-metro"
+    },
+    {
+      "title": "Jeep, Ram and Chrysler recall hits 844,027 vehicles over camera issue",
+      "source": "NonStop Local KHQ",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnJzd1ducWptZVZ0YWliV0phY0trbmFBZ2JERHZiRnNPMmxxSXozZkcxZC1aa2l6amJJY2hCNTF1eElKdXF6VlFuNU9EOTZ2MFNHVExFd0JVVTU0ek1vaEpiSnE2R0dCNHpzYWJNQ0hkQ25hX2xfcHQyeTRvMVFWM0pwQVJsV3k0SFV3WjU3UHlpSUhsbUI1S1BvNTJWWDQwT0piY28zM0s4LTY0ZkdIa3pDSGlidVNuanNEMHJwMnAtMW5zX1JDc0lCZ0JmZ0tIbEFjM1o0MEtCNW8?oc=5",
+      "published": "2026-08-31T17:06:00.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "KIRO 7 News Seattle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T13:22:09.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power Due to a Defective Driveshaft",
+      "source": "Car and Driver",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVlORjNJZVVyYVZfZzFnNnpiamUySS1udnlTVURkQ0pHS0pVN2RsOXQxb2l4SkRmV1ByeTM3aERYRmJmZklvZFo3NWx4QXo1aW04TmZXdHVnYnczRXNXZ3B1TFJadjQ3UDBUeUdERG1wNDNXY29YdlRreVRaOFJkbGIwQW4xclJhTjFHcw?oc=5",
       "published": "2026-08-21T07:00:00.000Z",
-      "feed": "us-safety"
+      "feed": "recalls"
     }
   ]
 }
