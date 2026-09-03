@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T12:53:40.195Z",
+  "generated": "2026-09-03T13:17:52.581Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,28 +7,63 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 8,
+  "count": 11,
   "items": [
     {
+      "title": "Three lanes closed after crash on I-85 south in metro Atlanta",
+      "source": "95.5 WSB",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdTNk5fSG1HOU1zQW55UGl3SUZDdkJoeUFfWWJsUkNyQzNabVdOdVJwTm1qekZQenZHRzZNeERmOHpiTnNFNmdudEgyQ3JpeTFBQTB3dmdDejU1TTJ3d0VDZWdCNElzZHhLdDRNWGVYUFh1UU9qNG93OHZLTTlmRHJXS3BNM0NUSEZOUUJNbFJLcTU4VVEyUXNxNVJxY24zX1ZibTIwWDRmMEFBMS10SWEyRkp2UGRuMHVz0gHPAUFVX3lxTFBYZVhtd3A1QkkwcDJNUmI3cHJCdHRJSDB3WjNacEVwZHRfTGRRVHNZYTRDMURFdkJQdUlTanNMQURqSnBmaHBGb1UtUXpiOGk3SG9feGRpZjlBdzZXZE1ISkdkN0JSYWpYN3pZQm94SU1xZVNVcVhCZ2dHMk5aQXkxLVI1bEQ1cGZXbWt5VVJzcDBQcWxOdTQtUFRQazJ0eWxGQUx1eFltVVB5WG5HZFhRQWQteXBpcU5LRGhqM1lrcWc0UnhvQnhUNWJwMFluYw?oc=5",
+      "published": "2026-09-02T18:19:19.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
+      "published": "2026-09-02T17:56:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
+      "published": "2026-09-02T17:14:47.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Former athlete killed in crash described as ‘model student’ by coach",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
+      "published": "2026-09-02T02:01:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
+      "published": "2026-09-01T17:59:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
       "published": "2026-09-01T15:37:21.000Z",
       "feed": "recalls"
     },
     {
       "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
-      "source": "The Detroit News",
+      "source": "detroitnews.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
       "published": "2026-09-01T13:55:00.000Z",
       "feed": "recalls"
     },
     {
-      "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
-      "source": "financialcontent.com",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
-      "published": "2026-09-01T00:01:00.000Z",
-      "feed": "injurylaw"
+      "title": "'Exact type of person we would want to be a police officer': APD recruit loses life in Atlanta motorcycle accident",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmhxUHd5OEFjQnljdklBZ3hpdVZaanIyZzBWYXFQTUE3d0RkeWdCamNpY3JBUXNobDdXdHdqLTViczQxZHp2RGZPWkRvMDEwcjRXWk5pcVlqV2xJdVNDX1VIV2V6dXM0TzN2ZzBQVWhTQlQ2b0lzb2dpQmc0MGZhVHVXQ05jTFc5c01pbzE2SDJtU2lLNk92dlFEdDhodWkxQUQ3aVRfY2tnUVRJY3hMZTNLWUVNMzdnRG5UbzI4MU41M3EtX1dwX0pRVmotWm9kQ3JkMnRLMmdXdlY5X1NQUlZMTQ?oc=5",
+      "published": "2026-09-01T12:08:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Jeep, Ram and Chrysler recall hits 844,027 vehicles over camera issue",
@@ -45,25 +80,11 @@
       "feed": "recalls"
     },
     {
-      "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "law.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T18:07:40.000Z",
-      "feed": "injurylaw"
-    },
-    {
-      "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
-      "source": "Law360",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
-      "published": "2026-08-17T20:41:00.000Z",
-      "feed": "injurylaw"
-    },
-    {
-      "title": "Underwood Law Expands Personal Injury Practice With Growing Focus on Georgia Auto Accident Cases",
-      "source": "The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeElLWmoyazlBcjd1b0Z0R2lOc2p3bzJTckZhcXVZX2FPeHdSd3JpdjJkWGVzLURpRVJJTHc1MEl2UmxOSnRNNDEwRkZOYm1OUE8xSE5pOFVrdEFfcUZEaE9JOC1oWUFXbTJYMlJ6Q0FwYVhNOF95Njh3ZFo4Qml3NHRTNXdPNTBCRWVyT0tGOW9ydjVCR1BxejlwUGx5NWZRT0xSaUtxTE42ZFZzX294ZVVOOA?oc=5",
-      "published": "2026-08-17T16:39:52.000Z",
-      "feed": "injurylaw"
+      "title": "Child airlifted to Atlanta hospital after head-on crash in Houston County",
+      "source": "WMAZ",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
+      "published": "2026-08-31T01:08:00.000Z",
+      "feed": "ga-roads"
     }
   ]
 }
