@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T17:15:49.236Z",
+  "generated": "2026-09-03T17:33:06.173Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,28 +7,56 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 8,
+  "count": 15,
   "items": [
     {
       "title": "First Alert Traffic: Crash on I-285 at I-20 clears",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWN5UjVVLTJ1UlFBS3ZGZEtpcm5uZ1dNTzVPa0pJYnpFUVpFNnpteURwNEVXdDVYWjQ5TVZqZkx3U0d3T1VUOWZoTUo4R0p5VWhvRDZYcFBqbE9lSXFleWpNUkxPNm9BdTFucmNYT0xHRmk3dEhVTkxUYmNZOW9rSWxFYTAzTEtxcWQ3aHI3T0N6a2ZfRGZrei1n?oc=5",
       "published": "2026-09-03T05:22:11.000Z",
       "feed": "ga-metro"
     },
     {
+      "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
+      "published": "2026-09-02T11:56:53.000Z",
+      "feed": "ga-metro"
+    },
+    {
+      "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
+      "source": "KVII",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
+      "published": "2026-09-02T05:37:51.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Atlanta Police recruit killed in crash identified",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
+      "published": "2026-09-01T18:21:22.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
+      "published": "2026-09-01T17:59:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
       "published": "2026-09-01T15:37:21.000Z",
       "feed": "recalls"
     },
     {
-      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
-      "source": "detroitnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
-      "published": "2026-09-01T13:55:00.000Z",
-      "feed": "recalls"
+      "title": "Atlanta police recruit dies in Moreland Avenue crash",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
+      "published": "2026-09-01T13:25:45.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Here is your guide to metro Atlanta road projects this week",
@@ -45,17 +73,38 @@
       "feed": "recalls"
     },
     {
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "KIRO 7 News Seattle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T13:22:09.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "I-95 NB reopens in Glynn County after semi flips in crash with another tractor-trailer",
+      "source": "News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdlJkeHI0c3NGd0hqa1BnUWxPajEySFlYNHVPSXM3R1Z6QjNFX2pJVkp4ZTVpeFhRVUFiRnlzZ2pjZ1VkOG1ONzNoNTV0NVhKTEFEYzdTbmxDcm5Dam90MVhsaW56cFMxM0pINFZuR2xfSURYYWZCeEtqeW1DX21jVU1QOGNITDJTdmxoX2RBZ3pxQ3JORHlwT21IVGFnaDZXVzRSUGMwakFwM3l4MV9CTllZMlhnb3VrY2VST0M3dGtMYXV6b1djMmNZcEo3dFpqcjM0NUxEdVJ3YWVMS3BtY3l4M2l2Mjg?oc=5",
+      "published": "2026-08-31T11:07:08.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Child airlifted to Atlanta hospital after head-on crash in Houston County",
+      "source": "13WMAZ",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
+      "published": "2026-08-31T01:08:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "4 hurt in chain-reaction crash on Georgia Avenue in Montgomery County",
+      "source": "WJLA",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWjZ5NlJrci15VTh2TVFSZEw1UHUyYnlESXlqR0hIM2otRi1iYXpwcHhOYnJodmUzbExSeWRnRnFwT1VTZFJub2xpRVBVZ2RzY2pKN3cwaVBMYWJmS3MyUVptUkp1UjRZUDJaZG5heVdmTTUzaGh1akZlbzRrM2ZFdHBPZEp1Y3NTTkphdHlMOEdJZldCVnhETGpDbk9CQUdHVk5NTUNyVTFNYTlhVFB4ME1MVHJNZlJxMEswSU01UGxpN2FIY3NJS0FQUlVIUmw0WUdvak5wR21XT3NVN21RVGU0dTYxTnpIOEZRM3NLcGdtRDlkaUdkR1hZd1NnRzhTYzVlTmlEVQ?oc=5",
+      "published": "2026-08-30T13:40:18.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Car hauler leaves I-75, crashes into trees",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFBtMGRDY1YwVkR6cGVIYVMwTGlZdlY0OGcwUDJBME9OZk1NX1RjVy1vbnBvdjZsblR0WjUzcWJrRWp4cWpjQUVjZVVGcGVTNjhmc0FiU29TZ2Jzbl9wTllQU3RrTkF4eHJ3TXRJQjFvVVZTYVlEWWRiOHBMR1IyME53Q0tRdHY2Qm80aFFyOWo5MVBqTkxSSEFULTJQSDQ4eHhBVkE5czYxTDJId2Z6RGF5eUHSAcgBQVVfeXFMTUVKUUdLUXozOXQwSjgtSVgtUVlHT3o3Zk1HXzcxbi1LNEFIcmR6Wi1RWlBxa2hORVJweGxxaW9GSkI3d2hSMGtYRG54bVpIeFpFZFVheGp0T0Zfa1JyX3JJY3VNc1VnY29KQVRyZ3lyUWdUcEg2M19oZHVNSDFhVDFrY0RLRl9nS2g0dHFMV21mYWt0UUt6WWFoNF9RY19VMnI3cEgzanNoeVI2ZlBPbjk5YXIxNllpamVLNXN2SkFtVThqR2x4ai0?oc=5",
       "published": "2026-08-29T13:44:52.000Z",
-      "feed": "ga-metro"
-    },
-    {
-      "title": "Morning commuters were met with heavy delays on the Downtown Connector early Thursday after a pedestrian was struck and killed. #atlantanewsfirst #crimewatchatlanta",
-      "source": "instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FUHRTMWpNUGRVUEpvTDU4Nkx2cjJCa2o2WkhEU1VObXZYRlI0OU04aWFWR2JvOVRIWmpRN25YTWVlRldmNUh0VVIyLVNFX0pVbnc?oc=5",
-      "published": "2026-08-27T17:41:04.000Z",
       "feed": "ga-metro"
     },
     {
