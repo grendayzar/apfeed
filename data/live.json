@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T22:31:17.662Z",
+  "generated": "2026-09-03T22:48:51.085Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -32,7 +32,7 @@
     },
     {
       "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
-      "source": "24-7 Press Release Newswire",
+      "source": "24-7PressRelease.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
       "published": "2026-09-02T18:52:27.000Z",
       "feed": "injurylaw"
@@ -43,6 +43,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
       "published": "2026-09-02T17:56:00.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
+      "source": "repairerdrivennews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
+      "published": "2026-09-02T10:15:24.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
@@ -113,13 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
       "published": "2026-08-31T01:08:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "One person killed every 44 minutes in drunk-driving crashes in 2024, NHTSA says",
-      "source": "tippahnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2pnSTBYVFhGb3lJU2tnaHV6V1hhdW5DOW4zYXdNS2I1QXdYRUwwRkhIQlFuLVF6My1lcTFqdGRYOTRhQVNGNEF5VU96RDdPQzBmUnQzYUlfdVVEUGI4TVhLNzg0UkRQTlBPWjFzU0p1bXlGUXBzUFpaV2t5Q0lmRXJaVmtFeTJFTFFPbGI3Szd3VF95QXp2WHJpTnBHeDZkcVluQWxvU1NmR1I3aV9kcGZZTQ?oc=5",
-      "published": "2026-08-30T19:12:04.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "4 hurt in chain-reaction crash on Georgia Avenue in Montgomery County",
