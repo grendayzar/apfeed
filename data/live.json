@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T13:51:36.991Z",
+  "generated": "2026-09-03T14:17:56.650Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,42 +7,35 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 8,
+  "count": 12,
   "items": [
     {
-      "title": "Crash on I-285 eastbound in DeKalb County",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdDJTN1o1UkJaUlpiVzBHVWI5djh3YTV1bkhoVDR5ZDgzbE9SMHNiOGt1aktwUnI1dTh3N29rZ0d1dUpaMlBmWVhzS2F1ZWdmUWJYV1g0U1lnZ0lYMkRtVEFfRUlTbDBGZU8wbDBIT2N2bDB0NkNucm5NSVcxdk9SVjhubjhrQ2daSXJaX1dOQnByOVA4NDFSX1NieEZpUkJ2X1pEbHlmN24wamtfbm4yNk1kTnFIVnp4Z19EUnRicDFtYnFwWG1GUlJzUFM?oc=5",
-      "published": "2026-09-03T10:48:00.000Z",
-      "feed": "ga-metro"
+      "title": "How Prior DUI Convictions Affect New Charges",
+      "source": "Robotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0VuY0VYbWZYaW55SkFocS1lR0VJOHlGdGhGNV9lQzQ4Sl8zZFJ0TDB6Xy1ZZWFUMUN1bk1hdFhkeU9RNE9sSVpScnFUUHYzamhhWlV3NjN4eXRBTUZrQnB5dTRjbTVCeXZPQ2NMbVRnZ0FrYldMdkYzRWxrbVpuY0dqcmZvVHYzd0V5ZTlqX3ZhdjRTdFJ6aXZoZmxVRHZpbFEw?oc=5",
+      "published": "2026-09-03T11:22:11.000Z",
+      "feed": "us-safety"
     },
     {
-      "title": "First Alert Traffic: Crash involving semi-truck shuts lanes on I-285",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONS1fRU1URWROYU56NW1CU0M2cG1LWUswMXIxNkVMYmNfMXVsTzlyRE5GMEtfMzZxbmF4QXlfMG5YOVhvOXYtQk41dGVKYmlQcGxQbGF6dWE0TUlLUVFuRU0zMWttWmxaQ24tUXZONnVMbzlSMnNsYVhTZmlQcHBIUXJFYUE0RHZ6SFdoZE9SX3NSSHRlYTZKcThMSURLQnJjMEYxa3lfRU8zemFrLXFhbWpULVhzdw?oc=5",
-      "published": "2026-09-03T02:36:42.000Z",
-      "feed": "ga-metro"
+      "title": "Hackettstown Police Partnering with Regional Agencies for Multi-County Labor Day Traffic Crackdown",
+      "source": "TAPinto",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRld2ZkJsbXNvSU9UMWtWSjA0NHA4Z2hKUWlJeG1odkRxN1FqaUpvTWxIaDZQTHVHNEJHTmo1VVZ1S0Z0UW9RNEphcHJwaGxsUWZtZHh5TlMxdEZiMkhIV3d1eFo1Y0tJN2VNT3pkX3lQUFU0cmxoWTJaQUZXRlZVakZlUUxDajEyMnFXQ0VjanlBdEE4eFFWTDM4WEx3WUc1eDJMcWhfOV9OeVh3UGxHa0dybk5mMzloaVlqVEpRcElCNERDS2QweFo1OTh5b092SHFKS3BHblhEd0JuemQ0YjJ6UGlvSXFkUjR0eHhfVUhJQm9tbmktVXNOc0t5VGtXZ05JQ1J3?oc=5",
+      "published": "2026-09-03T11:00:00.000Z",
+      "feed": "us-safety"
     },
     {
-      "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
-      "source": "AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
-      "published": "2026-09-02T11:56:53.000Z",
-      "feed": "ga-metro"
-    },
-    {
-      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
-      "published": "2026-09-01T15:37:21.000Z",
+      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
+      "source": "The Detroit News",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
+      "published": "2026-09-01T13:55:00.000Z",
       "feed": "recalls"
     },
     {
-      "title": "Here is your guide to metro Atlanta road projects this week",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWIyYnF1RmFSLVdIQVBkV3JQQzZ1VTVQb1QwNjN3R1Q3R3ZsYnFoOEs1aHdHc1ZpY3A3N1djeHc3MHZyV2syOWR1ZVcwbnZUSW5NMlhjX2h6alc0RkVtUzdoXzBDbkR5VUN6elRqYVN2anR3bFdaNS1QZjdYUjlzR1E4c2ptSW12UmpyYg?oc=5",
-      "published": "2026-08-31T23:25:53.000Z",
-      "feed": "ga-metro"
+      "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
+      "source": "financialcontent.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
+      "published": "2026-09-01T00:01:00.000Z",
+      "feed": "injurylaw"
     },
     {
       "title": "Jeep, Ram and Chrysler recall hits 844,027 vehicles over camera issue",
@@ -53,10 +46,31 @@
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
+      "source": "kiro7.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkNkNF9xdnItM0U5T2FOWWNNMjVVcE95YTA4NUZadl9Ub2pqS1FoSFlXbjA4a29NbVIyN2dBZFljMnpRZDFldmwzMURBbnZ2SjNkRDh6bjdjS05SM1lVVzNrNWJBODhuWDVDay0zM1ZEYWRXTkdFSGxNYkpUTlJfTDk2SXZlZGhpMGJ4MXZpdDdkMDMtb0Z3TzdNdmtockN6MURKaEl4Z2tnRzkzS2F5TEpSNlpreVdIbVg5OVdDZEFIdVZWR0NUSi1kajNKVHFqNTNuMDF3MGhaX1RjaW1QUWxrQ2dvQU1ZcE55LXN6UWlmaGhHVm9vMGxtbjduWFE?oc=5",
+      "published": "2026-08-31T13:06:00.000Z",
+      "feed": "us-safety"
+    },
+    {
+      "title": "One person killed every 44 minutes in drunk-driving crashes in 2024, NHTSA says",
+      "source": "tippahnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2pnSTBYVFhGb3lJU2tnaHV6V1hhdW5DOW4zYXdNS2I1QXdYRUwwRkhIQlFuLVF6My1lcTFqdGRYOTRhQVNGNEF5VU96RDdPQzBmUnQzYUlfdVVEUGI4TVhLNzg0UkRQTlBPWjFzU0p1bXlGUXBzUFpaV2t5Q0lmRXJaVmtFeTJFTFFPbGI3Szd3VF95QXp2WHJpTnBHeDZkcVluQWxvU1NmR1I3aV9kcGZZTQ?oc=5",
+      "published": "2026-08-30T19:12:04.000Z",
+      "feed": "us-safety"
+    },
+    {
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T18:07:40.000Z",
+      "feed": "injurylaw"
     },
     {
       "title": "BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power Due to a Defective Driveshaft",
@@ -64,6 +78,20 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVlORjNJZVVyYVZfZzFnNnpiamUySS1udnlTVURkQ0pHS0pVN2RsOXQxb2l4SkRmV1ByeTM3aERYRmJmZklvZFo3NWx4QXo1aW04TmZXdHVnYnczRXNXZ3B1TFJadjQ3UDBUeUdERG1wNDNXY29YdlRreVRaOFJkbGIwQW4xclJhTjFHcw?oc=5",
       "published": "2026-08-21T07:00:00.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
+      "published": "2026-08-17T20:41:00.000Z",
+      "feed": "injurylaw"
+    },
+    {
+      "title": "Underwood Law Expands Personal Injury Practice With Growing Focus on Georgia Auto Accident Cases",
+      "source": "The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeElLWmoyazlBcjd1b0Z0R2lOc2p3bzJTckZhcXVZX2FPeHdSd3JpdjJkWGVzLURpRVJJTHc1MEl2UmxOSnRNNDEwRkZOYm1OUE8xSE5pOFVrdEFfcUZEaE9JOC1oWUFXbTJYMlJ6Q0FwYVhNOF95Njh3ZFo4Qml3NHRTNXdPNTBCRWVyT0tGOW9ydjVCR1BxejlwUGx5NWZRT0xSaUtxTE42ZFZzX294ZVVOOA?oc=5",
+      "published": "2026-08-17T16:39:52.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
