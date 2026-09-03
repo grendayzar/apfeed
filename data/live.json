@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T14:52:54.793Z",
+  "generated": "2026-09-03T15:19:36.081Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,84 +7,63 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 11,
+  "count": 8,
   "items": [
     {
-      "title": "How Prior DUI Convictions Affect New Charges",
-      "source": "roboticsandautomationnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0VuY0VYbWZYaW55SkFocS1lR0VJOHlGdGhGNV9lQzQ4Sl8zZFJ0TDB6Xy1ZZWFUMUN1bk1hdFhkeU9RNE9sSVpScnFUUHYzamhhWlV3NjN4eXRBTUZrQnB5dTRjbTVCeXZPQ2NMbVRnZ0FrYldMdkYzRWxrbVpuY0dqcmZvVHYzd0V5ZTlqX3ZhdjRTdFJ6aXZoZmxVRHZpbFEw?oc=5",
-      "published": "2026-09-03T11:22:11.000Z",
-      "feed": "us-safety"
+      "title": "First Alert Traffic: Crash involving semi-truck shuts multiple lanes on I-285 north at I-20",
+      "source": "atlantanewsfirst.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNm1rNHZseGxDdEZPOFBCNW4tZ1BiR09mOHFPdDRIMllMMjdRMlRIX053NEg0RnhRQzB0TlFMUlFyc2NKRkF2aDEyY2pLLXhodTY1UkQ0bkFWVHhCZzJzREhrOFA4VWVST3pJVks4R0RZVGM1ZVV0Zm1aMXVwMEtuQzVId2twOF81ay1tVW5qb3k3UFl1RTB5SGY1eEM0V2p4VXFzTVNJWlpjeWs5TDFQV0JuWEdUN1lNMFZfSmRmbmNRYkdhQ2tlZtIB3AFBVV95cUxQU1NRNVI1Y0FYTkRPS0RPZjhrSjNaajFTckxRNlJUc1RvNTIzNTczMWtGaGdVeEJ6eWc1SU16VXpDWGpMMG9oVFhqZ2tRNTRVOTVQTnIyR3M0VG1EVVd5Sk9UMGhDTlBiVEV3WXoxQ205ekoyM0duWEEyNW1walE4d2F2N0MxSmFnbThhMGI3eWttUWpVOTJFa0VRSXpXS0pXOUxkSm1uc1FIejRMcWJUNjJrS0VTWjF4S0lRY0hWNzhnZXRwWFFnaTBMMlZMeTYxSWlnZDNhNFFtalVv?oc=5",
+      "published": "2026-09-03T10:36:00.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
-      "published": "2026-09-02T17:56:00.000Z",
-      "feed": "ga-roads"
+      "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
+      "published": "2026-09-02T11:56:53.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "Atlanta Police recruit killed in crash identified",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
-      "published": "2026-09-01T18:21:22.000Z",
-      "feed": "ga-roads"
+      "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
+      "source": "financialcontent.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
+      "published": "2026-09-01T00:01:00.000Z",
+      "feed": "injurylaw"
     },
     {
-      "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
-      "published": "2026-09-01T17:59:00.000Z",
-      "feed": "ga-roads"
+      "title": "Here is your guide to metro Atlanta road projects this week",
+      "source": "fox5atlanta.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWIyYnF1RmFSLVdIQVBkV3JQQzZ1VTVQb1QwNjN3R1Q3R3ZsYnFoOEs1aHdHc1ZpY3A3N1djeHc3MHZyV2syOWR1ZVcwbnZUSW5NMlhjX2h6alc0RkVtUzdoXzBDbkR5VUN6elRqYVN2anR3bFdaNS1QZjdYUjlzR1E4c2ptSW12UmpyYg?oc=5",
+      "published": "2026-08-31T23:25:53.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "Atlanta police recruit dies in Moreland Avenue crash",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
-      "published": "2026-09-01T13:25:45.000Z",
-      "feed": "ga-roads"
+      "title": "Morning commuters were met with heavy delays on the Downtown Connector early Thursday after a pedestrian was struck and killed. #atlantanewsfirst #crimewatchatlanta",
+      "source": "instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FUHRTMWpNUGRVUEpvTDU4Nkx2cjJCa2o2WkhEU1VObXZYRlI0OU04aWFWR2JvOVRIWmpRN25YTWVlRldmNUh0VVIyLVNFX0pVbnc?oc=5",
+      "published": "2026-08-27T17:41:04.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "'Exact type of person we would want to be a police officer': APD recruit loses life in Atlanta motorcycle accident",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmhxUHd5OEFjQnljdklBZ3hpdVZaanIyZzBWYXFQTUE3d0RkeWdCamNpY3JBUXNobDdXdHdqLTViczQxZHp2RGZPWkRvMDEwcjRXWk5pcVlqV2xJdVNDX1VIV2V6dXM0TzN2ZzBQVWhTQlQ2b0lzb2dpQmc0MGZhVHVXQ05jTFc5c01pbzE2SDJtU2lLNk92dlFEdDhodWkxQUQ3aVRfY2tnUVRJY3hMZTNLWUVNMzdnRG5UbzI4MU41M3EtX1dwX0pRVmotWm9kQ3JkMnRLMmdXdlY5X1NQUlZMTQ?oc=5",
-      "published": "2026-09-01T12:08:00.000Z",
-      "feed": "ga-roads"
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T18:07:40.000Z",
+      "feed": "injurylaw"
     },
     {
-      "title": "Man charged in deadly pedestrian crash in Warren County",
-      "source": "WRDW",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFMxcXBsTGFnM0dtXzh0dFJ1ajVCWWFxRVVsbldqcEpnTURtc1VkVF9mLU5zLWRwV0hEZXc2a1VnMGJHd2tsSl9vdHJEeVV3TlcyNkNwRWgxeEFMM1VtcV9CYS1TeGhHb0RqR2pvaVdZSHY0ZDgwV3paUm1reW9mUGtQZmlaZnJWcFHSAZ4BQVVfeXFMUDNWMlZ2MllGbTFCZ3hiS1k2cVRGdkxDZ2RRcWdkYXR1QjAwNnJMSFRLVWRmcmlnbFFBRUtlNUxYRVVEUWt6dGJ3X01XM0dYNF9GNkl0X192bGZlSkZYaFZFSDE0TENqUjFyTzF0OERRWWRDMnZJSHE1c2JYMEkyZjQ5azVxTUJ5X3pYQ2pReDNPelNQWWx6ejZnWGZ4ZXc?oc=5",
-      "published": "2026-09-01T11:10:00.000Z",
-      "feed": "ga-roads"
+      "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
+      "published": "2026-08-17T20:41:00.000Z",
+      "feed": "injurylaw"
     },
     {
-      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkNkNF9xdnItM0U5T2FOWWNNMjVVcE95YTA4NUZadl9Ub2pqS1FoSFlXbjA4a29NbVIyN2dBZFljMnpRZDFldmwzMURBbnZ2SjNkRDh6bjdjS05SM1lVVzNrNWJBODhuWDVDay0zM1ZEYWRXTkdFSGxNYkpUTlJfTDk2SXZlZGhpMGJ4MXZpdDdkMDMtb0Z3TzdNdmtockN6MURKaEl4Z2tnRzkzS2F5TEpSNlpreVdIbVg5OVdDZEFIdVZWR0NUSi1kajNKVHFqNTNuMDF3MGhaX1RjaW1QUWxrQ2dvQU1ZcE55LXN6UWlmaGhHVm9vMGxtbjduWFE?oc=5",
-      "published": "2026-08-31T13:06:00.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Child airlifted to Atlanta hospital after head-on crash in Houston County",
-      "source": "13WMAZ",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
-      "published": "2026-08-31T01:08:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "One person killed every 44 minutes in drunk-driving crashes in 2024, NHTSA says",
-      "source": "tippahnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY2pnSTBYVFhGb3lJU2tnaHV6V1hhdW5DOW4zYXdNS2I1QXdYRUwwRkhIQlFuLVF6My1lcTFqdGRYOTRhQVNGNEF5VU96RDdPQzBmUnQzYUlfdVVEUGI4TVhLNzg0UkRQTlBPWjFzU0p1bXlGUXBzUFpaV2t5Q0lmRXJaVmtFeTJFTFFPbGI3Szd3VF95QXp2WHJpTnBHeDZkcVluQWxvU1NmR1I3aV9kcGZZTQ?oc=5",
-      "published": "2026-08-30T19:12:04.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Skokie Police On Patrol For DUIs This Labor Day",
-      "source": "Patch",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAybXlHSk9KTTU5ZUJHWlhoNzBwOHpUTWhtbm0zaEQwUngza2ZWREVsc1h5ZVVUb25MQ3Q3WnRtTFh2SEhSS3JMb1ozaDczektkak04NkJVMGhQd3l0XzFnaGpNckFFWkVIekROazlYU3ZMV2tWUG1RSg?oc=5",
-      "published": "2026-08-21T07:00:00.000Z",
-      "feed": "us-safety"
+      "title": "Underwood Law Expands Personal Injury Practice With Growing Focus on Georgia Auto Accident Cases",
+      "source": "The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeElLWmoyazlBcjd1b0Z0R2lOc2p3bzJTckZhcXVZX2FPeHdSd3JpdjJkWGVzLURpRVJJTHc1MEl2UmxOSnRNNDEwRkZOYm1OUE8xSE5pOFVrdEFfcUZEaE9JOC1oWUFXbTJYMlJ6Q0FwYVhNOF95Njh3ZFo4Qml3NHRTNXdPNTBCRWVyT0tGOW9ydjVCR1BxejlwUGx5NWZRT0xSaUtxTE42ZFZzX294ZVVOOA?oc=5",
+      "published": "2026-08-17T16:39:52.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
