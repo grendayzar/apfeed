@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T23:28:50.301Z",
+  "generated": "2026-09-03T23:48:31.602Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -24,15 +24,8 @@
       "feed": "ga-metro"
     },
     {
-      "title": "After Atlanta Paralegal Submitted Bar Complaint, Judge Grants Motion for Sanctions",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMklmWk5BY1FRNXZPUTFzSk4wNUpnNVFHMkZOcXlsMEx2aWx5aFpuNXBSaHkyR29TV2gxM3Q2Qkd6c0lBa1J6TmJBTm9xSXJTc0NHV25fYkJQTEJiQzhqbzY3RU03Zi10X3ZPbzJaalRrc3l1S3hlNHZ3U2kwYjI4V3p0blZlcjhfcWxXVzRHTllPZWFOYnpnNldwWUo1Yy12SHBnNnJVN2dBUzNCWEZ1WEZ6bXF0WXcyMEtmWUJCTEswTHh0QWNiOV9oYw?oc=5",
-      "published": "2026-09-02T18:53:33.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
-      "source": "24-7 Press Release Newswire",
+      "source": "24-7PressRelease.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
       "published": "2026-09-02T18:52:27.000Z",
       "feed": "injurylaw"
@@ -53,7 +46,7 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "abc7amarillo.com",
+      "source": "KVII",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
@@ -81,7 +74,7 @@
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
-      "source": "financialcontent.com",
+      "source": "FinancialContent",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
       "published": "2026-09-01T00:01:00.000Z",
       "feed": "injurylaw"
@@ -109,7 +102,7 @@
     },
     {
       "title": "Child airlifted to Atlanta hospital after head-on crash in Houston County",
-      "source": "WMAZ",
+      "source": "13WMAZ",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
       "published": "2026-08-31T01:08:00.000Z",
       "feed": "ga-roads"
@@ -120,13 +113,6 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWjZ5NlJrci15VTh2TVFSZEw1UHUyYnlESXlqR0hIM2otRi1iYXpwcHhOYnJodmUzbExSeWRnRnFwT1VTZFJub2xpRVBVZ2RzY2pKN3cwaVBMYWJmS3MyUVptUkp1UjRZUDJaZG5heVdmTTUzaGh1akZlbzRrM2ZFdHBPZEp1Y3NTTkphdHlMOEdJZldCVnhETGpDbk9CQUdHVk5NTUNyVTFNYTlhVFB4ME1MVHJNZlJxMEswSU01UGxpN2FIY3NJS0FQUlVIUmw0WUdvak5wR21XT3NVN21RVGU0dTYxTnpIOEZRM3NLcGdtRDlkaUdkR1hZd1NnRzhTYzVlTmlEVQ?oc=5",
       "published": "2026-08-30T13:40:18.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
-      "source": "AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
-      "published": "2026-08-30T09:26:16.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Driver seriously injured in single-vehicle crash on I-75 in Cobb County",
@@ -144,10 +130,17 @@
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T16:27:57.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Witness calls for more lights and warning signs after 4 pedestrians die on Atlanta interstates in 6 days",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2o5NE1wQlBWYk1CRDFkZzludHJhLUpJSFBDUlU2MjMweTJrMjBzeElLcEY1VTJ3NDlNYU5ETmZuNmlVOEw0cTIzN1RISXVHNjhrU2d2d0pnNldMR0JIWUk4aE5ZYTMyLW1udVlHN3kyT09vX25yR001c0lGR2ZKbXItSDR0YzNTeWdLbzFicnBadHlhZ2NWMlhLRS0tTVc3aWxhNlk1SXM2V3lOczhUWWp4TzNQRlFC?oc=5",
+      "published": "2026-08-28T10:25:00.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
@@ -169,6 +162,13 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSm1LN1pnZmF0ZVJ2S2QyMVh4WlFVdEYxRG1qdmYyVHdBUUNnZ3l2Rm1QU1B4NkVTVHdtb3dLckJEMzhXUUQtbGRrbGpSTlJnaW1DRlR3UHE5RWUzVkthUmpRaGd5SDFNd2xMeXd4RjEtdTdmUnBJRzJSUGxmY2ZpT1RWVlB4d9IBmgFBVV95cUxPWVJVbHJVMUh6cmhKTUJxaTZDVGh5QmxPSW9sNGVzbXR2dUl4Qm5EdVhZNThwcFpGWDRRanVDWWNvODBjWXFHSnRrT0RSZllGOW40dW1PbFBBd1VpUktva083TFgwYzh2STljNVdMTVBObEZ1Yjh0TXRxNk9kMzM3TVh5dUpqTlVmQ0N3VmlqV0NYaG81MXpzdERR?oc=5",
       "published": "2026-08-21T07:00:00.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
+      "published": "2026-08-17T20:41:00.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
