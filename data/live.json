@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T00:27:42.669Z",
+  "generated": "2026-09-03T00:54:21.110Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,15 +7,8 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 23,
   "items": [
-    {
-      "title": "Three lanes closed after crash on I-85 south in metro Atlanta",
-      "source": "95.5 WSB",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdTNk5fSG1HOU1zQW55UGl3SUZDdkJoeUFfWWJsUkNyQzNabVdOdVJwTm1qekZQenZHRzZNeERmOHpiTnNFNmdudEgyQ3JpeTFBQTB3dmdDejU1TTJ3d0VDZWdCNElzZHhLdDRNWGVYUFh1UU9qNG93OHZLTTlmRHJXS3BNM0NUSEZOUUJNbFJLcTU4VVEyUXNxNVJxY24zX1ZibTIwWDRmMEFBMS10SWEyRkp2UGRuMHVz0gHPAUFVX3lxTFBYZVhtd3A1QkkwcDJNUmI3cHJCdHRJSDB3WjNacEVwZHRfTGRRVHNZYTRDMURFdkJQdUlTanNMQURqSnBmaHBGb1UtUXpiOGk3SG9feGRpZjlBdzZXZE1ISkdkN0JSYWpYN3pZQm94SU1xZVNVcVhCZ2dHMk5aQXkxLVI1bEQ1cGZXbWt5VVJzcDBQcWxOdTQtUFRQazJ0eWxGQUx1eFltVVB5WG5HZFhRQWQteXBpcU5LRGhqM1lrcWc0UnhvQnhUNWJwMFluYw?oc=5",
-      "published": "2026-09-02T18:19:19.000Z",
-      "feed": "ga-roads"
-    },
     {
       "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
       "source": "Atlanta News First",
@@ -25,7 +18,7 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "abc7amarillo.com",
+      "source": "KVII",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
@@ -38,6 +31,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Atlanta Police recruit killed in crash identified",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
+      "published": "2026-09-01T18:21:22.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
       "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
@@ -45,10 +45,17 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
-      "source": "The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
-      "published": "2026-09-01T13:55:00.000Z",
+      "title": "Atlanta police recruit dies in Moreland Avenue crash",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
+      "published": "2026-09-01T13:25:45.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
+      "source": "FleetOwner",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
+      "published": "2026-09-01T12:27:50.000Z",
       "feed": "recalls"
     },
     {
@@ -87,6 +94,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
+      "published": "2026-08-30T09:26:16.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Driver seriously hurt in 1-vehicle crash on I-75, Cobb County police say",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLUFMMmNLYUprR2R0bk9DbWtoZVdWS2hpdmN3cWVCOTB1elIyUURJbDRvX1lseWk2Q0JnWHFiTWxPSlU5WjFmNWcxN05GVmdQT3lFYWhvUWRxWElXOEpzV1Z1M25pdDhpaS1qY2hWMVpjR3RwZ2ExOXR4OC1LNDYxNEM4bWtuMlR5LWYySzh0dUhxX2c1bVM1dTNCU0lqLTZQMFo5NXdvRTdHc1NvdVJB0gHDAUFVX3lxTE55b3FrNXgyRlpfcEdQX0FSN053enVZMWJCT3pYQUFQY2FFZUtDZExGZUMwdVlJMzVodTE4dmtvTXl0Ykt4THI3YUEzVE5OUDJXT3d2SHhJcm91UWxhTG1CdmxEUGYxb0xaTEtINlhKU2ZuTTlOdkg0RWdDemVsbzA1Q3BSQmJRTF9TOWs2cTJXR2lCTm5JYTlMWXhES181MUZVQnhqUEZxdjNCZ0N1VUJQdE9lQ1hIMDRDN2xtVFNwM2p0SQ?oc=5",
@@ -102,7 +116,7 @@
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "cnbc.com",
+      "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzBMZk0yelNaOTlHLTJVeTFnY2RKOTZhTmpQdHloRVptR2FrbDByTk1EV2pra1g4T3pLU01idExra3RwckYxS2wzd0s2alFEUTZkUXVKYkx5X0xhc1hseTZTcVNUWW5LX3pMWmRaQTdFZkRsRTdaQm5raDA4eUVMT2pFSGJldC1RNzBNMmlvZ1Z3U0NKc0U0YUtnU2xkbjljS0dWLUZhc1Y5UVZXQ3FzQ255cGNGQ0ZS0gG-AUFVX3lxTE9CdzBINVBwRVpad0VUS1RVR2VibUg2U3FhTlJWazlhUDRrSm15MWdQVTZCRXhLSzBXMm9rZ3o5Qy0xbWlqaGpxaUtTTlh5TVZEQ2FjamZsMWdLTWJwOGVGR1htczJQRG9oX2hFWmdDdG11QWZtY3Y2V2Y2VU5JMlZMYnJRZC1rRTZQVjYxQ094eFB6OVZhNjlGRlRNMkdBR21GR1dVczUtVkZWcEU1c3k1eU5SUEVRMDk5aW05Tmc?oc=5",
       "published": "2026-08-28T12:15:11.000Z",
       "feed": "recalls"
@@ -112,13 +126,6 @@
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVFBVHd1ZjlfaWRENlhaN2FfRW1oS1prRTdwN0lOMk9DVnl1eVFEV0dwVWVxTkY1S3RMSkxfWDZsLW91cUszVVZscS1CM2dTcHVrTlRyZG9VdU50VVNLQ0NFaGJaMXQxdXRsRVM5dlVXczhSb3JhWEMycUlwckI2TXhjdUpvYTRPaGZhamRQNjBmOVU1WXZVN3JFcG5rTVXSAbMBQVVfeXFMTXhkUTJyMDNuUkh1WUJaNUFPTmdBVmRyT3hSNWxVbUdyUVNhU09BT1JTUWl2TlR1ekt3VWIwSnBWMmVmQkxxSEE4SmwyX0gxbTBkV0hGOHRQSENsNm1MbUtZWDZod2RXY1VDeWRxelFfd1JJNHdqTVB1ZnpWT3YwRnJtRWJQQkZDcjZzMEp4Z2ltM2xJMFduZmJTRGxmQXNrSXk5cEFiOXQwcFNKOUpNZzNtWXM?oc=5",
       "published": "2026-08-27T20:57:12.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "All northbound lanes reopen following deadly pedestrian crash on I-75/85",
-      "source": "95.5 WSB",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHNHdm1jVEU1QUViSG9XaGtqbGplWmFiaE9CWkVXLTZrT1F3WEM0ZFJxUlZrUE5LOWNBOVo1WDh3WjVUS3lVUF9aeFltSUY2TUNkUllwdi1lNkZTdE91NERjUTlJdGhOMlVlY09wSWVOeVpPdXQ3RXYwTUdtU3dKUnBHeE9iaVVJMGxET0NvQ19OajZIa3d0MHYtaGZHZTgzV3lpNXFjel9EV0Z0OWZTZlQ1WGZWQnhQVDBxQWYzMmMtemp5N3Y1NFp3RdIB3wFBVV95cUxNU0NBWWhnQjlKSWV3UTZZNGtkekNOUVpzeHdYWGE4WjNrS3Nxa1pxNDYzM3EwY1Z5QzN6elZWQVlrcUFVUWZJTTV3RTJ4Z1NxWU9LalJBR3haZmtuRC0tcXhTNVNuaVc5ZFpwUHVpY29wYTEzdm9vZl91UU1mMklZSVpQenZHdllFaE9hUlpDdGNIZUFkZVZXNjkwZENiTzVfbFMtbFM2dVh5NTdNa2t5UGpkcGJ5RVVvT3gxa3NORU1CTTNZUWd3S0h0VExFbHMxWGtpZWVremNIeGVkbFRn?oc=5",
-      "published": "2026-08-27T11:21:47.000Z",
       "feed": "ga-metro"
     },
     {
