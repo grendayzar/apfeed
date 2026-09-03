@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T07:17:40.584Z",
+  "generated": "2026-09-03T07:34:32.354Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -14,13 +14,6 @@
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
       "published": "2026-09-02T17:56:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
-      "published": "2026-09-02T17:14:47.000Z",
       "feed": "ga-roads"
     },
     {
@@ -56,6 +49,13 @@
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmhxUHd5OEFjQnljdklBZ3hpdVZaanIyZzBWYXFQTUE3d0RkeWdCamNpY3JBUXNobDdXdHdqLTViczQxZHp2RGZPWkRvMDEwcjRXWk5pcVlqV2xJdVNDX1VIV2V6dXM0TzN2ZzBQVWhTQlQ2b0lzb2dpQmc0MGZhVHVXQ05jTFc5c01pbzE2SDJtU2lLNk92dlFEdDhodWkxQUQ3aVRfY2tnUVRJY3hMZTNLWUVNMzdnRG5UbzI4MU41M3EtX1dwX0pRVmotWm9kQ3JkMnRLMmdXdlY5X1NQUlZMTQ?oc=5",
       "published": "2026-09-01T12:08:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Man charged in deadly pedestrian crash in Warren County",
+      "source": "WRDW",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFMxcXBsTGFnM0dtXzh0dFJ1ajVCWWFxRVVsbldqcEpnTURtc1VkVF9mLU5zLWRwV0hEZXc2a1VnMGJHd2tsSl9vdHJEeVV3TlcyNkNwRWgxeEFMM1VtcV9CYS1TeGhHb0RqR2pvaVdZSHY0ZDgwV3paUm1reW9mUGtQZmlaZnJWcFHSAZ4BQVVfeXFMUDNWMlZ2MllGbTFCZ3hiS1k2cVRGdkxDZ2RRcWdkYXR1QjAwNnJMSFRLVWRmcmlnbFFBRUtlNUxYRVVEUWt6dGJ3X01XM0dYNF9GNkl0X192bGZlSkZYaFZFSDE0TENqUjFyTzF0OERRWWRDMnZJSHE1c2JYMEkyZjQ5azVxTUJ5X3pYQ2pReDNPelNQWWx6ejZnWGZ4ZXc?oc=5",
+      "published": "2026-09-01T11:10:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "title": "Underwood Law Expands Personal Injury Practice With Growing Focus on Georgia Auto Accident Cases",
-      "source": "The National Law Review",
+      "source": "natlawreview.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeElLWmoyazlBcjd1b0Z0R2lOc2p3bzJTckZhcXVZX2FPeHdSd3JpdjJkWGVzLURpRVJJTHc1MEl2UmxOSnRNNDEwRkZOYm1OUE8xSE5pOFVrdEFfcUZEaE9JOC1oWUFXbTJYMlJ6Q0FwYVhNOF95Njh3ZFo4Qml3NHRTNXdPNTBCRWVyT0tGOW9ydjVCR1BxejlwUGx5NWZRT0xSaUtxTE42ZFZzX294ZVVOOA?oc=5",
       "published": "2026-08-17T16:39:52.000Z",
       "feed": "injurylaw"
