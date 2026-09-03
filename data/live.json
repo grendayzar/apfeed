@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T20:49:12.491Z",
+  "generated": "2026-09-03T21:16:19.986Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,21 +7,14 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 23,
+  "count": 19,
   "items": [
     {
       "title": "How Prior DUI Convictions Affect New Charges",
-      "source": "roboticsandautomationnews.com",
+      "source": "Robotics & Automation News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0VuY0VYbWZYaW55SkFocS1lR0VJOHlGdGhGNV9lQzQ4Sl8zZFJ0TDB6Xy1ZZWFUMUN1bk1hdFhkeU9RNE9sSVpScnFUUHYzamhhWlV3NjN4eXRBTUZrQnB5dTRjbTVCeXZPQ2NMbVRnZ0FrYldMdkYzRWxrbVpuY0dqcmZvVHYzd0V5ZTlqX3ZhdjRTdFJ6aXZoZmxVRHZpbFEw?oc=5",
       "published": "2026-09-03T11:22:11.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Traffic Alert: Crash causing delays on I-285 eastbound in DeKalb County",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYVBOaS1COXpvMG9sTkJwRW9ncTZCWG1rd0xLQThxZDVFNTJMM3BxUlRLWlNUQThKRHNKWUo0MmFKWnZWTzAyTDJxTU9RU3dWanRNSWFRTERybE5WSkZUMDNvUi1zYmstNzktZ3RIYm1nZTd6bzk2eDV1QjJKZzhFWklIeVI0NWZmMldNbGdwUnE3MllFWm80dGxTQUJvdWdJbU1RbGNndF9oOGVnOUU5Ulh0MmFFeVhhWkgtU1JVV3ZUT1REbkxMQWlmcE1tQTM1TUNndGZxY1FsVDNfcENjVmxmU0Y?oc=5",
-      "published": "2026-09-03T10:57:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "First Alert Traffic: Crash involving semi-truck shuts multiple lanes on I-285 north at I-20",
@@ -29,13 +22,6 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNm1rNHZseGxDdEZPOFBCNW4tZ1BiR09mOHFPdDRIMllMMjdRMlRIX053NEg0RnhRQzB0TlFMUlFyc2NKRkF2aDEyY2pLLXhodTY1UkQ0bkFWVHhCZzJzREhrOFA4VWVST3pJVks4R0RZVGM1ZVV0Zm1aMXVwMEtuQzVId2twOF81ay1tVW5qb3k3UFl1RTB5SGY1eEM0V2p4VXFzTVNJWlpjeWs5TDFQV0JuWEdUN1lNMFZfSmRmbmNRYkdhQ2tlZtIB3AFBVV95cUxQU1NRNVI1Y0FYTkRPS0RPZjhrSjNaajFTckxRNlJUc1RvNTIzNTczMWtGaGdVeEJ6eWc1SU16VXpDWGpMMG9oVFhqZ2tRNTRVOTVQTnIyR3M0VG1EVVd5Sk9UMGhDTlBiVEV3WXoxQ205ekoyM0duWEEyNW1walE4d2F2N0MxSmFnbThhMGI3eWttUWpVOTJFa0VRSXpXS0pXOUxkSm1uc1FIejRMcWJUNjJrS0VTWjF4S0lRY0hWNzhnZXRwWFFnaTBMMlZMeTYxSWlnZDNhNFFtalVv?oc=5",
       "published": "2026-09-03T10:36:00.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "After Atlanta Paralegal Submitted Bar Complaint, Judge Grants Motion for Sanctions",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMklmWk5BY1FRNXZPUTFzSk4wNUpnNVFHMkZOcXlsMEx2aWx5aFpuNXBSaHkyR29TV2gxM3Q2Qkd6c0lBa1J6TmJBTm9xSXJTc0NHV25fYkJQTEJiQzhqbzY3RU03Zi10X3ZPbzJaalRrc3l1S3hlNHZ3U2kwYjI4V3p0blZlcjhfcWxXVzRHTllPZWFOYnpnNldwWUo1Yy12SHBnNnJVN2dBUzNCWEZ1WEZ6bXF0WXcyMEtmWUJCTEswTHh0QWNiOV9oYw?oc=5",
-      "published": "2026-09-02T18:53:33.000Z",
-      "feed": "injurylaw"
     },
     {
       "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
@@ -59,8 +45,15 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Atlanta Police recruit killed in crash identified",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
+      "published": "2026-09-01T18:21:22.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
       "published": "2026-09-01T17:59:00.000Z",
       "feed": "ga-roads"
@@ -94,13 +87,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
       "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
@@ -109,7 +95,7 @@
     },
     {
       "title": "Child airlifted to Atlanta hospital after head-on crash in Houston County",
-      "source": "13WMAZ",
+      "source": "WMAZ",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
       "published": "2026-08-31T01:08:00.000Z",
       "feed": "ga-roads"
@@ -123,7 +109,7 @@
     },
     {
       "title": "4 hurt in chain-reaction crash on Georgia Avenue in Montgomery County",
-      "source": "wjla.com",
+      "source": "WJLA",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWjZ5NlJrci15VTh2TVFSZEw1UHUyYnlESXlqR0hIM2otRi1iYXpwcHhOYnJodmUzbExSeWRnRnFwT1VTZFJub2xpRVBVZ2RzY2pKN3cwaVBMYWJmS3MyUVptUkp1UjRZUDJaZG5heVdmTTUzaGh1akZlbzRrM2ZFdHBPZEp1Y3NTTkphdHlMOEdJZldCVnhETGpDbk9CQUdHVk5NTUNyVTFNYTlhVFB4ME1MVHJNZlJxMEswSU01UGxpN2FIY3NJS0FQUlVIUmw0WUdvak5wR21XT3NVN21RVGU0dTYxTnpIOEZRM3NLcGdtRDlkaUdkR1hZd1NnRzhTYzVlTmlEVQ?oc=5",
       "published": "2026-08-30T13:40:18.000Z",
       "feed": "ga-roads"
@@ -136,32 +122,18 @@
       "feed": "ga-metro"
     },
     {
-      "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
-      "published": "2026-08-28T16:27:57.000Z",
-      "feed": "recalls"
+      "title": "Witness calls for more lights and warning signs after 4 pedestrians die on Atlanta interstates in 6 days",
+      "source": "cbsnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2o5NE1wQlBWYk1CRDFkZzludHJhLUpJSFBDUlU2MjMweTJrMjBzeElLcEY1VTJ3NDlNYU5ETmZuNmlVOEw0cTIzN1RISXVHNjhrU2d2d0pnNldMR0JIWUk4aE5ZYTMyLW1udVlHN3kyT09vX25yR001c0lGR2ZKbXItSDR0YzNTeWdLbzFicnBadHlhZ2NWMlhLRS0tTVc3aWxhNlk1SXM2V3lOczhUWWp4TzNQRlFC?oc=5",
+      "published": "2026-08-28T10:25:00.000Z",
+      "feed": "ga-metro"
     },
     {
-      "title": "Person hit, killed by vehicle on I-75/85; lanes reopen",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVFBVHd1ZjlfaWRENlhaN2FfRW1oS1prRTdwN0lOMk9DVnl1eVFEV0dwVWVxTkY1S3RMSkxfWDZsLW91cUszVVZscS1CM2dTcHVrTlRyZG9VdU50VVNLQ0NFaGJaMXQxdXRsRVM5dlVXczhSb3JhWEMycUlwckI2TXhjdUpvYTRPaGZhamRQNjBmOVU1WXZVN3JFcG5rTVXSAbMBQVVfeXFMTXhkUTJyMDNuUkh1WUJaNUFPTmdBVmRyT3hSNWxVbUdyUVNhU09BT1JTUWl2TlR1ekt3VWIwSnBWMmVmQkxxSEE4SmwyX0gxbTBkV0hGOHRQSENsNm1MbUtZWDZod2RXY1VDeWRxelFfd1JJNHdqTVB1ZnpWT3YwRnJtRWJQQkZDcjZzMEp4Z2ltM2xJMFduZmJTRGxmQXNrSXk5cEFiOXQwcFNKOUpNZzNtWXM?oc=5",
-      "published": "2026-08-27T20:57:12.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "NBC Montana",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
-      "published": "2026-08-26T12:29:26.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power Due to a Defective Driveshaft",
-      "source": "Car and Driver",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObVlORjNJZVVyYVZfZzFnNnpiamUySS1udnlTVURkQ0pHS0pVN2RsOXQxb2l4SkRmV1ByeTM3aERYRmJmZklvZFo3NWx4QXo1aW04TmZXdHVnYnczRXNXZ3B1TFJadjQ3UDBUeUdERG1wNDNXY29YdlRreVRaOFJkbGIwQW4xclJhTjFHcw?oc=5",
-      "published": "2026-08-21T07:00:00.000Z",
-      "feed": "recalls"
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T18:07:40.000Z",
+      "feed": "injurylaw"
     },
     {
       "title": "Beyond the speed limit: What real accident prevention looks like on today's roads",
