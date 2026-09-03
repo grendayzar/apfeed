@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T13:17:52.581Z",
+  "generated": "2026-09-03T13:34:59.442Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,84 +7,35 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 11,
+  "count": 4,
   "items": [
     {
-      "title": "Three lanes closed after crash on I-85 south in metro Atlanta",
-      "source": "95.5 WSB",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdTNk5fSG1HOU1zQW55UGl3SUZDdkJoeUFfWWJsUkNyQzNabVdOdVJwTm1qekZQenZHRzZNeERmOHpiTnNFNmdudEgyQ3JpeTFBQTB3dmdDejU1TTJ3d0VDZWdCNElzZHhLdDRNWGVYUFh1UU9qNG93OHZLTTlmRHJXS3BNM0NUSEZOUUJNbFJLcTU4VVEyUXNxNVJxY24zX1ZibTIwWDRmMEFBMS10SWEyRkp2UGRuMHVz0gHPAUFVX3lxTFBYZVhtd3A1QkkwcDJNUmI3cHJCdHRJSDB3WjNacEVwZHRfTGRRVHNZYTRDMURFdkJQdUlTanNMQURqSnBmaHBGb1UtUXpiOGk3SG9feGRpZjlBdzZXZE1ISkdkN0JSYWpYN3pZQm94SU1xZVNVcVhCZ2dHMk5aQXkxLVI1bEQ1cGZXbWt5VVJzcDBQcWxOdTQtUFRQazJ0eWxGQUx1eFltVVB5WG5HZFhRQWQteXBpcU5LRGhqM1lrcWc0UnhvQnhUNWJwMFluYw?oc=5",
-      "published": "2026-09-02T18:19:19.000Z",
-      "feed": "ga-roads"
+      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
+      "source": "Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
+      "published": "2026-08-31T13:37:35.000Z",
+      "feed": "us-safety"
     },
     {
-      "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
-      "published": "2026-09-02T17:56:00.000Z",
-      "feed": "ga-roads"
+      "title": "Illinois Records 423 Speeding Deaths in 2024 as US Speed-Related Toll Hits 11,288 Fatalities",
+      "source": "Nomad Lawyer",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1NQcXNmV0JWWmRzZW95LVQyNWFkbm43XzYxQS04TkJNLW1RcHV2S2JxUWs2UC1LRkpud3luQmo5MkpOX0lRY2l6c0RsZHgtdTZNRkY4T20tdlV4TlZPTHlZMzFsSkdqcUZUUWRrMlpnMnB3bmV0MHdUWlF1LWlDRXlFSFVPYmhxWkFva1dudw?oc=5",
+      "published": "2026-08-27T01:51:57.000Z",
+      "feed": "us-safety"
     },
     {
-      "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
-      "published": "2026-09-02T17:14:47.000Z",
-      "feed": "ga-roads"
+      "title": "LCSO increasing OWI enforcement ahead of Labor Day",
+      "source": "WKVI Information Center",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdXEzVXFJY29aR2Nzbm1NYy16OGZDMGp3M3lPWmNZTlNZUGh6T0RteGg5YXU1S0tFY05hTC1KX29Sa3ZqdFkzQU9qVkgzcEgtSnk5VnlXaHVWWVpMVUplTWE0c3VWT0h0YjhKVVgxd3RPU1dQdENOS3FVOThyMnZ3eEZB?oc=5",
+      "published": "2026-08-24T10:01:00.000Z",
+      "feed": "us-safety"
     },
     {
-      "title": "Former athlete killed in crash described as ‘model student’ by coach",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
-      "published": "2026-09-02T02:01:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
-      "published": "2026-09-01T17:59:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
-      "published": "2026-09-01T15:37:21.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Ford recalls 149,000 Mustangs in US over power loss, NHTSA says",
-      "source": "detroitnews.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXB2X3ZyZXZCV3llUUNlSkxhSEZNQTRWMThqbFRQOHJLZ2ZSUXFHT0Z2WlNiLUdvX0xENGlVNDZURld2NnZaeFo1V250MGEyeFpPSFRrek9WUWdjd2d2Q1dpXzc2QWdzZFBNYVFvbUlRR3ZnVWtUaEtDSHdYc2d0U19IY3ZPeGI1amo2ZXhleHlBU1N3d3RnNWxKZlQ1T3lQSDU4bHl2cmhkUG1Ic0xyUVJfVjAwajgtNDBGTnZ0T202azdwVUxOeg?oc=5",
-      "published": "2026-09-01T13:55:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "'Exact type of person we would want to be a police officer': APD recruit loses life in Atlanta motorcycle accident",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNmhxUHd5OEFjQnljdklBZ3hpdVZaanIyZzBWYXFQTUE3d0RkeWdCamNpY3JBUXNobDdXdHdqLTViczQxZHp2RGZPWkRvMDEwcjRXWk5pcVlqV2xJdVNDX1VIV2V6dXM0TzN2ZzBQVWhTQlQ2b0lzb2dpQmc0MGZhVHVXQ05jTFc5c01pbzE2SDJtU2lLNk92dlFEdDhodWkxQUQ3aVRfY2tnUVRJY3hMZTNLWUVNMzdnRG5UbzI4MU41M3EtX1dwX0pRVmotWm9kQ3JkMnRLMmdXdlY5X1NQUlZMTQ?oc=5",
-      "published": "2026-09-01T12:08:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Jeep, Ram and Chrysler recall hits 844,027 vehicles over camera issue",
-      "source": "NonStop Local KHQ",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnJzd1ducWptZVZ0YWliV0phY0trbmFBZ2JERHZiRnNPMmxxSXozZkcxZC1aa2l6amJJY2hCNTF1eElKdXF6VlFuNU9EOTZ2MFNHVExFd0JVVTU0ek1vaEpiSnE2R0dCNHpzYWJNQ0hkQ25hX2xfcHQyeTRvMVFWM0pwQVJsV3k0SFV3WjU3UHlpSUhsbUI1S1BvNTJWWDQwT0piY28zM0s4LTY0ZkdIa3pDSGlidVNuanNEMHJwMnAtMW5zX1JDc0lCZ0JmZ0tIbEFjM1o0MEtCNW8?oc=5",
-      "published": "2026-08-31T17:06:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Child airlifted to Atlanta hospital after head-on crash in Houston County",
-      "source": "WMAZ",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcVBQYzUyNFZoUTQ4RVYzNXp1R2ZPSkx5QzJ4ajNGQ1dZaFhqSzVDVlk0eWtTcXFyendvQV9SUDdHaVQ5dWprRnIwai1ESGlGS0M5ckQ2NHpOV2VmVVJyX0l3VHBrRGRLUGVad1hnZUYydHlqZnpUYWttZUQxelExS1JjNDdsTXRqaHdqWmRoeDVSOW44TUdxYm9ZUWExZkUwaFl2eUZKVllCUzdMTGxtVG9Yc3A5bmhLT19hS2VNS2pNZkc0UUtrcTg4bVUyeW9oMk5qQmIxTTRUVVU?oc=5",
-      "published": "2026-08-31T01:08:00.000Z",
-      "feed": "ga-roads"
+      "title": "Beyond the speed limit: What real accident prevention looks like on today's roads",
+      "source": "104.5 WOKV",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSm1LN1pnZmF0ZVJ2S2QyMVh4WlFVdEYxRG1qdmYyVHdBUUNnZ3l2Rm1QU1B4NkVTVHdtb3dLckJEMzhXUUQtbGRrbGpSTlJnaW1DRlR3UHE5RWUzVkthUmpRaGd5SDFNd2xMeXd4RjEtdTdmUnBJRzJSUGxmY2ZpT1RWVlB4d9IBmgFBVV95cUxPWVJVbHJVMUh6cmhKTUJxaTZDVGh5QmxPSW9sNGVzbXR2dUl4Qm5EdVhZNThwcFpGWDRRanVDWWNvODBjWXFHSnRrT0RSZllGOW40dW1PbFBBd1VpUktva083TFgwYzh2STljNVdMTVBObEZ1Yjh0TXRxNk9kMzM3TVh5dUpqTlVmQ0N3VmlqV0NYaG81MXpzdERR?oc=5",
+      "published": "2026-08-21T07:00:00.000Z",
+      "feed": "us-safety"
     }
   ]
 }
