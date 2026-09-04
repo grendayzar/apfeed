@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T15:34:32.724Z",
+  "generated": "2026-09-04T15:50:39.007Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -67,7 +67,7 @@
     },
     {
       "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
       "published": "2026-09-01T17:59:00.000Z",
       "feed": "ga-roads"
@@ -78,6 +78,13 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
       "published": "2026-09-01T13:25:45.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
+      "source": "FleetOwner",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
+      "published": "2026-09-01T12:27:50.000Z",
+      "feed": "recalls"
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
@@ -91,13 +98,6 @@
       "source": "The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
     },
     {
@@ -157,18 +157,18 @@
       "feed": "recalls"
     },
     {
-      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
-      "published": "2026-08-26T15:26:47.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T18:07:40.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
