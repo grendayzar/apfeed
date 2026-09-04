@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T17:15:05.865Z",
+  "generated": "2026-09-04T17:30:03.746Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -14,13 +14,6 @@
       "source": "Automotive World",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWpkR3VyM01ObjZhM3ZEeEdXVjFTNTFzbFkxWDRFemVyMXpUSFN2OHI0eEpSd3JaSklPUnZ6VXdBWkE5WUF5TXNTay1NbnNjR3pqNnUzQUZxckp0YmQzMWlDak1tM1hYWTFrbHd6ckRNVEdpV1h4N3poczBmWlR3b2hrQ3ZrTmRhRDRYZ3R4RkY1TDZpeHVYQw?oc=5",
       "published": "2026-09-04T04:35:29.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "‘Drive Sober or Get Pulled Over’ this Labor Day Weekend",
-      "source": "mycountylink.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdW05Nms4UHRtY2lUNmloX1VVSHdULVZkZnN6UTNROTJSNTJYWkI0ZHluNnVFZy00TTI1Rk94OF9PVEF5WmVEZEM1YzRpSGxXTEVPZDJWM3l6THNLR0lBSFN3U2hSS0VkRVRVX3otSnp2cFpLQlJMeUdlU25TTUt5bG1kUWd1Zw?oc=5",
-      "published": "2026-09-03T15:06:36.000Z",
       "feed": "us-safety"
     },
     {
@@ -169,6 +162,13 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Do traffic accidents increase during back-to-school season? What the data shows",
+      "source": "AOL.ca",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3pQSUpfNnhwVFBYczE5LTVrTjJLck1OWmdzajExOEVnaXUxSURzaFlDV1FjZklvZkR4Skc1X1FmVnludVpEVlVtYnpBdk0wc2d4Qkk0aUZIa2QzY1Z4WXU5Qnl3UmFPNWxzYUdRQ2ZYYlM0bWx0bHVRRVQweUxhY1BkQVUxRmRZ?oc=5",
+      "published": "2026-08-26T02:12:44.000Z",
+      "feed": "us-safety"
     }
   ]
 }
