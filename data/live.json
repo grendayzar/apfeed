@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T10:34:26.257Z",
+  "generated": "2026-09-04T10:51:12.721Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,7 +18,7 @@
     },
     {
       "title": "‘Drive Sober or Get Pulled Over’ this Labor Day Weekend",
-      "source": "My County Link",
+      "source": "mycountylink.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdW05Nms4UHRtY2lUNmloX1VVSHdULVZkZnN6UTNROTJSNTJYWkI0ZHluNnVFZy00TTI1Rk94OF9PVEF5WmVEZEM1YzRpSGxXTEVPZDJWM3l6THNLR0lBSFN3U2hSS0VkRVRVX3otSnp2cFpLQlJMeUdlU25TTUt5bG1kUWd1Zw?oc=5",
       "published": "2026-09-03T15:06:36.000Z",
       "feed": "us-safety"
@@ -95,7 +95,7 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "The News Journal",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -144,7 +144,7 @@
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T16:27:57.000Z",
       "feed": "recalls"
@@ -157,18 +157,18 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
-      "published": "2026-08-26T15:26:47.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "source": "law.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T18:07:40.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
