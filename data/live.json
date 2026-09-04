@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T05:15:36.741Z",
+  "generated": "2026-09-04T05:32:23.223Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "‘Drive Sober or Get Pulled Over’ this Labor Day Weekend",
-      "source": "My County Link",
+      "source": "mycountylink.com",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdW05Nms4UHRtY2lUNmloX1VVSHdULVZkZnN6UTNROTJSNTJYWkI0ZHluNnVFZy00TTI1Rk94OF9PVEF5WmVEZEM1YzRpSGxXTEVPZDJWM3l6THNLR0lBSFN3U2hSS0VkRVRVX3otSnp2cFpLQlJMeUdlU25TTUt5bG1kUWd1Zw?oc=5",
       "published": "2026-09-03T15:06:36.000Z",
       "feed": "us-safety"
@@ -101,13 +101,6 @@
       "feed": "injurylaw"
     },
     {
-      "title": "I-95 NB reopens in Glynn County after semi flips in crash with another tractor-trailer",
-      "source": "News4JAX",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdlJkeHI0c3NGd0hqa1BnUWxPajEySFlYNHVPSXM3R1Z6QjNFX2pJVkp4ZTVpeFhRVUFiRnlzZ2pjZ1VkOG1ONzNoNTV0NVhKTEFEYzdTbmxDcm5Dam90MVhsaW56cFMxM0pINFZuR2xfSURYYWZCeEtqeW1DX21jVU1QOGNITDJTdmxoX2RBZ3pxQ3JORHlwT21IVGFnaDZXVzRSUGMwakFwM3l4MV9CTllZMlhnb3VrY2VST0M3dGtMYXV6b1djMmNZcEo3dFpqcjM0NUxEdVJ3YWVMS3BtY3l4M2l2Mjg?oc=5",
-      "published": "2026-08-31T11:07:08.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "4 hurt in chain-reaction crash on Georgia Avenue in Montgomery County",
       "source": "WJLA",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWjZ5NlJrci15VTh2TVFSZEw1UHUyYnlESXlqR0hIM2otRi1iYXpwcHhOYnJodmUzbExSeWRnRnFwT1VTZFJub2xpRVBVZ2RzY2pKN3cwaVBMYWJmS3MyUVptUkp1UjRZUDJaZG5heVdmTTUzaGh1akZlbzRrM2ZFdHBPZEp1Y3NTTkphdHlMOEdJZldCVnhETGpDbk9CQUdHVk5NTUNyVTFNYTlhVFB4ME1MVHJNZlJxMEswSU01UGxpN2FIY3NJS0FQUlVIUmw0WUdvak5wR21XT3NVN21RVGU0dTYxTnpIOEZRM3NLcGdtRDlkaUdkR1hZd1NnRzhTYzVlTmlEVQ?oc=5",
@@ -143,18 +136,25 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Car crash in Atlanta sends 1 person to hospital",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUUhvMmpYUERibTdidGZ1bFJBU1NzZTdlMDBpSVVfMDcyc210b2p1YlJKTGFLMU5WU2d2N2JHT1BCcG5qVFk4dE04bkltcGhGX05TbmJhcldTOXlxV2hLMXNTUVJmQmRyVzFXOTktbUhQSkVLZDJVSzRUZG4wMEhLSHBZRWotdkFfOGdIZzFyR0RwXy1uNnh2eFpGQmJiZl91VkZaVEN6RVRSUVBTdWFMWmMySlktTEZyekJQM0F2QkZ5OFR2TnFvMVRWNHRoYUNkbjE2Mg?oc=5",
+      "published": "2026-08-28T08:47:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
+      "published": "2026-08-26T15:26:47.000Z",
+      "feed": "injurylaw"
+    },
+    {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T18:07:40.000Z",
-      "feed": "injurylaw"
     },
     {
       "title": "BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power Due to a Defective Driveshaft",
