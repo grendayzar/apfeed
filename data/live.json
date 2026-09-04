@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T09:17:01.654Z",
+  "generated": "2026-09-04T09:34:41.719Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 23,
   "items": [
+    {
+      "title": "NHTSA: banned Chinese air bag inflator kills 11th person",
+      "source": "automotiveworld.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSWpkR3VyM01ObjZhM3ZEeEdXVjFTNTFzbFkxWDRFemVyMXpUSFN2OHI0eEpSd3JaSklPUnZ6VXdBWkE5WUF5TXNTay1NbnNjR3pqNnUzQUZxckp0YmQzMWlDak1tM1hYWTFrbHd6ckRNVEdpV1h4N3poczBmWlR3b2hrQ3ZrTmRhRDRYZ3R4RkY1TDZpeHVYQw?oc=5",
+      "published": "2026-09-04T04:35:29.000Z",
+      "feed": "us-safety"
+    },
     {
       "title": "‘Drive Sober or Get Pulled Over’ this Labor Day Weekend",
       "source": "My County Link",
@@ -53,7 +60,7 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "abc7amarillo.com",
+      "source": "KVII",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
@@ -148,13 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNemM1R19hanZFbWtBNHR0c1JZekhyRXhvd1lHbXl4SzRvT2g2UXlJOGFpYXpZSGc5aU1zX0RaMFEwRXlIODUtRldKSF9IXzNlOTBlczhFa1F0YzBoWFBVbF9PQlU0cGNHYVRPNGVSSGxxd1FyRzMzbjNYNDZDdnNfRmx3?oc=5",
       "published": "2026-08-28T12:01:07.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Illinois Records 423 Speeding Deaths in 2024 as US Speed-Related Toll Hits 11,288 Fatalities",
-      "source": "Nomad Lawyer",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1NQcXNmV0JWWmRzZW95LVQyNWFkbm43XzYxQS04TkJNLW1RcHV2S2JxUWs2UC1LRkpud3luQmo5MkpOX0lRY2l6c0RsZHgtdTZNRkY4T20tdlV4TlZPTHlZMzFsSkdqcUZUUWRrMlpnMnB3bmV0MHdUWlF1LWlDRXlFSFVPYmhxWkFva1dudw?oc=5",
-      "published": "2026-08-27T01:51:57.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
