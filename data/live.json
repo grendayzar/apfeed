@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T20:33:02.836Z",
+  "generated": "2026-09-04T20:49:03.029Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 19,
+  "count": 23,
   "items": [
     {
       "title": "NHTSA: banned Chinese air bag inflator kills 11th person",
@@ -17,8 +17,15 @@
       "feed": "us-safety"
     },
     {
+      "title": "First Alert Traffic: Crash involving semi-truck shuts multiple lanes on I-285 north at I-20",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNm1rNHZseGxDdEZPOFBCNW4tZ1BiR09mOHFPdDRIMllMMjdRMlRIX053NEg0RnhRQzB0TlFMUlFyc2NKRkF2aDEyY2pLLXhodTY1UkQ0bkFWVHhCZzJzREhrOFA4VWVST3pJVks4R0RZVGM1ZVV0Zm1aMXVwMEtuQzVId2twOF81ay1tVW5qb3k3UFl1RTB5SGY1eEM0V2p4VXFzTVNJWlpjeWs5TDFQV0JuWEdUN1lNMFZfSmRmbmNRYkdhQ2tlZtIB3AFBVV95cUxQU1NRNVI1Y0FYTkRPS0RPZjhrSjNaajFTckxRNlJUc1RvNTIzNTczMWtGaGdVeEJ6eWc1SU16VXpDWGpMMG9oVFhqZ2tRNTRVOTVQTnIyR3M0VG1EVVd5Sk9UMGhDTlBiVEV3WXoxQ205ekoyM0duWEEyNW1walE4d2F2N0MxSmFnbThhMGI3eWttUWpVOTJFa0VRSXpXS0pXOUxkSm1uc1FIejRMcWJUNjJrS0VTWjF4S0lRY0hWNzhnZXRwWFFnaTBMMlZMeTYxSWlnZDNhNFFtalVv?oc=5",
+      "published": "2026-09-03T10:36:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Last conversation revealed as Atlanta father remembered at vigil after deadly crash",
-      "source": "WSB-TV",
+      "source": "wsbtv.com",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ0JKbk51SEFLOFJWdWVYOGJ3Y1g4Qm4xY3M0ZFVLbTlnNkttUDlpTjNfQmZQcWV3MUVFSGFNbExSSVpCbHpTQzZmbFAxd01qRkRlS2F0YzZLdVNHa1BuU0Z6ektSeXExVEQ0bWtQMFdQT2FRNFdFYWpuak9GUlZxd2NwcUtEcnRPNFVrQ1lhT1dRU0tZaTVFb0cxWk1ELXppcUYzOE9mQkdFX3FvUTlITjFOeUI5OUVsb19Edzh1MmMwYnlWc3JLWUZXb2d4eHBfVDBmY9IB6AFBVV95cUxOWk5lYzVwbURaSGZaYlJYdFhKdGctaVVzRGxzOFZTSGc0dFFtZENPSFYxcHNxemdKb3ctaHk2QmdpN3RKUndSb3o0MlBVUlpyZmphLW4tVHF2dHFjdllSNkFYTFZDUkZjQzFMWV9pdXMwS0VpVGFZa0lydlhiSzJBbUZWZ3ktbXd1UEF0ZmRCcU85cVZyZ0RYUnFJQldkZk52NjRvMVd0MkNHdlpOeXZCS0UyTWpDU0ZybmNLWTBxNXJuMXRUZF9oMGxzY1UwV2F6OUpuSlFaNUlMaHpsTWJxNjhKeEZvMTRT?oc=5",
       "published": "2026-09-03T05:18:33.000Z",
       "feed": "ga-roads"
@@ -81,14 +88,14 @@
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
-      "source": "FinancialContent",
+      "source": "financialcontent.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
       "published": "2026-09-01T00:01:00.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "The News Journal",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -115,11 +122,32 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
+      "published": "2026-08-30T09:26:16.000Z",
+      "feed": "ga-metro"
+    },
+    {
+      "title": "Driver seriously injured in single-vehicle crash on I-75 in Cobb County",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUi1zTE9kSzNYdDFZNGpkNG53NXh5N2RKa3hvSzB0UjBqMEQtQUZURVk1UFlkQ3RseE5DWFlmVzkxRjYwemNKZmhFZnFxNjctU1RIcjZkbmg0WUZwbWltRmROcm1xYXdEVXB1UEEzYzhHZ3pqTWxNUWlUMDloX2kwSzVEYnlzb013ZHpKMzJ0aWJ4MUJmTTFVUkhqdw?oc=5",
+      "published": "2026-08-29T23:15:44.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Surveillance video shows the moment a pickup truck slammed into a flatbed truck, killing one driver.",
       "source": "facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0puMElRZVlxeEpjT0I4c1hZWUFQdEs4LVVacExlVTJscFJtMnE3ODJDcTJWTThTMzN3UHBCRFdUZV9oM3JyOExxeFA4LWVMbFBOU3hobkc0NU9ieGlKYkJfejBjT051TTdYbTM2TTFsQVMxLVFsQ2c5VWNkQlZnWERRZUR4aEg1aTNIcDZ6V0NRMXZyN0NYWG9CcjBMeFN3Sktpd20wY3VNUm0wMnZLdHNVdkQzNFE5SUZPZ3FrWnUxQk1ON0tNN0NFTTVFQ0EzZW10VEFEV1ZmWkx2Vzhz?oc=5",
       "published": "2026-08-29T19:25:04.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Car hauler leaves I-75, crashes into trees",
+      "source": "wsbtv.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFBtMGRDY1YwVkR6cGVIYVMwTGlZdlY0OGcwUDJBME9OZk1NX1RjVy1vbnBvdjZsblR0WjUzcWJrRWp4cWpjQUVjZVVGcGVTNjhmc0FiU29TZ2Jzbl9wTllQU3RrTkF4eHJ3TXRJQjFvVVZTYVlEWWRiOHBMR1IyME53Q0tRdHY2Qm80aFFyOWo5MVBqTkxSSEFULTJQSDQ4eHhBVkE5czYxTDJId2Z6RGF5eUHSAcgBQVVfeXFMTUVKUUdLUXozOXQwSjgtSVgtUVlHT3o3Zk1HXzcxbi1LNEFIcmR6Wi1RWlBxa2hORVJweGxxaW9GSkI3d2hSMGtYRG54bVpIeFpFZFVheGp0T0Zfa1JyX3JJY3VNc1VnY29KQVRyZ3lyUWdUcEg2M19oZHVNSDFhVDFrY0RLRl9nS2g0dHFMV21mYWt0UUt6WWFoNF9RY19VMnI3cEgzanNoeVI2ZlBPbjk5YXIxNllpamVLNXN2SkFtVThqR2x4ai0?oc=5",
+      "published": "2026-08-29T13:44:52.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
@@ -129,18 +157,18 @@
       "feed": "recalls"
     },
     {
+      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
+      "published": "2026-08-26T15:26:47.000Z",
+      "feed": "injurylaw"
+    },
+    {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "nbcmontana.com",
+      "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T18:07:40.000Z",
-      "feed": "injurylaw"
     }
   ]
 }
