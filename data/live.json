@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T13:17:01.617Z",
+  "generated": "2026-09-04T13:34:15.930Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -80,13 +80,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "fleetowner.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
-      "published": "2026-09-01T12:27:50.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
       "source": "FinancialContent",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
@@ -95,9 +88,16 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "KIRO 7 News Seattle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "title": "4 hurt in chain-reaction crash on Georgia Avenue in Montgomery County",
-      "source": "WJLA",
+      "source": "wjla.com",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNWjZ5NlJrci15VTh2TVFSZEw1UHUyYnlESXlqR0hIM2otRi1iYXpwcHhOYnJodmUzbExSeWRnRnFwT1VTZFJub2xpRVBVZ2RzY2pKN3cwaVBMYWJmS3MyUVptUkp1UjRZUDJaZG5heVdmTTUzaGh1akZlbzRrM2ZFdHBPZEp1Y3NTTkphdHlMOEdJZldCVnhETGpDbk9CQUdHVk5NTUNyVTFNYTlhVFB4ME1MVHJNZlJxMEswSU01UGxpN2FIY3NJS0FQUlVIUmw0WUdvak5wR21XT3NVN21RVGU0dTYxTnpIOEZRM3NLcGdtRDlkaUdkR1hZd1NnRzhTYzVlTmlEVQ?oc=5",
       "published": "2026-08-30T13:40:18.000Z",
       "feed": "ga-roads"
@@ -151,7 +151,7 @@
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T16:27:57.000Z",
       "feed": "recalls"
