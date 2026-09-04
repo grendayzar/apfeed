@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T23:48:31.602Z",
+  "generated": "2026-09-04T00:24:42.832Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
-      "source": "24-7PressRelease.com",
+      "source": "24-7 Press Release Newswire",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
       "published": "2026-09-02T18:52:27.000Z",
       "feed": "injurylaw"
@@ -53,7 +53,7 @@
     },
     {
       "title": "Atlanta Police recruit killed in crash identified",
-      "source": "WSB-TV",
+      "source": "wsbtv.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
       "published": "2026-09-01T18:21:22.000Z",
       "feed": "ga-roads"
@@ -115,6 +115,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
+      "published": "2026-08-30T09:26:16.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Driver seriously injured in single-vehicle crash on I-75 in Cobb County",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUi1zTE9kSzNYdDFZNGpkNG53NXh5N2RKa3hvSzB0UjBqMEQtQUZURVk1UFlkQ3RseE5DWFlmVzkxRjYwemNKZmhFZnFxNjctU1RIcjZkbmg0WUZwbWltRmROcm1xYXdEVXB1UEEzYzhHZ3pqTWxNUWlUMDloX2kwSzVEYnlzb013ZHpKMzJ0aWJ4MUJmTTFVUkhqdw?oc=5",
@@ -123,7 +130,7 @@
     },
     {
       "title": "Car hauler leaves I-75, crashes into trees",
-      "source": "WSB-TV",
+      "source": "wsbtv.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFBtMGRDY1YwVkR6cGVIYVMwTGlZdlY0OGcwUDJBME9OZk1NX1RjVy1vbnBvdjZsblR0WjUzcWJrRWp4cWpjQUVjZVVGcGVTNjhmc0FiU29TZ2Jzbl9wTllQU3RrTkF4eHJ3TXRJQjFvVVZTYVlEWWRiOHBMR1IyME53Q0tRdHY2Qm80aFFyOWo5MVBqTkxSSEFULTJQSDQ4eHhBVkE5czYxTDJId2Z6RGF5eUHSAcgBQVVfeXFMTUVKUUdLUXozOXQwSjgtSVgtUVlHT3o3Zk1HXzcxbi1LNEFIcmR6Wi1RWlBxa2hORVJweGxxaW9GSkI3d2hSMGtYRG54bVpIeFpFZFVheGp0T0Zfa1JyX3JJY3VNc1VnY29KQVRyZ3lyUWdUcEg2M19oZHVNSDFhVDFrY0RLRl9nS2g0dHFMV21mYWt0UUt6WWFoNF9RY19VMnI3cEgzanNoeVI2ZlBPbjk5YXIxNllpamVLNXN2SkFtVThqR2x4ai0?oc=5",
       "published": "2026-08-29T13:44:52.000Z",
       "feed": "ga-metro"
@@ -136,18 +143,18 @@
       "feed": "recalls"
     },
     {
-      "title": "Witness calls for more lights and warning signs after 4 pedestrians die on Atlanta interstates in 6 days",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ2o5NE1wQlBWYk1CRDFkZzludHJhLUpJSFBDUlU2MjMweTJrMjBzeElLcEY1VTJ3NDlNYU5ETmZuNmlVOEw0cTIzN1RISXVHNjhrU2d2d0pnNldMR0JIWUk4aE5ZYTMyLW1udVlHN3kyT09vX25yR001c0lGR2ZKbXItSDR0YzNTeWdLbzFicnBadHlhZ2NWMlhLRS0tTVc3aWxhNlk1SXM2V3lOczhUWWp4TzNQRlFC?oc=5",
-      "published": "2026-08-28T10:25:00.000Z",
-      "feed": "ga-metro"
-    },
-    {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T18:07:40.000Z",
+      "feed": "injurylaw"
     },
     {
       "title": "BMW Recalls 27,720 Cars That Could Roll Away or Lose Rear-Wheel Power Due to a Defective Driveshaft",
@@ -162,13 +169,6 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSm1LN1pnZmF0ZVJ2S2QyMVh4WlFVdEYxRG1qdmYyVHdBUUNnZ3l2Rm1QU1B4NkVTVHdtb3dLckJEMzhXUUQtbGRrbGpSTlJnaW1DRlR3UHE5RWUzVkthUmpRaGd5SDFNd2xMeXd4RjEtdTdmUnBJRzJSUGxmY2ZpT1RWVlB4d9IBmgFBVV95cUxPWVJVbHJVMUh6cmhKTUJxaTZDVGh5QmxPSW9sNGVzbXR2dUl4Qm5EdVhZNThwcFpGWDRRanVDWWNvODBjWXFHSnRrT0RSZllGOW40dW1PbFBBd1VpUktva083TFgwYzh2STljNVdMTVBObEZ1Yjh0TXRxNk9kMzM3TVh5dUpqTlVmQ0N3VmlqV0NYaG81MXpzdERR?oc=5",
       "published": "2026-08-21T07:00:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
-      "source": "Law360",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
-      "published": "2026-08-17T20:41:00.000Z",
-      "feed": "injurylaw"
     }
   ]
 }
