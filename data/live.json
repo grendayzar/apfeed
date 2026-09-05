@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T23:14:23.677Z",
+  "generated": "2026-09-05T23:29:15.170Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Traffic Alert: Crash causing delays on I-285 eastbound in DeKalb County",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYVBOaS1COXpvMG9sTkJwRW9ncTZCWG1rd0xLQThxZDVFNTJMM3BxUlRLWlNUQThKRHNKWUo0MmFKWnZWTzAyTDJxTU9RU3dWanRNSWFRTERybE5WSkZUMDNvUi1zYmstNzktZ3RIYm1nZTd6bzk2eDV1QjJKZzhFWklIeVI0NWZmMldNbGdwUnE3MllFWm80dGxTQUJvdWdJbU1RbGNndF9oOGVnOUU5Ulh0MmFFeVhhWkgtU1JVV3ZUT1REbkxMQWlmcE1tQTM1TUNndGZxY1FsVDNfcENjVmxmU0Y?oc=5",
+      "published": "2026-09-03T10:57:00.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "First Alert Traffic: Crash involving semi-truck shuts multiple lanes on I-285 north at I-20",
@@ -73,6 +80,13 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Here is your guide to metro Atlanta road projects this week",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWIyYnF1RmFSLVdIQVBkV3JQQzZ1VTVQb1QwNjN3R1Q3R3ZsYnFoOEs1aHdHc1ZpY3A3N1djeHc3MHZyV2syOWR1ZVcwbnZUSW5NMlhjX2h6alc0RkVtUzdoXzBDbkR5VUN6elRqYVN2anR3bFdaNS1QZjdYUjlzR1E4c2ptSW12UmpyYg?oc=5",
+      "published": "2026-08-31T23:25:53.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
       "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
@@ -108,24 +122,10 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Lanes reopen on I-285 south after crash involving overturned vehicle",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOHA5MkNMNDdCM2V0QUxGSU9aMk55N3dmM2dMOENpeUE0ekg0UEhZYzh4eGRfLWR1cVhiLXpKNUo2Q2tsR3BReVBpMUdZd2F4TTZzUnB0UUp2LTJVZEt0WEt3YVZITUl3YTh2UVBjaElKRktuVjNJVVFmN3BodXZqUkQ2VnNzUXA4VG9CUEpidkg1dTE4dUZsdHNUOEJXUQ?oc=5",
-      "published": "2026-08-30T12:01:00.000Z",
-      "feed": "ga-metro"
-    },
-    {
       "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
       "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
       "published": "2026-08-30T09:26:16.000Z",
-      "feed": "ga-metro"
-    },
-    {
-      "title": "Driver seriously injured in single-vehicle crash on I-75 in Cobb County",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUi1zTE9kSzNYdDFZNGpkNG53NXh5N2RKa3hvSzB0UjBqMEQtQUZURVk1UFlkQ3RseE5DWFlmVzkxRjYwemNKZmhFZnFxNjctU1RIcjZkbmg0WUZwbWltRmROcm1xYXdEVXB1UEEzYzhHZ3pqTWxNUWlUMDloX2kwSzVEYnlzb013ZHpKMzJ0aWJ4MUJmTTFVUkhqdw?oc=5",
-      "published": "2026-08-29T23:15:44.000Z",
       "feed": "ga-metro"
     },
     {
