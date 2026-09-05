@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T09:15:26.055Z",
+  "generated": "2026-09-05T09:31:04.027Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -22,6 +22,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOURYaDNRX2plbkxGYy1oS3hDdWZDSEh5VjAyS0w1R1RoUlNSaFE1bGNXV3RWUWt6Mmlub013TUM4YXhVWF9MN3dPOXBMREtEblpFd0dBSkdQd1otU0pjSFlwZWppRlR4WGo1bnllRTVzQTROVzJCN0t6UGVWU3hRcGxPMy1rQVRPZnliT1RqcVNHVXFCOS1oejY4cDN1RUZrSHl0cVN6QjFKMy1tX3VRRFRwMGMzek9kaTk3QkRpeXU?oc=5",
       "published": "2026-09-04T01:47:00.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "How Prior DUI Convictions Affect New Charges",
+      "source": "Robotics & Automation News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa0VuY0VYbWZYaW55SkFocS1lR0VJOHlGdGhGNV9lQzQ4Sl8zZFJ0TDB6Xy1ZZWFUMUN1bk1hdFhkeU9RNE9sSVpScnFUUHYzamhhWlV3NjN4eXRBTUZrQnB5dTRjbTVCeXZPQ2NMbVRnZ0FrYldMdkYzRWxrbVpuY0dqcmZvVHYzd0V5ZTlqX3ZhdjRTdFJ6aXZoZmxVRHZpbFEw?oc=5",
+      "published": "2026-09-03T11:22:11.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "First Alert Traffic: Crash involving semi-truck shuts multiple lanes on I-285 north at I-20",
@@ -67,10 +74,17 @@
     },
     {
       "title": "Atlanta police recruit dies in Moreland Avenue crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
       "published": "2026-09-01T13:25:45.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
+      "source": "FleetOwner",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
+      "published": "2026-09-01T12:27:50.000Z",
+      "feed": "recalls"
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
@@ -81,10 +95,17 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
+      "source": "Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOWERTSWFMa2s2eXhCd0ZISVdqNlZ5T21yWENYaXZYLU12cVlSOE5vMFFzMWplYjlVbTFyZm1ic2F6blpCa01uMENGZ3hGYTU5eUszVEVlaWhLYUFfLVV1LWpJakxEcTFYSFVTNHdhcGtDaXB5dk54SFdBeUNoSG1vN1NMdEZjMUNJQ0xSQU13c2otS2tkdnBuM0J2NmJhVzVfeHAxY2U0emcwcFFfaC1CNkRaNTBoOGVTajhKaHJ6d3Q4WWZ4d2c3eU5saV9JVEFOMFVRY3c0RjkxektwNFFmaTRJYnRvVmxxZzl4cWJpX1JSU1ViWXNZSTV3QWxzdTRidkRtVDZB?oc=5",
+      "published": "2026-08-31T13:37:35.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
@@ -94,15 +115,8 @@
       "feed": "recalls"
     },
     {
-      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkNkNF9xdnItM0U5T2FOWWNNMjVVcE95YTA4NUZadl9Ub2pqS1FoSFlXbjA4a29NbVIyN2dBZFljMnpRZDFldmwzMURBbnZ2SjNkRDh6bjdjS05SM1lVVzNrNWJBODhuWDVDay0zM1ZEYWRXTkdFSGxNYkpUTlJfTDk2SXZlZGhpMGJ4MXZpdDdkMDMtb0Z3TzdNdmtockN6MURKaEl4Z2tnRzkzS2F5TEpSNlpreVdIbVg5OVdDZEFIdVZWR0NUSi1kajNKVHFqNTNuMDF3MGhaX1RjaW1QUWxrQ2dvQU1ZcE55LXN6UWlmaGhHVm9vMGxtbjduWFE?oc=5",
-      "published": "2026-08-31T13:06:00.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "The National Law Review",
+      "source": "natlawreview.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
@@ -116,24 +130,17 @@
     },
     {
       "title": "Behind the scenes on a tragic morning of gridlocked Atlanta traffic",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTFBfN0dUTDBIblpLc25yY0xkTnJwRWNWd0JpeER6NFczQnYtZzZtYXZMZjhCdDBwQTZwT2xyVXBKa1prRXk2ZG5Gc0dBMFN6TXNSdGVRTlpxODVSQWRCRUdXdXZ0c0pRV0VnS01XRjBTTEp2UjFGdVMzRnplTXVUOHE3dHFjcFpQaXU4MG13TElBTEt2X3NabGNDWkoyeWdkU0RFcVZRSVdZVE0?oc=5",
       "published": "2026-08-30T09:26:16.000Z",
       "feed": "ga-metro"
     },
     {
       "title": "Driver seriously injured in single-vehicle crash on I-75 in Cobb County",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUi1zTE9kSzNYdDFZNGpkNG53NXh5N2RKa3hvSzB0UjBqMEQtQUZURVk1UFlkQ3RseE5DWFlmVzkxRjYwemNKZmhFZnFxNjctU1RIcjZkbmg0WUZwbWltRmROcm1xYXdEVXB1UEEzYzhHZ3pqTWxNUWlUMDloX2kwSzVEYnlzb013ZHpKMzJ0aWJ4MUJmTTFVUkhqdw?oc=5",
       "published": "2026-08-29T23:15:44.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Surveillance video shows the moment a pickup truck slammed into a flatbed truck, killing one driver.",
-      "source": "facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0puMElRZVlxeEpjT0I4c1hZWUFQdEs4LVVacExlVTJscFJtMnE3ODJDcTJWTThTMzN3UHBCRFdUZV9oM3JyOExxeFA4LWVMbFBOU3hobkc0NU9ieGlKYkJfejBjT051TTdYbTM2TTFsQVMxLVFsQ2c5VWNkQlZnWERRZUR4aEg1aTNIcDZ6V0NRMXZyN0NYWG9CcjBMeFN3Sktpd20wY3VNUm0wMnZLdHNVdkQzNFE5SUZPZ3FrWnUxQk1ON0tNN0NFTTVFQ0EzZW10VEFEV1ZmWkx2Vzhz?oc=5",
-      "published": "2026-08-29T19:25:04.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Car hauler leaves I-75, crashes into trees",
@@ -151,21 +158,14 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
     },
     {
-      "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "NBC Montana",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
-      "published": "2026-08-26T12:29:26.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
       "published": "2026-08-24T18:07:40.000Z",
       "feed": "injurylaw"
