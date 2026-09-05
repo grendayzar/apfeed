@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T08:49:07.949Z",
+  "generated": "2026-09-05T09:15:26.055Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
+      "source": "abc7amarillo.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
@@ -67,21 +67,21 @@
     },
     {
       "title": "Atlanta police recruit dies in Moreland Avenue crash",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
       "published": "2026-09-01T13:25:45.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
-      "source": "financialcontent.com",
+      "source": "FinancialContent",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOb0poUmMxdzhNeGlsLWxFUUp2MDN4LVNRTl9oQnRhYTFPa0JxMmlWdW9tS05aR0tVQkFlU2ttRGZNTHNzYU1WLU0zeDNHcDNBSDZpZDFScGJrbmdzTm9lTE9aLWRrS0JzbGxvWjFmTUNCWU43TTBrTHpWYmh6UldLdVBUSTY5MW5IV0VnOUZRYW8wQVJCUE03YkpSSHphQklnQnU5am1sSzVOcmZTd2kxcm1BbGdra0RzV0JfMVRSb3gxUTRkbDBGRHl0TDdTdmhnTzNpd2tobjRhWmM1SDJsTjJnZEFsSUVkdVc2dFpRelNKdjEySDJ6Y1NTYldfdw?oc=5",
       "published": "2026-09-01T00:01:00.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -123,7 +123,7 @@
     },
     {
       "title": "Driver seriously injured in single-vehicle crash on I-75 in Cobb County",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUi1zTE9kSzNYdDFZNGpkNG53NXh5N2RKa3hvSzB0UjBqMEQtQUZURVk1UFlkQ3RseE5DWFlmVzkxRjYwemNKZmhFZnFxNjctU1RIcjZkbmg0WUZwbWltRmROcm1xYXdEVXB1UEEzYzhHZ3pqTWxNUWlUMDloX2kwSzVEYnlzb013ZHpKMzJ0aWJ4MUJmTTFVUkhqdw?oc=5",
       "published": "2026-08-29T23:15:44.000Z",
       "feed": "ga-metro"
@@ -144,7 +144,7 @@
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T16:27:57.000Z",
       "feed": "recalls"
@@ -158,14 +158,14 @@
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "nbcmontana.com",
+      "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
     },
     {
       "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
       "published": "2026-08-24T18:07:40.000Z",
       "feed": "injurylaw"
