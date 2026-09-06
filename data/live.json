@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T22:31:16.681Z",
+  "generated": "2026-09-06T22:48:41.599Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Student, instructor critically hurt in small plane crash in Paulding County",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOURYaDNRX2plbkxGYy1oS3hDdWZDSEh5VjAyS0w1R1RoUlNSaFE1bGNXV3RWUWt6Mmlub013TUM4YXhVWF9MN3dPOXBMREtEblpFd0dBSkdQd1otU0pjSFlwZWppRlR4WGo1bnllRTVzQTROVzJCN0t6UGVWU3hRcGxPMy1rQVRPZnliT1RqcVNHVXFCOS1oejY4cDN1RUZrSHl0cVN6QjFKMy1tX3VRRFRwMGMzek9kaTk3QkRpeXU?oc=5",
+      "published": "2026-09-04T01:47:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Traffic Alert: Crash causing delays on I-285 eastbound in DeKalb County",
@@ -36,20 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ0JKbk51SEFLOFJWdWVYOGJ3Y1g4Qm4xY3M0ZFVLbTlnNkttUDlpTjNfQmZQcWV3MUVFSGFNbExSSVpCbHpTQzZmbFAxd01qRkRlS2F0YzZLdVNHa1BuU0Z6ektSeXExVEQ0bWtQMFdQT2FRNFdFYWpuak9GUlZxd2NwcUtEcnRPNFVrQ1lhT1dRU0tZaTVFb0cxWk1ELXppcUYzOE9mQkdFX3FvUTlITjFOeUI5OUVsb19Edzh1MmMwYnlWc3JLWUZXb2d4eHBfVDBmY9IB6AFBVV95cUxOWk5lYzVwbURaSGZaYlJYdFhKdGctaVVzRGxzOFZTSGc0dFFtZENPSFYxcHNxemdKb3ctaHk2QmdpN3RKUndSb3o0MlBVUlpyZmphLW4tVHF2dHFjdllSNkFYTFZDUkZjQzFMWV9pdXMwS0VpVGFZa0lydlhiSzJBbUZWZ3ktbXd1UEF0ZmRCcU85cVZyZ0RYUnFJQldkZk52NjRvMVd0MkNHdlpOeXZCS0UyTWpDU0ZybmNLWTBxNXJuMXRUZF9oMGxzY1UwV2F6OUpuSlFaNUlMaHpsTWJxNjhKeEZvMTRT?oc=5",
       "published": "2026-09-03T05:18:33.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Motorcycle crash on I-85 southbound leaves 1 dead",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdUh5WTVET1RTMXgxamZiVVAxSnFMUnhTV3hxeEhqSTNJSmZ4ZktDYWd1ckI0X3AtS004R0VGVWVBQlFGN0dYMkR5Wm1DYmxLZnU1WE55ejI3UjBCVl9BTFdkckNIbGxkZzZvTXQzM0lkVGRWemZYX2E4OFh6aHVBRnNjSE83ODhBa0RPOERibVlDNVdNbFZNNzBJS0s4czlqeGMxSmVELTRMU3N5QzVZRmxiVW1rNnh4NU5mWDlHTnpvNWNVLTJVai12NURta3lTRWZmX1pvN3o2Tm5yYURhRnRyUQ?oc=5",
-      "published": "2026-09-02T19:12:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
-      "source": "24-7 Press Release Newswire",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
-      "published": "2026-09-02T18:52:27.000Z",
-      "feed": "injurylaw"
     },
     {
       "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
@@ -169,6 +162,13 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzR3T21zTHUzMzBiMUZmR1phS1E0djA3V3pfbngzWHBDUTBiLWxrSWZPcVozVTRjbXRiS0hQQUhvX0V2d0t3ZWtVOEtxVG1hS09wclA0OUtsb2c0Q1MwdmxOWkZWbE9ZNnBHR0VLbTJ1TS1ZMHpxWS1qdWxvbDdhMjZmMlEzcmZfTVVNVlJsLUFfRTJHekhIUUVJR3Y3aW9rUmVRc2RwN2NDOERCS3Fj?oc=5",
       "published": "2026-08-24T07:00:00.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Personal Injury Plaintiff Can't Kick Judge Off Crash Case",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFZ1UE1hdmFoZHh5LVJhZThvaWFlYUw2TmhoeVhaUDg2U2VXeldWTWVsZE9aREw2QXJuYXd6YllMdWtodEN0UE5Yb2lqZTJCZlk5cW50dUZadlo5Zktvb2s3b0MyTTFGVkNsR2dCYjBCZTluNDRncEt2ZnlUQWo2QTFadDZEelVlaHNCb1lISWZhUGVIOERvOGRUTGNNZ9IBVkFVX3lxTFBic2c3SHlRMXpNbzJhM29RaTQ3TWk2aVlWdlhLNG9Zd3V5V0V5d19hTUNab25IR3VtTmxyZjljRlJSTFpEM05FWW9BVldrbDc5cjF3ZFJB?oc=5",
+      "published": "2026-08-17T20:41:00.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
