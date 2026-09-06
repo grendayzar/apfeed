@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T07:49:07.750Z",
+  "generated": "2026-09-06T08:17:33.304Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,13 +15,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Student, instructor critically hurt in small plane crash in Paulding County",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOURYaDNRX2plbkxGYy1oS3hDdWZDSEh5VjAyS0w1R1RoUlNSaFE1bGNXV3RWUWt6Mmlub013TUM4YXhVWF9MN3dPOXBMREtEblpFd0dBSkdQd1otU0pjSFlwZWppRlR4WGo1bnllRTVzQTROVzJCN0t6UGVWU3hRcGxPMy1rQVRPZnliT1RqcVNHVXFCOS1oejY4cDN1RUZrSHl0cVN6QjFKMy1tX3VRRFRwMGMzek9kaTk3QkRpeXU?oc=5",
-      "published": "2026-09-04T01:47:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Lanes reopen on I-285 at I-20 after crash involving semi-truck",
@@ -53,9 +46,16 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
+      "source": "abc7amarillo.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Clay County man, 13-year-old passenger from Georgia die in ATV crash",
+      "source": "WBRC",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ2xXcnJ3Z3NiQVdWRGtUdmd5QU8zU1E4eDFqdXREXzVlSHQ4RXdCNS1yYzhhT0lhc1lrZHZQQWhmeEx2d3BtNWVWMklQZ1lqelZPa0VlMURiV2VoMnRSYllWZTRBcTc2eTJhbnNWWTVjTmdIN25RR1lYT1BTWFBCbkdmaUJxRnN4YWIxbjd4UV9xSHhiRHpB?oc=5",
+      "published": "2026-09-01T18:09:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "NBC Montana",
+      "source": "nbcmontana.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
