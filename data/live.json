@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T06:20:26.458Z",
+  "generated": "2026-09-06T06:52:47.761Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
+      "source": "wgnsradio.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
@@ -24,7 +24,7 @@
       "feed": "ga-roads"
     },
     {
-      "title": "First Alert Traffic: Crash involving semi-truck shuts multiple lanes on I-285 north at I-20",
+      "title": "Lanes reopen on I-285 at I-20 after crash involving semi-truck",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNm1rNHZseGxDdEZPOFBCNW4tZ1BiR09mOHFPdDRIMllMMjdRMlRIX053NEg0RnhRQzB0TlFMUlFyc2NKRkF2aDEyY2pLLXhodTY1UkQ0bkFWVHhCZzJzREhrOFA4VWVST3pJVks4R0RZVGM1ZVV0Zm1aMXVwMEtuQzVId2twOF81ay1tVW5qb3k3UFl1RTB5SGY1eEM0V2p4VXFzTVNJWlpjeWs5TDFQV0JuWEdUN1lNMFZfSmRmbmNRYkdhQ2tlZtIB3AFBVV95cUxQU1NRNVI1Y0FYTkRPS0RPZjhrSjNaajFTckxRNlJUc1RvNTIzNTczMWtGaGdVeEJ6eWc1SU16VXpDWGpMMG9oVFhqZ2tRNTRVOTVQTnIyR3M0VG1EVVd5Sk9UMGhDTlBiVEV3WXoxQ205ekoyM0duWEEyNW1walE4d2F2N0MxSmFnbThhMGI3eWttUWpVOTJFa0VRSXpXS0pXOUxkSm1uc1FIejRMcWJUNjJrS0VTWjF4S0lRY0hWNzhnZXRwWFFnaTBMMlZMeTYxSWlnZDNhNFFtalVv?oc=5",
       "published": "2026-09-03T10:36:00.000Z",
@@ -67,7 +67,7 @@
     },
     {
       "title": "Atlanta police recruit dies in Moreland Avenue crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
       "published": "2026-09-01T13:25:45.000Z",
       "feed": "ga-roads"
@@ -81,7 +81,7 @@
     },
     {
       "title": "Here is your guide to metro Atlanta road projects this week",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWIyYnF1RmFSLVdIQVBkV3JQQzZ1VTVQb1QwNjN3R1Q3R3ZsYnFoOEs1aHdHc1ZpY3A3N1djeHc3MHZyV2syOWR1ZVcwbnZUSW5NMlhjX2h6alc0RkVtUzdoXzBDbkR5VUN6elRqYVN2anR3bFdaNS1QZjdYUjlzR1E4c2ptSW12UmpyYg?oc=5",
       "published": "2026-08-31T23:25:53.000Z",
       "feed": "ga-metro"
