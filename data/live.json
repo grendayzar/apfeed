@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T08:50:26.314Z",
+  "generated": "2026-09-06T09:16:27.960Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -14,6 +14,13 @@
       "source": "WGNS Radio",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
+      "feed": "us-safety"
+    },
+    {
+      "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
+      "source": "Road & Track",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
+      "published": "2026-09-04T16:04:00.000Z",
       "feed": "us-safety"
     },
     {
@@ -71,13 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
       "published": "2026-09-01T13:25:45.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "FleetOwner",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
-      "published": "2026-09-01T12:27:50.000Z",
-      "feed": "recalls"
     },
     {
       "title": "Theodore A. Spaulding, Atlanta Personal Injury Attorney, Publishes The Atlanta Car Accident Claim Handbook",
@@ -157,18 +157,18 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
+      "source": "NBC Montana",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
+      "published": "2026-08-26T12:29:26.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "What's Going on With Georgia's State-Wide Business Court?",
       "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
       "published": "2026-08-24T18:07:40.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "PENNSYLVANIA ROUNDUP: PennDOT warns drivers ahead of Labor Day weekend",
-      "source": "timesleader.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQzR3T21zTHUzMzBiMUZmR1phS1E0djA3V3pfbngzWHBDUTBiLWxrSWZPcVozVTRjbXRiS0hQQUhvX0V2d0t3ZWtVOEtxVG1hS09wclA0OUtsb2c0Q1MwdmxOWkZWbE9ZNnBHR0VLbTJ1TS1ZMHpxWS1qdWxvbDdhMjZmMlEzcmZfTVVNVlJsLUFfRTJHekhIUUVJR3Y3aW9rUmVRc2RwN2NDOERCS3Fj?oc=5",
-      "published": "2026-08-24T07:00:00.000Z",
-      "feed": "us-safety"
     }
   ]
 }
