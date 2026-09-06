@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-06T23:30:01.749Z",
+  "generated": "2026-09-06T23:48:44.860Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,15 +10,8 @@
   "count": 23,
   "items": [
     {
-      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
-      "source": "Autoblog",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTZ1Slh3Z2R5cnBxX2tZcDV6NlhUdWJiWWV6em9fSTBmVk5vVll6SVRMeHZvdEpoVWNqQUVBTjJ6VGY5SHJLZkJxS051Rml2NzJmMmhGTTl1VkJkN0RMM3RxU080TFdzTC1WNmtRNkczY2IxZVFUeExRTXZhR1Exd1NqMVdieExCTE9pTmNTSWlWNi02TzFmNVJrN3hzbGhWMHc?oc=5",
-      "published": "2026-09-05T21:30:00.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
+      "source": "wgnsradio.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
@@ -136,6 +129,13 @@
       "feed": "injurylaw"
     },
     {
+      "title": "2026 Drunk Driving Statistics",
+      "source": "Insurify",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
+      "published": "2026-08-31T07:00:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Surveillance video shows the moment a pickup truck slammed into a flatbed truck, killing one driver.",
       "source": "facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0puMElRZVlxeEpjT0I4c1hZWUFQdEs4LVVacExlVTJscFJtMnE3ODJDcTJWTThTMzN3UHBCRFdUZV9oM3JyOExxeFA4LWVMbFBOU3hobkc0NU9ieGlKYkJfejBjT051TTdYbTM2TTFsQVMxLVFsQ2c5VWNkQlZnWERRZUR4aEg1aTNIcDZ6V0NRMXZyN0NYWG9CcjBMeFN3Sktpd20wY3VNUm0wMnZLdHNVdkQzNFE5SUZPZ3FrWnUxQk1ON0tNN0NFTTVFQ0EzZW10VEFEV1ZmWkx2Vzhz?oc=5",
@@ -158,7 +158,7 @@
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "NBC Montana",
+      "source": "nbcmontana.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
