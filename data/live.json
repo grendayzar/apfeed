@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T03:37:00.304Z",
+  "generated": "2026-09-07T03:53:15.774Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Traffic Alert: Crash causing delays on I-285 eastbound in DeKalb County",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYVBOaS1COXpvMG9sTkJwRW9ncTZCWG1rd0xLQThxZDVFNTJMM3BxUlRLWlNUQThKRHNKWUo0MmFKWnZWTzAyTDJxTU9RU3dWanRNSWFRTERybE5WSkZUMDNvUi1zYmstNzktZ3RIYm1nZTd6bzk2eDV1QjJKZzhFWklIeVI0NWZmMldNbGdwUnE3MllFWm80dGxTQUJvdWdJbU1RbGNndF9oOGVnOUU5Ulh0MmFFeVhhWkgtU1JVV3ZUT1REbkxMQWlmcE1tQTM1TUNndGZxY1FsVDNfcENjVmxmU0Y?oc=5",
       "published": "2026-09-03T10:57:00.000Z",
       "feed": "ga-metro"
@@ -39,7 +39,7 @@
     },
     {
       "title": "Motorcycle crash on I-85 southbound leaves 1 dead",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdUh5WTVET1RTMXgxamZiVVAxSnFMUnhTV3hxeEhqSTNJSmZ4ZktDYWd1ckI0X3AtS004R0VGVWVBQlFGN0dYMkR5Wm1DYmxLZnU1WE55ejI3UjBCVl9BTFdkckNIbGxkZzZvTXQzM0lkVGRWemZYX2E4OFh6aHVBRnNjSE83ODhBa0RPOERibVlDNVdNbFZNNzBJS0s4czlqeGMxSmVELTRMU3N5QzVZRmxiVW1rNnh4NU5mWDlHTnpvNWNVLTJVai12NURta3lTRWZmX1pvN3o2Tm5yYURhRnRyUQ?oc=5",
       "published": "2026-09-02T19:12:00.000Z",
       "feed": "ga-roads"
@@ -60,7 +60,7 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
+      "source": "abc7amarillo.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
@@ -116,7 +116,7 @@
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "The National Law Review",
+      "source": "natlawreview.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
@@ -151,14 +151,14 @@
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "NBC Montana",
+      "source": "nbcmontana.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
     },
     {
       "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
       "published": "2026-08-24T18:07:40.000Z",
       "feed": "injurylaw"
