@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T23:16:10.284Z",
+  "generated": "2026-09-07T23:31:08.940Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,9 +17,9 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Georgia trooper involved in overnight DeKalb County crash",
+      "title": "Illegal stunt driving call ends in fatal metro Atlanta crash",
       "source": "fox5atlanta.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN19kTDQ5bm5qRWJPbUVEVHhaaTZzTXJ2X2JOSkU4NHJ4VHI1ZHNxOGY4cFMzNXZrOEFod3VLTXRQNGxsd2hJSlpSeHM3VElmVTdXeFktWGNXYVFQcUtKa2dPamQ1eFhobXh0Z0ljZU13VEc5YkkyZU5xdmJ6czdyZllCVWtvYXZnQ1BIdzJRdWE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN19kTDQ5bm5qRWJPbUVEVHhaaTZzTXJ2X2JOSkU4NHJ4VHI1ZHNxOGY4cFMzNXZrOEFod3VLTXRQNGxsd2hJSlpSeHM3VElmVTdXeFktWGNXYVFQcUtKa2dPamQ1eFhobXh0Z0ljZU13VEc5YkkyZU5xdmJ6czdyZllCVWtvYXZnQ1BIdzJRdWHSAZYBQVVfeXFMTmZ5SWtCbzdFOEtOTGN3Z2xHbVQzamgyVkNfdVk2aG5uR3Z3QzZqWVZHUm9WYmdNbFMyZmRLVC1qdGo1SHV3RVJIeFVEWWFZcGJPQWRsa3E1NEJqOXJhMVQ2aC1obkZnOXVnQVh2SlZud0QwMVFSVThoZXJ5VWdlM0JOU3piVkppNi0wUUlwWlZZdVdPTVl3?oc=5",
       "published": "2026-09-07T09:25:11.000Z",
       "feed": "ga-roads"
     },
@@ -101,18 +101,18 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Serious crash involving motorcycle shuts down part of Moreland Avenue",
+      "source": "95.5 WSB",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUFpqQnByVnF1WnJzZmphNEh3aWtWcGI4NHVXSUJ6YXBSUU1aMVM0UF8wUTh1cGUtQ3NyLXVKRHp0MGR1UjhGVFlEYURCYUVfQ2doY1BEOGtHWjd5dzR5NmpIaFJqUWk3NWh4UXhMdkQ2Sy1teXN0SkVhV1FFa2N1YTBBR2FXQ0JUV0lZTjF5MkxCek1FVURGSzAyc3pRejB4LWp1aWUtbFZmVVBLVENtUVZOZFdzWWJaNEJIOEpZX0N1c1NpblFjaGxn0gHeAUFVX3lxTE90MzMyNmxFbWRzZ2E0WEY0dGNIY2J4dFdBcjJBMmZRRkJWR3U5U2hxUFZ6ZE1fTWFvTTg2OVFvZmVhOTdjd1JkZlA4THQxOE94aHdsVk1GLUk2R085SGJFbGtLcl9mQ3hudkJNTXVoenBtOWZIVGpOUW1tMmctcVg1Ml9Wb202bW9BZkRqSldZX1kyMllGRHc3eHpDNjhWRHQyRUJEbVBmdTFsRWRCWVhTQ2VieFJvdWZ3aVkzMGh1WmdqdHQ2cTV6Y2RZOWdiUVBXSjM5ajZBbFk2OXZGUQ?oc=5",
+      "published": "2026-09-01T12:37:31.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
       "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
       "published": "2026-09-01T12:27:50.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "Here is your guide to metro Atlanta road projects this week",
-      "source": "fox5atlanta.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWIyYnF1RmFSLVdIQVBkV3JQQzZ1VTVQb1QwNjN3R1Q3R3ZsYnFoOEs1aHdHc1ZpY3A3N1djeHc3MHZyV2syOWR1ZVcwbnZUSW5NMlhjX2h6alc0RkVtUzdoXzBDbkR5VUN6elRqYVN2anR3bFdaNS1QZjdYUjlzR1E4c2ptSW12UmpyYg?oc=5",
-      "published": "2026-08-31T23:25:53.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "The National Law Review",
+      "source": "natlawreview.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
