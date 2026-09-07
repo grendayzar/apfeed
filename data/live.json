@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T10:51:54.970Z",
+  "generated": "2026-09-07T11:17:07.688Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Traffic Alert: Crash causing delays on I-285 eastbound in DeKalb County",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYVBOaS1COXpvMG9sTkJwRW9ncTZCWG1rd0xLQThxZDVFNTJMM3BxUlRLWlNUQThKRHNKWUo0MmFKWnZWTzAyTDJxTU9RU3dWanRNSWFRTERybE5WSkZUMDNvUi1zYmstNzktZ3RIYm1nZTd6bzk2eDV1QjJKZzhFWklIeVI0NWZmMldNbGdwUnE3MllFWm80dGxTQUJvdWdJbU1RbGNndF9oOGVnOUU5Ulh0MmFFeVhhWkgtU1JVV3ZUT1REbkxMQWlmcE1tQTM1TUNndGZxY1FsVDNfcENjVmxmU0Y?oc=5",
       "published": "2026-09-03T10:57:00.000Z",
       "feed": "ga-metro"
@@ -46,7 +46,7 @@
     },
     {
       "title": "Motorcycle crash on I-85 southbound leaves 1 dead",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdUh5WTVET1RTMXgxamZiVVAxSnFMUnhTV3hxeEhqSTNJSmZ4ZktDYWd1ckI0X3AtS004R0VGVWVBQlFGN0dYMkR5Wm1DYmxLZnU1WE55ejI3UjBCVl9BTFdkckNIbGxkZzZvTXQzM0lkVGRWemZYX2E4OFh6aHVBRnNjSE83ODhBa0RPOERibVlDNVdNbFZNNzBJS0s4czlqeGMxSmVELTRMU3N5QzVZRmxiVW1rNnh4NU5mWDlHTnpvNWNVLTJVai12NURta3lTRWZmX1pvN3o2Tm5yYURhRnRyUQ?oc=5",
       "published": "2026-09-02T19:12:00.000Z",
       "feed": "ga-roads"
@@ -56,6 +56,13 @@
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
       "published": "2026-09-02T17:56:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
+      "published": "2026-09-02T17:14:47.000Z",
       "feed": "ga-roads"
     },
     {
@@ -88,14 +95,14 @@
     },
     {
       "title": "Atlanta police recruit dies in Moreland Avenue crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPemUtVDlsT1hpbDdsd2tRTjNCMlIxRE1CaTRJVHZ0dFpxT09xYlUtYzhMcWN4SnF5TEstM2ZjNHNJd2MwY21ESkNBMEZ3Tm9rUmxrMHNwSnY1UlBXV1dxRUtlYmoyN1hKUmZXU09XVkxDQWc3ekF0N1cwcGJFLXV1d1M3QlZQVHFxMXpTU1NrS2F5YkhmRnM3a0dROHDSAaIBQVVfeXFMTzhUdkxUajQwT0d3OFRYOVN4LWxRc19RTmtCUWpyeUh4R1lhMG5ud3Jjc0IyWTdDaFl2OTBxa2RTaW1PaWc5RGVoTlJfMFZrTDlheVZJMTRfdklkdlJtLWJCUnd2VWRDbVhNZTA1ZWxOVjYtazdXa0dOV0dUU3UyYUY3dmZzV3luVy1YZDBtTE5sTnJmRC1CNHNhR2FEU1h6Umtn?oc=5",
       "published": "2026-09-01T13:25:45.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Here is your guide to metro Atlanta road projects this week",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWIyYnF1RmFSLVdIQVBkV3JQQzZ1VTVQb1QwNjN3R1Q3R3ZsYnFoOEs1aHdHc1ZpY3A3N1djeHc3MHZyV2syOWR1ZVcwbnZUSW5NMlhjX2h6alc0RkVtUzdoXzBDbkR5VUN6elRqYVN2anR3bFdaNS1QZjdYUjlzR1E4c2ptSW12UmpyYg?oc=5",
       "published": "2026-08-31T23:25:53.000Z",
       "feed": "ga-metro"
@@ -120,13 +127,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "I-95 NB reopens in Glynn County after semi flips in crash with another tractor-trailer",
-      "source": "News4JAX",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdlJkeHI0c3NGd0hqa1BnUWxPajEySFlYNHVPSXM3R1Z6QjNFX2pJVkp4ZTVpeFhRVUFiRnlzZ2pjZ1VkOG1ONzNoNTV0NVhKTEFEYzdTbmxDcm5Dam90MVhsaW56cFMxM0pINFZuR2xfSURYYWZCeEtqeW1DX21jVU1QOGNITDJTdmxoX2RBZ3pxQ3JORHlwT21IVGFnaDZXVzRSUGMwakFwM3l4MV9CTllZMlhnb3VrY2VST0M3dGtMYXV6b1djMmNZcEo3dFpqcjM0NUxEdVJ3YWVMS3BtY3l4M2l2Mjg?oc=5",
-      "published": "2026-08-31T11:07:08.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "2026 Drunk Driving Statistics",
