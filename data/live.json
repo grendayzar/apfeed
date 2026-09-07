@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T21:16:23.617Z",
+  "generated": "2026-09-07T21:33:26.696Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "rgj.com",
+      "source": "Reno Gazette Journal",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
       "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
@@ -36,13 +36,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Student, instructor critically hurt in small plane crash in Paulding County",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOURYaDNRX2plbkxGYy1oS3hDdWZDSEh5VjAyS0w1R1RoUlNSaFE1bGNXV3RWUWt6Mmlub013TUM4YXhVWF9MN3dPOXBMREtEblpFd0dBSkdQd1otU0pjSFlwZWppRlR4WGo1bnllRTVzQTROVzJCN0t6UGVWU3hRcGxPMy1rQVRPZnliT1RqcVNHVXFCOS1oejY4cDN1RUZrSHl0cVN6QjFKMy1tX3VRRFRwMGMzek9kaTk3QkRpeXU?oc=5",
-      "published": "2026-09-04T01:47:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Traffic Alert: Crash causing delays on I-285 eastbound in DeKalb County",
@@ -66,6 +59,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Three lanes closed after crash on I-85 south in metro Atlanta",
+      "source": "95.5 WSB",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaHdTNk5fSG1HOU1zQW55UGl3SUZDdkJoeUFfWWJsUkNyQzNabVdOdVJwTm1qekZQenZHRzZNeERmOHpiTnNFNmdudEgyQ3JpeTFBQTB3dmdDejU1TTJ3d0VDZWdCNElzZHhLdDRNWGVYUFh1UU9qNG93OHZLTTlmRHJXS3BNM0NUSEZOUUJNbFJLcTU4VVEyUXNxNVJxY24zX1ZibTIwWDRmMEFBMS10SWEyRkp2UGRuMHVz0gHPAUFVX3lxTFBYZVhtd3A1QkkwcDJNUmI3cHJCdHRJSDB3WjNacEVwZHRfTGRRVHNZYTRDMURFdkJQdUlTanNMQURqSnBmaHBGb1UtUXpiOGk3SG9feGRpZjlBdzZXZE1ISkdkN0JSYWpYN3pZQm94SU1xZVNVcVhCZ2dHMk5aQXkxLVI1bEQ1cGZXbWt5VVJzcDBQcWxOdTQtUFRQazJ0eWxGQUx1eFltVVB5WG5HZFhRQWQteXBpcU5LRGhqM1lrcWc0UnhvQnhUNWJwMFluYw?oc=5",
+      "published": "2026-09-02T18:19:19.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
@@ -74,7 +74,7 @@
     },
     {
       "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
       "published": "2026-09-02T11:56:53.000Z",
       "feed": "ga-metro"
@@ -116,7 +116,7 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -151,7 +151,7 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
@@ -167,7 +167,7 @@
       "title": "What's Going on With Georgia's State-Wide Business Court?",
       "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T18:07:40.000Z",
+      "published": "2026-08-24T07:00:00.000Z",
       "feed": "injurylaw"
     }
   ]
