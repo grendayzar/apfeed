@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T09:19:32.179Z",
+  "generated": "2026-09-07T09:39:38.556Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,9 +11,9 @@
   "items": [
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "Reno Gazette Journal",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
-      "published": "2026-09-07T06:46:18.000Z",
+      "source": "Knoxville News Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMTljOUpGNUd2TG04VUxLTDU5UmJidzl1TkRCOXNuZ1lzZndoX2REdzdzUWNVNXBYTEp3NmlUUzZkT0hGWUhycG10M21DYjJGVjZMek1sblQ3amlTUnpmc3lRN25rZWkzcHdQYUJMS1hRN2x0aXpvRC1iV1ZYNHZTUEN4ZmxGYlJraV9KWC1fNlBvZTRGVUt2Q3FwNmlPcWhjcDNMS3NCcklmdmlISTFZQ3VGcHpiUldWYU82Z3MxTl92UFltaFhJaURUbGtOOVBUVkJtV0NkX0JRVVpabnZBTXZ2S2dzaW9qeHRn?oc=5",
+      "published": "2026-09-07T07:45:47.000Z",
       "feed": "injurylaw"
     },
     {
@@ -59,6 +59,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
+      "published": "2026-09-02T11:56:53.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
       "source": "repairerdrivennews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
@@ -71,13 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Former athlete killed in crash described as ‘model student’ by coach",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
-      "published": "2026-09-02T02:01:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
@@ -144,7 +144,7 @@
     },
     {
       "title": "EV maker Lucid to recall more than 27,000 luxury sedans over fire risk, NHTSA says",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1E5MGw5anE2RnZMdmFoclNiTlI1MG45cG1VVi1QMWhodGdvRmdBZ3NWajBtWldELUxPWWhwWkpBVWRhemg0TnhRV1d2WXFSM3BNZS12RmZFVFdzMHZOTU5aZUFHeFFCZ0o5VjJzR09kX29vS004TzVTR05qNE9JRTBOYS1xWXNxWHJJSkhraF93U016X0tjcmZ4TjFHalJ6cFRBNEJEdVIwMHg4REVKVkRqUDhQTXFaZ1hmcXJR?oc=5",
       "published": "2026-08-28T07:00:00.000Z",
       "feed": "recalls"
@@ -158,7 +158,7 @@
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "nbcmontana.com",
+      "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
