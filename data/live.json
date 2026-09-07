@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T19:49:50.804Z",
+  "generated": "2026-09-07T20:17:07.328Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -59,6 +59,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
+      "published": "2026-09-02T11:56:53.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
       "source": "repairerdrivennews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
@@ -71,13 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Former athlete killed in crash described as ‘model student’ by coach",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
-      "published": "2026-09-02T02:01:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Atlanta Police recruit killed in crash identified",
@@ -158,7 +158,7 @@
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "NBC Montana",
+      "source": "nbcmontana.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T07:00:00.000Z",
       "feed": "recalls"
@@ -167,7 +167,7 @@
       "title": "What's Going on With Georgia's State-Wide Business Court?",
       "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T18:07:40.000Z",
+      "published": "2026-08-24T07:00:00.000Z",
       "feed": "injurylaw"
     }
   ]
