@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T15:56:02.602Z",
+  "generated": "2026-09-08T16:20:34.690Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,7 +18,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia trooper, K9",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN19kTDQ5bm5qRWJPbUVEVHhaaTZzTXJ2X2JOSkU4NHJ4VHI1ZHNxOGY4cFMzNXZrOEFod3VLTXRQNGxsd2hJSlpSeHM3VElmVTdXeFktWGNXYVFQcUtKa2dPamQ1eFhobXh0Z0ljZU13VEc5YkkyZU5xdmJ6czdyZllCVWtvYXZnQ1BIdzJRdWHSAZYBQVVfeXFMTmZ5SWtCbzdFOEtOTGN3Z2xHbVQzamgyVkNfdVk2aG5uR3Z3QzZqWVZHUm9WYmdNbFMyZmRLVC1qdGo1SHV3RVJIeFVEWWFZcGJPQWRsa3E1NEJqOXJhMVQ2aC1obkZnOXVnQVh2SlZud0QwMVFSVThoZXJ5VWdlM0JOU3piVkppNi0wUUlwWlZZdVdPTVl3?oc=5",
       "published": "2026-09-07T09:25:11.000Z",
       "feed": "ga-roads"
@@ -29,13 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
       "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Defective Chinese Airbag Inflator Now Linked To 11 Road Fatalities",
-      "source": "Yahoo Autos",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNRSnhESEQwaW05WEtLZFA3X3llQnZrT3YtYmZ1eWtYWXgzckc0MmYxVTZyWTZPaHZ5TExUN0ZEUGhEOFdNeWNTam8zcFpESTk3aV81T25tcktJajg5U0o1YzdvYk5DaU16OHBXY2hMaTg4cy1uMHk1NEs0dmozMHptdFk3MXZtVG9zN2VndVBoT1ZPSUVFRi14RC05OEdhT0diSmpXSQ?oc=5",
-      "published": "2026-09-05T13:45:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
@@ -74,7 +67,7 @@
     },
     {
       "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
       "published": "2026-09-02T17:14:47.000Z",
       "feed": "ga-roads"
@@ -134,6 +127,13 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
+      "source": "PR Newswire",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkNkNF9xdnItM0U5T2FOWWNNMjVVcE95YTA4NUZadl9Ub2pqS1FoSFlXbjA4a29NbVIyN2dBZFljMnpRZDFldmwzMURBbnZ2SjNkRDh6bjdjS05SM1lVVzNrNWJBODhuWDVDay0zM1ZEYWRXTkdFSGxNYkpUTlJfTDk2SXZlZGhpMGJ4MXZpdDdkMDMtb0Z3TzdNdmtockN6MURKaEl4Z2tnRzkzS2F5TEpSNlpreVdIbVg5OVdDZEFIdVZWR0NUSi1kajNKVHFqNTNuMDF3MGhaX1RjaW1QUWxrQ2dvQU1ZcE55LXN6UWlmaGhHVm9vMGxtbjduWFE?oc=5",
+      "published": "2026-08-31T13:06:00.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
