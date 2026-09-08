@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T03:53:12.729Z",
+  "generated": "2026-09-08T04:17:48.094Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -29,13 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
       "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
-      "source": "Autoblog",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTZ1Slh3Z2R5cnBxX2tZcDV6NlhUdWJiWWV6em9fSTBmVk5vVll6SVRMeHZvdEpoVWNqQUVBTjJ6VGY5SHJLZkJxS051Rml2NzJmMmhGTTl1VkJkN0RMM3RxU080TFdzTC1WNmtRNkczY2IxZVFUeExRTXZhR1Exd1NqMVdieExCTE9pTmNTSWlWNi02TzFmNVJrN3hzbGhWMHc?oc=5",
-      "published": "2026-09-05T21:30:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
@@ -150,6 +143,13 @@
       "feed": "us-safety"
     },
     {
+      "title": "Surveillance video shows the moment a pickup truck slammed into a flatbed truck, killing one driver.",
+      "source": "facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0puMElRZVlxeEpjT0I4c1hZWUFQdEs4LVVacExlVTJscFJtMnE3ODJDcTJWTThTMzN3UHBCRFdUZV9oM3JyOExxeFA4LWVMbFBOU3hobkc0NU9ieGlKYkJfejBjT051TTdYbTM2TTFsQVMxLVFsQ2c5VWNkQlZnWERRZUR4aEg1aTNIcDZ6V0NRMXZyN0NYWG9CcjBMeFN3Sktpd20wY3VNUm0wMnZLdHNVdkQzNFE5SUZPZ3FrWnUxQk1ON0tNN0NFTTVFQ0EzZW10VEFEV1ZmWkx2Vzhz?oc=5",
+      "published": "2026-08-29T19:25:04.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "A.M. ATL: Big payouts",
       "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
@@ -158,7 +158,7 @@
     },
     {
       "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
       "published": "2026-08-26T15:26:47.000Z",
       "feed": "injurylaw"
@@ -167,7 +167,7 @@
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
-      "published": "2026-08-26T07:00:00.000Z",
+      "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
     }
   ]
