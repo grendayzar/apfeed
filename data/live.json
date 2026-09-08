@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T20:34:35.593Z",
+  "generated": "2026-09-08T20:51:27.399Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Instructor, student called 911 from crashed airplane, critically injured",
-      "source": "wsbtv.com",
+      "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzUta19NeWt6VDRRcFo1ZGNUWFg5MjZRNFNwbXNTeHQxR2hMZ1gtZ3hXVkFqUzVlLXI4ZTJjekRCOEdtb09CazB0OTdfdlJYek5zeTNWcVlHMGF5cTZhWmdvdlBuZVp3bHZoS2cybEdzSFF6RmZhVnh5bk04QlF2TmJLTzAzbXZEUFdTWmFzSGh0UFV6TTNaRW9PVXVLd9IBsgFBVV95cUxOTFR1TC1JSEpkTTFWVVR6akhKRG5yekhHb1hUWFZmLXBLLTJVRTB0ODRQNFYxWG5NaXpBZmxDVFBNUWJBa3BRZnh2enlmaGIxWFBMZTU1SkJtUnUwZWpMTmprSVhSSVJCLW43Tmt4bHlWQ055ZUlxSEVDTDljS2hubTI0YnJLclc0X3kzeHR1U0g3MWFwSF9GYm11SUEtNDZRdTlzSk15X3N1THNMQ0JnUVlR?oc=5",
       "published": "2026-09-04T02:47:00.000Z",
       "feed": "ga-roads"
@@ -122,17 +122,17 @@
       "feed": "recalls"
     },
     {
+      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
+      "source": "FleetOwner",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
+      "published": "2026-09-01T12:28:38.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
       "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "kiro7.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "AJC.com",
+      "source": "ajc.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
