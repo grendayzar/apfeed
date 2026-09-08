@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T17:17:16.581Z",
+  "generated": "2026-09-08T17:33:17.913Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,13 +9,6 @@
   ],
   "count": 23,
   "items": [
-    {
-      "title": "Drivers should prepare for another full I-285 closure this weekend",
-      "source": "wsbradio.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGNmZ2lPUUJCOTNoX0RBUzhsRXBjQ294bkU5RlQ3cHNKaFl1REVPNGNsQ19TZXBNTVY0UWdDRGVVR2ZrU3hvdFFTMFZoVmtLN0k5OFh6NWxXZWhrdHMzVjVYREt0WWN6NlRxQldpbVRWV0JYYkZsLWR5QW1mX2dxYkxqeGxpdFhRZTdSQjZ0MllGNDV4N3p0OUhpM1U5WEtxTFhfXzRHUm5xM3JxUVd4MWJKT2Q0eW5QUDMtSmlBM3RmeGd20gHYAUFVX3lxTE9XN3pzTmVCM3RnWlBlV2VVOG9ZUkZlNW15WVBTV2dxMTQxUnN3YUM0NTdiaVhKd2U1YU9XejlxYTQ1VGNXdThvZzk2dzBNQXFmYzNZM3Q5S0NfUVJ2cDkxdzJwTlJ1aVF6X1Z4S0RFSUh3OEthMjZPZXVyTHFJWnpHVTlBY3BWRTJfa3NrR1JsOFo4WThzQ2hzX21GUFdncDNuMlVNLUVCZkhrazIwejZaekdyU3lQVXVpbzlUQ043eTJNVXgyeFo0a3k3SU1lYXRlQlJZUTRXOQ?oc=5",
-      "published": "2026-09-08T15:30:12.000Z",
-      "feed": "ga-metro"
-    },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
       "source": "CBS News",
@@ -106,6 +99,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Atlanta airport expects 2.3 million Labor Day passengers",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOTJWQldCZFg3a3lMNzNQNGMzdmdocVE0Qkplc1NKTXpHMmNwMW5JSGNOS2d2R0NTcEc0RWpvZHpOZVU2dWJTS1owQkFqZGx3ZFR1YlI4X0dDX2pmQ2o5cVNBTERKMzNFQklmdTRWaTA5anNrVVMxNUdlUGFRNTF2eUZHcEd5dE1oZEN4WXd5TGVqNDQ?oc=5",
+      "published": "2026-09-02T01:03:45.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "Atlanta Police recruit killed in crash identified",
