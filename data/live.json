@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T15:38:54.405Z",
+  "generated": "2026-09-08T15:56:02.602Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1UUlZ3cExidnM3Sno5TDhmOGwyZGFiOXRhWHhYSVZ3Z0hsV1Uxd2xBOGc1R3dUdjlwU1RkMjFpR1M1cnItNG9sNTNYQmVlLWtiMFd6R3l5bDRhYjJxZmdta05KdlBYQ1ZYbDI5UXVNTS0zZk9fdmFub0Item95ZU54SkNtYU5McndLa0NhdzRMLUN5TEF4ZXFtaFZfSUtKdDRLc1R0VF9kRktRN0JUTnd6M3RmVWZBb0pTQTR5akpLUjM4UHNyc05XOUdBYWx4czI4UFVB?oc=5",
       "published": "2026-09-07T17:58:44.000Z",
       "feed": "ga-roads"
@@ -36,13 +36,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNRSnhESEQwaW05WEtLZFA3X3llQnZrT3YtYmZ1eWtYWXgzckc0MmYxVTZyWTZPaHZ5TExUN0ZEUGhEOFdNeWNTam8zcFpESTk3aV81T25tcktJajg5U0o1YzdvYk5DaU16OHBXY2hMaTg4cy1uMHk1NEs0dmozMHptdFk3MXZtVG9zN2VndVBoT1ZPSUVFRi14RC05OEdhT0diSmpXSQ?oc=5",
       "published": "2026-09-05T13:45:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Convicted felon sentenced after traffic stop leads to stolen gun arrest",
-      "source": "fox5atlanta.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkRST3l0cWtMdmlIbzMtMDZUT1ZZNDJDOE1kTnFpQmd3ZWFCaGNZV05XS2QwSUpQemFDVXNGZjI0SUhJTm5EVjZ6LUphdnIwcDgtTi1nQ2k3b1JfM2tiUDhNcFFuZGdBdXctLVY3X2xKY1dOUVJOVEE5eWJ5ME5VekR0d1FGRTZPeENxdlgtTG41Y214Rm9pZ21va3RLZDBSaGZV?oc=5",
-      "published": "2026-09-04T23:54:41.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
@@ -102,10 +95,17 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "abc7amarillo.com",
+      "source": "KVII",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Former athlete killed in crash described as ‘model student’ by coach",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
+      "published": "2026-09-02T02:01:00.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "Atlanta Police recruit killed in crash identified",
