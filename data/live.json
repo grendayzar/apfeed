@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T16:52:02.359Z",
+  "generated": "2026-09-08T17:17:16.581Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 23,
   "items": [
+    {
+      "title": "Drivers should prepare for another full I-285 closure this weekend",
+      "source": "wsbradio.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGNmZ2lPUUJCOTNoX0RBUzhsRXBjQ294bkU5RlQ3cHNKaFl1REVPNGNsQ19TZXBNTVY0UWdDRGVVR2ZrU3hvdFFTMFZoVmtLN0k5OFh6NWxXZWhrdHMzVjVYREt0WWN6NlRxQldpbVRWV0JYYkZsLWR5QW1mX2dxYkxqeGxpdFhRZTdSQjZ0MllGNDV4N3p0OUhpM1U5WEtxTFhfXzRHUm5xM3JxUVd4MWJKT2Q0eW5QUDMtSmlBM3RmeGd20gHYAUFVX3lxTE9XN3pzTmVCM3RnWlBlV2VVOG9ZUkZlNW15WVBTV2dxMTQxUnN3YUM0NTdiaVhKd2U1YU9XejlxYTQ1VGNXdThvZzk2dzBNQXFmYzNZM3Q5S0NfUVJ2cDkxdzJwTlJ1aVF6X1Z4S0RFSUh3OEthMjZPZXVyTHFJWnpHVTlBY3BWRTJfa3NrR1JsOFo4WThzQ2hzX21GUFdncDNuMlVNLUVCZkhrazIwejZaekdyU3lQVXVpbzlUQ043eTJNVXgyeFo0a3k3SU1lYXRlQlJZUTRXOQ?oc=5",
+      "published": "2026-09-08T15:30:12.000Z",
+      "feed": "ga-metro"
+    },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
       "source": "CBS News",
@@ -25,17 +32,17 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "veronapress.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
-      "published": "2026-09-07T03:09:45.000Z",
+      "source": "Reno Gazette Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
+      "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
     },
     {
-      "title": "Convicted felon sentenced after traffic stop leads to stolen gun arrest",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkRST3l0cWtMdmlIbzMtMDZUT1ZZNDJDOE1kTnFpQmd3ZWFCaGNZV05XS2QwSUpQemFDVXNGZjI0SUhJTm5EVjZ6LUphdnIwcDgtTi1nQ2k3b1JfM2tiUDhNcFFuZGdBdXctLVY3X2xKY1dOUVJOVEE5eWJ5ME5VekR0d1FGRTZPeENxdlgtTG41Y214Rm9pZ21va3RLZDBSaGZV?oc=5",
-      "published": "2026-09-04T23:54:41.000Z",
-      "feed": "ga-metro"
+      "title": "Defective Chinese Airbag Inflator Now Linked To 11 Road Fatalities",
+      "source": "Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNRSnhESEQwaW05WEtLZFA3X3llQnZrT3YtYmZ1eWtYWXgzckc0MmYxVTZyWTZPaHZ5TExUN0ZEUGhEOFdNeWNTam8zcFpESTk3aV81T25tcktJajg5U0o1YzdvYk5DaU16OHBXY2hMaTg4cy1uMHk1NEs0dmozMHptdFk3MXZtVG9zN2VndVBoT1ZPSUVFRi14RC05OEdhT0diSmpXSQ?oc=5",
+      "published": "2026-09-05T13:45:00.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
@@ -127,13 +134,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkNkNF9xdnItM0U5T2FOWWNNMjVVcE95YTA4NUZadl9Ub2pqS1FoSFlXbjA4a29NbVIyN2dBZFljMnpRZDFldmwzMURBbnZ2SjNkRDh6bjdjS05SM1lVVzNrNWJBODhuWDVDay0zM1ZEYWRXTkdFSGxNYkpUTlJfTDk2SXZlZGhpMGJ4MXZpdDdkMDMtb0Z3TzdNdmtockN6MURKaEl4Z2tnRzkzS2F5TEpSNlpreVdIbVg5OVdDZEFIdVZWR0NUSi1kajNKVHFqNTNuMDF3MGhaX1RjaW1QUWxrQ2dvQU1ZcE55LXN6UWlmaGhHVm9vMGxtbjduWFE?oc=5",
-      "published": "2026-08-31T13:06:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
