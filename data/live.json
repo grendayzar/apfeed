@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T13:40:04.742Z",
+  "generated": "2026-09-08T13:57:05.615Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -29,6 +29,20 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
       "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "Defective Chinese Airbag Inflator Now Linked To 11 Road Fatalities",
+      "source": "Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDNRSnhESEQwaW05WEtLZFA3X3llQnZrT3YtYmZ1eWtYWXgzckc0MmYxVTZyWTZPaHZ5TExUN0ZEUGhEOFdNeWNTam8zcFpESTk3aV81T25tcktJajg5U0o1YzdvYk5DaU16OHBXY2hMaTg4cy1uMHk1NEs0dmozMHptdFk3MXZtVG9zN2VndVBoT1ZPSUVFRi14RC05OEdhT0diSmpXSQ?oc=5",
+      "published": "2026-09-05T13:45:00.000Z",
+      "feed": "us-safety"
+    },
+    {
+      "title": "Convicted felon sentenced after traffic stop leads to stolen gun arrest",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkRST3l0cWtMdmlIbzMtMDZUT1ZZNDJDOE1kTnFpQmd3ZWFCaGNZV05XS2QwSUpQemFDVXNGZjI0SUhJTm5EVjZ6LUphdnIwcDgtTi1nQ2k3b1JfM2tiUDhNcFFuZGdBdXctLVY3X2xKY1dOUVJOVEE5eWJ5ME5VekR0d1FGRTZPeENxdlgtTG41Y214Rm9pZ21va3RLZDBSaGZV?oc=5",
+      "published": "2026-09-04T23:54:41.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
@@ -94,13 +108,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Former athlete killed in crash described as ‘model student’ by coach",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
-      "published": "2026-09-02T02:01:00.000Z",
-      "feed": "ga-metro"
-    },
-    {
       "title": "Atlanta Police recruit killed in crash identified",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
@@ -129,13 +136,6 @@
       "feed": "recalls"
     },
     {
-      "title": "Safer Cars, Smarter Repairs: Farmers Insurance® Explains How New Car Technology May Impact Repair and Insurance Costs",
-      "source": "PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYkNkNF9xdnItM0U5T2FOWWNNMjVVcE95YTA4NUZadl9Ub2pqS1FoSFlXbjA4a29NbVIyN2dBZFljMnpRZDFldmwzMURBbnZ2SjNkRDh6bjdjS05SM1lVVzNrNWJBODhuWDVDay0zM1ZEYWRXTkdFSGxNYkpUTlJfTDk2SXZlZGhpMGJ4MXZpdDdkMDMtb0Z3TzdNdmtockN6MURKaEl4Z2tnRzkzS2F5TEpSNlpreVdIbVg5OVdDZEFIdVZWR0NUSi1kajNKVHFqNTNuMDF3MGhaX1RjaW1QUWxrQ2dvQU1ZcE55LXN6UWlmaGhHVm9vMGxtbjduWFE?oc=5",
-      "published": "2026-08-31T13:06:00.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
       "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
@@ -144,7 +144,7 @@
     },
     {
       "title": "2026 Drunk Driving Statistics",
-      "source": "insurify.com",
+      "source": "Insurify",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
