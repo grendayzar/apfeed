@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T23:15:29.126Z",
+  "generated": "2026-09-08T23:31:10.901Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -21,13 +21,6 @@
       "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdngxVjhBaGF6d2tDd0hXMXNveU96S083YWNETXRGbnZxeHItOG96azZyR2lhZEJiT3IxUkY5RFR5bzJ5LWdXTTFBdUJITjVaUy16b0VCMUVDTkFzdGhlQzNIUEthXzVJbVlDcGZSZUpnRm15S2xDVmRmdWp0NXpTZXBLcDRnRXlHWHhBWHg0ZF9mT1BX0gGaAUFVX3lxTE1DaDBldFBIbWFndkJoOUY2cE9idU1FSU1aR0V1bmQ0Nzhqb1JHVDlxVHFhWndMM3J2eVl4TjZQWmllMm8xWWh1aTVmd1VCMzVzOUNpLXVEZlI0WWM5dEZYRTRpMzhxYzhRdlRwQm03d1huREMyaFljODdidTNoWGlaWE5BdWlvdUN4T3VRN0VpUXNKdk9BLV9WN2c?oc=5",
       "published": "2026-09-08T17:28:06.000Z",
-      "feed": "ga-metro"
-    },
-    {
-      "title": "Drivers should prepare for another full I-285 closure this weekend",
-      "source": "95.5 WSB",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRGNmZ2lPUUJCOTNoX0RBUzhsRXBjQ294bkU5RlQ3cHNKaFl1REVPNGNsQ19TZXBNTVY0UWdDRGVVR2ZrU3hvdFFTMFZoVmtLN0k5OFh6NWxXZWhrdHMzVjVYREt0WWN6NlRxQldpbVRWV0JYYkZsLWR5QW1mX2dxYkxqeGxpdFhRZTdSQjZ0MllGNDV4N3p0OUhpM1U5WEtxTFhfXzRHUm5xM3JxUVd4MWJKT2Q0eW5QUDMtSmlBM3RmeGd20gHYAUFVX3lxTE9XN3pzTmVCM3RnWlBlV2VVOG9ZUkZlNW15WVBTV2dxMTQxUnN3YUM0NTdiaVhKd2U1YU9XejlxYTQ1VGNXdThvZzk2dzBNQXFmYzNZM3Q5S0NfUVJ2cDkxdzJwTlJ1aVF6X1Z4S0RFSUh3OEthMjZPZXVyTHFJWnpHVTlBY3BWRTJfa3NrR1JsOFo4WThzQ2hzX21GUFdncDNuMlVNLUVCZkhrazIwejZaekdyU3lQVXVpbzlUQ043eTJNVXgyeFo0a3k3SU1lYXRlQlJZUTRXOQ?oc=5",
-      "published": "2026-09-08T15:30:12.000Z",
       "feed": "ga-metro"
     },
     {
@@ -115,6 +108,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Former athlete killed in crash described as ‘model student’ by coach",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
+      "published": "2026-09-02T02:01:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
@@ -137,7 +137,7 @@
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "natlawreview.com",
+      "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
