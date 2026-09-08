@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T05:35:03.612Z",
+  "generated": "2026-09-08T05:52:08.893Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,7 +17,7 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Illegal stunt driving call ends in fatal metro Atlanta crash",
+      "title": "19-year-old killed in crash involving Georgia trooper, K9",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN19kTDQ5bm5qRWJPbUVEVHhaaTZzTXJ2X2JOSkU4NHJ4VHI1ZHNxOGY4cFMzNXZrOEFod3VLTXRQNGxsd2hJSlpSeHM3VElmVTdXeFktWGNXYVFQcUtKa2dPamQ1eFhobXh0Z0ljZU13VEc5YkkyZU5xdmJ6czdyZllCVWtvYXZnQ1BIdzJRdWHSAZYBQVVfeXFMTmZ5SWtCbzdFOEtOTGN3Z2xHbVQzamgyVkNfdVk2aG5uR3Z3QzZqWVZHUm9WYmdNbFMyZmRLVC1qdGo1SHV3RVJIeFVEWWFZcGJPQWRsa3E1NEJqOXJhMVQ2aC1obkZnOXVnQVh2SlZud0QwMVFSVThoZXJ5VWdlM0JOU3piVkppNi0wUUlwWlZZdVdPTVl3?oc=5",
       "published": "2026-09-07T09:25:11.000Z",
@@ -36,6 +36,13 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Student, instructor critically hurt in small plane crash in Paulding County",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOURYaDNRX2plbkxGYy1oS3hDdWZDSEh5VjAyS0w1R1RoUlNSaFE1bGNXV3RWUWt6Mmlub013TUM4YXhVWF9MN3dPOXBMREtEblpFd0dBSkdQd1otU0pjSFlwZWppRlR4WGo1bnllRTVzQTROVzJCN0t6UGVWU3hRcGxPMy1rQVRPZnliT1RqcVNHVXFCOS1oejY4cDN1RUZrSHl0cVN6QjFKMy1tX3VRRFRwMGMzek9kaTk3QkRpeXU?oc=5",
+      "published": "2026-09-04T01:47:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Traffic Alert: Crash causing delays on I-285 eastbound in DeKalb County",
@@ -67,7 +74,7 @@
     },
     {
       "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
       "published": "2026-09-02T11:56:53.000Z",
       "feed": "ga-metro"
@@ -92,13 +99,6 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
       "published": "2026-09-02T02:01:00.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "24-year-old Atlanta police recruit killed in crash on Moreland Avenue: \"A very tough time\"",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzdFaTNjZDFFVGtscnRyMHYwRm5sb2JoblZNUXVmZ094aU9Ia2J0Q0V1ZmVsWHFKSG1qd0I4UUVuSUpnaGFrRlRuYzBiYkp2R1VDck5YVk5XZzM2RkRESFVQQ0pKaHVBRGFQSTJLNkMzN1lTcUpQb2NLdURGT281N3VoMWpES1kxMVM1Ym1QVng3bFZwRW9pRU9CdVdkeFBUWWNIdjRXbDZEMkc5dkRMbmZDYw?oc=5",
-      "published": "2026-09-01T17:59:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Atlanta police recruit dies in Moreland Avenue crash",
@@ -137,7 +137,7 @@
     },
     {
       "title": "2026 Drunk Driving Statistics",
-      "source": "Insurify",
+      "source": "insurify.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
@@ -151,7 +151,7 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
@@ -167,7 +167,7 @@
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
-      "published": "2026-08-26T12:29:26.000Z",
+      "published": "2026-08-26T07:00:00.000Z",
       "feed": "recalls"
     }
   ]
