@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T03:36:25.483Z",
+  "generated": "2026-09-08T03:53:12.729Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,10 +25,17 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "rgj.com",
+      "source": "Reno Gazette Journal",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
       "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
+      "source": "Autoblog",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbTZ1Slh3Z2R5cnBxX2tZcDV6NlhUdWJiWWV6em9fSTBmVk5vVll6SVRMeHZvdEpoVWNqQUVBTjJ6VGY5SHJLZkJxS051Rml2NzJmMmhGTTl1VkJkN0RMM3RxU080TFdzTC1WNmtRNkczY2IxZVFUeExRTXZhR1Exd1NqMVdieExCTE9pTmNTSWlWNi02TzFmNVJrN3hzbGhWMHc?oc=5",
+      "published": "2026-09-05T21:30:00.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
@@ -137,16 +144,9 @@
     },
     {
       "title": "2026 Drunk Driving Statistics",
-      "source": "insurify.com",
+      "source": "Insurify",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Surveillance video shows the moment a pickup truck slammed into a flatbed truck, killing one driver.",
-      "source": "facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0puMElRZVlxeEpjT0I4c1hZWUFQdEs4LVVacExlVTJscFJtMnE3ODJDcTJWTThTMzN3UHBCRFdUZV9oM3JyOExxeFA4LWVMbFBOU3hobkc0NU9ieGlKYkJfejBjT051TTdYbTM2TTFsQVMxLVFsQ2c5VWNkQlZnWERRZUR4aEg1aTNIcDZ6V0NRMXZyN0NYWG9CcjBMeFN3Sktpd20wY3VNUm0wMnZLdHNVdkQzNFE5SUZPZ3FrWnUxQk1ON0tNN0NFTTVFQ0EzZW10VEFEV1ZmWkx2Vzhz?oc=5",
-      "published": "2026-08-29T19:25:04.000Z",
       "feed": "us-safety"
     },
     {
