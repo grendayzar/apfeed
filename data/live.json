@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T10:53:20.670Z",
+  "generated": "2026-09-08T11:16:53.484Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -66,13 +66,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Last conversation revealed as Atlanta father remembered at vigil after deadly crash",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ0JKbk51SEFLOFJWdWVYOGJ3Y1g4Qm4xY3M0ZFVLbTlnNkttUDlpTjNfQmZQcWV3MUVFSGFNbExSSVpCbHpTQzZmbFAxd01qRkRlS2F0YzZLdVNHa1BuU0Z6ektSeXExVEQ0bWtQMFdQT2FRNFdFYWpuak9GUlZxd2NwcUtEcnRPNFVrQ1lhT1dRU0tZaTVFb0cxWk1ELXppcUYzOE9mQkdFX3FvUTlITjFOeUI5OUVsb19Edzh1MmMwYnlWc3JLWUZXb2d4eHBfVDBmY9IB6AFBVV95cUxOWk5lYzVwbURaSGZaYlJYdFhKdGctaVVzRGxzOFZTSGc0dFFtZENPSFYxcHNxemdKb3ctaHk2QmdpN3RKUndSb3o0MlBVUlpyZmphLW4tVHF2dHFjdllSNkFYTFZDUkZjQzFMWV9pdXMwS0VpVGFZa0lydlhiSzJBbUZWZ3ktbXd1UEF0ZmRCcU85cVZyZ0RYUnFJQldkZk52NjRvMVd0MkNHdlpOeXZCS0UyTWpDU0ZybmNLWTBxNXJuMXRUZF9oMGxzY1UwV2F6OUpuSlFaNUlMaHpsTWJxNjhKeEZvMTRT?oc=5",
-      "published": "2026-09-03T05:18:33.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
@@ -81,7 +74,7 @@
     },
     {
       "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
       "published": "2026-09-02T11:56:53.000Z",
       "feed": "ga-metro"
@@ -101,6 +94,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Atlanta Police recruit killed in crash identified",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
+      "published": "2026-09-01T18:21:22.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
@@ -116,7 +116,7 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -137,7 +137,7 @@
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "natlawreview.com",
+      "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
@@ -151,14 +151,14 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
       "published": "2026-08-26T15:26:47.000Z",
       "feed": "injurylaw"
@@ -167,7 +167,7 @@
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
-      "published": "2026-08-26T07:00:00.000Z",
+      "published": "2026-08-26T12:29:26.000Z",
       "feed": "recalls"
     }
   ]
