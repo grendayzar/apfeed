@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T22:16:14.430Z",
+  "generated": "2026-09-08T22:32:50.693Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
+      "source": "wgnsradio.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
@@ -94,6 +94,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "More roundabouts - and even the first traffic peanut - popping up across Georgia",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNm1FbXk1MGdCTnREQ2xDRTBtMVRIejVnRWlrRDlJd1g4WEN3SnBzNGFTTDYwaGQwNTZRZkZKNzVybDh6N3dYc0QtNVQ5Ulh2bFNuTDJvcTdraVlibmwwV1ZRTHJTZzY5dnpLYVF2SFZFN2tYSDR2SWNpNzBwMDd1cjgzNmg5Q3hvSjRFQUNabXpZMklZZ2FYN0hHdThCekxpZWJVdHYtcElQQUh2SHc?oc=5",
+      "published": "2026-09-02T11:56:53.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
       "source": "repairerdrivennews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
@@ -102,23 +109,23 @@
     },
     {
       "title": "Woman, 8-year-old child killed in rollover crash on I-27 near Georgia Street",
-      "source": "KVII",
+      "source": "abc7amarillo.com",
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
     },
     {
-      "title": "Former athlete killed in crash described as ‘model student’ by coach",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
-      "published": "2026-09-02T02:01:00.000Z",
-      "feed": "ga-metro"
+      "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
+      "source": "FleetOwner",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
+      "published": "2026-09-01T12:28:38.000Z",
+      "feed": "recalls"
     },
     {
-      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
-      "published": "2026-09-01T15:37:21.000Z",
+      "title": "Jeep, Ram and Chrysler recall hits 844,027 vehicles over camera issue",
+      "source": "NonStop Local KHQ",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnJzd1ducWptZVZ0YWliV0phY0trbmFBZ2JERHZiRnNPMmxxSXozZkcxZC1aa2l6amJJY2hCNTF1eElKdXF6VlFuNU9EOTZ2MFNHVExFd0JVVTU0ek1vaEpiSnE2R0dCNHpzYWJNQ0hkQ25hX2xfcHQyeTRvMVFWM0pwQVJsV3k0SFV3WjU3UHlpSUhsbUI1S1BvNTJWWDQwT0piY28zM0s4LTY0ZkdIa3pDSGlidVNuanNEMHJwMnAtMW5zX1JDc0lCZ0JmZ0tIbEFjM1o0MEtCNW8?oc=5",
+      "published": "2026-08-31T17:06:00.000Z",
       "feed": "recalls"
     },
     {
@@ -126,13 +133,6 @@
       "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
-      "source": "NBC Montana",
+      "source": "nbcmontana.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
       "published": "2026-08-26T07:00:00.000Z",
       "feed": "recalls"
