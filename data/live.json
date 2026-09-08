@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T11:16:53.484Z",
+  "generated": "2026-09-08T11:34:32.424Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -29,13 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
       "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Convicted felon sentenced after traffic stop leads to stolen gun arrest",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMkRST3l0cWtMdmlIbzMtMDZUT1ZZNDJDOE1kTnFpQmd3ZWFCaGNZV05XS2QwSUpQemFDVXNGZjI0SUhJTm5EVjZ6LUphdnIwcDgtTi1nQ2k3b1JfM2tiUDhNcFFuZGdBdXctLVY3X2xKY1dOUVJOVEE5eWJ5ME5VekR0d1FGRTZPeENxdlgtTG41Y214Rm9pZ21va3RLZDBSaGZV?oc=5",
-      "published": "2026-09-04T23:54:41.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
@@ -94,6 +87,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Former athlete killed in crash described as ‘model student’ by coach",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
+      "published": "2026-09-02T02:01:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Atlanta Police recruit killed in crash identified",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON202Y0JvS3dFTE5YOG9lS0JadzlydnozVG9CdlJoaVlPQ0RMYklWZ1l3OGZCM2x5a3gxZVlnN2h3ZGJuOFNjTUtjWm9WODBTZHA0aHg2UzU1VHhVVkZFTzhSUjBnSlMzQTJKUmt1aV9WbWhoMW5HWUxDNXFqS3VZaE1CWnl2blY1bkU2QWtrbDJFVEIxQVZEY2x4M1JjYlNZaFcw0gG3AUFVX3lxTFBQSnZwWTI5R2N1WExwUjJjTW1XUDBFWmV2cjVtWG5vSXU1anljeE5kNUx3dnBJbmJLVDJPNEMwelE4d2QtQUsxZzVUSjlQN1pXLW0tWEZqczMwVFZTNnBQc1Y5b0Fucmk4SFZQa3dXSlczaTJFVFk5ZGxxdVZDdGhwTTlRLVF1V3ZxbFo3WERYaXA4ZjBGdFJTWWFSVHAxcTFFWkdKSkZRZlZDR0lnRUxOaFlJcWZBUQ?oc=5",
@@ -123,7 +123,7 @@
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
+      "source": "kiro7.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T13:22:09.000Z",
       "feed": "recalls"
@@ -158,7 +158,7 @@
     },
     {
       "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
       "published": "2026-08-26T15:26:47.000Z",
       "feed": "injurylaw"
@@ -167,7 +167,7 @@
       "title": "Dodge Durangos, Toyota Tacomas recalled over safety concerns",
       "source": "NBC Montana",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2ZpRXBBRGVBdTRfYUxHMmliT1hwNEtRWmdnX0FXS3U5ckpPMWdYb3BVOFZ1ZlVxcVJGb3NnSUhOTlVidkdHUy1PTm5YWnMydk9ReGxJQ1hEUktxMzZoaDQ4UkhOUGw3TXRjX1Q4N2pub05LYjVCNVc4cUVCNTY2dUdxY3ZKM0RRM1BoZ3M5S2tNVXpQSmh0ag?oc=5",
-      "published": "2026-08-26T12:29:26.000Z",
+      "published": "2026-08-26T07:00:00.000Z",
       "feed": "recalls"
     }
   ]
