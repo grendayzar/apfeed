@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T21:50:04.738Z",
+  "generated": "2026-09-09T22:15:49.816Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Viral video shows a car stuck under highway underpass 20 feet in the air",
@@ -35,7 +35,7 @@
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
       "published": "2026-09-09T00:31:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
@@ -101,13 +101,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Last conversation revealed as Atlanta father remembered at vigil after deadly crash",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ0JKbk51SEFLOFJWdWVYOGJ3Y1g4Qm4xY3M0ZFVLbTlnNkttUDlpTjNfQmZQcWV3MUVFSGFNbExSSVpCbHpTQzZmbFAxd01qRkRlS2F0YzZLdVNHa1BuU0Z6ektSeXExVEQ0bWtQMFdQT2FRNFdFYWpuak9GUlZxd2NwcUtEcnRPNFVrQ1lhT1dRU0tZaTVFb0cxWk1ELXppcUYzOE9mQkdFX3FvUTlITjFOeUI5OUVsb19Edzh1MmMwYnlWc3JLWUZXb2d4eHBfVDBmYw?oc=5",
-      "published": "2026-09-03T05:18:33.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
       "source": "repairerdrivennews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
@@ -116,7 +109,7 @@
     },
     {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "FleetOwner",
+      "source": "fleetowner.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
       "published": "2026-09-01T12:28:38.000Z",
       "feed": "recalls"
@@ -144,7 +137,7 @@
     },
     {
       "title": "2026 Drunk Driving Statistics",
-      "source": "insurify.com",
+      "source": "Insurify",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
