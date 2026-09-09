@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T19:31:10.698Z",
+  "generated": "2026-09-09T19:49:07.138Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,8 +7,15 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
+    {
+      "title": "Viral video shows a car stuck under highway underpass 20 feet in the air",
+      "source": "the-independent.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajhwNG11TENmdUpqT203WVZpR3YxdV81ZGFfS0xzZkNJZ3ZOOS1OUllfYkVzUERiSFlWUjYxZThaanZsY3Q2a29pRmY0U0RBWVZyM3pIUlBnOVRhSTN4ZDBRRFA3eXd2MHM3aXprUWV3aDBVSXZKd1Zwdlc4d09iS0NGQWJfdzN4Q1I5TUI0R2czbkhGOTg5d29ERHlYU2k3dVBQNDhjZw?oc=5",
+      "published": "2026-09-09T16:57:00.000Z",
+      "feed": "ga-metro"
+    },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
       "source": "Reuters",
