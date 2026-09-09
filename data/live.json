@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T00:28:21.032Z",
+  "generated": "2026-09-09T00:55:02.511Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,21 +7,28 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 23,
+  "count": 21,
   "items": [
+    {
+      "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
+      "published": "2026-09-09T00:31:00.000Z",
+      "feed": "ga-metro"
+    },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeV96N1JjSF9TM19uYmI4SS1BYmhlRVJ6QkdQOU5aa2JrUl9kMW1BX3R2emFNVi1pWXh1anpib3diT0NEcmhSSmhXalAzamFjRmtWN1ZGbjlXWjJmcnNrVU5xb3RJdGIyeUJvTlRyS0E4RmVZcTUtZlNteUhETGFCM1hoWDZRVXEyR2VXei1kV2NtVE9BSWQ3RlBUX3kxV3plM1RZUElqRTZSd25UTUh6Ry1MT3dwUEdROGNsWktVNDlCbW04MlBGdm9kR2praFhTa0VSZVg3ZjVkR3Z6RkFMZ2tfemVyQWtXU1FROXByWC1VaUJIX1ZGOTln?oc=5",
       "published": "2026-09-08T21:49:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "Viral: Video of car stuck in I-20 overpass goes viral",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdngxVjhBaGF6d2tDd0hXMXNveU96S083YWNETXRGbnZxeHItOG96azZyR2lhZEJiT3IxUkY5RFR5bzJ5LWdXTTFBdUJITjVaUy16b0VCMUVDTkFzdGhlQzNIUEthXzVJbVlDcGZSZUpnRm15S2xDVmRmdWp0NXpTZXBLcDRnRXlHWHhBWHg0ZF9mT1BX0gGaAUFVX3lxTE1DaDBldFBIbWFndkJoOUY2cE9idU1FSU1aR0V1bmQ0Nzhqb1JHVDlxVHFhWndMM3J2eVl4TjZQWmllMm8xWWh1aTVmd1VCMzVzOUNpLXVEZlI0WWM5dEZYRTRpMzhxYzhRdlRwQm03d1huREMyaFljODdidTNoWGlaWE5BdWlvdUN4T3VRN0VpUXNKdk9BLV9WN2c?oc=5",
       "published": "2026-09-08T17:28:06.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
@@ -73,24 +80,10 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Motorcycle crash on I-85 southbound leaves 1 dead",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdUh5WTVET1RTMXgxamZiVVAxSnFMUnhTV3hxeEhqSTNJSmZ4ZktDYWd1ckI0X3AtS004R0VGVWVBQlFGN0dYMkR5Wm1DYmxLZnU1WE55ejI3UjBCVl9BTFdkckNIbGxkZzZvTXQzM0lkVGRWemZYX2E4OFh6aHVBRnNjSE83ODhBa0RPOERibVlDNVdNbFZNNzBJS0s4czlqeGMxSmVELTRMU3N5QzVZRmxiVW1rNnh4NU5mWDlHTnpvNWNVLTJVai12NURta3lTRWZmX1pvN3o2Tm5yYURhRnRyUQ?oc=5",
-      "published": "2026-09-02T19:12:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "I-85 southbound in Gwinnett County reopens after deadly motorcycle crash closed lanes",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObXJiUTFpLWVrTVVxeGJjZGFEMmwyNWVxTkZjb3c2NGFDRHJ5bDRFSWJxVXh6Y3EwYjB3d1M2aEJ1dXpzYnR3Vi1EcE5BNko4Z0ZRU3RqVDRBY3FuTkpyOS1UUG9mOGo4SXBfRFhNY3NKT1loLUNob3p3NmJoaFhFdkwzZC1Xb09rT0hGbzdMQXYyS3VocU9XRkg0RU9xblA0Qmg1aWFPNFAtMXNsa2dNU0pCMA?oc=5",
       "published": "2026-09-02T17:56:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Fatal crash on I-85 S causes delays at Indian Trail Lilburn Road",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNUZJUTZ4RF9PU19aTHpteEtWNFhYcE9DOTVmX1pKVGVHRnBBQURaaHdpRGxXd1V3NjJlSmtQb1NVczVENWZ1MjJ5NGlCZGc3YmJ3aGZsNV9BRUdoUTJWVkJJUlRYMzB4OXhoUEdiSXF3T3E3RS14UGdTOWFJTHZIZmtvWWlPaURTX1NqVmlCU2RPVHA3QlE?oc=5",
-      "published": "2026-09-02T17:14:47.000Z",
       "feed": "ga-roads"
     },
     {
@@ -106,13 +99,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQWDlaUlJUZzRtQ0VPTTJldExqbEl4VzdwQl94cDBjdVpxM0laYkxyTHdTMHNhQ1h0ZF9pYjJkakd1bW10MnhxQThGZE80MC1yeE55UnJSZ19sMXBCX3pvUzhXamRsaUhXcDV1eG5heWtQdFQ5TllnbzNvY1Fyd1VURTlEMk4wdGVyZW1FZ0k1ZkpCeXVZeGkwci1iUElJbGMwUzdUUkpyTUJQOTl2dEZSOXItSS12ZmotUG5PQzYwM0lhZndMZ1FuMUdmNkdTMlNpTjFiN1NXUjYxNTRUWXdMVGNUYmJralZIZjJoZmh5VW1sMjc1T1pBc0pGNXhlS0l4dmkwNG54Zk4?oc=5",
       "published": "2026-09-02T05:37:51.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Former athlete killed in crash described as ‘model student’ by coach",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM24yaGs3N2tSUEkzSXZQWVljVHA3WlpfWXpaOGRBMDFLeU5sZzlxYmVTX2RMNl95ckF3YjB4ZGROanJmMkFUOE56ek9SZ1Bwd1FiRW1CNXBRWUhNLV93dzNDc3pZQzdiUVpjVm55ei00Q3VqdTJjMlR2RFdjNjdadDN6bVYxN1VWalZlSmNfT1RwdnIyRUNZNF83elZ5YThBVElQQzdtcmt6NmJtcW4xWEJYTHZiQjFZSW5ydW9n0gHSAUFVX3lxTE5wN3FVbkVlTWZBRUZ2VWRNbUJxY3ctQzJ2dDNLT1MwcnpuNUZhS25GWWNKVU4zWVFINUZGQ2ZDS2xYX3E1QkltQll0dzlTTEUzVmJKcFRSQ2FCNUptUm5lQldpSTh1UUZ0a1pmNnF5Tk1IOElwRHBwbFZxNGYtdUZmcU9XekEzbkdVRl9ITHlza2w0UXR5dGdKYjNfeVRmTVUwNUUtanBnblhveUN5NzR3MjBlS25VX1k1SVdwTDJWZ0xfVGV1RTN4NUFKSjVoNWtHZw?oc=5",
-      "published": "2026-09-02T02:01:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
