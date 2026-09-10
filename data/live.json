@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T02:17:09.440Z",
+  "generated": "2026-09-10T02:35:03.264Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -46,7 +46,7 @@
     },
     {
       "title": "Viral: Video of car stuck in I-20 overpass goes viral",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdngxVjhBaGF6d2tDd0hXMXNveU96S083YWNETXRGbnZxeHItOG96azZyR2lhZEJiT3IxUkY5RFR5bzJ5LWdXTTFBdUJITjVaUy16b0VCMUVDTkFzdGhlQzNIUEthXzVJbVlDcGZSZUpnRm15S2xDVmRmdWp0NXpTZXBLcDRnRXlHWHhBWHg0ZF9mT1BX0gGaAUFVX3lxTE1DaDBldFBIbWFndkJoOUY2cE9idU1FSU1aR0V1bmQ0Nzhqb1JHVDlxVHFhWndMM3J2eVl4TjZQWmllMm8xWWh1aTVmd1VCMzVzOUNpLXVEZlI0WWM5dEZYRTRpMzhxYzhRdlRwQm03d1huREMyaFljODdidTNoWGlaWE5BdWlvdUN4T3VRN0VpUXNKdk9BLV9WN2c?oc=5",
       "published": "2026-09-08T17:28:06.000Z",
       "feed": "ga-roads"
@@ -60,7 +60,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia trooper, K9",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN19kTDQ5bm5qRWJPbUVEVHhaaTZzTXJ2X2JOSkU4NHJ4VHI1ZHNxOGY4cFMzNXZrOEFod3VLTXRQNGxsd2hJSlpSeHM3VElmVTdXeFktWGNXYVFQcUtKa2dPamQ1eFhobXh0Z0ljZU13VEc5YkkyZU5xdmJ6czdyZllCVWtvYXZnQ1BIdzJRdWHSAZYBQVVfeXFMTmZ5SWtCbzdFOEtOTGN3Z2xHbVQzamgyVkNfdVk2aG5uR3Z3QzZqWVZHUm9WYmdNbFMyZmRLVC1qdGo1SHV3RVJIeFVEWWFZcGJPQWRsa3E1NEJqOXJhMVQ2aC1obkZnOXVnQVh2SlZud0QwMVFSVThoZXJ5VWdlM0JOU3piVkppNi0wUUlwWlZZdVdPTVl3?oc=5",
       "published": "2026-09-07T09:25:11.000Z",
       "feed": "ga-roads"
@@ -123,7 +123,7 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
+      "source": "The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -151,7 +151,7 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
