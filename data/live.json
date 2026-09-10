@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T07:53:08.333Z",
+  "generated": "2026-09-10T08:18:42.945Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
@@ -35,7 +35,7 @@
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
       "published": "2026-09-09T00:31:00.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
@@ -71,6 +71,13 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Instructor, student called 911 from crashed airplane, critically injured",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzUta19NeWt6VDRRcFo1ZGNUWFg5MjZRNFNwbXNTeHQxR2hMZ1gtZ3hXVkFqUzVlLXI4ZTJjekRCOEdtb09CazB0OTdfdlJYek5zeTNWcVlHMGF5cTZhWmdvdlBuZVp3bHZoS2cybEdzSFF6RmZhVnh5bk04QlF2TmJLTzAzbXZEUFdTWmFzSGh0UFV6TTNaRW9PVXVLdw?oc=5",
+      "published": "2026-09-04T02:47:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Student pilot, instructor injured in Paulding County plane crash",
