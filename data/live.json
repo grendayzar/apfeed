@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T10:17:34.913Z",
+  "generated": "2026-09-10T10:35:53.747Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
@@ -24,6 +24,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
+      "published": "2026-09-09T16:40:55.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "DUI prevention technology",
       "source": "Post and Courier",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG56OWZCQUdPbjhGV1RFMVc3cGpFMVVRMzN1S1FBV3hkM2FxNFh0UXFYVl9VUjJla1g0V0Y1czFjaEZ4V0pyWVVmWUVYSmdkRnhyQW1ENnRoTFFHNmRWSkdIamtIV0Q5STZjSWM4SHN5ZTl1WFgzUmpOdk1rcDJXcWpqRGdZQXBkcFlVMGJwVWhDWU94OFB6SDZMZDJwSEtZNnVKa1J3em1mM216TFdZRjUyVEJVWTc0MHNKMF9KbnZuY1g1NWNrVEFmRFpUeDFkejlSa1hR?oc=5",
@@ -31,11 +38,18 @@
       "feed": "us-safety"
     },
     {
+      "title": "How Primary Traffic Offenses Can Affect Car Accident Claims",
+      "source": "BikeHacks",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUG9reEJrQXg4cU1qTmYyQ1l4RjZuSWI2S21iemctOS1EdGN6UmR3OHp4ZVlZN1FmSVE3SEk4anpuZkdaUVZpZ0N6bVNPTlhNWGRPejJlV0R4eDFmWDRoWEY1NFdFYzdLd0FMc0xTSXRld0h5VlVZZmtzSmc4ZTl0ZzdaSGJCY2xfZUpNdEZHNA?oc=5",
+      "published": "2026-09-09T10:14:54.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
       "published": "2026-09-09T00:31:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
@@ -59,6 +73,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "19-year-old killed in crash involving Georgia trooper, K9",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN19kTDQ5bm5qRWJPbUVEVHhaaTZzTXJ2X2JOSkU4NHJ4VHI1ZHNxOGY4cFMzNXZrOEFod3VLTXRQNGxsd2hJSlpSeHM3VElmVTdXeFktWGNXYVFQcUtKa2dPamQ1eFhobXh0Z0ljZU13VEc5YkkyZU5xdmJ6czdyZllCVWtvYXZnQ1BIdzJRdWHSAZYBQVVfeXFMTmZ5SWtCbzdFOEtOTGN3Z2xHbVQzamgyVkNfdVk2aG5uR3Z3QzZqWVZHUm9WYmdNbFMyZmRLVC1qdGo1SHV3RVJIeFVEWWFZcGJPQWRsa3E1NEJqOXJhMVQ2aC1obkZnOXVnQVh2SlZud0QwMVFSVThoZXJ5VWdlM0JOU3piVkppNi0wUUlwWlZZdVdPTVl3?oc=5",
+      "published": "2026-09-07T09:25:11.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
       "source": "veronapress.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
@@ -73,24 +94,10 @@
       "feed": "us-safety"
     },
     {
-      "title": "Instructor, student called 911 from crashed airplane, critically injured",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzUta19NeWt6VDRRcFo1ZGNUWFg5MjZRNFNwbXNTeHQxR2hMZ1gtZ3hXVkFqUzVlLXI4ZTJjekRCOEdtb09CazB0OTdfdlJYek5zeTNWcVlHMGF5cTZhWmdvdlBuZVp3bHZoS2cybEdzSFF6RmZhVnh5bk04QlF2TmJLTzAzbXZEUFdTWmFzSGh0UFV6TTNaRW9PVXVLd9IBsgFBVV95cUxOTFR1TC1JSEpkTTFWVVR6akhKRG5yekhHb1hUWFZmLXBLLTJVRTB0ODRQNFYxWG5NaXpBZmxDVFBNUWJBa3BRZnh2enlmaGIxWFBMZTU1SkJtUnUwZWpMTmprSVhSSVJCLW43Tmt4bHlWQ055ZUlxSEVDTDljS2hubTI0YnJLclc0X3kzeHR1U0g3MWFwSF9GYm11SUEtNDZRdTlzSk15X3N1THNMQ0JnUVlR?oc=5",
-      "published": "2026-09-04T02:47:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Student pilot, instructor injured in Paulding County plane crash",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFBLXNLWmlESXcyMGticmhVeVFmYVZ4ZzNvVndXWm5LUW5EbGV0YUVKX1lzNkNJU1VGNWd5TVNGM2xhNWFFQi0tc283MzR3MFlfUUFma2x3eU45U2Z0ekw2dGliMVZWYXpMcXE0NVZCWFBTUlRTUHlENGNETWVqXzV2RDlYTW5YU3BVNUZYZERPOWM4Tm9rSEdNOUlGVFVFVExXdXloTzFWUDZVazFRNDctRUtSdVgwZ0JSZWV0UQ?oc=5",
       "published": "2026-09-04T01:16:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "1 hospitalized after being hit by car on Georgia Avenue in Northwest DC",
-      "source": "WJLA",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXE5SlFsVXpzb3pqcXYtM1dsZndsMGI2c0tCcHJHSEtwX0lIWG92bS0zWjJVM01HTFVaR01VQ2F0aE5qcFphRTM5aE5EY29kXy05RzBHU3ZETHFYbVB0XzJ2YjMwX3NfcU5oTnVQUHhaSFN5OGNqQVBCVV9pei14QTBRRkdFQVpBWEtGc28yT2xiUjQ2bUp6NW4waTZyYjk1?oc=5",
-      "published": "2026-09-03T21:50:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -101,24 +108,10 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
-      "source": "repairerdrivennews.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
-      "published": "2026-09-02T10:15:24.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "fleetowner.com",
+      "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
       "published": "2026-09-01T12:28:38.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
-      "published": "2026-09-01T07:00:00.000Z",
       "feed": "recalls"
     },
     {
@@ -137,7 +130,7 @@
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "kiro7.com",
+      "source": "KIRO 7 News Seattle",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "recalls"
