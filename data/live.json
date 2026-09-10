@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T06:22:51.699Z",
+  "generated": "2026-09-10T06:54:41.909Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,13 +9,6 @@
   ],
   "count": 21,
   "items": [
-    {
-      "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
-      "published": "2026-09-09T19:16:00.000Z",
-      "feed": "ga-roads"
-    },
     {
       "title": "Viral video shows a car stuck under highway underpass 20 feet in the air",
       "source": "the-independent.com",
@@ -66,6 +59,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "19-year-old killed in crash involving Georgia trooper, K9",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQN19kTDQ5bm5qRWJPbUVEVHhaaTZzTXJ2X2JOSkU4NHJ4VHI1ZHNxOGY4cFMzNXZrOEFod3VLTXRQNGxsd2hJSlpSeHM3VElmVTdXeFktWGNXYVFQcUtKa2dPamQ1eFhobXh0Z0ljZU13VEc5YkkyZU5xdmJ6czdyZllCVWtvYXZnQ1BIdzJRdWHSAZYBQVVfeXFMTmZ5SWtCbzdFOEtOTGN3Z2xHbVQzamgyVkNfdVk2aG5uR3Z3QzZqWVZHUm9WYmdNbFMyZmRLVC1qdGo1SHV3RVJIeFVEWWFZcGJPQWRsa3E1NEJqOXJhMVQ2aC1obkZnOXVnQVh2SlZud0QwMVFSVThoZXJ5VWdlM0JOU3piVkppNi0wUUlwWlZZdVdPTVl3?oc=5",
+      "published": "2026-09-07T09:25:11.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
       "source": "veronapress.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
@@ -81,21 +81,21 @@
     },
     {
       "title": "Student pilot, instructor injured in Paulding County plane crash",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFBLXNLWmlESXcyMGticmhVeVFmYVZ4ZzNvVndXWm5LUW5EbGV0YUVKX1lzNkNJU1VGNWd5TVNGM2xhNWFFQi0tc283MzR3MFlfUUFma2x3eU45U2Z0ekw2dGliMVZWYXpMcXE0NVZCWFBTUlRTUHlENGNETWVqXzV2RDlYTW5YU3BVNUZYZERPOWM4Tm9rSEdNOUlGVFVFVExXdXloTzFWUDZVazFRNDctRUtSdVgwZ0JSZWV0UQ?oc=5",
       "published": "2026-09-04T01:16:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "1 hospitalized after being hit by car on Georgia Avenue in Northwest DC",
-      "source": "wjla.com",
+      "source": "WJLA",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXE5SlFsVXpzb3pqcXYtM1dsZndsMGI2c0tCcHJHSEtwX0lIWG92bS0zWjJVM01HTFVaR01VQ2F0aE5qcFphRTM5aE5EY29kXy05RzBHU3ZETHFYbVB0XzJ2YjMwX3NfcU5oTnVQUHhaSFN5OGNqQVBCVV9pei14QTBRRkdFQVpBWEtGc28yT2xiUjQ2bUp6NW4waTZyYjk1?oc=5",
       "published": "2026-09-03T21:50:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Lanes reopen on I-285 at I-20 after crash involving semi-truck",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNm1rNHZseGxDdEZPOFBCNW4tZ1BiR09mOHFPdDRIMllMMjdRMlRIX053NEg0RnhRQzB0TlFMUlFyc2NKRkF2aDEyY2pLLXhodTY1UkQ0bkFWVHhCZzJzREhrOFA4VWVST3pJVks4R0RZVGM1ZVV0Zm1aMXVwMEtuQzVId2twOF81ay1tVW5qb3k3UFl1RTB5SGY1eEM0V2p4VXFzTVNJWlpjeWs5TDFQV0JuWEdUN1lNMFZfSmRmbmNRYkdhQ2tlZtIB3AFBVV95cUxQU1NRNVI1Y0FYTkRPS0RPZjhrSjNaajFTckxRNlJUc1RvNTIzNTczMWtGaGdVeEJ6eWc1SU16VXpDWGpMMG9oVFhqZ2tRNTRVOTVQTnIyR3M0VG1EVVd5Sk9UMGhDTlBiVEV3WXoxQ205ekoyM0duWEEyNW1walE4d2F2N0MxSmFnbThhMGI3eWttUWpVOTJFa0VRSXpXS0pXOUxkSm1uc1FIejRMcWJUNjJrS0VTWjF4S0lRY0hWNzhnZXRwWFFnaTBMMlZMeTYxSWlnZDNhNFFtalVv?oc=5",
       "published": "2026-09-03T10:36:00.000Z",
       "feed": "ga-metro"
@@ -111,7 +111,7 @@
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
       "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
-      "published": "2026-09-01T07:00:00.000Z",
+      "published": "2026-09-01T12:28:38.000Z",
       "feed": "recalls"
     },
     {
