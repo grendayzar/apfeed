@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T21:31:18.358Z",
+  "generated": "2026-09-10T21:49:51.482Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,14 +25,14 @@
     },
     {
       "title": "DUI prevention technology",
-      "source": "postandcourier.com",
+      "source": "Post and Courier",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG56OWZCQUdPbjhGV1RFMVc3cGpFMVVRMzN1S1FBV3hkM2FxNFh0UXFYVl9VUjJla1g0V0Y1czFjaEZ4V0pyWVVmWUVYSmdkRnhyQW1ENnRoTFFHNmRWSkdIamtIV0Q5STZjSWM4SHN5ZTl1WFgzUmpOdk1rcDJXcWpqRGdZQXBkcFlVMGJwVWhDWU94OFB6SDZMZDJwSEtZNnVKa1J3em1mM216TFdZRjUyVEJVWTc0MHNKMF9KbnZuY1g1NWNrVEFmRFpUeDFkejlSa1hR?oc=5",
       "published": "2026-09-09T10:45:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
-      "source": "wsbtv.com",
+      "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
       "published": "2026-09-09T00:31:00.000Z",
       "feed": "ga-roads"
@@ -53,7 +53,7 @@
     },
     {
       "title": "5 killed in crashes across Georgia over Labor Day weekend, officials say",
-      "source": "wtoc.com",
+      "source": "WTOC",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS25iYmcyNEFfY184aURlbkRGbVlqaENZejVYamhwQUZLR1BXdHNVUmlQc0tZdmxHcklaUDVTLVpPdkxBWUlBaWxpM1ZxWUlDZGtfTnFPd3FUOGNMdXpsUU41TVhaVGpUZUpwMmdaN3Izb0E2TldsSVNrWGozLTFqMDFublV1NXVRdmtSc3Mtek1pN01PSXk2VFh1MXYxeFZIeThV0gG3AUFVX3lxTE5aZXJSMGxZdVJJeFR6dnFfOXV2NjhnNkg2aU9seGxGQm9PS1N1aUtoSnlzaEo3aFAwcUdBNnV0NFFod3pMb0NYTDFjemNNT2M2THdndENXbGYyVzlUeVRxWDBNck15emM3OURTZlI4cDY0SVFib3FBNXo1WUY3LWV5WGl4S2xzWHgxVXY3X29RRFhtSDZmeUdmMW9QVnF6MzR6emY1SEl5QVg4OGxTQ0dSYzZkOUZ5Zw?oc=5",
       "published": "2026-09-08T01:01:00.000Z",
       "feed": "ga-metro"
@@ -87,6 +87,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
+      "source": "24-7 Press Release Newswire",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
+      "published": "2026-09-02T18:52:27.000Z",
+      "feed": "injurylaw"
+    },
+    {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
       "source": "repairerdrivennews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
@@ -116,7 +123,7 @@
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "natlawreview.com",
+      "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
@@ -136,17 +143,10 @@
       "feed": "us-safety"
     },
     {
-      "title": "A.M. ATL: Big payouts",
-      "source": "AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
-      "published": "2026-08-27T07:00:00.000Z",
-      "feed": "injurylaw"
-    },
-    {
-      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
       "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
-      "published": "2026-08-26T15:26:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T07:00:00.000Z",
       "feed": "injurylaw"
     }
   ]
