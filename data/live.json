@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T14:16:37.686Z",
+  "generated": "2026-09-10T14:35:26.669Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -46,7 +46,7 @@
     },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeV96N1JjSF9TM19uYmI4SS1BYmhlRVJ6QkdQOU5aa2JrUl9kMW1BX3R2emFNVi1pWXh1anpib3diT0NEcmhSSmhXalAzamFjRmtWN1ZGbjlXWjJmcnNrVU5xb3RJdGIyeUJvTlRyS0E4RmVZcTUtZlNteUhETGFCM1hoWDZRVXEyR2VXei1kV2NtVE9BSWQ3RlBUX3kxV3plM1RZUElqRTZSd25UTUh6Ry1MT3dwUEdROGNsWktVNDlCbW04MlBGdm9kR2praFhTa0VSZVg3ZjVkR3Z6RkFMZ2tfemVyQWtXU1FROXByWC1VaUJIX1ZGOTln?oc=5",
       "published": "2026-09-08T21:49:00.000Z",
       "feed": "ga-roads"
@@ -88,7 +88,7 @@
     },
     {
       "title": "Student pilot, instructor injured in Paulding County plane crash",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFBLXNLWmlESXcyMGticmhVeVFmYVZ4ZzNvVndXWm5LUW5EbGV0YUVKX1lzNkNJU1VGNWd5TVNGM2xhNWFFQi0tc283MzR3MFlfUUFma2x3eU45U2Z0ekw2dGliMVZWYXpMcXE0NVZCWFBTUlRTUHlENGNETWVqXzV2RDlYTW5YU3BVNUZYZERPOWM4Tm9rSEdNOUlGVFVFVExXdXloTzFWUDZVazFRNDctRUtSdVgwZ0JSZWV0UQ?oc=5",
       "published": "2026-09-04T01:16:00.000Z",
       "feed": "ga-roads"
@@ -99,13 +99,6 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXE5SlFsVXpzb3pqcXYtM1dsZndsMGI2c0tCcHJHSEtwX0lIWG92bS0zWjJVM01HTFVaR01VQ2F0aE5qcFphRTM5aE5EY29kXy05RzBHU3ZETHFYbVB0XzJ2YjMwX3NfcU5oTnVQUHhaSFN5OGNqQVBCVV9pei14QTBRRkdFQVpBWEtGc28yT2xiUjQ2bUp6NW4waTZyYjk1?oc=5",
       "published": "2026-09-03T21:50:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
-      "source": "24-7pressrelease.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
-      "published": "2026-09-02T18:52:27.000Z",
-      "feed": "injurylaw"
     },
     {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
@@ -129,13 +122,6 @@
       "feed": "recalls"
     },
     {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
       "source": "natlawreview.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
@@ -143,11 +129,25 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "kiro7.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T07:00:00.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "2026 Drunk Driving Statistics",
       "source": "Insurify",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "A.M. ATL: Big payouts",
+      "source": "AJC.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
+      "published": "2026-08-27T07:00:00.000Z",
+      "feed": "injurylaw"
     },
     {
       "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
