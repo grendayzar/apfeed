@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T13:34:01.111Z",
+  "generated": "2026-09-10T13:51:56.889Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
@@ -42,11 +42,11 @@
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
       "published": "2026-09-09T00:31:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeV96N1JjSF9TM19uYmI4SS1BYmhlRVJ6QkdQOU5aa2JrUl9kMW1BX3R2emFNVi1pWXh1anpib3diT0NEcmhSSmhXalAzamFjRmtWN1ZGbjlXWjJmcnNrVU5xb3RJdGIyeUJvTlRyS0E4RmVZcTUtZlNteUhETGFCM1hoWDZRVXEyR2VXei1kV2NtVE9BSWQ3RlBUX3kxV3plM1RZUElqRTZSd25UTUh6Ry1MT3dwUEdROGNsWktVNDlCbW04MlBGdm9kR2praFhTa0VSZVg3ZjVkR3Z6RkFMZ2tfemVyQWtXU1FROXByWC1VaUJIX1ZGOTln?oc=5",
       "published": "2026-09-08T21:49:00.000Z",
       "feed": "ga-roads"
@@ -60,7 +60,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1UUlZ3cExidnM3Sno5TDhmOGwyZGFiOXRhWHhYSVZ3Z0hsV1Uxd2xBOGc1R3dUdjlwU1RkMjFpR1M1cnItNG9sNTNYQmVlLWtiMFd6R3l5bDRhYjJxZmdta05KdlBYQ1ZYbDI5UXVNTS0zZk9fdmFub0Item95ZU54SkNtYU5McndLa0NhdzRMLUN5TEF4ZXFtaFZfSUtKdDRLc1R0VF9kRktRN0JUTnd6M3RmVWZBb0pTQTR5akpLUjM4UHNyc05XOUdBYWx4czI4UFVB?oc=5",
       "published": "2026-09-07T17:58:44.000Z",
       "feed": "ga-roads"
@@ -80,13 +80,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "Instructor, student called 911 from crashed airplane, critically injured",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzUta19NeWt6VDRRcFo1ZGNUWFg5MjZRNFNwbXNTeHQxR2hMZ1gtZ3hXVkFqUzVlLXI4ZTJjekRCOEdtb09CazB0OTdfdlJYek5zeTNWcVlHMGF5cTZhWmdvdlBuZVp3bHZoS2cybEdzSFF6RmZhVnh5bk04QlF2TmJLTzAzbXZEUFdTWmFzSGh0UFV6TTNaRW9PVXVLd9IBsgFBVV95cUxOTFR1TC1JSEpkTTFWVVR6akhKRG5yekhHb1hUWFZmLXBLLTJVRTB0ODRQNFYxWG5NaXpBZmxDVFBNUWJBa3BRZnh2enlmaGIxWFBMZTU1SkJtUnUwZWpMTmprSVhSSVJCLW43Tmt4bHlWQ055ZUlxSEVDTDljS2hubTI0YnJLclc0X3kzeHR1U0g3MWFwSF9GYm11SUEtNDZRdTlzSk15X3N1THNMQ0JnUVlR?oc=5",
-      "published": "2026-09-04T02:47:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Student pilot, instructor injured in Paulding County plane crash",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdHFBLXNLWmlESXcyMGticmhVeVFmYVZ4ZzNvVndXWm5LUW5EbGV0YUVKX1lzNkNJU1VGNWd5TVNGM2xhNWFFQi0tc283MzR3MFlfUUFma2x3eU45U2Z0ekw2dGliMVZWYXpMcXE0NVZCWFBTUlRTUHlENGNETWVqXzV2RDlYTW5YU3BVNUZYZERPOWM4Tm9rSEdNOUlGVFVFVExXdXloTzFWUDZVazFRNDctRUtSdVgwZ0JSZWV0UQ?oc=5",
@@ -102,7 +95,7 @@
     },
     {
       "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
-      "source": "24-7 Press Release Newswire",
+      "source": "24-7pressrelease.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
       "published": "2026-09-02T18:52:27.000Z",
       "feed": "injurylaw"
@@ -116,7 +109,7 @@
     },
     {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "fleetowner.com",
+      "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
       "published": "2026-09-01T12:28:38.000Z",
       "feed": "recalls"
@@ -137,7 +130,7 @@
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "kiro7.com",
+      "source": "KIRO 7 News Seattle",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "recalls"
