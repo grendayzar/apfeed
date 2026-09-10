@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T12:54:35.072Z",
+  "generated": "2026-09-10T13:17:03.259Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
@@ -15,13 +15,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
       "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Viral video shows a car stuck under highway underpass 20 feet in the air",
-      "source": "the-independent.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajhwNG11TENmdUpqT203WVZpR3YxdV81ZGFfS0xzZkNJZ3ZOOS1OUllfYkVzUERiSFlWUjYxZThaanZsY3Q2a29pRmY0U0RBWVZyM3pIUlBnOVRhSTN4ZDBRRFA3eXd2MHM3aXprUWV3aDBVSXZKd1Zwdlc4d09iS0NGQWJfdzN4Q1I5TUI0R2czbkhGOTg5d29ERHlYU2k3dVBQNDhjZw?oc=5",
-      "published": "2026-09-09T16:57:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
@@ -60,7 +53,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1UUlZ3cExidnM3Sno5TDhmOGwyZGFiOXRhWHhYSVZ3Z0hsV1Uxd2xBOGc1R3dUdjlwU1RkMjFpR1M1cnItNG9sNTNYQmVlLWtiMFd6R3l5bDRhYjJxZmdta05KdlBYQ1ZYbDI5UXVNTS0zZk9fdmFub0Item95ZU54SkNtYU5McndLa0NhdzRMLUN5TEF4ZXFtaFZfSUtKdDRLc1R0VF9kRktRN0JUTnd6M3RmVWZBb0pTQTR5akpLUjM4UHNyc05XOUdBYWx4czI4UFVB?oc=5",
       "published": "2026-09-07T17:58:44.000Z",
       "feed": "ga-roads"
@@ -111,12 +104,12 @@
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
       "source": "fleetowner.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
-      "published": "2026-09-01T07:00:00.000Z",
+      "published": "2026-09-01T12:28:38.000Z",
       "feed": "recalls"
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -144,16 +137,16 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
     },
     {
-      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
       "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
+      "published": "2026-08-26T15:26:47.000Z",
       "feed": "injurylaw"
     }
   ]
