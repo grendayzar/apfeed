@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T09:53:31.733Z",
+  "generated": "2026-09-10T10:17:34.913Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
       "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Viral video shows a car stuck under highway underpass 20 feet in the air",
+      "source": "the-independent.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPajhwNG11TENmdUpqT203WVZpR3YxdV81ZGFfS0xzZkNJZ3ZOOS1OUllfYkVzUERiSFlWUjYxZThaanZsY3Q2a29pRmY0U0RBWVZyM3pIUlBnOVRhSTN4ZDBRRFA3eXd2MHM3aXprUWV3aDBVSXZKd1Zwdlc4d09iS0NGQWJfdzN4Q1I5TUI0R2czbkhGOTg5d29ERHlYU2k3dVBQNDhjZw?oc=5",
+      "published": "2026-09-09T16:57:00.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "DUI prevention technology",
@@ -43,13 +50,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdngxVjhBaGF6d2tDd0hXMXNveU96S083YWNETXRGbnZxeHItOG96azZyR2lhZEJiT3IxUkY5RFR5bzJ5LWdXTTFBdUJITjVaUy16b0VCMUVDTkFzdGhlQzNIUEthXzVJbVlDcGZSZUpnRm15S2xDVmRmdWp0NXpTZXBLcDRnRXlHWHhBWHg0ZF9mT1BX0gGaAUFVX3lxTE1DaDBldFBIbWFndkJoOUY2cE9idU1FSU1aR0V1bmQ0Nzhqb1JHVDlxVHFhWndMM3J2eVl4TjZQWmllMm8xWWh1aTVmd1VCMzVzOUNpLXVEZlI0WWM5dEZYRTRpMzhxYzhRdlRwQm03d1huREMyaFljODdidTNoWGlaWE5BdWlvdUN4T3VRN0VpUXNKdk9BLV9WN2c?oc=5",
       "published": "2026-09-08T17:28:06.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "5 killed in crashes across Georgia over Labor Day weekend, officials say",
-      "source": "WTOC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS25iYmcyNEFfY184aURlbkRGbVlqaENZejVYamhwQUZLR1BXdHNVUmlQc0tZdmxHcklaUDVTLVpPdkxBWUlBaWxpM1ZxWUlDZGtfTnFPd3FUOGNMdXpsUU41TVhaVGpUZUpwMmdaN3Izb0E2TldsSVNrWGozLTFqMDFublV1NXVRdmtSc3Mtek1pN01PSXk2VFh1MXYxeFZIeThV0gG3AUFVX3lxTE5aZXJSMGxZdVJJeFR6dnFfOXV2NjhnNkg2aU9seGxGQm9PS1N1aUtoSnlzaEo3aFAwcUdBNnV0NFFod3pMb0NYTDFjemNNT2M2THdndENXbGYyVzlUeVRxWDBNck15emM3OURTZlI4cDY0SVFib3FBNXo1WUY3LWV5WGl4S2xzWHgxVXY3X29RRFhtSDZmeUdmMW9QVnF6MzR6emY1SEl5QVg4OGxTQ0dSYzZkOUZ5Zw?oc=5",
-      "published": "2026-09-08T01:01:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
@@ -109,7 +109,7 @@
     },
     {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "FleetOwner",
+      "source": "fleetowner.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
       "published": "2026-09-01T12:28:38.000Z",
       "feed": "recalls"
@@ -137,7 +137,7 @@
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
+      "source": "kiro7.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "recalls"
@@ -151,14 +151,14 @@
     },
     {
       "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
+      "source": "AJC.com",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
       "published": "2026-08-27T07:00:00.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
       "published": "2026-08-26T15:26:47.000Z",
       "feed": "injurylaw"
