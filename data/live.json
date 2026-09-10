@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-10T17:16:08.978Z",
+  "generated": "2026-09-10T17:32:23.773Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
       "feed": "ga-metro"
@@ -60,7 +60,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1UUlZ3cExidnM3Sno5TDhmOGwyZGFiOXRhWHhYSVZ3Z0hsV1Uxd2xBOGc1R3dUdjlwU1RkMjFpR1M1cnItNG9sNTNYQmVlLWtiMFd6R3l5bDRhYjJxZmdta05KdlBYQ1ZYbDI5UXVNTS0zZk9fdmFub0Item95ZU54SkNtYU5McndLa0NhdzRMLUN5TEF4ZXFtaFZfSUtKdDRLc1R0VF9kRktRN0JUTnd6M3RmVWZBb0pTQTR5akpLUjM4UHNyc05XOUdBYWx4czI4UFVB?oc=5",
       "published": "2026-09-07T17:58:44.000Z",
       "feed": "ga-roads"
@@ -92,6 +92,13 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXE5SlFsVXpzb3pqcXYtM1dsZndsMGI2c0tCcHJHSEtwX0lIWG92bS0zWjJVM01HTFVaR01VQ2F0aE5qcFphRTM5aE5EY29kXy05RzBHU3ZETHFYbVB0XzJ2YjMwX3NfcU5oTnVQUHhaSFN5OGNqQVBCVV9pei14QTBRRkdFQVpBWEtGc28yT2xiUjQ2bUp6NW4waTZyYjk1?oc=5",
       "published": "2026-09-03T21:50:00.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
+      "source": "24-7 Press Release Newswire",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
+      "published": "2026-09-02T18:52:27.000Z",
+      "feed": "injurylaw"
     },
     {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
@@ -137,17 +144,10 @@
     },
     {
       "title": "2026 Drunk Driving Statistics",
-      "source": "insurify.com",
+      "source": "Insurify",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "A.M. ATL: Big payouts",
-      "source": "ajc.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
-      "published": "2026-08-27T07:00:00.000Z",
-      "feed": "injurylaw"
     },
     {
       "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
