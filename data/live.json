@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T05:33:19.257Z",
+  "generated": "2026-09-11T05:51:20.783Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
@@ -31,13 +31,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
-      "published": "2026-09-09T16:40:55.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "DUI prevention technology",
       "source": "Post and Courier",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG56OWZCQUdPbjhGV1RFMVc3cGpFMVVRMzN1S1FBV3hkM2FxNFh0UXFYVl9VUjJla1g0V0Y1czFjaEZ4V0pyWVVmWUVYSmdkRnhyQW1ENnRoTFFHNmRWSkdIamtIV0Q5STZjSWM4SHN5ZTl1WFgzUmpOdk1rcDJXcWpqRGdZQXBkcFlVMGJwVWhDWU94OFB6SDZMZDJwSEtZNnVKa1J3em1mM216TFdZRjUyVEJVWTc0MHNKMF9KbnZuY1g1NWNrVEFmRFpUeDFkejlSa1hR?oc=5",
@@ -46,7 +39,7 @@
     },
     {
       "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
-      "source": "WSB-TV",
+      "source": "wsbtv.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
       "published": "2026-09-09T00:31:00.000Z",
       "feed": "ga-roads"
@@ -64,6 +57,13 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdngxVjhBaGF6d2tDd0hXMXNveU96S083YWNETXRGbnZxeHItOG96azZyR2lhZEJiT3IxUkY5RFR5bzJ5LWdXTTFBdUJITjVaUy16b0VCMUVDTkFzdGhlQzNIUEthXzVJbVlDcGZSZUpnRm15S2xDVmRmdWp0NXpTZXBLcDRnRXlHWHhBWHg0ZF9mT1BX0gGaAUFVX3lxTE1DaDBldFBIbWFndkJoOUY2cE9idU1FSU1aR0V1bmQ0Nzhqb1JHVDlxVHFhWndMM3J2eVl4TjZQWmllMm8xWWh1aTVmd1VCMzVzOUNpLXVEZlI0WWM5dEZYRTRpMzhxYzhRdlRwQm03d1huREMyaFljODdidTNoWGlaWE5BdWlvdUN4T3VRN0VpUXNKdk9BLV9WN2c?oc=5",
       "published": "2026-09-08T17:28:06.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "5 killed in crashes across Georgia over Labor Day weekend, officials say",
+      "source": "wtoc.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS25iYmcyNEFfY184aURlbkRGbVlqaENZejVYamhwQUZLR1BXdHNVUmlQc0tZdmxHcklaUDVTLVpPdkxBWUlBaWxpM1ZxWUlDZGtfTnFPd3FUOGNMdXpsUU41TVhaVGpUZUpwMmdaN3Izb0E2TldsSVNrWGozLTFqMDFublV1NXVRdmtSc3Mtek1pN01PSXk2VFh1MXYxeFZIeThV0gG3AUFVX3lxTE5aZXJSMGxZdVJJeFR6dnFfOXV2NjhnNkg2aU9seGxGQm9PS1N1aUtoSnlzaEo3aFAwcUdBNnV0NFFod3pMb0NYTDFjemNNT2M2THdndENXbGYyVzlUeVRxWDBNck15emM3OURTZlI4cDY0SVFib3FBNXo1WUY3LWV5WGl4S2xzWHgxVXY3X29RRFhtSDZmeUdmMW9QVnF6MzR6emY1SEl5QVg4OGxTQ0dSYzZkOUZ5Zw?oc=5",
+      "published": "2026-09-08T01:01:00.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
@@ -108,6 +108,13 @@
       "feed": "recalls"
     },
     {
+      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
+      "published": "2026-09-01T07:00:00.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
       "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
@@ -130,7 +137,7 @@
     },
     {
       "title": "2026 Drunk Driving Statistics",
-      "source": "Insurify",
+      "source": "insurify.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
