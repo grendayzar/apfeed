@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T21:30:26.666Z",
+  "generated": "2026-09-11T21:48:46.472Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 20,
   "items": [
+    {
+      "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
+      "source": "KEYE",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
+      "published": "2026-09-11T21:42:23.000Z",
+      "feed": "us-safety"
+    },
     {
       "title": "National Safety Council Announces NHTSA-Funded 2026 Road to Zero Community Traffic Safety Grants",
       "source": "PR Newswire",
@@ -74,7 +81,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1UUlZ3cExidnM3Sno5TDhmOGwyZGFiOXRhWHhYSVZ3Z0hsV1Uxd2xBOGc1R3dUdjlwU1RkMjFpR1M1cnItNG9sNTNYQmVlLWtiMFd6R3l5bDRhYjJxZmdta05KdlBYQ1ZYbDI5UXVNTS0zZk9fdmFub0Item95ZU54SkNtYU5McndLa0NhdzRMLUN5TEF4ZXFtaFZfSUtKdDRLc1R0VF9kRktRN0JUTnd6M3RmVWZBb0pTQTR5akpLUjM4UHNyc05XOUdBYWx4czI4UFVB?oc=5",
       "published": "2026-09-07T17:58:44.000Z",
       "feed": "ga-roads"
@@ -95,16 +102,9 @@
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "wgnsradio.com",
+      "source": "WGNS Radio",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
-      "source": "repairerdrivennews.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
-      "published": "2026-09-02T10:15:24.000Z",
       "feed": "us-safety"
     },
     {
@@ -123,7 +123,7 @@
     },
     {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "natlawreview.com",
+      "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
       "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
