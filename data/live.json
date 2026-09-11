@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T00:52:00.536Z",
+  "generated": "2026-09-11T01:15:17.750Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 20,
   "items": [
+    {
+      "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbEhSeG9NZ3ZBZG1ienlvMHRQNXdueXpsUGJHZmUwTE5USmpyODFDN2lHdGRmQ29RQmk2TDZsTHJ6eExjOU9oTVBma0pybFc4TnoyUUNYN2ZJSTdfSzVBYXNMLTdqci1tZW1mZU9fR3hYX3Z6Y3k3VUhYd2pfeHc2VjVPU1d6YnNaX0pKanJmemw2M0ktU1hRVnlfTUpQSWtEMmZtNzBYS2NmMktjZElraDJ3TnNZWGZNVVlUTXc4UDnSAXBBVV95cUxPaGdaZWZxRVlteGxzUmdGMGFNOWhJRU82b1NkV1FBTVZTaUNLaHp0VEFpakRMWTQtTFBCN1BnRWdwdDZybzJZVVJxUTI1dy1ZelJ3S29xZUg4M1ZwOUg1Vmp4LWRVa2tFbGJOalhoTGg3?oc=5",
+      "published": "2026-09-10T23:46:00.000Z",
+      "feed": "injurylaw"
+    },
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
       "source": "WJCL",
@@ -46,7 +53,7 @@
     },
     {
       "title": "Viral: Video of car stuck in I-20 overpass goes viral",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdngxVjhBaGF6d2tDd0hXMXNveU96S083YWNETXRGbnZxeHItOG96azZyR2lhZEJiT3IxUkY5RFR5bzJ5LWdXTTFBdUJITjVaUy16b0VCMUVDTkFzdGhlQzNIUEthXzVJbVlDcGZSZUpnRm15S2xDVmRmdWp0NXpTZXBLcDRnRXlHWHhBWHg0ZF9mT1BX0gGaAUFVX3lxTE1DaDBldFBIbWFndkJoOUY2cE9idU1FSU1aR0V1bmQ0Nzhqb1JHVDlxVHFhWndMM3J2eVl4TjZQWmllMm8xWWh1aTVmd1VCMzVzOUNpLXVEZlI0WWM5dEZYRTRpMzhxYzhRdlRwQm03d1huREMyaFljODdidTNoWGlaWE5BdWlvdUN4T3VRN0VpUXNKdk9BLV9WN2c?oc=5",
       "published": "2026-09-08T17:28:06.000Z",
       "feed": "ga-roads"
@@ -87,13 +94,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "Jones & Swanson Welcomes Ella J. Mitchell as First Female Attorney in Firm History",
-      "source": "24-7 Press Release Newswire",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjhUb1Q5Skdxa0VSdnQzSGx2bmphLWswQVRrN2k3bm9EZThJVkxqR2ItdDQwUHptRGk1ekZrUF9LVEswajIzdFVNZURXeU9SaG5Ydkhjd1RiQlR3RGIxYlkzRGpUeU9TOFlUa3NxRkFCamtVclY1WVBuSjdlVWxza2pKUE5tNHRHcTgxaWQ3Qk1jTkZ3TDQyelF2TjU1OXQ0VlVPclZoaTBrX1ZjMW5qMWNJWk91TXo3Qm5NbVhFZWdaTTFWQk1ZOGVuSXFpQQ?oc=5",
-      "published": "2026-09-02T18:52:27.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "Farmers launches compaign to educate consumers about ADAS repair costs",
       "source": "repairerdrivennews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2ZQTjVMSExLT3JlQkNOMUY0ZEdKWTlSeEZpS1pmT2pJdHlhVkJVSjVXZVRSS2MtRTZLMGpVaVB1MERTSDNrSkE1MkV5TTRNZFYxekpEYVdSTmRKTllOcWRuS295N3NaOXVoY1Y0YzJoS2pDN2VOYUVobnhLN1FwSVFvZW5Vek5QSGU4RGlpZEdzQWdjcUMyUFZrdGxoU2xlUmRQUmMwOW02RkpSREU5RXNjQWpzams0?oc=5",
@@ -102,7 +102,7 @@
     },
     {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
-      "source": "FleetOwner",
+      "source": "fleetowner.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
       "published": "2026-09-01T12:28:38.000Z",
       "feed": "recalls"
