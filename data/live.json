@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T06:21:41.958Z",
+  "generated": "2026-09-11T06:54:22.732Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
-      "source": "law360.com",
+      "source": "Law360",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLW0xZzBIU0NaVENwMWpSRnBseWYwUlZTVXc4RXdHSmJmaC1GbzVPY1Mtc19rZm10a21CbVBJakRkcnFmeUhReFYyMTNLN1RxXzNTT3ZDSGJ2NEtFUDN6aUNrNjdWRHhqZ2VwYnRPRjREMnJUNm91bjE4SDJVWVVjcXViaFhGTkRaOEdEZDg4QUZjbWljYW94ZEd2MFJFLXowYjNxTG82OVDSAVZBVV95cUxPbjRJLTRKbFFNeVBZOU1WWjA5eDdBYjEyRzlMZTMyVWtTaDVCYXc4b2xqbWxVWkdjS0g1YS1TZjd4UjdTOGZaRmUtMGtpOFpFRXBjUl94UQ?oc=5",
       "published": "2026-09-10T23:46:00.000Z",
       "feed": "injurylaw"
@@ -29,13 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
       "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
-      "published": "2026-09-09T16:40:55.000Z",
-      "feed": "recalls"
     },
     {
       "title": "DUI prevention technology",
@@ -74,7 +67,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1UUlZ3cExidnM3Sno5TDhmOGwyZGFiOXRhWHhYSVZ3Z0hsV1Uxd2xBOGc1R3dUdjlwU1RkMjFpR1M1cnItNG9sNTNYQmVlLWtiMFd6R3l5bDRhYjJxZmdta05KdlBYQ1ZYbDI5UXVNTS0zZk9fdmFub0Item95ZU54SkNtYU5McndLa0NhdzRMLUN5TEF4ZXFtaFZfSUtKdDRLc1R0VF9kRktRN0JUTnd6M3RmVWZBb0pTQTR5akpLUjM4UHNyc05XOUdBYWx4czI4UFVB?oc=5",
       "published": "2026-09-07T17:58:44.000Z",
       "feed": "ga-roads"
@@ -112,6 +105,13 @@
       "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
       "published": "2026-09-01T12:28:38.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
+      "published": "2026-09-01T07:00:00.000Z",
       "feed": "recalls"
     },
     {
