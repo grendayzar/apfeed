@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T13:34:39.063Z",
+  "generated": "2026-09-11T13:51:40.600Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -39,7 +39,7 @@
     },
     {
       "title": "DUI prevention technology",
-      "source": "Post and Courier",
+      "source": "postandcourier.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcG56OWZCQUdPbjhGV1RFMVc3cGpFMVVRMzN1S1FBV3hkM2FxNFh0UXFYVl9VUjJla1g0V0Y1czFjaEZ4V0pyWVVmWUVYSmdkRnhyQW1ENnRoTFFHNmRWSkdIamtIV0Q5STZjSWM4SHN5ZTl1WFgzUmpOdk1rcDJXcWpqRGdZQXBkcFlVMGJwVWhDWU94OFB6SDZMZDJwSEtZNnVKa1J3em1mM216TFdZRjUyVEJVWTc0MHNKMF9KbnZuY1g1NWNrVEFmRFpUeDFkejlSa1hR?oc=5",
       "published": "2026-09-09T10:45:00.000Z",
       "feed": "us-safety"
@@ -53,7 +53,7 @@
     },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeV96N1JjSF9TM19uYmI4SS1BYmhlRVJ6QkdQOU5aa2JrUl9kMW1BX3R2emFNVi1pWXh1anpib3diT0NEcmhSSmhXalAzamFjRmtWN1ZGbjlXWjJmcnNrVU5xb3RJdGIyeUJvTlRyS0E4RmVZcTUtZlNteUhETGFCM1hoWDZRVXEyR2VXei1kV2NtVE9BSWQ3RlBUX3kxV3plM1RZUElqRTZSd25UTUh6Ry1MT3dwUEdROGNsWktVNDlCbW04MlBGdm9kR2praFhTa0VSZVg3ZjVkR3Z6RkFMZ2tfemVyQWtXU1FROXByWC1VaUJIX1ZGOTln?oc=5",
       "published": "2026-09-08T21:49:00.000Z",
       "feed": "ga-roads"
@@ -116,7 +116,7 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T15:03:00.000Z",
       "feed": "recalls"
@@ -130,7 +130,7 @@
     },
     {
       "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "kiro7.com",
+      "source": "KIRO 7 News Seattle",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "recalls"
@@ -143,10 +143,10 @@
       "feed": "us-safety"
     },
     {
-      "title": "What's Going on With Georgia's State-Wide Business Court?",
+      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
       "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
-      "published": "2026-08-24T07:00:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
+      "published": "2026-08-26T15:26:47.000Z",
       "feed": "injurylaw"
     }
   ]
