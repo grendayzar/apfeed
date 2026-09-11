@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-11T02:17:23.329Z",
+  "generated": "2026-09-11T02:34:59.331Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 20,
   "items": [
+    {
+      "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYnRnbVRQazdaRzZadXVITmJ3VnozLXFXaFhNRzlYSkVMVlh3dWdjdGRIQ3FMM0d3YTJGWWlDNmxHQU9XNTVaeUZ5NTM2VEZ5TlNpS3FleWRIQkQ3TDhiUVRLZGRBWkZQd25CLTY3dU1MRTh2Ni0zLVlublJaenU5WUhweTZfOHFXRmFPSE9EbDFmLXA4WXBVaUlBREctZzdiTk51a1p4dFUzR0ZzYVJ3SGhMdi1vSGpMbElSZFdINUfSAVZBVV95cUxPbjRJLTRKbFFNeVBZOU1WWjA5eDdBYjEyRzlMZTMyVWtTaDVCYXc4b2xqbWxVWkdjS0g1YS1TZjd4UjdTOGZaRmUtMGtpOFpFRXBjUl94UQ?oc=5",
+      "published": "2026-09-10T23:46:00.000Z",
+      "feed": "injurylaw"
+    },
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
       "source": "WJCL",
@@ -60,7 +67,7 @@
     },
     {
       "title": "19-year-old killed in crash involving Georgia state trooper during stunt driving call, review underway",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVG1UUlZ3cExidnM3Sno5TDhmOGwyZGFiOXRhWHhYSVZ3Z0hsV1Uxd2xBOGc1R3dUdjlwU1RkMjFpR1M1cnItNG9sNTNYQmVlLWtiMFd6R3l5bDRhYjJxZmdta05KdlBYQ1ZYbDI5UXVNTS0zZk9fdmFub0Item95ZU54SkNtYU5McndLa0NhdzRMLUN5TEF4ZXFtaFZfSUtKdDRLc1R0VF9kRktRN0JUTnd6M3RmVWZBb0pTQTR5akpLUjM4UHNyc05XOUdBYWx4czI4UFVB?oc=5",
       "published": "2026-09-07T17:58:44.000Z",
       "feed": "ga-roads"
@@ -115,13 +122,6 @@
       "feed": "recalls"
     },
     {
-      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
-      "source": "KIRO 7 News Seattle",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
-      "published": "2026-08-31T13:22:09.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
       "source": "The National Law Review",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
@@ -129,22 +129,22 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Recall alert: Chrysler recalls 844K Jeeps, Rams, more",
+      "source": "KIRO 7 News Seattle",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnhJV3VkQk12ZjdyWjVmcUVUbkJoX05sR2tXN0QxWXAzZldScC1oTjQ1QzdGaEtTWnZnNlBVb0dEemxhTTFxZUlLb0lTX21DRDhPN1U0Y1FLTUIwNWMxemx5MkE2bzFvNzhCamVSYTEtNTFqS29vQk9TdnlEQzlDekk0anlJTGd2dWZCbjZjV0tDemd5ZFJBbjlFaW5Vak1OOWh5M0QwWkc1NWhUZ3Y1YWlGb3jSAcgBQVVfeXFMT2Y2SFpQNlNRNko2Wk1TWnVvaVlBWWphQUZiT1dOWEpRSThldDFoNnVZb1dSdThUdWZ5bmgzanRteVF3OENad1ZrZ3NBZl82Y0tUR1pWd0pmcE1xOGZ4MW1NN0lLSmxObkhIbDF3SGs2NjhVV2FWUEZJTkdMcEJVbTMxTUJRUVJzZlNCejZ0UzcxdGRTUWtYYzgzTC1PbDZ5YThIek9zUFZuWllfMHg4czdoMHpLNFdscGVPZ1FxRlRHbm5QQWJTaTU?oc=5",
+      "published": "2026-08-31T07:00:00.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "2026 Drunk Driving Statistics",
-      "source": "insurify.com",
+      "source": "Insurify",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
-      "title": "A.M. ATL: Big payouts",
-      "source": "AJC.com",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HUV94UDlMS2VpLWJTb2NOUlhPWVFMc1FHcG1QZmVwb3NIdnJuSGdtaGp4U0RoblAtMm1hTGJWN01lMThUS2VDbVNXUHhFclpzTTloTUpyRDZVTTlOQUxVc2J0TFQ?oc=5",
-      "published": "2026-08-27T07:00:00.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "What's Going on With Georgia's State-Wide Business Court?",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
       "published": "2026-08-24T07:00:00.000Z",
       "feed": "injurylaw"
