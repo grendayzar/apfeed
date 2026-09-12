@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T03:50:10.143Z",
+  "generated": "2026-09-12T04:16:34.180Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -43,6 +43,13 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
       "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
+      "published": "2026-09-09T16:40:55.000Z",
+      "feed": "recalls"
     },
     {
       "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
@@ -99,13 +106,6 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Ford to recall about 149,000 vehicles in US over power loss, NHTSA says",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTnd4VTlLSHRScEQ5alNKZ055Tmd4QlNMQ2ZFRjBMWlNudEhfSThmbWxYLVQzNUhvcGF1U2NaaXNPdmlqMXV1SExqWGg1Z005UlYxRWhyN29UeG9Tc1R0SVVLc2l5cWV0X2xlSVFJaDBidndOVWdHSUVfcC1ERFJIdmZoNzRuMnN5SkQ4UEN0R3BUTzR2WXlJTG5hTlM5X2FXaC1GSDZtdWNwOEJmT3kyVVpudTJxN2M?oc=5",
-      "published": "2026-09-01T07:00:00.000Z",
-      "feed": "recalls"
     },
     {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
