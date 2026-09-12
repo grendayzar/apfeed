@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T13:15:11.653Z",
+  "generated": "2026-09-12T13:30:22.331Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 20,
   "items": [
+    {
+      "title": "Troopers identify victim of deadly crash in Georgia",
+      "source": "FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3FUZXh1R2RTYkFTU3hrWXF1UDdsd1pDQ1hlcFN1Y1M3ZFZpcXpKbDhQVERPd3VqUVFWdWdIVW1vYjlrRngxd1I4dEZyWjBkZmNHRU9Ra05QWkxEM0l5R1F2emJxSG5VME5BWEo1RnNNUEFFX19qY1hDc1VEOS1KSFRnbW9HVlBXOTVVMXZn?oc=5",
+      "published": "2026-09-12T02:28:00.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
       "source": "KEYE",
@@ -35,13 +42,6 @@
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
-      "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "title": "19-year-old dies in crash with Georgia State Patrol car during chase of stunt driving suspects",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbHVvSWxoMzg4blNwRUhZUC1ZNlQzTlA5Q0JSUTdLYklQNzJGM2U0N28tMlRfajV2SFgwaUtYQTEwVC1FMXptTWF3aXl6RmJKMjJSU1FhdVpXOXRFUGdyY3F6SXFiSU5QNUJhcmt5a0pBSWN6WXlFcUZadjZ2VWxONGhxVERJbmRTeXhkaTN1emNkcmdvT0NHdk5wdkZNRG5UV3ZZMU9rd0tRSWNUcjNLc2c5SjhfanVTRlE?oc=5",
       "published": "2026-09-07T10:49:00.000Z",
       "feed": "ga-roads"
@@ -137,16 +137,16 @@
     },
     {
       "title": "2026 Drunk Driving Statistics",
-      "source": "Insurify",
+      "source": "insurify.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5Z1NBbU1QaEZBNjJLNUFYYzFJcGVOX0dNOWJhWWNla2s1cTVHREJJWWd2VmsyT1VHSERFUkdQUFJ2cTJ3ZjNmRWdRM2I5SHhxdVlyZ2QtVVJ6MkY5WGRDdzNuenRtekw4cTR3MDF0cnRtVG1iXzFvZ2JB?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
-      "title": "Why Georgia Defense Lawyers Are Leaving for the Plaintiffs Bar",
+      "title": "What's Going on With Georgia's State-Wide Business Court?",
       "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmFsVE9YT3A2RzU3VlZYTEo1R1NHbzFRdG5PVTlhc1VfZFVxb2VZYnVWdnBPRm5rcmx2UktMYi1PbnowcUQ3aDd2Yjh0eEszc3ZjV2hDTnVONS1hZlhhYlJLVHRtV3ViVXVTb2xqS2xoajNWdklqSjRGbGRUV0J3ektzR0NhbWlBLUNvSXlDQkFXR0Y1eXFSVTV2emQxYVktRm9nTDhTSjZMUWdOMHdnZ0FR?oc=5",
-      "published": "2026-08-26T15:26:47.000Z",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd2E3SVhhTGczU2dHRFNid0lJNmJ3S19fd1FyLVZCbjRhVk81RjNIOE9qMWprQW9DdzlQMU9sUk9qdEs2dlZXTmFFYnVmX0FBVmoySXRtUlJOX1lieEViRTZWeVlZTTBUenhuXzJsbE5YSjctcnJuVVpLa3ltZ0JPdFVYWnh2TThvemdQcVBKMlc2WV9iWVZfQzVjU0txVzh2RTFKdEFrRQ?oc=5",
+      "published": "2026-08-24T07:00:00.000Z",
       "feed": "injurylaw"
     }
   ]
