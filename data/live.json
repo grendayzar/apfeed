@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-12T05:15:24.355Z",
+  "generated": "2026-09-12T05:31:56.033Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 20,
   "items": [
+    {
+      "title": "Troopers identify victim of deadly crash in Georgia",
+      "source": "FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPS3FUZXh1R2RTYkFTU3hrWXF1UDdsd1pDQ1hlcFN1Y1M3ZFZpcXpKbDhQVERPd3VqUVFWdWdIVW1vYjlrRngxd1I4dEZyWjBkZmNHRU9Ra05QWkxEM0l5R1F2emJxSG5VME5BWEo1RnNNUEFFX19qY1hDc1VEOS1KSFRnbW9HVlBXOTVVMXZn?oc=5",
+      "published": "2026-09-12T02:28:00.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
       "source": "KEYE",
@@ -25,28 +32,21 @@
     },
     {
       "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
-      "source": "Law360",
+      "source": "law360.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLW0xZzBIU0NaVENwMWpSRnBseWYwUlZTVXc4RXdHSmJmaC1GbzVPY1Mtc19rZm10a21CbVBJakRkcnFmeUhReFYyMTNLN1RxXzNTT3ZDSGJ2NEtFUDN6aUNrNjdWRHhqZ2VwYnRPRjREMnJUNm91bjE4SDJVWVVjcXViaFhGTkRaOEdEZDg4QUZjbWljYW94ZEd2MFJFLXowYjNxTG82OVDSAVZBVV95cUxPbjRJLTRKbFFNeVBZOU1WWjA5eDdBYjEyRzlMZTMyVWtTaDVCYXc4b2xqbWxVWkdjS0g1YS1TZjd4UjdTOGZaRmUtMGtpOFpFRXBjUl94UQ?oc=5",
       "published": "2026-09-10T23:46:00.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
       "feed": "ga-roads"
     },
     {
-      "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
-      "source": "usatoday.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
-      "published": "2026-09-09T19:16:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
@@ -88,7 +88,7 @@
     },
     {
       "title": "19-year-old dies in crash with Georgia State Patrol car during chase of stunt driving suspects",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbHVvSWxoMzg4blNwRUhZUC1ZNlQzTlA5Q0JSUTdLYklQNzJGM2U0N28tMlRfajV2SFgwaUtYQTEwVC1FMXptTWF3aXl6RmJKMjJSU1FhdVpXOXRFUGdyY3F6SXFiSU5QNUJhcmt5a0pBSWN6WXlFcUZadjZ2VWxONGhxVERJbmRTeXhkaTN1emNkcmdvT0NHdk5wdkZNRG5UV3ZZMU9rd0tRSWNUcjNLc2c5SjhfanVTRlE?oc=5",
       "published": "2026-09-07T10:49:00.000Z",
       "feed": "ga-roads"
@@ -102,7 +102,7 @@
     },
     {
       "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
+      "source": "wgnsradio.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
       "published": "2026-09-04T20:22:28.000Z",
       "feed": "us-safety"
