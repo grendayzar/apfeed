@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T15:32:03.022Z",
+  "generated": "2026-09-13T15:49:23.600Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -32,7 +32,7 @@
     },
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
-      "source": "wjcl.com",
+      "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
       "feed": "ga-roads"
@@ -46,7 +46,7 @@
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
@@ -67,14 +67,14 @@
     },
     {
       "title": "Viral: Video of car stuck in I-20 overpass goes viral",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdngxVjhBaGF6d2tDd0hXMXNveU96S083YWNETXRGbnZxeHItOG96azZyR2lhZEJiT3IxUkY5RFR5bzJ5LWdXTTFBdUJITjVaUy16b0VCMUVDTkFzdGhlQzNIUEthXzVJbVlDcGZSZUpnRm15S2xDVmRmdWp0NXpTZXBLcDRnRXlHWHhBWHg0ZF9mT1BX0gGaAUFVX3lxTE1DaDBldFBIbWFndkJoOUY2cE9idU1FSU1aR0V1bmQ0Nzhqb1JHVDlxVHFhWndMM3J2eVl4TjZQWmllMm8xWWh1aTVmd1VCMzVzOUNpLXVEZlI0WWM5dEZYRTRpMzhxYzhRdlRwQm03d1huREMyaFljODdidTNoWGlaWE5BdWlvdUN4T3VRN0VpUXNKdk9BLV9WN2c?oc=5",
       "published": "2026-09-08T17:28:06.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "5 killed in crashes across Georgia over Labor Day weekend, officials say",
-      "source": "wtoc.com",
+      "source": "WTOC",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNS25iYmcyNEFfY184aURlbkRGbVlqaENZejVYamhwQUZLR1BXdHNVUmlQc0tZdmxHcklaUDVTLVpPdkxBWUlBaWxpM1ZxWUlDZGtfTnFPd3FUOGNMdXpsUU41TVhaVGpUZUpwMmdaN3Izb0E2TldsSVNrWGozLTFqMDFublV1NXVRdmtSc3Mtek1pN01PSXk2VFh1MXYxeFZIeThV0gG3AUFVX3lxTE5aZXJSMGxZdVJJeFR6dnFfOXV2NjhnNkg2aU9seGxGQm9PS1N1aUtoSnlzaEo3aFAwcUdBNnV0NFFod3pMb0NYTDFjemNNT2M2THdndENXbGYyVzlUeVRxWDBNck15emM3OURTZlI4cDY0SVFib3FBNXo1WUY3LWV5WGl4S2xzWHgxVXY3X29RRFhtSDZmeUdmMW9QVnF6MzR6emY1SEl5QVg4OGxTQ0dSYzZkOUZ5Zw?oc=5",
       "published": "2026-09-08T01:01:00.000Z",
       "feed": "ga-metro"
@@ -88,7 +88,7 @@
     },
     {
       "title": "19-year-old dies in crash with Georgia State Patrol car during chase of stunt driving suspects",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbHVvSWxoMzg4blNwRUhZUC1ZNlQzTlA5Q0JSUTdLYklQNzJGM2U0N28tMlRfajV2SFgwaUtYQTEwVC1FMXptTWF3aXl6RmJKMjJSU1FhdVpXOXRFUGdyY3F6SXFiSU5QNUJhcmt5a0pBSWN6WXlFcUZadjZ2VWxONGhxVERJbmRTeXhkaTN1emNkcmdvT0NHdk5wdkZNRG5UV3ZZMU9rd0tRSWNUcjNLc2c5SjhfanVTRlE?oc=5",
       "published": "2026-09-07T10:49:00.000Z",
       "feed": "ga-roads"
@@ -130,7 +130,7 @@
     },
     {
       "title": "Chrysler recalls more than 844,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenptcFFsN1JTR3BQOFMwb2E1QWV2T2JtY1Q5enJ3YlBSdHdBa2Z0ZFJxV1Q3ZDd2b0RPS0tQVHRZSUlPaWV4aEpDOUZMX1c4QjFyRDJnSWxuODNVMGE0MHBpcFU1QTNzdUQtN3ptZnJmNGJmdld2V3BYY2o5WlU4VFZCdmtkWWRCSGp1d0ZLNWg4NkFwSFNCanVsd3FkczhGMVE?oc=5",
       "published": "2026-08-31T07:00:00.000Z",
       "feed": "recalls"
