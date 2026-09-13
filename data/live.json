@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T15:49:23.600Z",
+  "generated": "2026-09-13T16:16:57.247Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,8 +7,15 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 20,
+  "count": 21,
   "items": [
+    {
+      "title": "Woman killed following crash in SW Atlanta, police say",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
+      "published": "2026-09-13T16:01:00.000Z",
+      "feed": "ga-metro"
+    },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
       "source": "KEYE",
