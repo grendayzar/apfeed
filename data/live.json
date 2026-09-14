@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T14:39:59.272Z",
+  "generated": "2026-09-14T14:58:52.971Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -73,6 +73,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "DUI prevention technology",
+      "source": "Post and Courier",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
+      "published": "2026-09-09T10:45:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
@@ -115,13 +122,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
-      "published": "2026-09-04T20:22:28.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Recall Roundup: New safety recalls affect trucks, vans, and refuse vehicles",
       "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc0JOTExYenYyVFRpN2NVdnA5bDVVSU5rY3Q5MWFLRDFuYXdMelRONW5kMjJxNUZQaWZxWm5WOUZNdzVFRlB0dmJTMXdjd3FheFQ5ZU9nOFFZNHBOMkYtWFdRVWRwamtsMnRKeTluNHlVeVdsUERQY1EwOXVTc2RHTEVGU09vZkJyRzZ4T01RMWFMclpleVBKY0lpaDdoRXJnVzFJWk5wN1RyalBBYi14amtLNGs1Q09xODR2a2lXTW15REgtS2c?oc=5",
@@ -137,7 +137,7 @@
     },
     {
       "title": "Jeep, Ram and Chrysler recall hits 844,027 vehicles over camera issue",
-      "source": "khq.com",
+      "source": "NonStop Local KHQ",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObnJzd1ducWptZVZ0YWliV0phY0trbmFBZ2JERHZiRnNPMmxxSXozZkcxZC1aa2l6amJJY2hCNTF1eElKdXF6VlFuNU9EOTZ2MFNHVExFd0JVVTU0ek1vaEpiSnE2R0dCNHpzYWJNQ0hkQ25hX2xfcHQyeTRvMVFWM0pwQVJsV3k0SFV3WjU3UHlpSUhsbUI1S1BvNTJWWDQwT0piY28zM0s4LTY0ZkdIa3pDSGlidVNuanNEMHJwMnAtMW5zX1JDc0lCZ0JmZ0tIbEFjM1o0MEtCNW8?oc=5",
       "published": "2026-09-01T07:00:00.000Z",
       "feed": "recalls"
