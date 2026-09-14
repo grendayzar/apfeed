@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T09:19:22.982Z",
+  "generated": "2026-09-14T09:38:48.970Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -39,7 +39,7 @@
     },
     {
       "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
-      "source": "Law360",
+      "source": "law360.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1h4RS1LbThHRGQ3MXZVcEZlc1VPaHFnS1VGYVVZSEc3VXhHeTBHWWkyN19zb1Z4YUpTNTB3SmlnTFAwaEkyVVFTTTByZENSN3M2U2RTQkhjXzJ4OGs1aEx2VHdHUE5kRUpwUWRURG81V3ZEd2tFYWJMUVBKQW9iMVJMazlSZk9aZ0xNWnFpc3l1aE5VdjFmZW9zLVBTd9IBVkFVX3lxTE9uNEktNEpsUU15UFk5TVZaMDl4N0FiMTJHOUxlMzJVa1NoNUJhdzhvbGptbFVaR2NLSDVhLVNmN3hSN1M4ZlpGZS0wa2k4WkVFcGNSX3hR?oc=5",
       "published": "2026-09-10T23:46:00.000Z",
       "feed": "injurylaw"
@@ -49,13 +49,6 @@
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
-      "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -71,6 +64,13 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
       "published": "2026-09-09T10:45:00.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Driver wedged in highway overpass after Atlanta crash",
+      "source": "WSOC TV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOclRKV1JRcmRWWWt4S3l3R3h1ZlRnbk1JNVV4Z1I1cmxyOC1oZHRRaFR5cDFtVWdTZEZFS1RSQk0yYkdfck02cmxYODBMSTNUYUhWWGdMVUQ3VW5Rdzg0U0RYYTMxTWI2Nm96OHVsdENKTlFqdGVQQk0xSFpvUnpBdEI3N2JhY2dGUHhIS2xLcTgtdGdGMElpSVhKRy1wdnlFQ2hnNlRzRk5sZHJ0X2dkNDZn0gHGAUFVX3lxTE5vTWktLUt3ZkRZbEhqX1pUTmNyZ092M3owaVcwNlFIMnhKdWtpMmdfWEwyVlR3RVJ3YktINzFrT0g0Vzl6WDZ2VXdSRU1DZGtIVzlFdUd5OXNpeVVIX3F5TmxpTzZLNUlXTFY1Wmcwbi1KbFpmWDZWb21kTHR5UmhELTlZUnZDbEJJRGs3bWtENVJLTERmSl9SWno0YnpHdldUT1FSektPbmJqbzRMVkl5NEc3NDY5eVZHMXBWQ0lKQjE5YVF0dw?oc=5",
+      "published": "2026-09-09T09:53:40.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
