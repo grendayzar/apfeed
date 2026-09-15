@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T10:52:22.873Z",
+  "generated": "2026-09-15T11:16:51.645Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -87,15 +87,8 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Culpeper Police Department. . Today is #WisdomWednesday! This episode is about the Move Over law. This law requires drivers to safely change lanes or slow down when approaching any stationary vehicle on the side of the road with flashing emergency, a",
-      "source": "facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmU0ZWRyRUFrdDFDTEwyWW80QUExMGdiYVZFSXJSemVRd2ZnX0tlQ3o3eEdlWG1kSWJNRmFjUDRueGY0TWlxS1I0R3YtMkhPNHgtN2llVzh0c2dlZS1nOHI2cDNBdnRod29hanVFcmdKbWd2ZmpSdUxLbzZ0QTMxaVJWZllLNWdsalFNVHRJaWlLQ3kxM3h4SXdmR1RaY3BVeFVfdkQ4VE1mbUdxYXJ2aHZ0b3hzamNEMnhydGFkWlZLcVNNZjhPa2ZjYjczc1h5X2J4SFFzWVQ?oc=5",
-      "published": "2026-09-09T21:30:27.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
-      "source": "FleetOwner",
+      "source": "fleetowner.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
       "published": "2026-09-09T19:18:48.000Z",
       "feed": "recalls"
@@ -151,10 +144,17 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "LoudounNow.com",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
+      "source": "veronapress.com",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVDRWNBVnFsMGVJUnFTc19CVTAya3BJZmFrVjFlWW41SF9vakpyODVXc2tseVJmYVhnQk01UXVaRVFrYnVaMVg0N0VZU0J1NTlpVEdLckNSX3F3TGJVaUNFeksxQV9jNE8zVHNBOU1hQS14ZFpmbmVob2VEMXBoYTdYVlFDSTYtZXBoZmNJYzQ5Zw?oc=5",
+      "published": "2026-09-05T07:00:00.000Z",
+      "feed": "us-safety"
     }
   ]
 }
