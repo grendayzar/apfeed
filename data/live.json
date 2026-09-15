@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T07:54:10.764Z",
+  "generated": "2026-09-15T08:20:10.641Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -46,7 +46,7 @@
     },
     {
       "title": "Woman killed following crash in southwest Atlanta, police say",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
       "published": "2026-09-13T16:01:00.000Z",
       "feed": "ga-metro"
@@ -80,15 +80,8 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Culpeper Police Department. . Today is #WisdomWednesday! This episode is about the Move Over law. This law requires drivers to safely change lanes or slow down when approaching any stationary vehicle on the side of the road with flashing emergency, a",
-      "source": "facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmU0ZWRyRUFrdDFDTEwyWW80QUExMGdiYVZFSXJSemVRd2ZnX0tlQ3o3eEdlWG1kSWJNRmFjUDRueGY0TWlxS1I0R3YtMkhPNHgtN2llVzh0c2dlZS1nOHI2cDNBdnRod29hanVFcmdKbWd2ZmpSdUxLbzZ0QTMxaVJWZllLNWdsalFNVHRJaWlLQ3kxM3h4SXdmR1RaY3BVeFVfdkQ4VE1mbUdxYXJ2aHZ0b3hzamNEMnhydGFkWlZLcVNNZjhPa2ZjYjczc1h5X2J4SFFzWVQ?oc=5",
-      "published": "2026-09-09T21:30:27.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
-      "source": "FleetOwner",
+      "source": "fleetowner.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
       "published": "2026-09-09T19:18:48.000Z",
       "feed": "recalls"
@@ -109,7 +102,7 @@
     },
     {
       "title": "DUI prevention technology",
-      "source": "Post and Courier",
+      "source": "postandcourier.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
       "published": "2026-09-09T10:45:00.000Z",
       "feed": "us-safety"
@@ -123,7 +116,7 @@
     },
     {
       "title": "Yes, this viral Atlanta crash video is real: Driver survives after car dangles above I-85 ramp",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeV96N1JjSF9TM19uYmI4SS1BYmhlRVJ6QkdQOU5aa2JrUl9kMW1BX3R2emFNVi1pWXh1anpib3diT0NEcmhSSmhXalAzamFjRmtWN1ZGbjlXWjJmcnNrVU5xb3RJdGIyeUJvTlRyS0E4RmVZcTUtZlNteUhETGFCM1hoWDZRVXEyR2VXei1kV2NtVE9BSWQ3RlBUX3kxV3plM1RZUElqRTZSd25UTUh6Ry1MT3dwUEdROGNsWktVNDlCbW04MlBGdm9kR2praFhTa0VSZVg3ZjVkR3Z6RkFMZ2tfemVyQWtXU1FROXByWC1VaUJIX1ZGOTln?oc=5",
       "published": "2026-09-08T21:49:00.000Z",
       "feed": "ga-roads"
@@ -150,8 +143,15 @@
       "feed": "injurylaw"
     },
     {
+      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVDRWNBVnFsMGVJUnFTc19CVTAya3BJZmFrVjFlWW41SF9vakpyODVXc2tseVJmYVhnQk01UXVaRVFrYnVaMVg0N0VZU0J1NTlpVEdLckNSX3F3TGJVaUNFeksxQV9jNE8zVHNBOU1hQS14ZFpmbmVob2VEMXBoYTdYVlFDSTYtZXBoZmNJYzQ5Zw?oc=5",
+      "published": "2026-09-05T07:00:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "Haute Living",
+      "source": "hauteliving.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
       "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
