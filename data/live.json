@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T21:49:27.628Z",
+  "generated": "2026-09-15T22:16:32.011Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -67,7 +67,7 @@
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "KEYE",
+      "source": "cbsaustin.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
@@ -129,6 +129,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "DUI prevention technology",
+      "source": "Post and Courier",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
+      "published": "2026-09-09T10:45:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Driver becomes wedged in I-20 overpass, escapes with no serious injury",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUZuRThXOG5MZ2VQaUJObno4aFA5VnNHTUd2bmhaeWJ4TmN5cTBrdGlPbVhUMG95aTJuQkcyam9aNVltQmliNE1Lc2Z0VFpnaEdveTlFWDk1TWxMQTVMd0ljMTJKR21kWXB1NEJEUlpfTGtHMmNYTWo3SzZpUDZpUU1zcEtjYkg2THlSbERNaEtJNmEtSTNxMFdYZjU0aVRPb2RMNVpmdHN1WmRodE9ydnotZGozV29EVG5SWW93ODhZdVo2V1HSAdoBQVVfeXFMTTRubFhUS1BDdlV1ZXpNNDlwdHR6ZUdTdW5pSElPS2lqc0w0WkRseEs3M3YwXzREQU9WZ2hfdjRXeWpoN0kzLXMtUjdKQTh1UEFTeDJXTmRrQWxrU0lJU0VrUko1U3BfaUJFVHlSV0NqSTJURHBKZEpQQ3FvLUpTVmNaaFFVVkdKUFhzbWhMVV94dmhYenNHQmk4N1RtOWRBT0JFRHFsREFkMXRjMzcxMVpSTE04WUNBcERoY3l3OGEwUGZEdnRWamxoNFhSQUItMzFpd1dvNlJWYkE?oc=5",
@@ -155,13 +162,6 @@
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
-      "published": "2026-09-04T20:22:28.000Z",
-      "feed": "us-safety"
     }
   ]
 }
