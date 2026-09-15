@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T18:55:01.441Z",
+  "generated": "2026-09-15T19:15:24.542Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,10 +17,10 @@
       "feed": "injurylaw"
     },
     {
-      "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
-      "published": "2026-09-14T21:15:00.000Z",
+      "title": "MARTA bus driver accused of falling asleep at the wheel before crashing into tree, police say",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjMtcXFIdjFDVEhock5KYTAyQ01CY05GcXVCNGhES2VNaWJuTDlTQ2JEeHF5MHNXeWU3bXUwUDRoR2s0OTlUVjg2MG5pQVlwblZzS1hCLU1hdGRwNFFJdFUyYk9WcjVTc2ZqaHpNTTBkN2dNNDJ2dXFGWkZtTm05NGdkUUJ4TGpkTF91US0xcC1OdkZqbV9BSnpIQWdHT3N4NGxZRkFlYU41bWxfS2R6MGpRSEhadmtfbkIxdjZtVVJtMzlxUmlQdHZR?oc=5",
+      "published": "2026-09-14T22:20:20.000Z",
       "feed": "ga-roads"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "cbsaustin.com",
+      "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
@@ -102,14 +102,14 @@
     },
     {
       "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
       "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
@@ -158,8 +158,8 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "veronapress.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
+      "source": "LoudounNow.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
     }
