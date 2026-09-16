@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T05:16:09.296Z",
+  "generated": "2026-09-16T05:34:27.134Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
@@ -53,14 +53,14 @@
     },
     {
       "title": "Ford recalls more than 223,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeHd4T0JVMkhHWjZYTkt5ZF9TWDVuR0VidTFHNFl2OU5GaUlTa1RpN1E4MHlFTm5pWllleVJuUDB4UFpFdWJUeXd4aDRmWV9Vdzlybm1FeDlJdVI5V2xiT24wNEJ4YlVJSHMzZmdoTjNCRlN5eHdpc2MwLVF6dUlCcjVnWTZ0XzZ5MmRCRWlUT2lhamV5VU8yaGlTc2RmbWdSU0c4bEMyOVB4bEJlU2taaUM4Yjd4cV85?oc=5",
       "published": "2026-09-14T16:09:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-roads"
@@ -77,7 +77,7 @@
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
       "published": "2026-09-13T16:01:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
@@ -102,7 +102,7 @@
     },
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
-      "source": "wjcl.com",
+      "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
       "feed": "ga-roads"
@@ -136,25 +136,18 @@
       "feed": "recalls"
     },
     {
-      "title": "19-year-old dies in crash with GSP car during chase",
-      "source": "decaturish.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUHR6WW1obndaRTN5RFBRUzVxNGE0Wjl4Z1hpaTJnSU02WlkyenN5RE1IS2tvSGhKdllZbTNpUFBYcHZ3RWVZTk83VFBGcjFKMEdCZjNoeUpUTHhwR2l2MWQ3UHBzbHdCa0h4eXIwOWtGaVJfSTNDZWc1R2VNXzlfeTdRcmhybVRWOTQyZkQzYlNtSzNiZ01DeDdjN1NBd1lQWElPazAyLXFCQmM1M2FTVUlETnZseWlXcU1maGhxeklJc3RieDdDX3JJMTBKMDRySTV5eWdDZw?oc=5",
-      "published": "2026-09-09T14:25:00.000Z",
-      "feed": "ga-roads"
+      "title": "DUI prevention technology",
+      "source": "Post and Courier",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
+      "published": "2026-09-09T10:45:00.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "veronapress.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
+      "source": "LoudounNow.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
-      "published": "2026-09-04T20:22:28.000Z",
-      "feed": "us-safety"
     }
   ]
 }
