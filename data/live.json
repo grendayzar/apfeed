@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T06:54:54.463Z",
+  "generated": "2026-09-16T07:18:31.755Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 20,
   "items": [
+    {
+      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
+      "source": "WRAL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
+      "published": "2026-09-15T22:20:21.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
       "source": "Law.com",
@@ -129,15 +136,8 @@
       "feed": "recalls"
     },
     {
-      "title": "19-year-old dies in crash with GSP car during chase",
-      "source": "decaturish.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUHR6WW1obndaRTN5RFBRUzVxNGE0Wjl4Z1hpaTJnSU02WlkyenN5RE1IS2tvSGhKdllZbTNpUFBYcHZ3RWVZTk83VFBGcjFKMEdCZjNoeUpUTHhwR2l2MWQ3UHBzbHdCa0h4eXIwOWtGaVJfSTNDZWc1R2VNXzlfeTdRcmhybVRWOTQyZkQzYlNtSzNiZ01DeDdjN1NBd1lQWElPazAyLXFCQmM1M2FTVUlETnZseWlXcU1maGhxeklJc3RieDdDX3JJMTBKMDRySTV5eWdDZw?oc=5",
-      "published": "2026-09-09T14:25:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "loudounnow.com",
+      "source": "LoudounNow.com",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
