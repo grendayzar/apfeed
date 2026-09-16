@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T01:32:21.200Z",
+  "generated": "2026-09-16T01:50:59.734Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
@@ -25,7 +25,7 @@
     },
     {
       "title": "MARTA bus driver accused of falling asleep at the wheel before crashing into tree, police say",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjMtcXFIdjFDVEhock5KYTAyQ01CY05GcXVCNGhES2VNaWJuTDlTQ2JEeHF5MHNXeWU3bXUwUDRoR2s0OTlUVjg2MG5pQVlwblZzS1hCLU1hdGRwNFFJdFUyYk9WcjVTc2ZqaHpNTTBkN2dNNDJ2dXFGWkZtTm05NGdkUUJ4TGpkTF91US0xcC1OdkZqbV9BSnpIQWdHT3N4NGxZRkFlYU41bWxfS2R6MGpRSEhadmtfbkIxdjZtVVJtMzlxUmlQdHZR?oc=5",
       "published": "2026-09-14T22:20:20.000Z",
       "feed": "ga-roads"
@@ -60,7 +60,7 @@
     },
     {
       "title": "Woman killed following crash in southwest Atlanta, police say",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
       "published": "2026-09-13T16:01:00.000Z",
       "feed": "ga-roads"
@@ -136,6 +136,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "DUI prevention technology",
+      "source": "Post and Courier",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
+      "published": "2026-09-09T10:45:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
       "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
@@ -148,13 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
-      "published": "2026-09-04T20:22:28.000Z",
-      "feed": "us-safety"
     }
   ]
 }
