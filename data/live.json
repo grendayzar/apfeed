@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T14:19:18.111Z",
+  "generated": "2026-09-16T14:38:07.620Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -32,14 +32,14 @@
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
       "published": "2026-09-14T21:15:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Woman identified in deadly crash on East Jackson Street in Thomas County",
-      "source": "wctv.tv",
+      "source": "WCTV",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBNSl9MaldrZlgxSEdaQ0RQX2M0TEZqRkhrLWFCWmZ3MVRJU01XV2luNDdnYUNMV0s1QkJDanZQamZ6UlZfY09UUmZTbUd0cndhRWNiSDdPT05sX0ZoTVhOVzRwb2JYRjVaRTBtYkRPZi1udWJNOGxwdktZcU8wWVVwV1k3S3MtOW1NWWxLRktzc2U2em5oOFVPUdIBrwFBVV95cUxPek1lQnlRN1VWOXN1cUZtdWVNLU4xY2FldVJGb1QzbEczU1hDbmI0ck4xQmFwZ2lHeEJjNi1mOW5rcU5KWXNhYmtJNjQxRU9ibzNsZEdFa0tnZDB5QnU3NXZpN0JRUW1BUFBFOHRZcUh4a3J3S1hWbFBjNHhMeWtnX042SmpqWExpZHlIRE9uVkplOGhGZ0h4M2VVREpwc2JCRmI3ZFk5Y1pzMmFzN3BN?oc=5",
       "published": "2026-09-14T19:48:00.000Z",
       "feed": "ga-roads"
@@ -67,7 +67,7 @@
     },
     {
       "title": "Woman killed in I-20 crash after being ejected from vehicle, police say",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEpOZ3U4eENGVVhZOEllcFFzdkpTeHY1SENqdnVYRERsZEI3UHF5UGF5Uy1lU3NpV3ptb0pHemNsVzcxMjRJMGR0T2k3bTdDZ0h2bzdzMXdWSG9oMDVIa0ZXV3M5ZV9iY0F0aHI0LXVKZF9PYU5TOWJuQlpWWTdteFgxbnBQM3J2N3JyWVpCcml2ODF0ZjQ1NmhHQVpuQ0hiQXRaNUM1ZzVQVFXSAb8BQVVfeXFMUDBjZVYtVkxUdDljbEZJbXBCMF9rMzg0aWxNZDYyLThJdEcwLW5RZFVpUEppUlFUUmY2S2ptd3NVeG1fZjJRdDNnQl8zdjI2b1gtdjRBVkZqUmpjR0w4Wk5tSlRYNFQyS180ZkZzMEp6WFdsZnAwSXJwNnZ2b3ZWdW1GUlpUQ3ZvYXVlc2xXQ0JzYjUyYmhVT1JKMEE1dnNrYWhnM3FEMjUzQ1BjQ0xILVA4emQ3TnUtcm1xVXhxM0k?oc=5",
       "published": "2026-09-13T16:51:00.000Z",
       "feed": "ga-metro"
@@ -102,7 +102,7 @@
     },
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
       "feed": "ga-roads"
@@ -123,7 +123,7 @@
     },
     {
       "title": "Feet dangling from Atlanta overpass belonged to driver in lodged car",
-      "source": "USA Today",
+      "source": "usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaTlyZmk2UEhreUZuOTVuZ3RUYko2NDFYRVVNOHZHVVNranExb2kwUGtMV3pjaVBMZFNMV0R5ejNyNHFkSnhkWmdSd05VeFZKb1g2azVCU3FZams4YnNCMGdzN0FzeXdYVjhNVDlJTHhweDdORlB6aUhTVVVXUjA1MUlseldrd1NrRUhSM2V1MGFCQ2E2b1BaZmQwSmZRN2xBaUF3Xy1zZG5pcWh3UXFWSjNoc25OZTBid2FfR1k5d3RSNGlUWVR2d002SXUzLVl6SnUxODFJZ0NDRTFSWGdJMEg0dlh4QQ?oc=5",
       "published": "2026-09-09T19:16:00.000Z",
       "feed": "ga-roads"
@@ -137,14 +137,14 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "LoudounNow.com",
+      "source": "loudounnow.com",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
-      "source": "Road & Track",
+      "source": "roadandtrack.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
