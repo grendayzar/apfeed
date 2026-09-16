@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T15:34:12.624Z",
+  "generated": "2026-09-16T16:17:31.805Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 20,
   "items": [
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
@@ -70,7 +70,7 @@
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
       "published": "2026-09-13T16:01:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
@@ -94,15 +94,8 @@
       "feed": "injurylaw"
     },
     {
-      "title": "Viral video shows person’s legs dangling from overpass after crash",
-      "source": "NewsNation",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazVLM01XMnNoUk00bFZ0MEpfbExRNzlKblJDeUZhOVJNekc2TXZKbEtyUmpvdHk4YWJyQVRjT09NVThvT2JUb29MQlpqT3Y0U3ZNQjM0dFRmV1NqSEVrRjZ4aFJCZ1BrNUxPenJPb3hZOGxhenp0LTNBaHdOWllzblFyYnlkMUtKcGlR0gGQAUFVX3lxTE5OYnVvMEs4SmEydy1LM0xvNmV1ZGQ2WXZaT2tBYU5LdFFGOVhUeFJWcF9jQld3X3M2a2l3dklkc19vVHN6TGFMTGtCUG5rUHBsWGdwQUFtVXJ3UWpPd19ZODFmb0twUkR1NTVYMkVfX3A2S3BmN2Q3NTgyYUV4SVZRdHk4blFtWEFMdXVZVy1SZw?oc=5",
-      "published": "2026-09-10T16:29:06.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlNWMG9zWGY2N2FGcGk5eGQ5U0VrajBab1NmM2Qzb1R6elVJeFh5RXlXUjdOb2xrNzVWUno5aG56Sjhkek9mWml3TTJxQldqSE13UGdoV1lXdWVTMVRPLXg2N0t3WF9ueHNDTHg4S0ZxaVkyTk9RYW1zLU1ObTkxbkhqWG44b1E?oc=5",
       "published": "2026-09-10T14:05:00.000Z",
       "feed": "ga-roads"
