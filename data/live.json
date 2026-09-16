@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T15:16:56.223Z",
+  "generated": "2026-09-16T15:34:12.624Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 20,
+  "count": 21,
   "items": [
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
@@ -67,10 +67,10 @@
     },
     {
       "title": "Woman killed following crash in southwest Atlanta, police say",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
       "published": "2026-09-13T16:01:00.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
@@ -92,6 +92,13 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1h4RS1LbThHRGQ3MXZVcEZlc1VPaHFnS1VGYVVZSEc3VXhHeTBHWWkyN19zb1Z4YUpTNTB3SmlnTFAwaEkyVVFTTTByZENSN3M2U2RTQkhjXzJ4OGs1aEx2VHdHUE5kRUpwUWRURG81V3ZEd2tFYWJMUVBKQW9iMVJMazlSZk9aZ0xNWnFpc3l1aE5VdjFmZW9zLVBTd9IBVkFVX3lxTE9uNEktNEpsUU15UFk5TVZaMDl4N0FiMTJHOUxlMzJVa1NoNUJhdzhvbGptbFVaR2NLSDVhLVNmN3hSN1M4ZlpGZS0wa2k4WkVFcGNSX3hR?oc=5",
       "published": "2026-09-10T23:46:00.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "Viral video shows person’s legs dangling from overpass after crash",
+      "source": "NewsNation",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPazVLM01XMnNoUk00bFZ0MEpfbExRNzlKblJDeUZhOVJNekc2TXZKbEtyUmpvdHk4YWJyQVRjT09NVThvT2JUb29MQlpqT3Y0U3ZNQjM0dFRmV1NqSEVrRjZ4aFJCZ1BrNUxPenJPb3hZOGxhenp0LTNBaHdOWllzblFyYnlkMUtKcGlR0gGQAUFVX3lxTE5OYnVvMEs4SmEydy1LM0xvNmV1ZGQ2WXZaT2tBYU5LdFFGOVhUeFJWcF9jQld3X3M2a2l3dklkc19vVHN6TGFMTGtCUG5rUHBsWGdwQUFtVXJ3UWpPd19ZODFmb0twUkR1NTVYMkVfX3A2S3BmN2Q3NTgyYUV4SVZRdHk4blFtWEFMdXVZVy1SZw?oc=5",
+      "published": "2026-09-10T16:29:06.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "‘We look up, we see feet’: Georgia crash leaves car hanging over interstate ramp",
@@ -130,7 +137,7 @@
     },
     {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
