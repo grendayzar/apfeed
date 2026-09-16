@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T07:18:31.755Z",
+  "generated": "2026-09-16T07:36:41.955Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -67,7 +67,7 @@
     },
     {
       "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-roads"
@@ -136,18 +136,18 @@
       "feed": "recalls"
     },
     {
+      "title": "DUI prevention technology",
+      "source": "Post and Courier",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
+      "published": "2026-09-09T10:45:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
       "source": "LoudounNow.com",
       "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Tennessee Ranks 6th in Nation for Deadly Single-Vehicle Crashes in Sept. as Rutherford County Fatalities YTD Decline",
-      "source": "WGNS Radio",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVEkxZk8zSk05bkpmWGtjYUZiVy0zZHpuaXhtZUpZdld5NWJOckgxOFVuMEZKUlNlVUpHZ2JIOHluOGduYXh5S052ZzFIbTJ6M1ZCSXluNzBXaW45MzRLLURtRThkd2dtQ1hqVnhtUEdHLVdHMjdDZmdXeWJtMFBKTnNaLW9lZFNfZHlBWnBGNGF0OGU3aGFwd201VmlVSVh4dTNRWV9pX3hoVzdNRXRFUWM4WWJuemFiWm45M2hpRTgyOHJnRkRXMEp4V0lUZW9lbVVkQzZlOVAtZjk2SGtEVm1WYXBMdFkwYmljQdIB8gFBVV95cUxPWFFNaWtLYzUtamo1NFlxU1JiM3JIY3d1U3VVM1F6bENFSTVocU84Rjc5RkxKb1JGZldxRWdIOFJ3MlhqNkluRDNVZjNLUWp6Z0lfRDUyc0dsUW9MeDg2NV9NSVhfaFRHRnFnMG1lV3g5dXJRVXFkcUx3NFNSVjZDRHpYQVBWTm52bUhoeTk2OGlyVFk5V2Nodm0tY0g5V3ZNZU5mdVVzaGJOeU9uM0JRWDB3X0k2X0RoQVlyUVNTNXpfbG0wVW81Q1Q2TWdka3hCWEFLNGY3aFVZcExiZzJoQVBxNXVrUi13WUVFcWROTTNOQQ?oc=5",
-      "published": "2026-09-04T20:22:28.000Z",
-      "feed": "us-safety"
     }
   ]
 }
