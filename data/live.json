@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T19:31:25.057Z",
+  "generated": "2026-09-17T19:49:20.392Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 21,
   "items": [
+    {
+      "title": "MARTA bus involved in accident near I-20, Atlanta police say",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
+      "published": "2026-09-17T02:54:00.000Z",
+      "feed": "ga-metro"
+    },
     {
       "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
       "source": "WRAL",
@@ -32,7 +39,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -53,7 +60,7 @@
     },
     {
       "title": "Woman identified in deadly crash on East Jackson Street in Thomas County",
-      "source": "wctv.tv",
+      "source": "WCTV",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBNSl9MaldrZlgxSEdaQ0RQX2M0TEZqRkhrLWFCWmZ3MVRJU01XV2luNDdnYUNMV0s1QkJDanZQamZ6UlZfY09UUmZTbUd0cndhRWNiSDdPT05sX0ZoTVhOVzRwb2JYRjVaRTBtYkRPZi1udWJNOGxwdktZcU8wWVVwV1k3S3MtOW1NWWxLRktzc2U2em5oOFVPUdIBrwFBVV95cUxPek1lQnlRN1VWOXN1cUZtdWVNLU4xY2FldVJGb1QzbEczU1hDbmI0ck4xQmFwZ2lHeEJjNi1mOW5rcU5KWXNhYmtJNjQxRU9ibzNsZEdFa0tnZDB5QnU3NXZpN0JRUW1BUFBFOHRZcUh4a3J3S1hWbFBjNHhMeWtnX042SmpqWExpZHlIRE9uVkplOGhGZ0h4M2VVREpwc2JCRmI3ZFk5Y1pzMmFzN3BN?oc=5",
       "published": "2026-09-14T19:48:00.000Z",
       "feed": "ga-roads"
@@ -71,13 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Woman killed in I-20 crash after being ejected from vehicle, police say",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEpOZ3U4eENGVVhZOEllcFFzdkpTeHY1SENqdnVYRERsZEI3UHF5UGF5Uy1lU3NpV3ptb0pHemNsVzcxMjRJMGR0T2k3bTdDZ0h2bzdzMXdWSG9oMDVIa0ZXV3M5ZV9iY0F0aHI0LXVKZF9PYU5TOWJuQlpWWTdteFgxbnBQM3J2N3JyWVpCcml2ODF0ZjQ1NmhHQVpuQ0hiQXRaNUM1ZzVQVFXSAb8BQVVfeXFMUDBjZVYtVkxUdDljbEZJbXBCMF9rMzg0aWxNZDYyLThJdEcwLW5RZFVpUEppUlFUUmY2S2ptd3NVeG1fZjJRdDNnQl8zdjI2b1gtdjRBVkZqUmpjR0w4Wk5tSlRYNFQyS180ZkZzMEp6WFdsZnAwSXJwNnZ2b3ZWdW1GUlpUQ3ZvYXVlc2xXQ0JzYjUyYmhVT1JKMEE1dnNrYWhnM3FEMjUzQ1BjQ0xILVA4emQ3TnUtcm1xVXhxM0k?oc=5",
-      "published": "2026-09-13T16:51:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Woman killed following crash in southwest Atlanta, police say",
@@ -108,6 +108,13 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
+      "source": "FleetOwner",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
+      "published": "2026-09-09T19:18:48.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
@@ -125,13 +132,6 @@
       "title": "FCA recalls 328K Jeep Grand Cherokees. See impacted vehicles",
       "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdm1ld0pUVFBYZXVNcTRSeW9fblRZTV9kbWtQQW5qRm81c29DN2xLcHRmNnA0SDZBeTVwR3FBY0cwaGUtLUprVzdBdk4teDEtNm1zQ3FkbFYta1pRNDlqYnVCMy1nRlZ4NjNKaTNHUFlOMDFhOVpZSC1QMWo3Y1h3Rm9aV1ozRzZIMndWSVNySFR1UlZQWFdxcWhQeXo2bGVMa3pvaTF4am9KYV9GZ05rLUVB?oc=5",
-      "published": "2026-09-08T07:00:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
     },
