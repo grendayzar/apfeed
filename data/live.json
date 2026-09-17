@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T12:22:24.235Z",
+  "generated": "2026-09-17T12:54:07.499Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -46,14 +46,14 @@
     },
     {
       "title": "Fatal motorcycle crash in Smyrna",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaS10YWIyQU1PN016WEVITFBsX3lTWVltVFZ0T1RzX3d4b1djN0VvR0UwRVBSVnZsWHluV19QV3VuWEVneDdjSHBTa3pZNERUU0Y0MW0wUklSckxSakZuN2liTTN1U0RSU09CMGJrNnMtQnpQOFpxX3lnd2x1b2VBUFJCalp1RC1LYlA2ZUV5M29MWndGWkhodW9pQ3HSAaIBQVVfeXFMTmxpYVRhaXpkTHNMUjRlelczN3FpWkl0YlpTTzNkdkRPNGNTUm5xSjBpQkNHSl9GUXdyVzZDSGFVS2o5b2g4YXpNQ21NaDZmSTNkcEVCcDk2cHcwaWRnTnl5N3FOQkZKa1lTSTF0OE1RcGVZRmpJdmJnMk9xU1Z5bFE4djRCSW43NUFSZGZfYVJIS2RZck9PLTh6VjN2RzZ4bDh3?oc=5",
       "published": "2026-09-14T09:51:51.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-metro"
@@ -116,7 +116,7 @@
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
