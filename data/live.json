@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T20:17:45.833Z",
+  "generated": "2026-09-17T20:34:18.205Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Video shows city bus driver appearing to fall asleep before crashing into several trees",
-      "source": "WKYT",
+      "source": "wkyt.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOby1SZnlaWDVHRl9tVXNucFN1LWNGQXZIQ2RZRHRkYUVET0hTa1ZGSkFNYVhUb1NlbUR6dlVPckJxNE94OVh5RTZ0aFlDVjZGdF9kV2h5bi1YMXUxdVFiVnFuUklIT2tNMzNpSlktbk56RkZVQV9VM013a0dNR2VHUEs4cTc4NVdHZjlUMU9temxPM21IUnZMTmRiakpiM0M3SVkyaG1STnV2M05GQm0tZDdOMklsRk9kcHFLSHVWU1JRMEVPU1BNX1J5TDDSAcwBQVVfeXFMTm8tUmZ5Wlg1R0ZfbVVzbnBTdS1jRkF2SENkWUR0ZGFFRE9IU2tWRkpBTWFYVG9TZW1EenZVT3JCcTRPeDlYeUU2dGhZQ1Y2RnRfZFdoeW4tWDF1MXVRYlZxblJJSE9rTTMzaUpZLW5OekZGVUFfVTNNd2tHTUdlR1BLOHE3ODVXR2Y5VDFPbXpsTzNtSFJ2TE5kYmpKYjNDN0lZMmhtUk51djNORkJtLWQ3TjJJbEZPZHBxS0h1VlNSUTBFT1NQTV9SeUww?oc=5",
       "published": "2026-09-15T20:40:00.000Z",
       "feed": "ga-metro"
@@ -74,7 +74,7 @@
     },
     {
       "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-roads"
@@ -108,15 +108,8 @@
       "feed": "injurylaw"
     },
     {
-      "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
-      "source": "FleetOwner",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
-      "published": "2026-09-09T19:18:48.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
@@ -130,8 +123,15 @@
     },
     {
       "title": "FCA recalls 328K Jeep Grand Cherokees. See impacted vehicles",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdm1ld0pUVFBYZXVNcTRSeW9fblRZTV9kbWtQQW5qRm81c29DN2xLcHRmNnA0SDZBeTVwR3FBY0cwaGUtLUprVzdBdk4teDEtNm1zQ3FkbFYta1pRNDlqYnVCMy1nRlZ4NjNKaTNHUFlOMDFhOVpZSC1QMWo3Y1h3Rm9aV1ozRzZIMndWSVNySFR1UlZQWFdxcWhQeXo2bGVMa3pvaTF4am9KYV9GZ05rLUVB?oc=5",
+      "published": "2026-09-08T07:00:00.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
+      "source": "Delawareonline.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
     },
