@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T12:54:07.499Z",
+  "generated": "2026-09-17T13:18:22.973Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,8 +10,15 @@
   "count": 21,
   "items": [
     {
+      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
+      "source": "WRAL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
+      "published": "2026-09-15T22:20:21.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -25,7 +32,7 @@
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
       "published": "2026-09-14T21:15:00.000Z",
       "feed": "ga-roads"
@@ -46,21 +53,21 @@
     },
     {
       "title": "Fatal motorcycle crash in Smyrna",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaS10YWIyQU1PN016WEVITFBsX3lTWVltVFZ0T1RzX3d4b1djN0VvR0UwRVBSVnZsWHluV19QV3VuWEVneDdjSHBTa3pZNERUU0Y0MW0wUklSckxSakZuN2liTTN1U0RSU09CMGJrNnMtQnpQOFpxX3lnd2x1b2VBUFJCalp1RC1LYlA2ZUV5M29MWndGWkhodW9pQ3HSAaIBQVVfeXFMTmxpYVRhaXpkTHNMUjRlelczN3FpWkl0YlpTTzNkdkRPNGNTUm5xSjBpQkNHSl9GUXdyVzZDSGFVS2o5b2g4YXpNQ21NaDZmSTNkcEVCcDk2cHcwaWRnTnl5N3FOQkZKa1lTSTF0OE1RcGVZRmpJdmJnMk9xU1Z5bFE4djRCSW43NUFSZGZfYVJIS2RZck9PLTh6VjN2RzZ4bDh3?oc=5",
       "published": "2026-09-14T09:51:51.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-metro"
     },
     {
       "title": "Woman killed in I-20 crash after being ejected from vehicle, police say",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEpOZ3U4eENGVVhZOEllcFFzdkpTeHY1SENqdnVYRERsZEI3UHF5UGF5Uy1lU3NpV3ptb0pHemNsVzcxMjRJMGR0T2k3bTdDZ0h2bzdzMXdWSG9oMDVIa0ZXV3M5ZV9iY0F0aHI0LXVKZF9PYU5TOWJuQlpWWTdteFgxbnBQM3J2N3JyWVpCcml2ODF0ZjQ1NmhHQVpuQ0hiQXRaNUM1ZzVQVFXSAb8BQVVfeXFMUDBjZVYtVkxUdDljbEZJbXBCMF9rMzg0aWxNZDYyLThJdEcwLW5RZFVpUEppUlFUUmY2S2ptd3NVeG1fZjJRdDNnQl8zdjI2b1gtdjRBVkZqUmpjR0w4Wk5tSlRYNFQyS180ZkZzMEp6WFdsZnAwSXJwNnZ2b3ZWdW1GUlpUQ3ZvYXVlc2xXQ0JzYjUyYmhVT1JKMEE1dnNrYWhnM3FEMjUzQ1BjQ0xILVA4emQ3TnUtcm1xVXhxM0k?oc=5",
       "published": "2026-09-13T16:51:00.000Z",
       "feed": "ga-metro"
@@ -70,13 +77,6 @@
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
       "published": "2026-09-13T16:01:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Troopers identify victim of deadly crash in Georgia",
-      "source": "FOX Carolina News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnBqQjl1bmw0WURURmtPQ09yOWdXc29JcXhfbnJrNXVYR3dDODNrNnBLcGpkUjF5dkxRUC1ONGNGamlSWkV4TktCbHJ4V0JVVDhCZU42VEVSUmpjcTlTVUd0bWNTRnVoWWlZeW1NSEg0MHBpQ1hfVnJDRTRoTXN3Y1c1RF9kQV95aGh5Q1NmbDhFamh6aGc?oc=5",
-      "published": "2026-09-12T04:10:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -130,14 +130,14 @@
     },
     {
       "title": "FCA recalls 328K Jeep Grand Cherokees. See impacted vehicles",
-      "source": "USA Today",
+      "source": "usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdm1ld0pUVFBYZXVNcTRSeW9fblRZTV9kbWtQQW5qRm81c29DN2xLcHRmNnA0SDZBeTVwR3FBY0cwaGUtLUprVzdBdk4teDEtNm1zQ3FkbFYta1pRNDlqYnVCMy1nRlZ4NjNKaTNHUFlOMDFhOVpZSC1QMWo3Y1h3Rm9aV1ozRzZIMndWSVNySFR1UlZQWFdxcWhQeXo2bGVMa3pvaTF4am9KYV9GZ05rLUVB?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
@@ -151,7 +151,7 @@
     },
     {
       "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
-      "source": "roadandtrack.com",
+      "source": "Road & Track",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
