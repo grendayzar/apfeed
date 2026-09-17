@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T06:23:02.043Z",
+  "generated": "2026-09-17T06:54:56.794Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,13 +9,6 @@
   ],
   "count": 20,
   "items": [
-    {
-      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
-      "source": "WRAL",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
-      "published": "2026-09-15T22:20:21.000Z",
-      "feed": "ga-roads"
-    },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
       "source": "Law.com",
@@ -80,6 +73,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Troopers identify victim of deadly crash in Georgia",
+      "source": "FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnBqQjl1bmw0WURURmtPQ09yOWdXc29JcXhfbnJrNXVYR3dDODNrNnBLcGpkUjF5dkxRUC1ONGNGamlSWkV4TktCbHJ4V0JVVDhCZU42VEVSUmpjcTlTVUd0bWNTRnVoWWlZeW1NSEg0MHBpQ1hfVnJDRTRoTXN3Y1c1RF9kQV95aGh5Q1NmbDhFamh6aGc?oc=5",
+      "published": "2026-09-12T04:10:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
       "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
@@ -137,14 +137,14 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "veronapress.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
+      "source": "LoudounNow.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
-      "source": "roadandtrack.com",
+      "source": "Road & Track",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
