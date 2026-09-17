@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T14:53:14.094Z",
+  "generated": "2026-09-17T15:17:27.698Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
-      "source": "WRAL",
+      "source": "wral.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
       "published": "2026-09-15T22:20:21.000Z",
       "feed": "ga-roads"
@@ -25,7 +25,7 @@
     },
     {
       "title": "Police in Georgia say MARTA bus driver fell asleep, crossed lanes and crashed, injuring passengers",
-      "source": "wjcl.com",
+      "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWx2bXg2TTYxZ1JYcHA5cElMTUJ6dkJNeFZPZ1lpVnRwaGFVay1KMnFFOHNZN3JWVXkyWV93UkdsdjVFRFdxdXVkR2pTZkZJYl80aTE4VVMwZ2xQNFVuRk1GWktOQ2hubjdBWTYtRDk2MGJMNHFjT2w2dzFWR3FwS0Vn?oc=5",
       "published": "2026-09-15T11:47:00.000Z",
       "feed": "ga-roads"
@@ -46,14 +46,14 @@
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
       "published": "2026-09-14T21:15:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Woman identified in deadly crash on East Jackson Street in Thomas County",
-      "source": "wctv.tv",
+      "source": "WCTV",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBNSl9MaldrZlgxSEdaQ0RQX2M0TEZqRkhrLWFCWmZ3MVRJU01XV2luNDdnYUNMV0s1QkJDanZQamZ6UlZfY09UUmZTbUd0cndhRWNiSDdPT05sX0ZoTVhOVzRwb2JYRjVaRTBtYkRPZi1udWJNOGxwdktZcU8wWVVwV1k3S3MtOW1NWWxLRktzc2U2em5oOFVPUdIBrwFBVV95cUxPek1lQnlRN1VWOXN1cUZtdWVNLU4xY2FldVJGb1QzbEczU1hDbmI0ck4xQmFwZ2lHeEJjNi1mOW5rcU5KWXNhYmtJNjQxRU9ibzNsZEdFa0tnZDB5QnU3NXZpN0JRUW1BUFBFOHRZcUh4a3J3S1hWbFBjNHhMeWtnX042SmpqWExpZHlIRE9uVkplOGhGZ0h4M2VVREpwc2JCRmI3ZFk5Y1pzMmFzN3BN?oc=5",
       "published": "2026-09-14T19:48:00.000Z",
       "feed": "ga-roads"
@@ -74,7 +74,7 @@
     },
     {
       "title": "Woman killed in I-20 crash after being ejected from vehicle, police say",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWEpOZ3U4eENGVVhZOEllcFFzdkpTeHY1SENqdnVYRERsZEI3UHF5UGF5Uy1lU3NpV3ptb0pHemNsVzcxMjRJMGR0T2k3bTdDZ0h2bzdzMXdWSG9oMDVIa0ZXV3M5ZV9iY0F0aHI0LXVKZF9PYU5TOWJuQlpWWTdteFgxbnBQM3J2N3JyWVpCcml2ODF0ZjQ1NmhHQVpuQ0hiQXRaNUM1ZzVQVFXSAb8BQVVfeXFMUDBjZVYtVkxUdDljbEZJbXBCMF9rMzg0aWxNZDYyLThJdEcwLW5RZFVpUEppUlFUUmY2S2ptd3NVeG1fZjJRdDNnQl8zdjI2b1gtdjRBVkZqUmpjR0w4Wk5tSlRYNFQyS180ZkZzMEp6WFdsZnAwSXJwNnZ2b3ZWdW1GUlpUQ3ZvYXVlc2xXQ0JzYjUyYmhVT1JKMEE1dnNrYWhnM3FEMjUzQ1BjQ0xILVA4emQ3TnUtcm1xVXhxM0k?oc=5",
       "published": "2026-09-13T16:51:00.000Z",
       "feed": "ga-metro"
@@ -101,13 +101,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
-      "source": "Law360",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU1h4RS1LbThHRGQ3MXZVcEZlc1VPaHFnS1VGYVVZSEc3VXhHeTBHWWkyN19zb1Z4YUpTNTB3SmlnTFAwaEkyVVFTTTByZENSN3M2U2RTQkhjXzJ4OGs1aEx2VHdHUE5kRUpwUWRURG81V3ZEd2tFYWJMUVBKQW9iMVJMazlSZk9aZ0xNWnFpc3l1aE5VdjFmZW9zLVBTd9IBVkFVX3lxTE9uNEktNEpsUU15UFk5TVZaMDl4N0FiMTJHOUxlMzJVa1NoNUJhdzhvbGptbFVaR2NLSDVhLVNmN3hSN1M4ZlpGZS0wa2k4WkVFcGNSX3hR?oc=5",
-      "published": "2026-09-10T23:46:00.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "Ga. Court of Appeals Weighs In on Tort Reform",
       "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkdQVnlPRXlwdVFmbG5qajVQMHRwNjFQU1BoWnNqaVI1VFhkX215ajdyTEUycVZqX1plRjZQSnVPX3RadS1ydTBMTXA5Mzh0NkVMOXhHUG1nNkhreEFQRk1GU0U3aWJPblVzUGY0VWJSVGgtVmY0UmJwVlNZdWlpeG02VkpkTDhmS2s0YXd6ZE1LRXBXMXZRMktR?oc=5",
@@ -115,8 +108,15 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
+      "source": "fleetowner.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
+      "published": "2026-09-09T19:18:48.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
@@ -136,13 +136,6 @@
       "feed": "recalls"
     },
     {
-      "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
-      "published": "2026-09-08T07:00:00.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
       "source": "veronapress.com",
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
@@ -155,6 +148,13 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
+      "source": "Haute Living",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
+      "published": "2026-09-01T05:35:13.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
