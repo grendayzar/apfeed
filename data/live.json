@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T01:15:53.470Z",
+  "generated": "2026-09-18T01:31:25.687Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -39,7 +39,7 @@
     },
     {
       "title": "Video shows city bus driver appearing to fall asleep before crashing into several trees",
-      "source": "wkyt.com",
+      "source": "WKYT",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOby1SZnlaWDVHRl9tVXNucFN1LWNGQXZIQ2RZRHRkYUVET0hTa1ZGSkFNYVhUb1NlbUR6dlVPckJxNE94OVh5RTZ0aFlDVjZGdF9kV2h5bi1YMXUxdVFiVnFuUklIT2tNMzNpSlktbk56RkZVQV9VM013a0dNR2VHUEs4cTc4NVdHZjlUMU9temxPM21IUnZMTmRiakpiM0M3SVkyaG1STnV2M05GQm0tZDdOMklsRk9kcHFLSHVWU1JRMEVPU1BNX1J5TDDSAcwBQVVfeXFMTm8tUmZ5Wlg1R0ZfbVVzbnBTdS1jRkF2SENkWUR0ZGFFRE9IU2tWRkpBTWFYVG9TZW1EenZVT3JCcTRPeDlYeUU2dGhZQ1Y2RnRfZFdoeW4tWDF1MXVRYlZxblJJSE9rTTMzaUpZLW5OekZGVUFfVTNNd2tHTUdlR1BLOHE3ODVXR2Y5VDFPbXpsTzNtSFJ2TE5kYmpKYjNDN0lZMmhtUk51djNORkJtLWQ3TjJJbEZPZHBxS0h1VlNSUTBFT1NQTV9SeUww?oc=5",
       "published": "2026-09-15T20:40:00.000Z",
       "feed": "ga-metro"
@@ -87,10 +87,10 @@
       "feed": "recalls"
     },
     {
-      "title": "Fatal motorcycle crash in Smyrna",
+      "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
       "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaS10YWIyQU1PN016WEVITFBsX3lTWVltVFZ0T1RzX3d4b1djN0VvR0UwRVBSVnZsWHluV19QV3VuWEVneDdjSHBTa3pZNERUU0Y0MW0wUklSckxSakZuN2liTTN1U0RSU09CMGJrNnMtQnpQOFpxX3lnd2x1b2VBUFJCalp1RC1LYlA2ZUV5M29MWndGWkhodW9pQ3HSAaIBQVVfeXFMTmxpYVRhaXpkTHNMUjRlelczN3FpWkl0YlpTTzNkdkRPNGNTUm5xSjBpQkNHSl9GUXdyVzZDSGFVS2o5b2g4YXpNQ21NaDZmSTNkcEVCcDk2cHcwaWRnTnl5N3FOQkZKa1lTSTF0OE1RcGVZRmpJdmJnMk9xU1Z5bFE4djRCSW43NUFSZGZfYVJIS2RZck9PLTh6VjN2RzZ4bDh3?oc=5",
-      "published": "2026-09-14T09:51:51.000Z",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
+      "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-roads"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "title": "Ga. Court of Appeals Weighs In on Tort Reform",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkdQVnlPRXlwdVFmbG5qajVQMHRwNjFQU1BoWnNqaVI1VFhkX215ajdyTEUycVZqX1plRjZQSnVPX3RadS1ydTBMTXA5Mzh0NkVMOXhHUG1nNkhreEFQRk1GU0U3aWJPblVzUGY0VWJSVGgtVmY0UmJwVlNZdWlpeG02VkpkTDhmS2s0YXd6ZE1LRXBXMXZRMktR?oc=5",
       "published": "2026-09-10T16:04:16.000Z",
       "feed": "injurylaw"
@@ -165,7 +165,7 @@
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "hauteliving.com",
+      "source": "Haute Living",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
       "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
