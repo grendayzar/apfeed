@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T22:32:12.863Z",
+  "generated": "2026-09-18T22:49:23.558Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -38,24 +38,10 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Factors to consider when you have a teen driver",
-      "source": "Eagle News Online",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMXhwZHZUQmZFQzRhVFRLbW41d25ZMnRmTmFTaDZ0Yjd0V3ZlSVU4ZHdxMUwzX1J6T19LTTREZG1MR2FiTXdaVmpDWjcyNEh5a2JVY0R3NUg0LUU1M3hjTnhlbHFobmY5TDhDZFBhRVlLSkFkaUtRTUpjT2NDb2I2RHJMRVk5cXRtT1l2NEFQbzZRRGE1anNYS200X3c5Y3cwai16djYtN2ZUTDI4WmFWU3F3VXdnUVlPYWZQZlhRUHVDOUdGV1FTRDB4UXRBU0JzMG1OVE1CcElUcG9vYXd0OTdPM2hfRFRq?oc=5",
-      "published": "2026-09-17T12:45:00.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Georgia 13-year-old killed in electric dirt bike crash",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0ZuSXRHUVhIdlNNZEtyMEZiTDUwMFVTOWNKUlFMUUd5QllsWm1sM0ZNRGszRmVnUGQzVWdjZHJTR05JZ3lJRmtLVkxEOF85TVpkRWRhcTl4Q1BwaDJwRUJpMktiY3lGdDRnMTU1aW9lOS0wNnpMZUI4RXpRZFZHMDRjT1czaV9meGhSbDBwUWpBbWFROE82SDhESEJacFV5cG9oTW8xanVfSGdLeUdKR0VB0gHGAUFVX3lxTE9iV2xTWEd6Q01ZSU1OX3NkWllIazdia2Iyc241ZU1mcWFZUjBfY0tNWDJPakdpQmxEYUdaV0dZSjZ3eERGbjllV1lLR3hYT0ZxMWJVbGVNV2ZDZzJJNjIwS1JqeEJKUG1RS2tXR2ZHcTl3YW54TUQ2b0V5R2h5ek5Hek13dGJXdTQ3a1hMdGdKZ0pqRHBnX1dSci1RcllQSTRpWGhHUVBJOV80THlIVXBNbkhNTGRUbHV2Y0FHR1lfc1ZJWG15dw?oc=5",
       "published": "2026-09-17T12:34:49.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Troopers: 2 road workers killed on I-95 in Richmond Hill",
-      "source": "WJCL",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxlcDNTLWJzcWtKNG85ZVhYODhweEVkSUt2WEpmMFVIbUQ2bUQ2aEZaZ05UWkx5NElmNk1CR1dhLWhySDR2LTR5Nlc5Uk5TTUtoa3gtbl9YVFk4MW1tSllsWkpPQWJTbktGWVFFNTg4cUZBRnpranp2am9rUmJULUtBaTEtV3I2MmRmbmZCVmx4MDFE?oc=5",
-      "published": "2026-09-17T11:28:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -66,15 +52,29 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
+      "published": "2026-09-15T20:16:05.000Z",
+      "feed": "injurylaw"
+    },
+    {
+      "title": "Police in Georgia say MARTA bus driver fell asleep, crossed lanes and crashed, injuring passengers",
+      "source": "WJCL",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWx2bXg2TTYxZ1JYcHA5cElMTUJ6dkJNeFZPZ1lpVnRwaGFVay1KMnFFOHNZN3JWVXkyWV93UkdsdjVFRFdxdXVkR2pTZkZJYl80aTE4VVMwZ2xQNFVuRk1GWktOQ2hubjdBWTYtRDk2MGJMNHFjT2w2dzFWR3FwS0Vn?oc=5",
+      "published": "2026-09-15T11:47:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "insurancejournal.com",
+      "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "MARTA bus driver accused of falling asleep at the wheel before crashing into tree, police say",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjMtcXFIdjFDVEhock5KYTAyQ01CY05GcXVCNGhES2VNaWJuTDlTQ2JEeHF5MHNXeWU3bXUwUDRoR2s0OTlUVjg2MG5pQVlwblZzS1hCLU1hdGRwNFFJdFUyYk9WcjVTc2ZqaHpNTTBkN2dNNDJ2dXFGWkZtTm05NGdkUUJ4TGpkTF91US0xcC1OdkZqbV9BSnpIQWdHT3N4NGxZRkFlYU41bWxfS2R6MGpRSEhadmtfbkIxdjZtVVJtMzlxUmlQdHZR?oc=5",
       "published": "2026-09-14T22:20:20.000Z",
       "feed": "ga-roads"
@@ -122,13 +122,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "Ga. Court of Appeals Weighs In on Tort Reform",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkdQVnlPRXlwdVFmbG5qajVQMHRwNjFQU1BoWnNqaVI1VFhkX215ajdyTEUycVZqX1plRjZQSnVPX3RadS1ydTBMTXA5Mzh0NkVMOXhHUG1nNkhreEFQRk1GU0U3aWJPblVzUGY0VWJSVGgtVmY0UmJwVlNZdWlpeG02VkpkTDhmS2s0YXd6ZE1LRXBXMXZRMktR?oc=5",
-      "published": "2026-09-10T16:04:16.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
@@ -158,10 +151,17 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
-      "published": "2026-09-07T11:01:55.000Z",
+      "source": "veronapress.com",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
+      "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVDRWNBVnFsMGVJUnFTc19CVTAya3BJZmFrVjFlWW41SF9vakpyODVXc2tseVJmYVhnQk01UXVaRVFrYnVaMVg0N0VZU0J1NTlpVEdLckNSX3F3TGJVaUNFeksxQV9jNE8zVHNBOU1hQS14ZFpmbmVob2VEMXBoYTdYVlFDSTYtZXBoZmNJYzQ5Zw?oc=5",
+      "published": "2026-09-05T07:00:00.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
