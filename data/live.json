@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T02:50:48.178Z",
+  "generated": "2026-09-18T03:16:45.499Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 23,
+  "count": 22,
   "items": [
     {
       "title": "Crash blocks lanes on I-285 South near Atlanta Road",
@@ -24,13 +24,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "2 dead after Amazon truck crashes into work vehicle on Georgia interstate",
-      "source": "The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN25yMnBBOU1BZ3VHN0dUSnBXaUMtLXE1ci1RcXdtSmFCbXoydF9waXJaT3hWY2ZNeW1JNWhNeE94ejY5TDNQd1hIWUo1RWtwY05zX0JoYWphQzN4bHNEZjJrUDNGaU1UaUVOUlFLM2RNZGplS1J2dk04Y1Y4RUxaaFZKRkhwUExyNW5zVkp3WUdZeWVPOTU3aVRzalcxZ1VhalFXWjF4Vmc?oc=5",
-      "published": "2026-09-17T20:02:18.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "MARTA bus involved in accident near I-20, Atlanta police say",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
@@ -38,11 +31,11 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Video shows city bus driver appearing to fall asleep before crashing into several trees",
-      "source": "WKYT",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOby1SZnlaWDVHRl9tVXNucFN1LWNGQXZIQ2RZRHRkYUVET0hTa1ZGSkFNYVhUb1NlbUR6dlVPckJxNE94OVh5RTZ0aFlDVjZGdF9kV2h5bi1YMXUxdVFiVnFuUklIT2tNMzNpSlktbk56RkZVQV9VM013a0dNR2VHUEs4cTc4NVdHZjlUMU9temxPM21IUnZMTmRiakpiM0M3SVkyaG1STnV2M05GQm0tZDdOMklsRk9kcHFLSHVWU1JRMEVPU1BNX1J5TDDSAcwBQVVfeXFMTm8tUmZ5Wlg1R0ZfbVVzbnBTdS1jRkF2SENkWUR0ZGFFRE9IU2tWRkpBTWFYVG9TZW1EenZVT3JCcTRPeDlYeUU2dGhZQ1Y2RnRfZFdoeW4tWDF1MXVRYlZxblJJSE9rTTMzaUpZLW5OekZGVUFfVTNNd2tHTUdlR1BLOHE3ODVXR2Y5VDFPbXpsTzNtSFJ2TE5kYmpKYjNDN0lZMmhtUk51djNORkJtLWQ3TjJJbEZPZHBxS0h1VlNSUTBFT1NQTV9SeUww?oc=5",
-      "published": "2026-09-15T20:40:00.000Z",
-      "feed": "ga-metro"
+      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
+      "source": "WRAL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
+      "published": "2026-09-15T22:20:21.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Police in Georgia say MARTA bus driver fell asleep, crossed lanes and crashed, injuring passengers",
@@ -158,14 +151,14 @@
     },
     {
       "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
-      "source": "roadandtrack.com",
+      "source": "Road & Track",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "hauteliving.com",
+      "source": "Haute Living",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
       "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
