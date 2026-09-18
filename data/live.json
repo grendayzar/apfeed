@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T05:32:09.726Z",
+  "generated": "2026-09-18T05:50:15.564Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Adult, child taken to hospital after car crash on I-285 southbound, GSP says",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTRpUjdOTGNYNld2OTBiYUxEVzY0UkpBV1dfSWJiZTBiWUZPWXYwT3ZEUnZrZjVvRk9Fc0d5X2xTTWd0OEJvWHRHbDRtRGRzWEZTNW9WODRDSXdPU282YjBtWTBGVlFxOFhNZm9mZzZxYkFuQ2FZcmpBQTRfWWcwNENnZ1dlcml4VG9fVHRkcFVFU0h1aTJvZXdZRHVTRTVUaWNGd3hnUngyWW4xcGxJOENqdw?oc=5",
       "published": "2026-09-18T01:48:00.000Z",
       "feed": "ga-metro"
@@ -29,13 +29,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
-      "source": "WGXA",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
-      "published": "2026-09-17T13:22:24.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
@@ -67,14 +60,14 @@
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
       "published": "2026-09-14T21:15:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Woman identified in deadly crash on East Jackson Street in Thomas County",
-      "source": "WCTV",
+      "source": "wctv.tv",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBNSl9MaldrZlgxSEdaQ0RQX2M0TEZqRkhrLWFCWmZ3MVRJU01XV2luNDdnYUNMV0s1QkJDanZQamZ6UlZfY09UUmZTbUd0cndhRWNiSDdPT05sX0ZoTVhOVzRwb2JYRjVaRTBtYkRPZi1udWJNOGxwdktZcU8wWVVwV1k3S3MtOW1NWWxLRktzc2U2em5oOFVPUdIBrwFBVV95cUxPek1lQnlRN1VWOXN1cUZtdWVNLU4xY2FldVJGb1QzbEczU1hDbmI0ck4xQmFwZ2lHeEJjNi1mOW5rcU5KWXNhYmtJNjQxRU9ibzNsZEdFa0tnZDB5QnU3NXZpN0JRUW1BUFBFOHRZcUh4a3J3S1hWbFBjNHhMeWtnX042SmpqWExpZHlIRE9uVkplOGhGZ0h4M2VVREpwc2JCRmI3ZFk5Y1pzMmFzN3BN?oc=5",
       "published": "2026-09-14T19:48:00.000Z",
       "feed": "ga-roads"
@@ -91,6 +84,13 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Woman killed following crash in southwest Atlanta, police say",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
+      "published": "2026-09-13T16:01:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
@@ -151,7 +151,7 @@
     },
     {
       "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
-      "source": "roadandtrack.com",
+      "source": "Road & Track",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
