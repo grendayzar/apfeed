@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T02:16:43.599Z",
+  "generated": "2026-09-18T02:34:57.460Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 23,
+  "count": 22,
   "items": [
     {
       "title": "Crash blocks lanes on I-285 South near Atlanta Road",
@@ -17,11 +17,11 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Overturned vehicle blocks all I-285 South lanes near South Atlanta Road",
+      "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "2 dead after Amazon truck crashes into work vehicle on Georgia interstate",
@@ -32,7 +32,7 @@
     },
     {
       "title": "MARTA bus involved in accident near I-20, Atlanta police say",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
       "published": "2026-09-17T02:54:00.000Z",
       "feed": "ga-metro"
@@ -53,21 +53,21 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "insurancejournal.com",
+      "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "MARTA bus driver accused of falling asleep at the wheel before crashing into tree, police say",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjMtcXFIdjFDVEhock5KYTAyQ01CY05GcXVCNGhES2VNaWJuTDlTQ2JEeHF5MHNXeWU3bXUwUDRoR2s0OTlUVjg2MG5pQVlwblZzS1hCLU1hdGRwNFFJdFUyYk9WcjVTc2ZqaHpNTTBkN2dNNDJ2dXFGWkZtTm05NGdkUUJ4TGpkTF91US0xcC1OdkZqbV9BSnpIQWdHT3N4NGxZRkFlYU41bWxfS2R6MGpRSEhadmtfbkIxdjZtVVJtMzlxUmlQdHZR?oc=5",
       "published": "2026-09-14T22:20:20.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
       "published": "2026-09-14T21:15:00.000Z",
       "feed": "ga-roads"
@@ -85,13 +85,6 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcThrM1B1cXpQeXhSVG8tM2lGT3BTUjFqSndwQ1E4cS1xd2Q0RnNET21WWGlzdEN5Q0F5WFV2VWlqOXRJc3pXdDIwRjlfZDFvanhhR08tYjdUQjFyQ3ZoR1pyN1lSZlN6eFA0dmlldlhSMWtkSzhHOGgxU0UzQzgxU0V4WkRjR096MTBiOHVrQWdlTmRzQ3J2TTgtWkRUc2JkdnhXTlBR?oc=5",
       "published": "2026-09-14T19:09:00.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
-      "published": "2026-09-13T17:23:35.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Woman killed following crash in southwest Atlanta, police say",
@@ -123,7 +116,7 @@
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T16:40:55.000Z",
       "feed": "recalls"
@@ -137,7 +130,7 @@
     },
     {
       "title": "FCA recalls 328K Jeep Grand Cherokees. See impacted vehicles",
-      "source": "USA Today",
+      "source": "usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdm1ld0pUVFBYZXVNcTRSeW9fblRZTV9kbWtQQW5qRm81c29DN2xLcHRmNnA0SDZBeTVwR3FBY0cwaGUtLUprVzdBdk4teDEtNm1zQ3FkbFYta1pRNDlqYnVCMy1nRlZ4NjNKaTNHUFlOMDFhOVpZSC1QMWo3Y1h3Rm9aV1ozRzZIMndWSVNySFR1UlZQWFdxcWhQeXo2bGVMa3pvaTF4am9KYV9GZ05rLUVB?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
@@ -165,7 +158,7 @@
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "Haute Living",
+      "source": "hauteliving.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
       "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
