@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-17T23:49:16.821Z",
+  "generated": "2026-09-18T00:23:17.982Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,8 +7,15 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 23,
   "items": [
+    {
+      "title": "Crash blocks lanes on I-285 South near Atlanta Road",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVBoZGpLV2RDN3h3VXhUN290VFhvdUx1dEdnNEE1RFRTUFZsTzBYYzhyTHJrdEVrdTNhOUV5MG9CQ2RkZ04xdC12NGI2SWxRYUNndklHOWlaaTlkRFktZ3luV0xtcHdobC1CRUxya3Bma0R4dVFCcHk5dkhkYmtDVVo4Mko0bmNtX0xiLXl6aEh5TEpiMWlWTnhjTHM3ckNkaTZfLWpyX3BCa2k1NDFGaWxab2FZTVFRN3Jybzc0bGVDOFcxRkF3Uw?oc=5",
+      "published": "2026-09-17T23:52:00.000Z",
+      "feed": "ga-metro"
+    },
     {
       "title": "Overturned vehicle blocks all I-285 South lanes near South Atlanta Road",
       "source": "FOX 5 Atlanta",
@@ -20,7 +27,7 @@
       "title": "2 dead after Amazon truck crashes into work vehicle on Georgia interstate",
       "source": "The Atlanta Journal-Constitution",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN25yMnBBOU1BZ3VHN0dUSnBXaUMtLXE1ci1RcXdtSmFCbXoydF9waXJaT3hWY2ZNeW1JNWhNeE94ejY5TDNQd1hIWUo1RWtwY05zX0JoYWphQzN4bHNEZjJrUDNGaU1UaUVOUlFLM2RNZGplS1J2dk04Y1Y4RUxaaFZKRkhwUExyNW5zVkp3WUdZeWVPOTU3aVRzalcxZ1VhalFXWjF4Vmc?oc=5",
-      "published": "2026-09-17T20:02:18.000Z",
+      "published": "2026-09-17T19:52:21.000Z",
       "feed": "ga-roads"
     },
     {
@@ -67,7 +74,7 @@
     },
     {
       "title": "Woman identified in deadly crash on East Jackson Street in Thomas County",
-      "source": "wctv.tv",
+      "source": "WCTV",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBNSl9MaldrZlgxSEdaQ0RQX2M0TEZqRkhrLWFCWmZ3MVRJU01XV2luNDdnYUNMV0s1QkJDanZQamZ6UlZfY09UUmZTbUd0cndhRWNiSDdPT05sX0ZoTVhOVzRwb2JYRjVaRTBtYkRPZi1udWJNOGxwdktZcU8wWVVwV1k3S3MtOW1NWWxLRktzc2U2em5oOFVPUdIBrwFBVV95cUxPek1lQnlRN1VWOXN1cUZtdWVNLU4xY2FldVJGb1QzbEczU1hDbmI0ck4xQmFwZ2lHeEJjNi1mOW5rcU5KWXNhYmtJNjQxRU9ibzNsZEdFa0tnZDB5QnU3NXZpN0JRUW1BUFBFOHRZcUh4a3J3S1hWbFBjNHhMeWtnX042SmpqWExpZHlIRE9uVkplOGhGZ0h4M2VVREpwc2JCRmI3ZFk5Y1pzMmFzN3BN?oc=5",
       "published": "2026-09-14T19:48:00.000Z",
       "feed": "ga-roads"
