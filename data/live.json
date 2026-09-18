@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T11:16:23.427Z",
+  "generated": "2026-09-18T11:32:34.349Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -31,13 +31,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "2 dead after Amazon truck crashes into work vehicle on Georgia interstate",
-      "source": "The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN25yMnBBOU1BZ3VHN0dUSnBXaUMtLXE1ci1RcXdtSmFCbXoydF9waXJaT3hWY2ZNeW1JNWhNeE94ejY5TDNQd1hIWUo1RWtwY05zX0JoYWphQzN4bHNEZjJrUDNGaU1UaUVOUlFLM2RNZGplS1J2dk04Y1Y4RUxaaFZKRkhwUExyNW5zVkp3WUdZeWVPOTU3aVRzalcxZ1VhalFXWjF4Vmc?oc=5",
-      "published": "2026-09-17T20:02:18.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
       "source": "WGXA",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
@@ -50,6 +43,13 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
       "published": "2026-09-17T02:54:00.000Z",
       "feed": "ga-metro"
+    },
+    {
+      "title": "Video shows MARTA bus driver fall asleep, crash into tree with passengers aboard in Dunwoody, Goergia",
+      "source": "ABC7 New York",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2x3cjRwTXhQVEJjSUltWkdEenpYTndKWHZVY0pTZVc3bHA0dGJMNkRSZVNuZ0Y5YlhDMFk1SmI5T3RUalJfeG5OeWt4eGRiNV9TdGJ1WG5MUy1UMXhxMVNKRFY2cDhCcFRkVk42TzZEaGFzb1g5OGxtSU9teXlMcGRyNTMzbUduUzBPTHctQ0Q4elR5cVRHUi1kZGlsNEN3VDlvcHRUZDFfR0pFNlZiaGlfUDlualhfU0hsSA?oc=5",
+      "published": "2026-09-15T19:21:51.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Police in Georgia say MARTA bus driver fell asleep, crossed lanes and crashed, injuring passengers",
@@ -88,9 +88,16 @@
     },
     {
       "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
-      "source": "Detroit Free Press",
+      "source": "freep.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcThrM1B1cXpQeXhSVG8tM2lGT3BTUjFqSndwQ1E4cS1xd2Q0RnNET21WWGlzdEN5Q0F5WFV2VWlqOXRJc3pXdDIwRjlfZDFvanhhR08tYjdUQjFyQ3ZoR1pyN1lSZlN6eFA0dmlldlhSMWtkSzhHOGgxU0UzQzgxU0V4WkRjR096MTBiOHVrQWdlTmRzQ3J2TTgtWkRUc2JkdnhXTlBR?oc=5",
       "published": "2026-09-14T19:09:00.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "Toyota recalls over 8,000 vehicles. See affected model",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
+      "published": "2026-09-11T23:02:00.000Z",
       "feed": "recalls"
     },
     {
@@ -109,7 +116,7 @@
     },
     {
       "title": "Ga. Court of Appeals Weighs In on Tort Reform",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkdQVnlPRXlwdVFmbG5qajVQMHRwNjFQU1BoWnNqaVI1VFhkX215ajdyTEUycVZqX1plRjZQSnVPX3RadS1ydTBMTXA5Mzh0NkVMOXhHUG1nNkhreEFQRk1GU0U3aWJPblVzUGY0VWJSVGgtVmY0UmJwVlNZdWlpeG02VkpkTDhmS2s0YXd6ZE1LRXBXMXZRMktR?oc=5",
       "published": "2026-09-10T16:04:16.000Z",
       "feed": "injurylaw"
@@ -134,13 +141,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "FCA recalls 328K Jeep Grand Cherokees. See impacted vehicles",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdm1ld0pUVFBYZXVNcTRSeW9fblRZTV9kbWtQQW5qRm81c29DN2xLcHRmNnA0SDZBeTVwR3FBY0cwaGUtLUprVzdBdk4teDEtNm1zQ3FkbFYta1pRNDlqYnVCMy1nRlZ4NjNKaTNHUFlOMDFhOVpZSC1QMWo3Y1h3Rm9aV1ozRzZIMndWSVNySFR1UlZQWFdxcWhQeXo2bGVMa3pvaTF4am9KYV9GZ05rLUVB?oc=5",
-      "published": "2026-09-08T07:00:00.000Z",
-      "feed": "recalls"
     },
     {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
