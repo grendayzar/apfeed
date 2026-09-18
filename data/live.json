@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T04:34:19.559Z",
+  "generated": "2026-09-18T04:50:53.155Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Adult, child taken to hospital after car crash on I-285 southbound, GSP says",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTRpUjdOTGNYNld2OTBiYUxEVzY0UkpBV1dfSWJiZTBiWUZPWXYwT3ZEUnZrZjVvRk9Fc0d5X2xTTWd0OEJvWHRHbDRtRGRzWEZTNW9WODRDSXdPU282YjBtWTBGVlFxOFhNZm9mZzZxYkFuQ2FZcmpBQTRfWWcwNENnZ1dlcml4VG9fVHRkcFVFU0h1aTJvZXdZRHVTRTVUaWNGd3hnUngyWW4xcGxJOENqdw?oc=5",
       "published": "2026-09-18T01:48:00.000Z",
       "feed": "ga-metro"
@@ -38,6 +38,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
+      "source": "WRAL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
+      "published": "2026-09-15T22:20:21.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Police in Georgia say MARTA bus driver fell asleep, crossed lanes and crashed, injuring passengers",
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWx2bXg2TTYxZ1JYcHA5cElMTUJ6dkJNeFZPZ1lpVnRwaGFVay1KMnFFOHNZN3JWVXkyWV93UkdsdjVFRFdxdXVkR2pTZkZJYl80aTE4VVMwZ2xQNFVuRk1GWktOQ2hubjdBWTYtRDk2MGJMNHFjT2w2dzFWR3FwS0Vn?oc=5",
@@ -60,7 +67,7 @@
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
       "published": "2026-09-14T21:15:00.000Z",
       "feed": "ga-roads"
@@ -87,13 +94,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Woman killed following crash in southwest Atlanta, police say",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
-      "published": "2026-09-13T16:01:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
       "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
@@ -109,7 +109,7 @@
     },
     {
       "title": "Ga. Court of Appeals Weighs In on Tort Reform",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkdQVnlPRXlwdVFmbG5qajVQMHRwNjFQU1BoWnNqaVI1VFhkX215ajdyTEUycVZqX1plRjZQSnVPX3RadS1ydTBMTXA5Mzh0NkVMOXhHUG1nNkhreEFQRk1GU0U3aWJPblVzUGY0VWJSVGgtVmY0UmJwVlNZdWlpeG02VkpkTDhmS2s0YXd6ZE1LRXBXMXZRMktR?oc=5",
       "published": "2026-09-10T16:04:16.000Z",
       "feed": "injurylaw"
@@ -144,21 +144,21 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
-      "published": "2026-09-07T11:01:55.000Z",
+      "source": "veronapress.com",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
+      "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
-      "source": "Road & Track",
+      "source": "roadandtrack.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "hauteliving.com",
+      "source": "Haute Living",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
       "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
