@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T02:34:57.460Z",
+  "generated": "2026-09-18T02:50:48.178Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "title": "Crash blocks lanes on I-285 South near Atlanta Road",
@@ -21,7 +21,7 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "2 dead after Amazon truck crashes into work vehicle on Georgia interstate",
@@ -87,6 +87,13 @@
       "feed": "recalls"
     },
     {
+      "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
+      "published": "2026-09-13T17:23:35.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Woman killed following crash in southwest Atlanta, police say",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
@@ -125,12 +132,12 @@
       "title": "DUI prevention technology",
       "source": "Post and Courier",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
-      "published": "2026-09-09T10:45:00.000Z",
+      "published": "2026-09-09T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "FCA recalls 328K Jeep Grand Cherokees. See impacted vehicles",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdm1ld0pUVFBYZXVNcTRSeW9fblRZTV9kbWtQQW5qRm81c29DN2xLcHRmNnA0SDZBeTVwR3FBY0cwaGUtLUprVzdBdk4teDEtNm1zQ3FkbFYta1pRNDlqYnVCMy1nRlZ4NjNKaTNHUFlOMDFhOVpZSC1QMWo3Y1h3Rm9aV1ozRzZIMndWSVNySFR1UlZQWFdxcWhQeXo2bGVMa3pvaTF4am9KYV9GZ05rLUVB?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
@@ -151,7 +158,7 @@
     },
     {
       "title": "Faulty Chinese Airbag Inflators Killed an 11th Person in the United States Last Month, Feds Say",
-      "source": "Road & Track",
+      "source": "roadandtrack.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0puVzMtMVl5NEt2SFhXM1RMczdJWVQ2VVVmMnZWWEJ4OGh1emxWVlduMkVjZEw3QzlSUldtQXdtQzlIejhoN0hBV05LdWtwX05MOFZ4eVlubzFLcXhnMFF6d2FndlA3SUdkRk1sLU9kSzlnWTV4NGpjV25ZWlJkenVSUkRDTUw5WmdWLTdUWVJEYk1Oa0JjWUs0TElLdTYzX3dwSnJZSE90VkMtcThvVXdxalY3VXFfQWc?oc=5",
       "published": "2026-09-04T07:00:00.000Z",
       "feed": "us-safety"
