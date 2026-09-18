@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T13:51:04.857Z",
+  "generated": "2026-09-18T14:16:51.840Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,6 +17,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Adult, child taken to hospital after car crash on I-285 southbound, GSP says",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTRpUjdOTGNYNld2OTBiYUxEVzY0UkpBV1dfSWJiZTBiWUZPWXYwT3ZEUnZrZjVvRk9Fc0d5X2xTTWd0OEJvWHRHbDRtRGRzWEZTNW9WODRDSXdPU282YjBtWTBGVlFxOFhNZm9mZzZxYkFuQ2FZcmpBQTRfWWcwNENnZ1dlcml4VG9fVHRkcFVFU0h1aTJvZXdZRHVTRTVUaWNGd3hnUngyWW4xcGxJOENqdw?oc=5",
+      "published": "2026-09-18T01:48:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Crash blocks lanes on I-285 South near Atlanta Road",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVBoZGpLV2RDN3h3VXhUN290VFhvdUx1dEdnNEE1RFRTUFZsTzBYYzhyTHJrdEVrdTNhOUV5MG9CQ2RkZ04xdC12NGI2SWxRYUNndklHOWlaaTlkRFktZ3luV0xtcHdobC1CRUxya3Bma0R4dVFCcHk5dkhkYmtDVVo4Mko0bmNtX0xiLXl6aEh5TEpiMWlWTnhjTHM3ckNkaTZfLWpyX3BCa2k1NDFGaWxab2FZTVFRN3Jybzc0bGVDOFcxRkF3Uw?oc=5",
@@ -31,18 +38,11 @@
       "feed": "ga-roads"
     },
     {
-      "title": "2 dead after Amazon truck crashes into work vehicle on Georgia interstate",
-      "source": "The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN25yMnBBOU1BZ3VHN0dUSnBXaUMtLXE1ci1RcXdtSmFCbXoydF9waXJaT3hWY2ZNeW1JNWhNeE94ejY5TDNQd1hIWUo1RWtwY05zX0JoYWphQzN4bHNEZjJrUDNGaU1UaUVOUlFLM2RNZGplS1J2dk04Y1Y4RUxaaFZKRkhwUExyNW5zVkp3WUdZeWVPOTU3aVRzalcxZ1VhalFXWjF4Vmc?oc=5",
-      "published": "2026-09-17T20:32:18.000Z",
+      "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
+      "source": "WGXA",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
+      "published": "2026-09-17T13:22:24.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "MARTA bus involved in accident near I-20, Atlanta police say",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
-      "published": "2026-09-17T02:54:00.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Video shows MARTA bus driver fall asleep, crash into tree with passengers aboard in Dunwoody, Goergia",
@@ -115,13 +115,6 @@
       "feed": "injurylaw"
     },
     {
-      "title": "Culpeper Police Department. . Today is #WisdomWednesday! This episode is about the Move Over law. This law requires drivers to safely change lanes or slow down when approaching any stationary vehicle on the side of the road with flashing emergency, a",
-      "source": "facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNmU0ZWRyRUFrdDFDTEwyWW80QUExMGdiYVZFSXJSemVRd2ZnX0tlQ3o3eEdlWG1kSWJNRmFjUDRueGY0TWlxS1I0R3YtMkhPNHgtN2llVzh0c2dlZS1nOHI2cDNBdnRod29hanVFcmdKbWd2ZmpSdUxLbzZ0QTMxaVJWZllLNWdsalFNVHRJaWlLQ3kxM3h4SXdmR1RaY3BVeFVfdkQ4VE1mbUdxYXJ2aHZ0b3hzamNEMnhydGFkWlZLcVNNZjhPa2ZjYjczc1h5X2J4SFFzWVQ?oc=5",
-      "published": "2026-09-09T21:30:27.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
@@ -137,7 +130,7 @@
     },
     {
       "title": "FCA recalls 328K Jeep Grand Cherokees. See impacted vehicles",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdm1ld0pUVFBYZXVNcTRSeW9fblRZTV9kbWtQQW5qRm81c29DN2xLcHRmNnA0SDZBeTVwR3FBY0cwaGUtLUprVzdBdk4teDEtNm1zQ3FkbFYta1pRNDlqYnVCMy1nRlZ4NjNKaTNHUFlOMDFhOVpZSC1QMWo3Y1h3Rm9aV1ozRzZIMndWSVNySFR1UlZQWFdxcWhQeXo2bGVMa3pvaTF4am9KYV9GZ05rLUVB?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
@@ -155,6 +148,13 @@
       "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVDRWNBVnFsMGVJUnFTc19CVTAya3BJZmFrVjFlWW41SF9vakpyODVXc2tseVJmYVhnQk01UXVaRVFrYnVaMVg0N0VZU0J1NTlpVEdLckNSX3F3TGJVaUNFeksxQV9jNE8zVHNBOU1hQS14ZFpmbmVob2VEMXBoYTdYVlFDSTYtZXBoZmNJYzQ5Zw?oc=5",
+      "published": "2026-09-05T07:00:00.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
