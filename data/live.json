@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T08:35:30.400Z",
+  "generated": "2026-09-18T08:51:53.392Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,21 +18,21 @@
     },
     {
       "title": "Crash blocks lanes on I-285 South near Atlanta Road",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVBoZGpLV2RDN3h3VXhUN290VFhvdUx1dEdnNEE1RFRTUFZsTzBYYzhyTHJrdEVrdTNhOUV5MG9CQ2RkZ04xdC12NGI2SWxRYUNndklHOWlaaTlkRFktZ3luV0xtcHdobC1CRUxya3Bma0R4dVFCcHk5dkhkYmtDVVo4Mko0bmNtX0xiLXl6aEh5TEpiMWlWTnhjTHM3ckNkaTZfLWpyX3BCa2k1NDFGaWxab2FZTVFRN3Jybzc0bGVDOFcxRkF3Uw?oc=5",
       "published": "2026-09-17T23:52:00.000Z",
       "feed": "ga-metro"
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-metro"
     },
     {
       "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
-      "source": "WGXA",
+      "source": "wgxa.tv",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
       "published": "2026-09-17T13:22:24.000Z",
       "feed": "ga-roads"
@@ -67,7 +67,7 @@
     },
     {
       "title": "MARTA bus driver accused of falling asleep at the wheel before crashing into tree, police say",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjMtcXFIdjFDVEhock5KYTAyQ01CY05GcXVCNGhES2VNaWJuTDlTQ2JEeHF5MHNXeWU3bXUwUDRoR2s0OTlUVjg2MG5pQVlwblZzS1hCLU1hdGRwNFFJdFUyYk9WcjVTc2ZqaHpNTTBkN2dNNDJ2dXFGWkZtTm05NGdkUUJ4TGpkTF91US0xcC1OdkZqbV9BSnpIQWdHT3N4NGxZRkFlYU41bWxfS2R6MGpRSEhadmtfbkIxdjZtVVJtMzlxUmlQdHZR?oc=5",
       "published": "2026-09-14T22:20:20.000Z",
       "feed": "ga-roads"
@@ -95,14 +95,14 @@
     },
     {
       "title": "1 dead, 1 injured after crash off I-20 onto Windsor Street on-ramp",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPallNSkRQMXlIZ0NMbHMyRzhsc0ttSXROZTM3ZFdfYlczTzFVZHZOUm1JQjZiRWJlTXFfT1pNaWt6N3h3RzJEV3RkRjVZUXpjejBicFFGR0l6ZWFxN2tvMGtaYnpsczhCT1JoZ0p5Mm1wa2cwX0xxRXVFU0U3WE1OdGZ6NHQycEdRcUpFWVYxZGE3TkVabnN2QmlpVWJ1cnc?oc=5",
       "published": "2026-09-13T17:23:35.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "cbsaustin.com",
+      "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
