@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T11:49:29.952Z",
+  "generated": "2026-09-18T12:21:02.146Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Crash blocks lanes on I-285 South near Atlanta Road",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVBoZGpLV2RDN3h3VXhUN290VFhvdUx1dEdnNEE1RFRTUFZsTzBYYzhyTHJrdEVrdTNhOUV5MG9CQ2RkZ04xdC12NGI2SWxRYUNndklHOWlaaTlkRFktZ3luV0xtcHdobC1CRUxya3Bma0R4dVFCcHk5dkhkYmtDVVo4Mko0bmNtX0xiLXl6aEh5TEpiMWlWTnhjTHM3ckNkaTZfLWpyX3BCa2k1NDFGaWxab2FZTVFRN3Jybzc0bGVDOFcxRkF3Uw?oc=5",
       "published": "2026-09-17T23:52:00.000Z",
       "feed": "ga-metro"
@@ -53,7 +53,7 @@
     },
     {
       "title": "Police in Georgia say MARTA bus driver fell asleep, crossed lanes and crashed, injuring passengers",
-      "source": "wjcl.com",
+      "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWx2bXg2TTYxZ1JYcHA5cElMTUJ6dkJNeFZPZ1lpVnRwaGFVay1KMnFFOHNZN3JWVXkyWV93UkdsdjVFRFdxdXVkR2pTZkZJYl80aTE4VVMwZ2xQNFVuRk1GWktOQ2hubjdBWTYtRDk2MGJMNHFjT2w2dzFWR3FwS0Vn?oc=5",
       "published": "2026-09-15T11:47:00.000Z",
       "feed": "ga-roads"
