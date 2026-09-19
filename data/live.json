@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T03:33:16.635Z",
+  "generated": "2026-09-19T03:50:06.351Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
+      "source": "Kitsap Sun",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXB6WUlDbnlFZkpBZlZqdGlLRWI4NmRWVzFxaU9CWTktTnNYSGV3ZGZ0cmozazl6MTlUMzRHUkdjcWppRWJvcDJoYjZBSlYxYUxuZlNXbFdKRGJCWGx4dDlMMklGaGlsWlVaaUwwOXdkSFpmd1pBQXc1TnFuYjFaQWVYVV9QUTFIbS01aUtNWXA4ay1HdFVmalVmVVFWVmdwcEJmZURhYnVGaDZCUlBSaEhDckZadmFYRnZ2NkV6YksxS2M?oc=5",
+      "published": "2026-09-19T01:19:36.000Z",
+      "feed": "us-safety"
+    },
     {
       "title": "Multiple traffic red alerts on I-85, I-285 to start Friday commute",
       "source": "WSB-TV",
@@ -46,7 +53,7 @@
     },
     {
       "title": "Troopers: 2 road workers killed on I-95 in Richmond Hill",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxlcDNTLWJzcWtKNG85ZVhYODhweEVkSUt2WEpmMFVIbUQ2bUQ2aEZaZ05UWkx5NElmNk1CR1dhLWhySDR2LTR5Nlc5Uk5TTUtoa3gtbl9YVFk4MW1tSllsWkpPQWJTbktGWVFFNTg4cUZBRnpranp2am9rUmJULUtBaTEtV3I2MmRmbmZCVmx4MDFE?oc=5",
       "published": "2026-09-17T11:28:00.000Z",
       "feed": "ga-roads"
@@ -60,7 +67,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "insurancejournal.com",
+      "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -150,17 +157,10 @@
       "feed": "injurylaw"
     },
     {
-      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
-      "source": "yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVDRWNBVnFsMGVJUnFTc19CVTAya3BJZmFrVjFlWW41SF9vakpyODVXc2tseVJmYVhnQk01UXVaRVFrYnVaMVg0N0VZU0J1NTlpVEdLckNSX3F3TGJVaUNFeksxQV9jNE8zVHNBOU1hQS14ZFpmbmVob2VEMXBoYTdYVlFDSTYtZXBoZmNJYzQ5Zw?oc=5",
-      "published": "2026-09-05T07:00:00.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
-      "source": "The National Law Review",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
-      "published": "2026-08-31T11:55:30.000Z",
+      "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
+      "source": "Haute Living",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
+      "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
     }
   ]
