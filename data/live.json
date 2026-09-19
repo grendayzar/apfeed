@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T20:32:27.627Z",
+  "generated": "2026-09-19T20:48:48.407Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -66,15 +66,8 @@
       "feed": "ga-roads"
     },
     {
-      "title": "U.S. road safety agency targets Tesla Cybercab, seeks basis for selling no-steering-wheel, no-pedal vehicle",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnNtQVZPWmtIVlYzVnVMQUdwNDA3bkU0ZGpxeXhsMGRtQ2xyNjRGNm5BOUM4a0M2SHRwQVZRNE9VbVBhUXMxZDZUTGhjOG9UZE1uWlQ2a2cyZjlhYzZ5TGsyX1NBUkRmbUxRSGo4dkxuMFNTcDJUc3YxX0pYSUpOUWZLYUNVSzdBQjJ1aW9WS2dHaUh3cDhQb0I2VG9hMDNseEF3NGt0Z1NqZGRtSWkyNW5xWnRzS0JWODdTcURueG5Yczd5UnpzckVuMGcxS2NKZlBVNzBMZUU2UU9qNXJnbEtpbmo?oc=5",
-      "published": "2026-09-16T01:26:28.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
@@ -129,8 +122,22 @@
       "feed": "us-safety"
     },
     {
+      "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
+      "source": "Law360",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1FqUnRsMUNYNm96YmZxNkR5WEo1MzVwdkVzSE9YeWdMMWF1UGdtY19CUlZCLXlWd1lVZlBVdnFISi00S3lxUGtIeTd0d1hoYWNVWHNUcWVvdlB4eElLSmFpYnN4SmQ4akFoXzNpZWpKYVlHTk13dThZOFN6ZTZuUXh1ajBlUVlkYUJaaThjNlVvTlpTRkdPZWJiaTFJazUtX29PZm9VamNwTWptTVQwOXdiVUJsRmpoNlRv0gFWQVVfeXFMT240SS00SmxRTXlQWTlNVlowOXg3QWIxMkc5TGUzMlVrU2g1QmF3OG9sam1sVVpHY0tINWEtU2Y3eFI3UzhmWkZlLTBraThaRUVwY1JfeFE?oc=5",
+      "published": "2026-09-10T23:46:00.000Z",
+      "feed": "injurylaw"
+    },
+    {
+      "title": "DUI prevention technology",
+      "source": "Post and Courier",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
+      "published": "2026-09-09T10:45:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "recalls"
@@ -144,23 +151,16 @@
     },
     {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
-      "published": "2026-09-07T11:01:55.000Z",
-      "feed": "injurylaw"
-    },
-    {
-      "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "Haute Living",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
-      "published": "2026-09-01T05:35:13.000Z",
+      "source": "Reno Gazette Journal",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
+      "published": "2026-09-07T06:46:18.000Z",
       "feed": "injurylaw"
     }
   ]
