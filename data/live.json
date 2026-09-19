@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T00:52:24.133Z",
+  "generated": "2026-09-19T01:14:23.860Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,13 +10,6 @@
   "count": 22,
   "items": [
     {
-      "title": "I-285 set to full close again this weekend in southwest Atlanta",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQllvZXpGWjBHUjExaUJPWk9jc0Q5U0FkLTQ0SE03MGZJTHVtLTIxcW10NTR6RzNvWnM5bVZENngyYTFBd1hfUmJ4MHlQalFBZDNJQnl0U1N4dzg0SEFkOHM0OUtpUnRVVVVEemR6ckl4Y1VEaXBHZktrM0NaVUhyLUNNWkZucW8zMHRfLUJGYkFkUkpoLW9kOWZLR0dxSC1lYThjUW9ySXFLeS0tcENIWS1QUW42NktUNjJ6NExqdkM0RjhqejR2cDlfeGg?oc=5",
-      "published": "2026-09-18T11:25:00.000Z",
-      "feed": "ga-metro"
-    },
-    {
       "title": "Multiple traffic red alerts on I-85, I-285 to start Friday commute",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QdIBwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QQ?oc=5",
@@ -25,9 +18,16 @@
     },
     {
       "title": "Adult, child taken to hospital after car crash on I-285 southbound, GSP says",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRTRpUjdOTGNYNld2OTBiYUxEVzY0UkpBV1dfSWJiZTBiWUZPWXYwT3ZEUnZrZjVvRk9Fc0d5X2xTTWd0OEJvWHRHbDRtRGRzWEZTNW9WODRDSXdPU282YjBtWTBGVlFxOFhNZm9mZzZxYkFuQ2FZcmpBQTRfWWcwNENnZ1dlcml4VG9fVHRkcFVFU0h1aTJvZXdZRHVTRTVUaWNGd3hnUngyWW4xcGxJOENqdw?oc=5",
       "published": "2026-09-18T01:48:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
+      "title": "Crash blocks lanes on I-285 South near Atlanta Road",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVBoZGpLV2RDN3h3VXhUN290VFhvdUx1dEdnNEE1RFRTUFZsTzBYYzhyTHJrdEVrdTNhOUV5MG9CQ2RkZ04xdC12NGI2SWxRYUNndklHOWlaaTlkRFktZ3luV0xtcHdobC1CRUxya3Bma0R4dVFCcHk5dkhkYmtDVVo4Mko0bmNtX0xiLXl6aEh5TEpiMWlWTnhjTHM3ckNkaTZfLWpyX3BCa2k1NDFGaWxab2FZTVFRN3Jybzc0bGVDOFcxRkF3Uw?oc=5",
+      "published": "2026-09-17T23:52:00.000Z",
       "feed": "ga-metro"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "title": "Troopers: 2 road workers killed on I-95 in Richmond Hill",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxlcDNTLWJzcWtKNG85ZVhYODhweEVkSUt2WEpmMFVIbUQ2bUQ2aEZaZ05UWkx5NElmNk1CR1dhLWhySDR2LTR5Nlc5Uk5TTUtoa3gtbl9YVFk4MW1tSllsWkpPQWJTbktGWVFFNTg4cUZBRnpranp2am9rUmJULUtBaTEtV3I2MmRmbmZCVmx4MDFE?oc=5",
       "published": "2026-09-17T11:28:00.000Z",
       "feed": "ga-roads"
@@ -81,7 +81,7 @@
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
       "published": "2026-09-14T21:15:00.000Z",
       "feed": "ga-roads"
@@ -144,9 +144,9 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "veronapress.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
-      "published": "2026-09-07T03:09:45.000Z",
+      "source": "The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
+      "published": "2026-09-07T11:01:55.000Z",
       "feed": "injurylaw"
     },
     {
