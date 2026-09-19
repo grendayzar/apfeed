@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T01:14:23.860Z",
+  "generated": "2026-09-19T01:32:41.372Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -52,11 +52,11 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
-      "source": "WRAL",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
-      "published": "2026-09-15T22:20:21.000Z",
-      "feed": "ga-roads"
+      "title": "U.S. road safety agency targets Tesla Cybercab, seeks basis for selling no-steering-wheel, no-pedal vehicle",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnNtQVZPWmtIVlYzVnVMQUdwNDA3bkU0ZGpxeXhsMGRtQ2xyNjRGNm5BOUM4a0M2SHRwQVZRNE9VbVBhUXMxZDZUTGhjOG9UZE1uWlQ2a2cyZjlhYzZ5TGsyX1NBUkRmbUxRSGo4dkxuMFNTcDJUc3YxX0pYSUpOUWZLYUNVSzdBQjJ1aW9WS2dHaUh3cDhQb0I2VG9hMDNseEF3NGt0Z1NqZGRtSWkyNW5xWnRzS0JWODdTcURueG5Yczd5UnpzckVuMGcxS2NKZlBVNzBMZUU2UU9qNXJnbEtpbmo?oc=5",
+      "published": "2026-09-16T01:26:28.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
@@ -101,8 +101,15 @@
       "feed": "recalls"
     },
     {
+      "title": "Woman killed following crash in southwest Atlanta, police say",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
+      "published": "2026-09-13T16:01:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "KEYE",
+      "source": "cbsaustin.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
@@ -148,13 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
       "published": "2026-09-07T11:01:55.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVDRWNBVnFsMGVJUnFTc19CVTAya3BJZmFrVjFlWW41SF9vakpyODVXc2tseVJmYVhnQk01UXVaRVFrYnVaMVg0N0VZU0J1NTlpVEdLckNSX3F3TGJVaUNFeksxQV9jNE8zVHNBOU1hQS14ZFpmbmVob2VEMXBoYTdYVlFDSTYtZXBoZmNJYzQ5Zw?oc=5",
-      "published": "2026-09-05T07:00:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
