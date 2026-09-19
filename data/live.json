@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T03:16:23.648Z",
+  "generated": "2026-09-19T03:33:16.635Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,17 +10,10 @@
   "count": 22,
   "items": [
     {
-      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Kitsap Sun",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXB6WUlDbnlFZkpBZlZqdGlLRWI4NmRWVzFxaU9CWTktTnNYSGV3ZGZ0cmozazl6MTlUMzRHUkdjcWppRWJvcDJoYjZBSlYxYUxuZlNXbFdKRGJCWGx4dDlMMklGaGlsWlVaaUwwOXdkSFpmd1pBQXc1TnFuYjFaQWVYVV9QUTFIbS01aUtNWXA4ay1HdFVmalVmVVFWVmdwcEJmZURhYnVGaDZCUlBSaEhDckZadmFYRnZ2NkV6YksxS2M?oc=5",
-      "published": "2026-09-19T01:19:36.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "I-285 to close again this weekend as construction project continues",
-      "source": "cbs46.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS011dFNtMTY4cVNtTjlfUzJ5bWpXRlU0QUI4dWNLV2lja2wtZGl2c21RUk81OFM1dTVLdVFKNzI0cDF6YXlWWVdvQWE0M0dxUmdZdHctbmU0MUh2ZU1SN2lBNi0tT1B1QTRTRmtSR1VzUEtVQldiQVlMN2JWbThvS0ZzQ2NkcjBMZGxiMU9KcFJKbFlpRzl5Wldodw?oc=5",
-      "published": "2026-09-18T17:54:00.000Z",
+      "title": "Multiple traffic red alerts on I-85, I-285 to start Friday commute",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QdIBwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QQ?oc=5",
+      "published": "2026-09-18T08:21:51.000Z",
       "feed": "ga-metro"
     },
     {
@@ -67,7 +60,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -157,10 +150,17 @@
       "feed": "injurylaw"
     },
     {
-      "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "Haute Living",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
-      "published": "2026-09-01T05:35:13.000Z",
+      "title": "America’s Road-Safety Agency Accused of Moving Too Slowly to Save Lives",
+      "source": "yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTkVDRWNBVnFsMGVJUnFTc19CVTAya3BJZmFrVjFlWW41SF9vakpyODVXc2tseVJmYVhnQk01UXVaRVFrYnVaMVg0N0VZU0J1NTlpVEdLckNSX3F3TGJVaUNFeksxQV9jNE8zVHNBOU1hQS14ZFpmbmVob2VEMXBoYTdYVlFDSTYtZXBoZmNJYzQ5Zw?oc=5",
+      "published": "2026-09-05T07:00:00.000Z",
+      "feed": "us-safety"
+    },
+    {
+      "title": "Personal Injury Law Trends Affecting Atlanta Accident Victims",
+      "source": "The National Law Review",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOektrUDJXZ3JQeXpKR0pyTkZMdDFzbVlmenVQa2lPbHd4R1FuS2p2RHRkdVRmdnlERzVqWEtLNjk0ZFotVHBxMmxiRWFnN1BQeHRja2taaEN3d2x3d1ZVM2xMR2lBRDZTZXlhZ2pYYjBoYnJZdEw5bEhiMG9YLTRheWhrWUtieTZWaHVaeS1nMWg5blh2LWVtYnVhQ0NNWTZJc0t1b0Z4UVU0SDZ0cTVj?oc=5",
+      "published": "2026-08-31T11:55:30.000Z",
       "feed": "injurylaw"
     }
   ]
