@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T08:34:36.759Z",
+  "generated": "2026-09-19T08:50:19.036Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Multiple traffic red alerts on I-85, I-285 to start Friday commute",
-      "source": "wsbtv.com",
+      "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QdIBwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QQ?oc=5",
       "published": "2026-09-18T08:21:51.000Z",
       "feed": "ga-metro"
@@ -46,7 +46,7 @@
     },
     {
       "title": "Georgia 13-year-old killed in electric dirt bike crash",
-      "source": "wsbtv.com",
+      "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0ZuSXRHUVhIdlNNZEtyMEZiTDUwMFVTOWNKUlFMUUd5QllsWm1sM0ZNRGszRmVnUGQzVWdjZHJTR05JZ3lJRmtLVkxEOF85TVpkRWRhcTl4Q1BwaDJwRUJpMktiY3lGdDRnMTU1aW9lOS0wNnpMZUI4RXpRZFZHMDRjT1czaV9meGhSbDBwUWpBbWFROE82SDhESEJacFV5cG9oTW8xanVfSGdLeUdKR0VB0gHGAUFVX3lxTE9iV2xTWEd6Q01ZSU1OX3NkWllIazdia2Iyc241ZU1mcWFZUjBfY0tNWDJPakdpQmxEYUdaV0dZSjZ3eERGbjllV1lLR3hYT0ZxMWJVbGVNV2ZDZzJJNjIwS1JqeEJKUG1RS2tXR2ZHcTl3YW54TUQ2b0V5R2h5ek5Hek13dGJXdTQ3a1hMdGdKZ0pqRHBnX1dSci1RcllQSTRpWGhHUVBJOV80THlIVXBNbkhNTGRUbHV2Y0FHR1lfc1ZJWG15dw?oc=5",
       "published": "2026-09-17T12:34:49.000Z",
       "feed": "ga-roads"
@@ -129,13 +129,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
-      "source": "Law360",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1FqUnRsMUNYNm96YmZxNkR5WEo1MzVwdkVzSE9YeWdMMWF1UGdtY19CUlZCLXlWd1lVZlBVdnFISi00S3lxUGtIeTd0d1hoYWNVWHNUcWVvdlB4eElLSmFpYnN4SmQ4akFoXzNpZWpKYVlHTk13dThZOFN6ZTZuUXh1ajBlUVlkYUJaaThjNlVvTlpTRkdPZWJiaTFJazUtX29PZm9VamNwTWptTVQwOXdiVUJsRmpoNlRv0gFWQVVfeXFMT240SS00SmxRTXlQWTlNVlowOXg3QWIxMkc5TGUzMlVrU2g1QmF3OG9sam1sVVpHY0tINWEtU2Y3eFI3UzhmWkZlLTBraThaRUVwY1JfeFE?oc=5",
-      "published": "2026-09-10T23:46:00.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
       "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
@@ -158,9 +151,16 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "veronapress.com",
-      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
+      "source": "LoudounNow.com",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPdDkyMkt1b0J0UUoyM3FIREF1RUpqdEVvZTlxd2M3SzF3bzFyb0VFWDdBTjdGREpZVTlqbmw5ZnNpSl81VnM1N3psN0V5N2RPaFlsa1ZsYkpBb2FfOXJrUGlQVG83aEZJNGM1UGd1TFJOeS00d3oxckRkWGhxZk5JMldZMGJ0dk8zeW1zV0tFQnMwMW5NWFNtQThCT1VhelhaM0ZtczhSalU1dlJKYlk3V0cwYUw4cHF2enY5cGFjSGhhVHlBZXJDQlBzdy1udmVJcDRKUTdTbHVqMTBLc1lkY1NTYmdwX00wOE9kaEtxVk5RRWNoenBocEJad25RWVRKNW5COGhfbUFmQnN4WFBfQS1YQmNiRERHMmdWWjlIZ19yanMtZldQUm83azdnQQ?oc=5",
       "published": "2026-09-07T03:09:45.000Z",
+      "feed": "injurylaw"
+    },
+    {
+      "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
+      "source": "Haute Living",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
+      "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
     }
   ]
