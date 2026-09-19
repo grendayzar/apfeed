@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T17:29:29.052Z",
+  "generated": "2026-09-19T17:48:54.169Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -57,6 +57,13 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0ZuSXRHUVhIdlNNZEtyMEZiTDUwMFVTOWNKUlFMUUd5QllsWm1sM0ZNRGszRmVnUGQzVWdjZHJTR05JZ3lJRmtLVkxEOF85TVpkRWRhcTl4Q1BwaDJwRUJpMktiY3lGdDRnMTU1aW9lOS0wNnpMZUI4RXpRZFZHMDRjT1czaV9meGhSbDBwUWpBbWFROE82SDhESEJacFV5cG9oTW8xanVfSGdLeUdKR0VB0gHGAUFVX3lxTE9iV2xTWEd6Q01ZSU1OX3NkWllIazdia2Iyc241ZU1mcWFZUjBfY0tNWDJPakdpQmxEYUdaV0dZSjZ3eERGbjllV1lLR3hYT0ZxMWJVbGVNV2ZDZzJJNjIwS1JqeEJKUG1RS2tXR2ZHcTl3YW54TUQ2b0V5R2h5ek5Hek13dGJXdTQ3a1hMdGdKZ0pqRHBnX1dSci1RcllQSTRpWGhHUVBJOV80THlIVXBNbkhNTGRUbHV2Y0FHR1lfc1ZJWG15dw?oc=5",
       "published": "2026-09-17T12:34:49.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "U.S. road safety agency targets Tesla Cybercab, seeks basis for selling no-steering-wheel, no-pedal vehicle",
+      "source": "디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnNtQVZPWmtIVlYzVnVMQUdwNDA3bkU0ZGpxeXhsMGRtQ2xyNjRGNm5BOUM4a0M2SHRwQVZRNE9VbVBhUXMxZDZUTGhjOG9UZE1uWlQ2a2cyZjlhYzZ5TGsyX1NBUkRmbUxRSGo4dkxuMFNTcDJUc3YxX0pYSUpOUWZLYUNVSzdBQjJ1aW9WS2dHaUh3cDhQb0I2VG9hMDNseEF3NGt0Z1NqZGRtSWkyNW5xWnRzS0JWODdTcURueG5Yczd5UnpzckVuMGcxS2NKZlBVNzBMZUU2UU9qNXJnbEtpbmo?oc=5",
+      "published": "2026-09-16T01:26:28.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
@@ -129,13 +136,6 @@
       "feed": "us-safety"
     },
     {
-      "title": "DUI prevention technology",
-      "source": "Post and Courier",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
-      "published": "2026-09-09T10:45:00.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
@@ -151,7 +151,7 @@
     },
     {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
