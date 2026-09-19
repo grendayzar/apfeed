@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T04:33:13.661Z",
+  "generated": "2026-09-19T04:49:48.402Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,17 +10,24 @@
   "count": 22,
   "items": [
     {
-      "title": "I-285 to close again this weekend as construction project continues",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS011dFNtMTY4cVNtTjlfUzJ5bWpXRlU0QUI4dWNLV2lja2wtZGl2c21RUk81OFM1dTVLdVFKNzI0cDF6YXlWWVdvQWE0M0dxUmdZdHctbmU0MUh2ZU1SN2lBNi0tT1B1QTRTRmtSR1VzUEtVQldiQVlMN2JWbThvS0ZzQ2NkcjBMZGxiMU9KcFJKbFlpRzl5Wldodw?oc=5",
-      "published": "2026-09-18T17:54:00.000Z",
-      "feed": "ga-metro"
+      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
+      "source": "Kitsap Sun",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdXB6WUlDbnlFZkpBZlZqdGlLRWI4NmRWVzFxaU9CWTktTnNYSGV3ZGZ0cmozazl6MTlUMzRHUkdjcWppRWJvcDJoYjZBSlYxYUxuZlNXbFdKRGJCWGx4dDlMMklGaGlsWlVaaUwwOXdkSFpmd1pBQXc1TnFuYjFaQWVYVV9QUTFIbS01aUtNWXA4ay1HdFVmalVmVVFWVmdwcEJmZURhYnVGaDZCUlBSaEhDckZadmFYRnZ2NkV6YksxS2M?oc=5",
+      "published": "2026-09-19T01:19:36.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "I-285 set to full close again this weekend in southwest Atlanta",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQllvZXpGWjBHUjExaUJPWk9jc0Q5U0FkLTQ0SE03MGZJTHVtLTIxcW10NTR6RzNvWnM5bVZENngyYTFBd1hfUmJ4MHlQalFBZDNJQnl0U1N4dzg0SEFkOHM0OUtpUnRVVVVEemR6ckl4Y1VEaXBHZktrM0NaVUhyLUNNWkZucW8zMHRfLUJGYkFkUkpoLW9kOWZLR0dxSC1lYThjUW9ySXFLeS0tcENIWS1QUW42NktUNjJ6NExqdkM0RjhqejR2cDlfeGg?oc=5",
       "published": "2026-09-18T11:25:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
+      "title": "Multiple traffic red alerts on I-85, I-285 to start Friday commute",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QdIBwgFBVV95cUxPUFRlZWZBbEtqTEV6OGpSQkF0RFUyWDRkb3FGTDRMWFpUQzM1UnpkUUhRQjlsaHY4dmlSRVVZTnhwMTdrSXhySnJNdzFuTEVhYkFGY1hrWGZkVHg4NGF3TWhueWN2Y192Z3ZmSVh3eVB3eVAyd3VicjljT3ZmOWQ4aWxTNURLZ2VDazQwNTZBUWlMdHpkek1yOE1OTkstXzJ4ZTlVX3NzSUJzOGRUWUpTeUVKTUcxNXJkRm5FOEQyeEQ2QQ?oc=5",
+      "published": "2026-09-18T08:21:51.000Z",
       "feed": "ga-metro"
     },
     {
@@ -49,20 +56,6 @@
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxlcDNTLWJzcWtKNG85ZVhYODhweEVkSUt2WEpmMFVIbUQ2bUQ2aEZaZ05UWkx5NElmNk1CR1dhLWhySDR2LTR5Nlc5Uk5TTUtoa3gtbl9YVFk4MW1tSllsWkpPQWJTbktGWVFFNTg4cUZBRnpranp2am9rUmJULUtBaTEtV3I2MmRmbmZCVmx4MDFE?oc=5",
       "published": "2026-09-17T11:28:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "U.S. road safety agency targets Tesla Cybercab, seeks basis for selling no-steering-wheel, no-pedal vehicle",
-      "source": "디지털투데이",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYnNtQVZPWmtIVlYzVnVMQUdwNDA3bkU0ZGpxeXhsMGRtQ2xyNjRGNm5BOUM4a0M2SHRwQVZRNE9VbVBhUXMxZDZUTGhjOG9UZE1uWlQ2a2cyZjlhYzZ5TGsyX1NBUkRmbUxRSGo4dkxuMFNTcDJUc3YxX0pYSUpOUWZLYUNVSzdBQjJ1aW9WS2dHaUh3cDhQb0I2VG9hMDNseEF3NGt0Z1NqZGRtSWkyNW5xWnRzS0JWODdTcURueG5Yczd5UnpzckVuMGcxS2NKZlBVNzBMZUU2UU9qNXJnbEtpbmo?oc=5",
-      "published": "2026-09-16T01:26:28.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
-      "source": "WRAL",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
-      "published": "2026-09-15T22:20:21.000Z",
       "feed": "ga-roads"
     },
     {
@@ -108,6 +101,13 @@
       "feed": "recalls"
     },
     {
+      "title": "Woman killed following crash in southwest Atlanta, police say",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
+      "published": "2026-09-13T16:01:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Toyota recalls over 8,000 vehicles. See affected model",
       "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
@@ -116,7 +116,7 @@
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "cbsaustin.com",
+      "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
