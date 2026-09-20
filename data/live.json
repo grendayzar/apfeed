@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T02:50:34.470Z",
+  "generated": "2026-09-20T03:16:55.515Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
+      "source": "WAFF",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUdqRUpGSTBfMTRSQnNpd1VZVG1EdTc0eVJMSHJpaHpVLXpodmxoWmZEYi1sYUdnclFWQUwzYkpRMGVVY3dLRF9uMzN6ZW9DQUl1c3RhVHM4OHhPX2NibkdhaWh1M2R2RWNjYVRtWFl2VXprZWpTSThhSXp2anpMY1l1WGQ1Mk5HcG15ZEF1UVBWa3fSAacBQVVfeXFMUHViVFN0aDBKb0NDYmc3YnBQX3pmbXY0Tk5sWVJ5eElOenlsZzhpUkhDRFF5SWtWOVJON3RIVUwybnBQUHA4M1FKbWJGOXlTVlIyU0ZTbEVWRXFwVlRCVGVhdkdHUFhheXdIWDgtbkFzQWdNN1RRWlhnclltN2tDNHVCTzl3V2ZlUUlDRkpXanU4bHo4c3lvQmtCNWd0SElnajlzZnNsT1k?oc=5",
+      "published": "2026-09-19T17:03:00.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
       "source": "Time Magazine",
@@ -52,10 +59,17 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
-      "source": "WRAL",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
-      "published": "2026-09-15T22:20:21.000Z",
+      "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
+      "source": "WGXA",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
+      "published": "2026-09-17T13:22:24.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Funeral arrangements announced for 24-year-old Atlanta police recruit killed in motorcycle crash",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnVNU0phRkh2dmdwWjVvYVR1bDZJNTZqWVBnMEhHUXF0UTFvQVRIdHJXVWNJdHJ4Vk5mU2ZnUFlQQU9oZWI5bVRiLXFiMXJaYUdhb0hpYS1rOEVtazNIcTN2SXlOUy1rcDhNMGVxNVlGT3V1eE9BaVNHYzZMbXJQTDFsM2I1ZkpTTTNGUHRrdGpaSW44ZmxVNzd6UHFuWVlLQ2FPYi1uaEg4alBQX1V0NVVhUXE5N1EtWnpSalFjMWIxUmd1ZlpoWExwZ0swdlk?oc=5",
+      "published": "2026-09-16T15:19:30.000Z",
       "feed": "ga-roads"
     },
     {
@@ -64,20 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Police in Georgia say MARTA bus driver fell asleep, crossed lanes and crashed, injuring passengers",
-      "source": "WJCL",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWx2bXg2TTYxZ1JYcHA5cElMTUJ6dkJNeFZPZ1lpVnRwaGFVay1KMnFFOHNZN3JWVXkyWV93UkdsdjVFRFdxdXVkR2pTZkZJYl80aTE4VVMwZ2xQNFVuRk1GWktOQ2hubjdBWTYtRDk2MGJMNHFjT2w2dzFWR3FwS0Vn?oc=5",
-      "published": "2026-09-15T11:47:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "MARTA bus driver accused of falling asleep at the wheel before crashing into tree, police say",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjMtcXFIdjFDVEhock5KYTAyQ01CY05GcXVCNGhES2VNaWJuTDlTQ2JEeHF5MHNXeWU3bXUwUDRoR2s0OTlUVjg2MG5pQVlwblZzS1hCLU1hdGRwNFFJdFUyYk9WcjVTc2ZqaHpNTTBkN2dNNDJ2dXFGWkZtTm05NGdkUUJ4TGpkTF91US0xcC1OdkZqbV9BSnpIQWdHT3N4NGxZRkFlYU41bWxfS2R6MGpRSEhadmtfbkIxdjZtVVJtMzlxUmlQdHZR?oc=5",
-      "published": "2026-09-14T22:20:20.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
@@ -130,7 +130,7 @@
     },
     {
       "title": "DUI prevention technology",
-      "source": "Post and Courier",
+      "source": "postandcourier.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "us-safety"
@@ -151,7 +151,7 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "The Courier-Journal",
+      "source": "courier-journal.com",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
       "published": "2026-09-07T11:01:55.000Z",
       "feed": "injurylaw"
