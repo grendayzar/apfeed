@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T05:32:28.547Z",
+  "generated": "2026-09-20T05:49:40.289Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -53,7 +53,7 @@
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-roads"
@@ -109,7 +109,7 @@
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "cbsaustin.com",
+      "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
@@ -120,13 +120,6 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUzZlMUVwTWh5UzhjaFFmVnJKeS14bEp6ZkJXSWFNN2luNW0zLXpjOGFhaEYzc09BWF9vdEM0VFd0N0pQSDNob1NDUnNyMWtOZWJ3cFdSbmhWOHlEX0puX1A2R2pYQzI5eFAxV21jZzZTTktKS0lCWXl4R2ZuUVNGZHY0bjQ4bWlzNkp2OG5DQllQaEpKeG9MeW1ZalRpYVV0RmhwTkF1eUxObTNpTUxHYXByWHptSjk0V25TQnlYSDQwemk2V3E2cDA5RWhJcmkxa1RmallvU3JCaVRnVG5DODNFMWxXSGs?oc=5",
       "published": "2026-09-11T14:00:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
-      "source": "law360.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1FqUnRsMUNYNm96YmZxNkR5WEo1MzVwdkVzSE9YeWdMMWF1UGdtY19CUlZCLXlWd1lVZlBVdnFISi00S3lxUGtIeTd0d1hoYWNVWHNUcWVvdlB4eElLSmFpYnN4SmQ4akFoXzNpZWpKYVlHTk13dThZOFN6ZTZuUXh1ajBlUVlkYUJaaThjNlVvTlpTRkdPZWJiaTFJazUtX29PZm9VamNwTWptTVQwOXdiVUJsRmpoNlRv0gFWQVVfeXFMT240SS00SmxRTXlQWTlNVlowOXg3QWIxMkc5TGUzMlVrU2g1QmF3OG9sam1sVVpHY0tINWEtU2Y3eFI3UzhmWkZlLTBraThaRUVwY1JfeFE?oc=5",
-      "published": "2026-09-10T23:46:00.000Z",
-      "feed": "injurylaw"
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
@@ -158,9 +151,16 @@
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "Reno Gazette Journal",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONUo1Z1lDX05qSmhXMjk0a0ljanRzMnlPWWdVeDZad0tlYktUOFVLb28tenFFSWhULW9tRGMwd0pKejhlWlJqcUhNdmo2U0NGSXdZaHZsOXZYMFBYWmZpd1RUZ29ydnpwbjU5UWlIQmpSdXpSY0psd0RMVzdtNXpPNkJkTUpieWtacURIQmpaWFdUbVNmQXg2cWRqZm1YRTB4OVhKaVFYZGRrUTZhMktnX29hQ21hN3dpRTVabl8xc25kM3ZJM3NfNnhBdUxMN3NfQ0s1WnQ0aXFaYlFMUG50Mkhtd2U?oc=5",
-      "published": "2026-09-07T06:46:18.000Z",
+      "source": "The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
+      "published": "2026-09-07T11:01:55.000Z",
+      "feed": "injurylaw"
+    },
+    {
+      "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
+      "source": "Haute Living",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
+      "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
     }
   ]
