@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T18:18:05.358Z",
+  "generated": "2026-09-20T18:36:06.056Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -46,7 +46,7 @@
     },
     {
       "title": "I-85 crash between car and tractor-trailer injures woman, breaks concrete divider",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjJJZzF2VzN2bWtkYUNRakhoQVJ2TzBfRGp4LVJaaC1JQjZRdDFMS3V4TWJqT0p4a1A5ZUZERDlaMWNNbkVsdUh4TzdUNkdNTFZ2NmlwNG54UUd5U3JLSG5PSF80QjhnOV82NGVER0xHMlFGLXp1QnNka0h2YUxHREFfNWZUMDE4bjhLX3BHb0FEeDBfMWlRb1VzaHMtX2FseWhmZnI4WWwxV29qZW54TDMzNUdVTXlMYmlEUXJR0gHSAUFVX3lxTFBuZU9Yd29zRGtPODhiZlhGU3VxQThuMk14RjhobjBVZVU5eUduTzhQQ3JNREp1eGhaSG1jSDhZNDdUeFo2RnBDWDEtck51NktXcFRHbU9nRE9Oc21nUDFKTGRXTmhsWVZwNTY0Q2RHU3pSd1F2cE9pVUZKeXV3VjB1amJZdmZlYkFFdzF1VlU5cG5rNjdUb3o4RGk2c0ZnV2FoUFJ5VlRwR3hPN0NYNkc2SHFVYU9nOWVaSFBNTUVqd2FwOExlNHNZZEhydXFxUjk2dw?oc=5",
       "published": "2026-09-18T12:18:00.000Z",
       "feed": "ga-roads"
@@ -74,21 +74,14 @@
     },
     {
       "title": "MARTA bus involved in accident near I-20, Atlanta police say",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
       "published": "2026-09-17T02:54:00.000Z",
       "feed": "ga-metro"
     },
     {
-      "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "WCTV",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
-      "published": "2026-09-17T01:48:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Funeral arrangements announced for 24-year-old Atlanta police recruit killed in motorcycle crash",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnVNU0phRkh2dmdwWjVvYVR1bDZJNTZqWVBnMEhHUXF0UTFvQVRIdHJXVWNJdHJ4Vk5mU2ZnUFlQQU9oZWI5bVRiLXFiMXJaYUdhb0hpYS1rOEVtazNIcTN2SXlOUy1rcDhNMGVxNVlGT3V1eE9BaVNHYzZMbXJQTDFsM2I1ZkpTTTNGUHRrdGpaSW44ZmxVNzd6UHFuWVlLQ2FPYi1uaEg4alBQX1V0NVVhUXE5N1EtWnpSalFjMWIxUmd1ZlpoWExwZ0swdlk?oc=5",
       "published": "2026-09-16T15:19:30.000Z",
       "feed": "ga-roads"
@@ -102,10 +95,17 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "Woman identified in deadly crash on East Jackson Street in Thomas County",
+      "source": "WCTV",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSzBNSl9MaldrZlgxSEdaQ0RQX2M0TEZqRkhrLWFCWmZ3MVRJU01XV2luNDdnYUNMV0s1QkJDanZQamZ6UlZfY09UUmZTbUd0cndhRWNiSDdPT05sX0ZoTVhOVzRwb2JYRjVaRTBtYkRPZi1udWJNOGxwdktZcU8wWVVwV1k3S3MtOW1NWWxLRktzc2U2em5oOFVPUdIBrwFBVV95cUxPek1lQnlRN1VWOXN1cUZtdWVNLU4xY2FldVJGb1QzbEczU1hDbmI0ck4xQmFwZ2lHeEJjNi1mOW5rcU5KWXNhYmtJNjQxRU9ibzNsZEdFa0tnZDB5QnU3NXZpN0JRUW1BUFBFOHRZcUh4a3J3S1hWbFBjNHhMeWtnX042SmpqWExpZHlIRE9uVkplOGhGZ0h4M2VVREpwc2JCRmI3ZFk5Y1pzMmFzN3BN?oc=5",
+      "published": "2026-09-14T19:48:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
