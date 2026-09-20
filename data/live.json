@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T11:14:48.679Z",
+  "generated": "2026-09-20T11:31:09.564Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Man dies in hit-and-run crash on interstate",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
-      "source": "WGXA",
+      "source": "wgxa.tv",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
       "published": "2026-09-17T13:22:24.000Z",
       "feed": "ga-roads"
@@ -71,13 +71,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
       "published": "2026-09-17T02:54:00.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "WCTV",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
-      "published": "2026-09-17T01:48:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Funeral arrangements announced for 24-year-old Atlanta police recruit killed in motorcycle crash",
@@ -123,17 +116,10 @@
     },
     {
       "title": "National Safety Council Announces NHTSA-Funded 2026 Road to Zero Community Traffic Safety Grants",
-      "source": "PR Newswire",
+      "source": "prnewswire.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUzZlMUVwTWh5UzhjaFFmVnJKeS14bEp6ZkJXSWFNN2luNW0zLXpjOGFhaEYzc09BWF9vdEM0VFd0N0pQSDNob1NDUnNyMWtOZWJ3cFdSbmhWOHlEX0puX1A2R2pYQzI5eFAxV21jZzZTTktKS0lCWXl4R2ZuUVNGZHY0bjQ4bWlzNkp2OG5DQllQaEpKeG9MeW1ZalRpYVV0RmhwTkF1eUxObTNpTUxHYXByWHptSjk0V25TQnlYSDQwemk2V3E2cDA5RWhJcmkxa1RmallvU3JCaVRnVG5DODNFMWxXSGs?oc=5",
       "published": "2026-09-11T14:00:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "TransX, Georgia Driver End Personal Injury Suit Over Crash",
-      "source": "Law360",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1FqUnRsMUNYNm96YmZxNkR5WEo1MzVwdkVzSE9YeWdMMWF1UGdtY19CUlZCLXlWd1lVZlBVdnFISi00S3lxUGtIeTd0d1hoYWNVWHNUcWVvdlB4eElLSmFpYnN4SmQ4akFoXzNpZWpKYVlHTk13dThZOFN6ZTZuUXh1ajBlUVlkYUJaaThjNlVvTlpTRkdPZWJiaTFJazUtX29PZm9VamNwTWptTVQwOXdiVUJsRmpoNlRv0gFWQVVfeXFMT240SS00SmxRTXlQWTlNVlowOXg3QWIxMkc5TGUzMlVrU2g1QmF3OG9sam1sVVpHY0tINWEtU2Y3eFI3UzhmWkZlLTBraThaRUVwY1JfeFE?oc=5",
-      "published": "2026-09-10T23:46:00.000Z",
-      "feed": "injurylaw"
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
@@ -144,7 +130,7 @@
     },
     {
       "title": "DUI prevention technology",
-      "source": "postandcourier.com",
+      "source": "Post and Courier",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "us-safety"
@@ -162,6 +148,13 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
+      "source": "The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
+      "published": "2026-09-07T11:01:55.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
