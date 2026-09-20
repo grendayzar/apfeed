@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T12:52:30.649Z",
+  "generated": "2026-09-20T13:15:37.015Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,14 +25,14 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "Time Magazine",
+      "source": "time.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Democrat and Chronicle",
+      "source": "democratandchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
       "published": "2026-09-19T02:48:05.000Z",
       "feed": "us-safety"
@@ -80,15 +80,22 @@
       "feed": "ga-metro"
     },
     {
+      "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
+      "source": "wctv.tv",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
+      "published": "2026-09-17T01:48:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Funeral arrangements announced for 24-year-old Atlanta police recruit killed in motorcycle crash",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnVNU0phRkh2dmdwWjVvYVR1bDZJNTZqWVBnMEhHUXF0UTFvQVRIdHJXVWNJdHJ4Vk5mU2ZnUFlQQU9oZWI5bVRiLXFiMXJaYUdhb0hpYS1rOEVtazNIcTN2SXlOUy1rcDhNMGVxNVlGT3V1eE9BaVNHYzZMbXJQTDFsM2I1ZkpTTTNGUHRrdGpaSW44ZmxVNzd6UHFuWVlLQ2FPYi1uaEg4alBQX1V0NVVhUXE5N1EtWnpSalFjMWIxUmd1ZlpoWExwZ0swdlk?oc=5",
       "published": "2026-09-16T15:19:30.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
@@ -108,13 +115,6 @@
       "feed": "recalls"
     },
     {
-      "title": "Agricultural airplane crash in Brooks County",
-      "source": "WALB",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjlIMlQzVHdwSFNQdGJlMEdKUkdlbVlwU0YwcXdWYm5PYmhERHRtTHJQQklCTXI4eUVGbGJabDA0REFOOTRTTzByN2p6Q05YZ3dhQmVjb1VXTnVGbTRubzk4ME01WWVqeUllajgxRFVoeU1JaVJmU2xPdE50RmtObVM3b19hd3VfbGRBdnZyeFczMXZBMXdnZmZJNU1XWnVD0gG0AUFVX3lxTE9haXV4RlpzV2tSdUlzUTQxQy1TTUNKODdRSlJqcF8zZndnVEhVNUNWVW1xX0dlN0NyQ0c1YlRjOTRCRHpNSkp5bnMtTzkwb05tcGJiZ0N0amI5SURuMy15cTRBLWVVYkd0MkFXYS1tUHNEaUtDc1ltZ1hGN3ZVNFZhTUR2WElVNXFNVG9FX3RBWXZyQS1lYlFkeHJMb3BUclhGaXdRNi1vekt1QzFVdTZpQ3Y4bQ?oc=5",
-      "published": "2026-09-13T19:05:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
       "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Stellantis to recall over 200,000 Jeep vehicles in US over tire-pressure monitor issue",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "recalls"
