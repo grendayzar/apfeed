@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T09:15:58.824Z",
+  "generated": "2026-09-20T09:32:23.006Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
@@ -59,6 +59,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
+      "source": "WGXA",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
+      "published": "2026-09-17T13:22:24.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "MARTA bus involved in accident near I-20, Atlanta police say",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
@@ -87,25 +94,11 @@
       "feed": "injurylaw"
     },
     {
-      "title": "Video shows MARTA bus driver fall asleep, crash into tree with passengers aboard in Dunwoody, Goergia",
-      "source": "ABC7 New York",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2x3cjRwTXhQVEJjSUltWkdEenpYTndKWHZVY0pTZVc3bHA0dGJMNkRSZVNuZ0Y5YlhDMFk1SmI5T3RUalJfeG5OeWt4eGRiNV9TdGJ1WG5MUy1UMXhxMVNKRFY2cDhCcFRkVk42TzZEaGFzb1g5OGxtSU9teXlMcGRyNTMzbUduUzBPTHctQ0Q4elR5cVRHUi1kZGlsNEN3VDlvcHRUZDFfR0pFNlZiaGlfUDlualhfU0hsSA?oc=5",
-      "published": "2026-09-15T19:21:51.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
       "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "WATCH: MARTA bus driver appears to fall asleep before DeKalb County crash",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkR4OG1XMGtMS1BsWUZrSWR0M1JYc2ZJVjJQdjhKdHhkeWNuVlh6OEh4MlNmWG42Qmp3RVB2Q1A5eThicUZFZTdZUjdlYzU4M09ScGN4cVZVUG5kMF9YY05XbmZMbnJlcGxyTmM5dFg1TU5nOExNVk1GUW9BUmxHbHNWWWNHZ0NMdVQ2R3hnMzRqNnB2cXJqRXY4RzZ2UDdvcE42dEFuM3pWdEhXbVlhTUwwOXLSAcgBQVVfeXFMT2pkOE9RbGgzLVctdjBCTkg4WDFPNGVyUWF3LWhRQkJXdm00OXhUVDZsWF9IbHhsNlhmcDN1OVRydVRIV0thYkc1eGJndXJUZE52bWpvU01HUlJ2TEhuMXI0MHhWTGJIQXpwLXF5eW55R0ZvZ3g3S2R4OG12N2kyWTdWOFlxcnhTRFpLeHdpd1RycWp2cEZkMmhWaXUxMTFPTjZFNW9Xa1NYY1czNkVSOGljMHNsYUJBR2JCLW44TWd1VVgyZk5ZUFM?oc=5",
-      "published": "2026-09-14T21:15:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
