@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T01:50:09.824Z",
+  "generated": "2026-09-20T02:16:41.302Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -52,6 +52,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Caught on cam: Video shows Atlanta bus driver fall asleep, crash into tree",
+      "source": "WRAL",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaTZzVUl3Ti1oN25DUVFvMjM0ekM2T0VNNnA0bkZic1FaOFFOdGdpTHlxMzdNeGpHbzJrXzRJOWFFUVRaMzNEbWFDVFE1N2VjQ3E4bkxuU25SczBRVHNBLXl4Q1dVcjYzeXdEWjZrT0ZvcW5WV0hxSTVPempxdFdJUGg0dnRYYVZTdU9Va2E4d283enpFLUhMN1NqYVJWcDRDWi1CcjRpdw?oc=5",
+      "published": "2026-09-15T22:20:21.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
       "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
@@ -98,13 +105,6 @@
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQlVNbU5fczNwbUhmVlQ3enZJbWtZSUMyMjEwVUZ6b1JLTTlKaEpOajRwZzVfcEdlcW96Q2s3YzR6YzZCRXdPVU56S3NhOWxNSTZ2Ry1sLU1PNGxOdVhNQnhuZl9nUEtmZHhhdW9wNlQ3M1pKampfMmlEbEV4Y1FDa2dqODllN2t6Sk1PVDlNSE1JU21MbGdwNWdLQm5tNms3ZzlkN1BaZHNhd0JLU3huTk1mMjBRajRaVEgxdXRoUzNCaXhqUFNFSDBQR2d3SUZXaEVJRkdmVWVsUdIB7gFBVV95cUxQdFNnTHkyYUFmWTlHVVAzSjNpc1hfZy12b0xvcHh2eDk0SmM4OUQ2eTVzRDFxcjV3U1VoenpoMkdVdzBZQ1A5TWM3S09Db00tQk9pcFJTRzNZVXpVWUl0c3h0TGVwN1d4S0FacGxvR25FTGNOTDI0VmxSaHNaT01WOHZXU2lPdGJXNGtTVEdrOGJMWW5vcjhzb0NzUGUzZGhVMHBuaG0zZGZoNGFQSm95cFNya3ZTTzY0dC1KZGhqWXFnWnpUV08yMlF3eU9YcTVVUmxGZjY5dzVkNVFLdmtFNmlFeGhNdldaZWZuWmRR?oc=5",
       "published": "2026-09-14T17:42:49.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Woman killed following crash in southwest Atlanta, police say",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
-      "published": "2026-09-13T16:01:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "hauteliving.com",
+      "source": "Haute Living",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
       "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
