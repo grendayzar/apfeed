@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-19T23:48:37.745Z",
+  "generated": "2026-09-20T00:24:29.929Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "democratandchronicle.com",
+      "source": "Democrat and Chronicle",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
       "published": "2026-09-19T02:48:05.000Z",
       "feed": "us-safety"
@@ -52,13 +52,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Georgia 13-year-old killed in electric dirt bike crash",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY0ZuSXRHUVhIdlNNZEtyMEZiTDUwMFVTOWNKUlFMUUd5QllsWm1sM0ZNRGszRmVnUGQzVWdjZHJTR05JZ3lJRmtLVkxEOF85TVpkRWRhcTl4Q1BwaDJwRUJpMktiY3lGdDRnMTU1aW9lOS0wNnpMZUI4RXpRZFZHMDRjT1czaV9meGhSbDBwUWpBbWFROE82SDhESEJacFV5cG9oTW8xanVfSGdLeUdKR0VB0gHGAUFVX3lxTE9iV2xTWEd6Q01ZSU1OX3NkWllIazdia2Iyc241ZU1mcWFZUjBfY0tNWDJPakdpQmxEYUdaV0dZSjZ3eERGbjllV1lLR3hYT0ZxMWJVbGVNV2ZDZzJJNjIwS1JqeEJKUG1RS2tXR2ZHcTl3YW54TUQ2b0V5R2h5ek5Hek13dGJXdTQ3a1hMdGdKZ0pqRHBnX1dSci1RcllQSTRpWGhHUVBJOV80THlIVXBNbkhNTGRUbHV2Y0FHR1lfc1ZJWG15dw?oc=5",
-      "published": "2026-09-17T12:34:49.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Troopers: 2 road workers killed on I-95 in Richmond Hill",
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORkxlcDNTLWJzcWtKNG85ZVhYODhweEVkSUt2WEpmMFVIbUQ2bUQ2aEZaZ05UWkx5NElmNk1CR1dhLWhySDR2LTR5Nlc5Uk5TTUtoa3gtbl9YVFk4MW1tSllsWkpPQWJTbktGWVFFNTg4cUZBRnpranp2am9rUmJULUtBaTEtV3I2MmRmbmZCVmx4MDFE?oc=5",
@@ -74,7 +67,7 @@
     },
     {
       "title": "MARTA bus driver accused of falling asleep at the wheel before crashing into tree, police say",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjMtcXFIdjFDVEhock5KYTAyQ01CY05GcXVCNGhES2VNaWJuTDlTQ2JEeHF5MHNXeWU3bXUwUDRoR2s0OTlUVjg2MG5pQVlwblZzS1hCLU1hdGRwNFFJdFUyYk9WcjVTc2ZqaHpNTTBkN2dNNDJ2dXFGWkZtTm05NGdkUUJ4TGpkTF91US0xcC1OdkZqbV9BSnpIQWdHT3N4NGxZRkFlYU41bWxfS2R6MGpRSEhadmtfbkIxdjZtVVJtMzlxUmlQdHZR?oc=5",
       "published": "2026-09-14T22:20:20.000Z",
       "feed": "ga-roads"
@@ -101,6 +94,13 @@
       "feed": "recalls"
     },
     {
+      "title": "Woman killed after vehicle flips multiple times in DeKalb County crash",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQlVNbU5fczNwbUhmVlQ3enZJbWtZSUMyMjEwVUZ6b1JLTTlKaEpOajRwZzVfcEdlcW96Q2s3YzR6YzZCRXdPVU56S3NhOWxNSTZ2Ry1sLU1PNGxOdVhNQnhuZl9nUEtmZHhhdW9wNlQ3M1pKampfMmlEbEV4Y1FDa2dqODllN2t6Sk1PVDlNSE1JU21MbGdwNWdLQm5tNms3ZzlkN1BaZHNhd0JLU3huTk1mMjBRajRaVEgxdXRoUzNCaXhqUFNFSDBQR2d3SUZXaEVJRkdmVWVsUdIB7gFBVV95cUxQdFNnTHkyYUFmWTlHVVAzSjNpc1hfZy12b0xvcHh2eDk0SmM4OUQ2eTVzRDFxcjV3U1VoenpoMkdVdzBZQ1A5TWM3S09Db00tQk9pcFJTRzNZVXpVWUl0c3h0TGVwN1d4S0FacGxvR25FTGNOTDI0VmxSaHNaT01WOHZXU2lPdGJXNGtTVEdrOGJMWW5vcjhzb0NzUGUzZGhVMHBuaG0zZGZoNGFQSm95cFNya3ZTTzY0dC1KZGhqWXFnWnpUV08yMlF3eU9YcTVVUmxGZjY5dzVkNVFLdmtFNmlFeGhNdldaZWZuWmRR?oc=5",
+      "published": "2026-09-14T17:42:49.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Woman killed following crash in southwest Atlanta, police say",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQTNjczNJWHdHSzQwVFhpeV81VGgtVUZER2dWNE5qYWhjbXNTLWt4MzVoU2QtT2dRM0ZTN1V4UEZPbTEtMlVaR05XYU5YRkpaMGtPNVpxdjN1QWN4dEwwSTNjVTl0WTBkaG5Zd21KSXJtNDRKU00wanFIWFN6Q1QtOHpFVXBlamNjOTBKNjMteHRVUkh4YXBtRnJkYWw5aG95U21GOUVzVDFtMjRUNmk3TlN6M3R3T0VhOS1XNTdOZWVEUXpKd0RuMERwd2pYcmY5SmdOeUF0MA?oc=5",
@@ -109,7 +109,7 @@
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "KEYE",
+      "source": "cbsaustin.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
@@ -144,21 +144,21 @@
     },
     {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUnU3N2hUV09RNjBYaFNXV1JncE9NNThuNXdSczQ3OS1CMzVBZnBsVnNLYUwzekZMR3lVN3ZidTJKR1RraFJiOW56WmV0akZyN2o5UXhHU2czcWZ1RUV6T1hMYVlxSjh2T01ma0F3bnRoX1AxaXZPRXlaSVV5MGZuNHV5eGc3cVpzcVcxUXlyZ010Z3Vud2lPdFZPMkpEcnBkby02dWZkMzVyTFJOOXlkYm40YXFnb3d3a3pVeDdn?oc=5",
       "published": "2026-09-08T07:00:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
-      "published": "2026-09-07T11:01:55.000Z",
+      "source": "veronapress.com",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQbkJ0bVgzYWdzVURSeXBoRFBVbDhWc240QThnbzlKYnl0LXoxaW43RDlwUWJyVUpYajJmXzdFZWt2eE9wU1VrXzhxZ01lVnlMWEVzcjkwRUNWNmdQVGI4UmZCLWE1M1pZVWNPY0hIMldRcEVrVUJOY3o4WlJidDFsSkZMLXMwckQtZ1ZlNFAtNEtaNWxFektMT20zOVlDVExSU3VGemF3RUU2YWljS0l3WmdsVTBLQUhKS0ZMRm5NN19aX012TkZpMVFoeDB2Z1VEa0JBTjU2WmgwSm5yTkd6MmFkZkc2MVN0ZHQxX1U1a2txeUpERW4xU29UX0loSlhXVEVFYU9lRzV6aHh4WHk4djZwNDU0TjFiaTBpcmUtRTFER1RVZzNfMXZ1aGFPMmM?oc=5",
+      "published": "2026-09-07T03:09:45.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Jonathan Hayes: Atlanta Catastrophic Injury & Trucking Lawy…",
-      "source": "Haute Living",
+      "source": "hauteliving.com",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcUpZanRVdnhiaWpnS09wa0lWQXRuWmtBbk1kSVByRm40dU54ZU9EbVJ2dGk1bFRTOV96bXhTS0pmWFhhY2dnZmszc3gtUDZVTHJkejhzcjl1TG16MHZPOFVQSXc1end3YnhwZXhNVjlZSnBKemlqaHUyVDEzZy1NNldWZWNRUzdDcnpHdnF6MXppVW14UnFrSWw1SHNwYlN0NkJrLS05R2NrRkpiaWxEZQ?oc=5",
       "published": "2026-09-01T05:35:13.000Z",
       "feed": "injurylaw"
