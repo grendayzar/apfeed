@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T09:32:23.006Z",
+  "generated": "2026-09-20T09:49:09.802Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
@@ -18,14 +18,14 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "Time Magazine",
+      "source": "time.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Democrat and Chronicle",
+      "source": "democratandchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
       "published": "2026-09-19T02:48:05.000Z",
       "feed": "us-safety"
@@ -92,6 +92,13 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "Video shows MARTA bus driver fall asleep, crash into tree with passengers aboard in Dunwoody, Goergia",
+      "source": "ABC7 New York",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2x3cjRwTXhQVEJjSUltWkdEenpYTndKWHZVY0pTZVc3bHA0dGJMNkRSZVNuZ0Y5YlhDMFk1SmI5T3RUalJfeG5OeWt4eGRiNV9TdGJ1WG5MUy1UMXhxMVNKRFY2cDhCcFRkVk42TzZEaGFzb1g5OGxtSU9teXlMcGRyNTMzbUduUzBPTHctQ0Q4elR5cVRHUi1kZGlsNEN3VDlvcHRUZDFfR0pFNlZiaGlfUDlualhfU0hsSA?oc=5",
+      "published": "2026-09-15T19:21:51.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
