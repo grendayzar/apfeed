@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T10:49:23.819Z",
+  "generated": "2026-09-20T11:14:48.679Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Man dies in hit-and-run crash on interstate",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWpuSmFVNndTcGlyVTVjLVFwVk8weko3eWd0ZjdPZUFCMExxSkNzdlVtRmpBUWpUcnVJa0hqR1cxNnFPYkRYS1BjU1FPcXlQZmVlUjEzU0NpUTVxa1E2dTdLREc0UEo3anNTZExKUTUzUk5xdjE3VTlwVkhoaFFwallGTHY3aWNya0Naa29NNEtTNlhISUFtQVM3MjA5Zk1XZEFHdlB0UE9SUdIBvgFBVV95cUxOeG9QbTFBTnZrVlhmYW9vSEhubldBTWdGZG5pd3BJQzNGX3RoeEx0WWlsT29ReGEtS1dsYnN1ZXBBbVNPM1NlZnVLWV92dUVHeUdwRzBuby1vTUp6UmlhS05LWVFyZUZXWnhvX3Z2QTFESXZ5Um1EbVRYTmNkRlhRVjRQQWtwZE5TY0dyNUJlbUhuTnhlQjZVaUV0TW10djBNamR0c0tLSU9vUkJEZjFxT085ak0zNmNISzR6SU1R?oc=5",
+      "published": "2026-09-19T21:37:33.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
       "source": "WAFF",
@@ -36,13 +43,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
       "published": "2026-09-18T21:08:19.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "I-85 concrete barrier damaged after tractor-trailer, car crash into it",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTkwwS1BoanFydGZCVnFQT3k1Y2xBVnJqNFFFTGZVR0JOZGtQdjNKeUl3ckx4YnIxbkoxcHJkRk15VkptZmVrU2dRU0lpTFhRVHdicjNKRXhwVE5oZ2pZdmJJRG9UTHFQdUV4NDdzRUptbUtXdndudXFBRTBWLVRSY2h3ajA2aUNscFRXTXd4OXpMaVVudHgxZngwbkRONGw5TzVZUzNmYlhGUkRGcmJWOHd4WGFQam12MmtxZm5KTklFZ1FRNjQyadIB3AFBVV95cUxNQmJTNHNhUzBCNVlENEczbUV0alhLMVBtLU9tUmM0WnhGYk5XLTFmN1V3T3NOLVljenQxYW12MDc3V2J3eEcxY3BFcDgzX2RDVlZkTURvYzNiVDNyd2U1aWRxdW93X1NlaUNDSWQ4ckFCcnR4S0Vzd2czSlJFRU5xamJ6bmJDbmYybHU3cVpzU2tncjRkTmxwMU5sR1M3M3gwaGl4MFktdVBXeHZLSDVTdVFkQ0xPQzF6V1V2cXU3dE1XQXNLZ1U2dzRjeEpFdkJiblhRN25KSXduX01s?oc=5",
-      "published": "2026-09-18T12:07:43.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "I-285 set to full close again this weekend in southwest Atlanta",
@@ -109,7 +109,7 @@
     },
     {
       "title": "Agricultural airplane crash in Brooks County",
-      "source": "walb.com",
+      "source": "WALB",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjlIMlQzVHdwSFNQdGJlMEdKUkdlbVlwU0YwcXdWYm5PYmhERHRtTHJQQklCTXI4eUVGbGJabDA0REFOOTRTTzByN2p6Q05YZ3dhQmVjb1VXTnVGbTRubzk4ME01WWVqeUllajgxRFVoeU1JaVJmU2xPdE50RmtObVM3b19hd3VfbGRBdnZyeFczMXZBMXdnZmZJNU1XWnVD0gG0AUFVX3lxTE9haXV4RlpzV2tSdUlzUTQxQy1TTUNKODdRSlJqcF8zZndnVEhVNUNWVW1xX0dlN0NyQ0c1YlRjOTRCRHpNSkp5bnMtTzkwb05tcGJiZ0N0amI5SURuMy15cTRBLWVVYkd0MkFXYS1tUHNEaUtDc1ltZ1hGN3ZVNFZhTUR2WElVNXFNVG9FX3RBWXZyQS1lYlFkeHJMb3BUclhGaXdRNi1vekt1QzFVdTZpQ3Y4bQ?oc=5",
       "published": "2026-09-13T19:05:00.000Z",
       "feed": "ga-roads"
@@ -123,7 +123,7 @@
     },
     {
       "title": "National Safety Council Announces NHTSA-Funded 2026 Road to Zero Community Traffic Safety Grants",
-      "source": "prnewswire.com",
+      "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUzZlMUVwTWh5UzhjaFFmVnJKeS14bEp6ZkJXSWFNN2luNW0zLXpjOGFhaEYzc09BWF9vdEM0VFd0N0pQSDNob1NDUnNyMWtOZWJ3cFdSbmhWOHlEX0puX1A2R2pYQzI5eFAxV21jZzZTTktKS0lCWXl4R2ZuUVNGZHY0bjQ4bWlzNkp2OG5DQllQaEpKeG9MeW1ZalRpYVV0RmhwTkF1eUxObTNpTUxHYXByWHptSjk0V25TQnlYSDQwemk2V3E2cDA5RWhJcmkxa1RmallvU3JCaVRnVG5DODNFMWxXSGs?oc=5",
       "published": "2026-09-11T14:00:00.000Z",
       "feed": "us-safety"
