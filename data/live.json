@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T10:15:51.176Z",
+  "generated": "2026-09-20T10:32:22.934Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
@@ -108,6 +108,13 @@
       "feed": "recalls"
     },
     {
+      "title": "Agricultural airplane crash in Brooks County",
+      "source": "walb.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjlIMlQzVHdwSFNQdGJlMEdKUkdlbVlwU0YwcXdWYm5PYmhERHRtTHJQQklCTXI4eUVGbGJabDA0REFOOTRTTzByN2p6Q05YZ3dhQmVjb1VXTnVGbTRubzk4ME01WWVqeUllajgxRFVoeU1JaVJmU2xPdE50RmtObVM3b19hd3VfbGRBdnZyeFczMXZBMXdnZmZJNU1XWnVD0gG0AUFVX3lxTE9haXV4RlpzV2tSdUlzUTQxQy1TTUNKODdRSlJqcF8zZndnVEhVNUNWVW1xX0dlN0NyQ0c1YlRjOTRCRHpNSkp5bnMtTzkwb05tcGJiZ0N0amI5SURuMy15cTRBLWVVYkd0MkFXYS1tUHNEaUtDc1ltZ1hGN3ZVNFZhTUR2WElVNXFNVG9FX3RBWXZyQS1lYlFkeHJMb3BUclhGaXdRNi1vekt1QzFVdTZpQ3Y4bQ?oc=5",
+      "published": "2026-09-13T19:05:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
       "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
@@ -130,7 +137,7 @@
     },
     {
       "title": "DUI prevention technology",
-      "source": "Post and Courier",
+      "source": "postandcourier.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "us-safety"
