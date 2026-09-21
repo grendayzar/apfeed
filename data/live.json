@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T13:16:25.260Z",
+  "generated": "2026-09-21T13:33:44.807Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -66,6 +66,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Funeral held for Atlanta police recruit killed in motorcycle crash",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2VaUnF3ekxNSmZMelhIV0JGWV9GTE12akZIN3E2MjVvTXpWSFpzaENmT2FvclVPcFZaWlByVDNhMDB6NUFJMjVqSEVRTGwzc1JJTXNDVUs4a1lCNjlITks4UnNDajByb0pISC1sVW5GSWFfMThMRjNnX0xWUWNDU3laSy1iLWRBUm1TOU5PcnpKMHZOMnNNTlhhVEpPTG9SZXNPWm4tTQ?oc=5",
+      "published": "2026-09-17T18:19:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
       "source": "WGXA",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
@@ -78,13 +85,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd3dYVHZ2OVJ2UDBTVEdPV3UtTUJvaWtJU1lKUVBmUDFzRHRha053dFB3MFBzYWVhWFVaZ0Z6aHpHR1hDRHJma0tOTWhpMFpvTDQwN2c5dDcxQWJKMGUzRVVjLXZRekpFakxvYnYyZTRnLTBTZllDS0JMOUM0a0R2U3gyMmZGWjl0YlVjYmQyRlJIOTlMblJfWHFfSUxmcFFSYzNF?oc=5",
       "published": "2026-09-17T02:54:00.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Funeral arrangements announced for 24-year-old Atlanta police recruit killed in motorcycle crash",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnVNU0phRkh2dmdwWjVvYVR1bDZJNTZqWVBnMEhHUXF0UTFvQVRIdHJXVWNJdHJ4Vk5mU2ZnUFlQQU9oZWI5bVRiLXFiMXJaYUdhb0hpYS1rOEVtazNIcTN2SXlOUy1rcDhNMGVxNVlGT3V1eE9BaVNHYzZMbXJQTDFsM2I1ZkpTTTNGUHRrdGpaSW44ZmxVNzd6UHFuWVlLQ2FPYi1uaEg4alBQX1V0NVVhUXE5N1EtWnpSalFjMWIxUmd1ZlpoWExwZ0swdlk?oc=5",
-      "published": "2026-09-16T15:19:30.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Toyota recalls over 8,000 vehicles. See affected model",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
@@ -144,7 +144,7 @@
     },
     {
       "title": "DUI prevention technology",
-      "source": "Post and Courier",
+      "source": "postandcourier.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "us-safety"
