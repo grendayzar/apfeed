@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T18:39:53.897Z",
+  "generated": "2026-09-21T18:56:36.863Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,6 +17,13 @@
       "feed": "us-safety"
     },
     {
+      "title": "Motorcyclist dead following crash near Bradley Boulevard in Chatham County",
+      "source": "WTOC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczBJVDNrblFBNm1jVG1EOXJrbVdSSFRRUUNJenctZEFycXRzb1ZYbm9ZV2wzQXoySXBpUnNwd2JfTmRFeC0tM09QbDBnRC1LMXRJaUZsY3RxdlBWMUFUek5MMzNqcUQ5N0kwbE50SldFaHpsSGh3QW5RZlRHVVNUcEtYeXVrdHBPOEhRdzhqdnVZUklmUDJKSTdodHprMkpxcVpwQWZqMNIBuwFBVV95cUxNcVY3c19nOUd3SEdnakp6UW1NcXJVSXNyU2h4MXM0UTA1cnlOX0hHZmtQVXVRbGY4dzBabU5UUzhwdmRCNDZac3VMb0NkZ2JBWDZHOXY3LWwtYmVHVEw0a1JJWWdDUTV6X1pod21TdHlYMy1mVzJsdTZITk1FN2hjY3loVnUxQ2o5RkItQjRvbFZHMUo1MjJEU3F0UUFYdUFfR2t6VDVCS0YtQ0pCQ1N3ekh5blVfOVJINzFR?oc=5",
+      "published": "2026-09-21T00:59:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Man dies in hit-and-run crash on interstate",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWpuSmFVNndTcGlyVTVjLVFwVk8weko3eWd0ZjdPZUFCMExxSkNzdlVtRmpBUWpUcnVJa0hqR1cxNnFPYkRYS1BjU1FPcXlQZmVlUjEzU0NpUTVxa1E2dTdLREc0UEo3anNTZExKUTUzUk5xdjE3VTlwVkhoaFFwallGTHY3aWNya0Naa29NNEtTNlhISUFtQVM3MjA5Zk1XZEFHdlB0UE9SUdIBvgFBVV95cUxOeG9QbTFBTnZrVlhmYW9vSEhubldBTWdGZG5pd3BJQzNGX3RoeEx0WWlsT29ReGEtS1dsYnN1ZXBBbVNPM1NlZnVLWV92dUVHeUdwRzBuby1vTUp6UmlhS05LWVFyZUZXWnhvX3Z2QTFESXZ5Um1EbVRYTmNkRlhRVjRQQWtwZE5TY0dyNUJlbUhuTnhlQjZVaUV0TW10djBNamR0c0tLSU9vUkJEZjFxT085ak0zNmNISzR6SU1R?oc=5",
@@ -25,7 +32,7 @@
     },
     {
       "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
-      "source": "waff.com",
+      "source": "WAFF",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUdqRUpGSTBfMTRSQnNpd1VZVG1EdTc0eVJMSHJpaHpVLXpodmxoWmZEYi1sYUdnclFWQUwzYkpRMGVVY3dLRF9uMzN6ZW9DQUl1c3RhVHM4OHhPX2NibkdhaWh1M2R2RWNjYVRtWFl2VXprZWpTSThhSXp2anpMY1l1WGQ1Mk5HcG15ZEF1UVBWa3fSAacBQVVfeXFMUHViVFN0aDBKb0NDYmc3YnBQX3pmbXY0Tk5sWVJ5eElOenlsZzhpUkhDRFF5SWtWOVJON3RIVUwybnBQUHA4M1FKbWJGOXlTVlIyU0ZTbEVWRXFwVlRCVGVhdkdHUFhheXdIWDgtbkFzQWdNN1RRWlhnclltN2tDNHVCTzl3V2ZlUUlDRkpXanU4bHo4c3lvQmtCNWd0SElnajlzZnNsT1k?oc=5",
       "published": "2026-09-19T17:03:00.000Z",
       "feed": "ga-roads"
@@ -50,13 +57,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
       "published": "2026-09-18T21:08:19.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "I-85 crash between car and tractor-trailer injures woman, breaks concrete divider",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjJJZzF2VzN2bWtkYUNRakhoQVJ2TzBfRGp4LVJaaC1JQjZRdDFMS3V4TWJqT0p4a1A5ZUZERDlaMWNNbkVsdUh4TzdUNkdNTFZ2NmlwNG54UUd5U3JLSG5PSF80QjhnOV82NGVER0xHMlFGLXp1QnNka0h2YUxHREFfNWZUMDE4bjhLX3BHb0FEeDBfMWlRb1VzaHMtX2FseWhmZnI4WWwxV29qZW54TDMzNUdVTXlMYmlEUXJR0gHSAUFVX3lxTFBuZU9Yd29zRGtPODhiZlhGU3VxQThuMk14RjhobjBVZVU5eUduTzhQQ3JNREp1eGhaSG1jSDhZNDdUeFo2RnBDWDEtck51NktXcFRHbU9nRE9Oc21nUDFKTGRXTmhsWVZwNTY0Q2RHU3pSd1F2cE9pVUZKeXV3VjB1amJZdmZlYkFFdzF1VlU5cG5rNjdUb3o4RGk2c0ZnV2FoUFJ5VlRwR3hPN0NYNkc2SHFVYU9nOWVaSFBNTUVqd2FwOExlNHNZZEhydXFxUjk2dw?oc=5",
-      "published": "2026-09-18T12:18:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "I-285 set to full close again this weekend in southwest Atlanta",
@@ -95,14 +95,14 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "insurancejournal.com",
+      "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
