@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T22:16:28.980Z",
+  "generated": "2026-09-21T22:33:36.454Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,8 +17,15 @@
       "feed": "us-safety"
     },
     {
+      "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
+      "source": "WVTM Channel 13",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
+      "published": "2026-09-21T03:14:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Motorcyclist dead following crash near Bradley Boulevard in Chatham County",
-      "source": "WTOC",
+      "source": "wtoc.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczBJVDNrblFBNm1jVG1EOXJrbVdSSFRRUUNJenctZEFycXRzb1ZYbm9ZV2wzQXoySXBpUnNwd2JfTmRFeC0tM09QbDBnRC1LMXRJaUZsY3RxdlBWMUFUek5MMzNqcUQ5N0kwbE50SldFaHpsSGh3QW5RZlRHVVNUcEtYeXVrdHBPOEhRdzhqdnVZUklmUDJKSTdodHprMkpxcVpwQWZqMNIBuwFBVV95cUxNcVY3c19nOUd3SEdnakp6UW1NcXJVSXNyU2h4MXM0UTA1cnlOX0hHZmtQVXVRbGY4dzBabU5UUzhwdmRCNDZac3VMb0NkZ2JBWDZHOXY3LWwtYmVHVEw0a1JJWWdDUTV6X1pod21TdHlYMy1mVzJsdTZITk1FN2hjY3loVnUxQ2o5RkItQjRvbFZHMUo1MjJEU3F0UUFYdUFfR2t6VDVCS0YtQ0pCQ1N3ekh5blVfOVJINzFR?oc=5",
       "published": "2026-09-21T00:59:00.000Z",
       "feed": "ga-roads"
@@ -59,13 +66,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "I-85 crash between car and tractor-trailer injures woman, breaks concrete divider",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjJJZzF2VzN2bWtkYUNRakhoQVJ2TzBfRGp4LVJaaC1JQjZRdDFMS3V4TWJqT0p4a1A5ZUZERDlaMWNNbkVsdUh4TzdUNkdNTFZ2NmlwNG54UUd5U3JLSG5PSF80QjhnOV82NGVER0xHMlFGLXp1QnNka0h2YUxHREFfNWZUMDE4bjhLX3BHb0FEeDBfMWlRb1VzaHMtX2FseWhmZnI4WWwxV29qZW54TDMzNUdVTXlMYmlEUXJR0gHSAUFVX3lxTFBuZU9Yd29zRGtPODhiZlhGU3VxQThuMk14RjhobjBVZVU5eUduTzhQQ3JNREp1eGhaSG1jSDhZNDdUeFo2RnBDWDEtck51NktXcFRHbU9nRE9Oc21nUDFKTGRXTmhsWVZwNTY0Q2RHU3pSd1F2cE9pVUZKeXV3VjB1amJZdmZlYkFFdzF1VlU5cG5rNjdUb3o4RGk2c0ZnV2FoUFJ5VlRwR3hPN0NYNkc2SHFVYU9nOWVaSFBNTUVqd2FwOExlNHNZZEhydXFxUjk2dw?oc=5",
-      "published": "2026-09-18T12:18:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "I-285 set to full close again this weekend in southwest Atlanta",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQllvZXpGWjBHUjExaUJPWk9jc0Q5U0FkLTQ0SE03MGZJTHVtLTIxcW10NTR6RzNvWnM5bVZENngyYTFBd1hfUmJ4MHlQalFBZDNJQnl0U1N4dzg0SEFkOHM0OUtpUnRVVVVEemR6ckl4Y1VEaXBHZktrM0NaVUhyLUNNWkZucW8zMHRfLUJGYkFkUkpoLW9kOWZLR0dxSC1lYThjUW9ySXFLeS0tcENIWS1QUW42NktUNjJ6NExqdkM0RjhqejR2cDlfeGg?oc=5",
@@ -102,14 +102,14 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -123,7 +123,7 @@
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "KEYE",
+      "source": "cbsaustin.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T21:42:23.000Z",
       "feed": "us-safety"
