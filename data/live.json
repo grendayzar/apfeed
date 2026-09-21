@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T15:51:25.883Z",
+  "generated": "2026-09-21T16:18:00.926Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
+      "source": "Smart Cities Dive",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSaWE5bVgxTmpDd3ZlZVlHQndaalJBcUM1SUdQNWw3VG5RQTFpZnFMMlFjb3lqcEpOYXEtanFVMUV3ajdOd003WnBFZ0s5WE1RNUFDS1kxWVVkejlwcVRheDFGZTN2cWx5QXRRN0Y0TlN5STAyS2tZ?oc=5",
+      "published": "2026-09-21T16:16:04.000Z",
+      "feed": "us-safety"
+    },
     {
       "title": "Man dies in hit-and-run crash on interstate",
       "source": "WSB-TV",
@@ -25,7 +32,7 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "time.com",
+      "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
@@ -60,7 +67,7 @@
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-roads"
@@ -74,7 +81,7 @@
     },
     {
       "title": "Man dead, woman airlifted after head-on crash Wednesday evening in Hancock County",
-      "source": "wgxa.tv",
+      "source": "WGXA",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRjloSUR3NW9lcXU1Q3B4aHlyZTBQRHNzeHBmZ2VMY0Q1azViRlVTeE9tSC1relNpeURhazE5VzRZMXZnZWZNaWNmSURBaGFxMDIyVXZ3SHdkTHVFTDVrWmxKOWxTZXJiSzZsWkNWN0V3c3Q1RGQ4eFY5WVFLRHlVX0ZwZGVMVUU5N056QVZESVNVQWk2S1ZOSmxrS1poX0ZhSzNWSG9uTW5iQm8zSER3Qy00cjlDTDhTR01vdTdnelJLMG9aX1JpMC1DWThDTVhkRmVoYjNaOHBlVW9VaV9DRXdMc1RrWUJHWURjZ2ZULUwzVXJXenFGU1dxTVAxQlFDek02OHoxbXFnVnBfMDVyQQ?oc=5",
       "published": "2026-09-17T13:22:24.000Z",
       "feed": "ga-roads"
@@ -88,14 +95,14 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -141,13 +148,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "DUI prevention technology",
-      "source": "Post and Courier",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlM3SC1OLXk1QWNBR1dnSmV1cFRkU1lXaHVrQXNUb09BR3pweUhYRGJDZmM1bjMwQW1IcnRQTV9JemF1b05kdlVMaWFoVjdXeEN5dzY1X2ZqNEZ4dklvcGkwSE95SEF3aFM2ZkRxT1JKcjloLWxvbnNvMVhaQlUwV3FOb2N0d0FiUGc5djc0WGp0Q0J6TzZ6MGw1TVNmQ1RqMVhQVDc2WHFJcXdOemZjSkx0UFh3WlhkUmVjcEkyX2hxRWM?oc=5",
-      "published": "2026-09-09T07:00:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Chrysler recalls more than 569,000 vehicles. See recall list",
