@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T13:53:07.938Z",
+  "generated": "2026-09-22T14:17:24.734Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,11 +7,11 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
-      "source": "Smart Cities Dive",
+      "source": "smartcitiesdive.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSaWE5bVgxTmpDd3ZlZVlHQndaalJBcUM1SUdQNWw3VG5RQTFpZnFMMlFjb3lqcEpOYXEtanFVMUV3ajdOd003WnBFZ0s5WE1RNUFDS1kxWVVkejlwcVRheDFGZTN2cWx5QXRRN0Y0TlN5STAyS2tZ?oc=5",
       "published": "2026-09-21T16:15:42.000Z",
       "feed": "us-safety"
@@ -25,7 +25,7 @@
     },
     {
       "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
-      "source": "WVTM",
+      "source": "wvtm13.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
       "published": "2026-09-21T03:14:00.000Z",
       "feed": "ga-roads"
@@ -60,7 +60,7 @@
     },
     {
       "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Democrat and Chronicle",
+      "source": "democratandchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
       "published": "2026-09-19T02:48:05.000Z",
       "feed": "us-safety"
@@ -71,6 +71,13 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
       "published": "2026-09-18T21:08:19.000Z",
       "feed": "ga-metro"
+    },
+    {
+      "title": "Major crash involving garbage truck in Henry County",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQdIBowFBVV95cUxOd0RFUWllUG5fNVpVZE5TLWRTOERYVVh4VmFfQXQtdkdaTWc5RkVJRzFaU2UtQ2FJcGh2RjFmYUtwUzNQZGtxQ1JlMlprYmQ5eFh2RHN3cFZnbk1hdlpjZ3VjT2hLeXZNQ2NGNU1mM0V3eGN1cUVxb1diQWh2X2F3dC02b2N5UUY3TmFSbU1PR0JLRTF2ZzZxMy0tNUtaSlFnc25N?oc=5",
+      "published": "2026-09-18T19:39:30.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "I-85 crash between car and tractor-trailer injures woman, breaks concrete divider",
@@ -87,18 +94,11 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Hines Law Urges Public to Know Their Rights After a Personal Injury",
-      "source": "24-7pressrelease.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdDViRjktQ1BSTGxnTVRwT0xBc2J0dmR4aUVhdkpLN2NQbUVNeDBVWjRYZHluSW9TeF9fdjN1aUJjLS1jRTBLaDFINjNfWGxXa051bVQwamhrYmthLW1KYksxUFdRTW45SHNocnlwRTRhRU00VXZyN1U2VUFseEpjdWxwbjhxZlVNdW5MZmp3Z0JKMGhmRExHVkxTZ252WDdzcTd6X1laUkM0aUpJNDVxWGUyQ0hpOGprTTQzblNn?oc=5",
-      "published": "2026-09-18T07:04:43.000Z",
-      "feed": "injurylaw"
-    },
-    {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "MARTA bus involved in accident near I-20, Atlanta police say",
@@ -151,7 +151,7 @@
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "cbsaustin.com",
+      "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "us-safety"
@@ -162,6 +162,13 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
+      "source": "The Courier-Journal",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
+      "published": "2026-09-07T11:01:55.000Z",
+      "feed": "injurylaw"
     }
   ]
 }
