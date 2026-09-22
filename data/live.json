@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T12:21:41.157Z",
+  "generated": "2026-09-22T12:54:08.384Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 23,
+  "count": 22,
   "items": [
     {
       "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
@@ -25,21 +25,21 @@
     },
     {
       "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
-      "source": "WVTM",
+      "source": "WVTM Channel 13",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
       "published": "2026-09-21T03:14:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Motorcyclist dead following crash near Bradley Boulevard in Chatham County",
-      "source": "WTOC",
+      "source": "wtoc.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczBJVDNrblFBNm1jVG1EOXJrbVdSSFRRUUNJenctZEFycXRzb1ZYbm9ZV2wzQXoySXBpUnNwd2JfTmRFeC0tM09QbDBnRC1LMXRJaUZsY3RxdlBWMUFUek5MMzNqcUQ5N0kwbE50SldFaHpsSGh3QW5RZlRHVVNUcEtYeXVrdHBPOEhRdzhqdnVZUklmUDJKSTdodHprMkpxcVpwQWZqMNIBuwFBVV95cUxNcVY3c19nOUd3SEdnakp6UW1NcXJVSXNyU2h4MXM0UTA1cnlOX0hHZmtQVXVRbGY4dzBabU5UUzhwdmRCNDZac3VMb0NkZ2JBWDZHOXY3LWwtYmVHVEw0a1JJWWdDUTV6X1pod21TdHlYMy1mVzJsdTZITk1FN2hjY3loVnUxQ2o5RkItQjRvbFZHMUo1MjJEU3F0UUFYdUFfR2t6VDVCS0YtQ0pCQ1N3ekh5blVfOVJINzFR?oc=5",
       "published": "2026-09-21T00:59:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Man dies in hit-and-run crash on interstate",
-      "source": "WSB-TV",
+      "source": "wsbtv.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWpuSmFVNndTcGlyVTVjLVFwVk8weko3eWd0ZjdPZUFCMExxSkNzdlVtRmpBUWpUcnVJa0hqR1cxNnFPYkRYS1BjU1FPcXlQZmVlUjEzU0NpUTVxa1E2dTdLREc0UEo3anNTZExKUTUzUk5xdjE3VTlwVkhoaFFwallGTHY3aWNya0Naa29NNEtTNlhISUFtQVM3MjA5Zk1XZEFHdlB0UE9SUdIBvgFBVV95cUxOeG9QbTFBTnZrVlhmYW9vSEhubldBTWdGZG5pd3BJQzNGX3RoeEx0WWlsT29ReGEtS1dsYnN1ZXBBbVNPM1NlZnVLWV92dUVHeUdwRzBuby1vTUp6UmlhS05LWVFyZUZXWnhvX3Z2QTFESXZ5Um1EbVRYTmNkRlhRVjRQQWtwZE5TY0dyNUJlbUhuTnhlQjZVaUV0TW10djBNamR0c0tLSU9vUkJEZjFxT085ak0zNmNISzR6SU1R?oc=5",
       "published": "2026-09-19T21:37:33.000Z",
       "feed": "ga-roads"
@@ -67,17 +67,10 @@
     },
     {
       "title": "Tractor-trailer overturns on I-20 ramp to I-285",
-      "source": "WSB-TV",
+      "source": "wsbtv.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
       "published": "2026-09-18T21:08:19.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Major crash involving garbage truck in Henry County",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQdIBowFBVV95cUxOd0RFUWllUG5fNVpVZE5TLWRTOERYVVh4VmFfQXQtdkdaTWc5RkVJRzFaU2UtQ2FJcGh2RjFmYUtwUzNQZGtxQ1JlMlprYmQ5eFh2RHN3cFZnbk1hdlpjZ3VjT2hLeXZNQ2NGNU1mM0V3eGN1cUVxb1diQWh2X2F3dC02b2N5UUY3TmFSbU1PR0JLRTF2ZzZxMy0tNUtaSlFnc25N?oc=5",
-      "published": "2026-09-18T19:39:30.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "I-85 crash between car and tractor-trailer injures woman, breaks concrete divider",
@@ -98,7 +91,7 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "MARTA bus involved in accident near I-20, Atlanta police say",
@@ -116,7 +109,7 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
@@ -130,7 +123,7 @@
     },
     {
       "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
-      "source": "freep.com",
+      "source": "Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcThrM1B1cXpQeXhSVG8tM2lGT3BTUjFqSndwQ1E4cS1xd2Q0RnNET21WWGlzdEN5Q0F5WFV2VWlqOXRJc3pXdDIwRjlfZDFvanhhR08tYjdUQjFyQ3ZoR1pyN1lSZlN6eFA0dmlldlhSMWtkSzhHOGgxU0UzQzgxU0V4WkRjR096MTBiOHVrQWdlTmRzQ3J2TTgtWkRUc2JkdnhXTlBR?oc=5",
       "published": "2026-09-14T19:09:00.000Z",
       "feed": "recalls"
