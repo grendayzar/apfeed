@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T11:33:36.462Z",
+  "generated": "2026-09-22T11:50:01.296Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,7 +25,7 @@
     },
     {
       "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
-      "source": "WVTM Channel 13",
+      "source": "WVTM",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
       "published": "2026-09-21T03:14:00.000Z",
       "feed": "ga-roads"
@@ -46,7 +46,7 @@
     },
     {
       "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
-      "source": "waff.com",
+      "source": "WAFF",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUdqRUpGSTBfMTRSQnNpd1VZVG1EdTc0eVJMSHJpaHpVLXpodmxoWmZEYi1sYUdnclFWQUwzYkpRMGVVY3dLRF9uMzN6ZW9DQUl1c3RhVHM4OHhPX2NibkdhaWh1M2R2RWNjYVRtWFl2VXprZWpTSThhSXp2anpMY1l1WGQ1Mk5HcG15ZEF1UVBWa3fSAacBQVVfeXFMUHViVFN0aDBKb0NDYmc3YnBQX3pmbXY0Tk5sWVJ5eElOenlsZzhpUkhDRFF5SWtWOVJON3RIVUwybnBQUHA4M1FKbWJGOXlTVlIyU0ZTbEVWRXFwVlRCVGVhdkdHUFhheXdIWDgtbkFzQWdNN1RRWlhnclltN2tDNHVCTzl3V2ZlUUlDRkpXanU4bHo4c3lvQmtCNWd0SElnajlzZnNsT1k?oc=5",
       "published": "2026-09-19T17:03:00.000Z",
       "feed": "ga-roads"
@@ -144,14 +144,14 @@
     },
     {
       "title": "Toyota recalls over 8,000 vehicles. See affected model",
-      "source": "USA Today",
+      "source": "usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "cbsaustin.com",
+      "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "us-safety"
