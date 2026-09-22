@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T16:51:53.515Z",
+  "generated": "2026-09-22T17:15:22.132Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,8 +10,15 @@
   "count": 23,
   "items": [
     {
+      "title": "How David Van Sant Brings a Unique Expertise to Personal Injury Law",
+      "source": "entrepreneur.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzVZb1liV2twYVRHRngtLUtvMFNONG10ci1ZSENBSXFBR1ZhQi05eDhoVjlXdXQ3NUwwckh4eFM4V19WY2Q5bUhYU09RRTJoSzlfQ3ZHQUhpWW5jMnZTVWlGalNGTTBLajU0ZGF2SURBYWhsSllGVHJMaF9xd2RtYWMxN1BSR092WDFuNHRIak93Z2haMmxDOVhteGJvRXNUQUJYY1ZoZzZTZFlra0Q4?oc=5",
+      "published": "2026-09-22T10:26:07.000Z",
+      "feed": "injurylaw"
+    },
+    {
       "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
-      "source": "Smart Cities Dive",
+      "source": "smartcitiesdive.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSaWE5bVgxTmpDd3ZlZVlHQndaalJBcUM1SUdQNWw3VG5RQTFpZnFMMlFjb3lqcEpOYXEtanFVMUV3ajdOd003WnBFZ0s5WE1RNUFDS1kxWVVkejlwcVRheDFGZTN2cWx5QXRRN0Y0TlN5STAyS2tZ?oc=5",
       "published": "2026-09-21T16:15:42.000Z",
       "feed": "us-safety"
@@ -60,7 +67,7 @@
     },
     {
       "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Democrat and Chronicle",
+      "source": "democratandchronicle.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
       "published": "2026-09-19T02:48:05.000Z",
       "feed": "us-safety"
@@ -74,7 +81,7 @@
     },
     {
       "title": "Major crash involving garbage truck in Henry County",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQdIBowFBVV95cUxOd0RFUWllUG5fNVpVZE5TLWRTOERYVVh4VmFfQXQtdkdaTWc5RkVJRzFaU2UtQ2FJcGh2RjFmYUtwUzNQZGtxQ1JlMlprYmQ5eFh2RHN3cFZnbk1hdlpjZ3VjT2hLeXZNQ2NGNU1mM0V3eGN1cUVxb1diQWh2X2F3dC02b2N5UUY3TmFSbU1PR0JLRTF2ZzZxMy0tNUtaSlFnc25N?oc=5",
       "published": "2026-09-18T19:39:30.000Z",
       "feed": "ga-roads"
@@ -95,7 +102,7 @@
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-metro"
@@ -109,7 +116,7 @@
     },
     {
       "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "WCTV",
+      "source": "wctv.tv",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
       "published": "2026-09-17T01:48:00.000Z",
       "feed": "ga-roads"
@@ -162,13 +169,6 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONXQxREVIZUlITEdEdGV5ZW80UkJZSThESk9SWWhWM1c5V0NFNlp5ZlNUbmotSUFRQU1kNFByZ2FhTHg1UUtTTFc4WmdleVZBUDdkNFNRYTNNcFdnQ2pWMXlfMl9Qa0RMYXc0UTFieWtVZncxa0pVRzNPdWlFSmVjRkJFLVhkQVVMRGNxLVNwTlNlQnlqZWVGeUJFc1RfR3FaeVVySTE5alA3MzZ4eXBnYVJJLUNzRlM3MEFmN3A4WnQ4ZXlpN0lOa1NhSTk?oc=5",
       "published": "2026-09-09T07:00:00.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "Super Lawyers Has Selected Brendan C. Flanagan to Georgia Rising Stars List for Eighth Consecutive Year",
-      "source": "The Courier-Journal",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbkdBc29rSE9iUEVJZDhrWlZWMWtPcjlnRjNmLXRKeGlUMXFqTmtaWUd2Tk1BN3JES1daT1BWcFZTTDZoZnpnQnhidFByYlV6SG5tQzl2R19NMWk5Szc2LU1YNHJCX0tkQ2pFb0FiSUlaVDlSTEw1WW1Jb0hlWWFCSWk5eURYWm5vZ1VxdHR1V0dQNnRXM3JzN2o0VmI3enpRLXd3ZEdYb3Z5VmZwTi1KY0VLSUw2ZGZHZ2FGaGI4aWVITDJVaE1xaG9JOG54WXVWZFNtdG0wbzRGWmpicEFqcHpFNHhzZm9WRVIyQ29MUE1HcE5j?oc=5",
-      "published": "2026-09-07T11:01:55.000Z",
-      "feed": "injurylaw"
     }
   ]
 }
