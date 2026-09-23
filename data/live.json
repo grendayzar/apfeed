@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T02:34:11.162Z",
+  "generated": "2026-09-23T02:51:09.473Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -12,13 +12,13 @@
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
       "source": "Courthouse News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNS1qSm1xdjlKcTZ2N0g0cEJ2NEdQcXo0UXotelpXYzl3bU05Z2t1bUdPZnkwWF95OXdOR0RnUngtcFJMNDZXa2IwSGtFOWFSMVRlQ2NFSXNNOWpEZ0xJS196S3F5RFgtM28wd2EwMDU0N1pvdVdNN2NUaTV5a1F6bDJCd0lVLWxDbzZaaDFyUld3bkdyMGdsUDFR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
-      "source": "Smart Cities Dive",
+      "source": "smartcitiesdive.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSaWE5bVgxTmpDd3ZlZVlHQndaalJBcUM1SUdQNWw3VG5RQTFpZnFMMlFjb3lqcEpOYXEtanFVMUV3ajdOd003WnBFZ0s5WE1RNUFDS1kxWVVkejlwcVRheDFGZTN2cWx5QXRRN0Y0TlN5STAyS2tZ?oc=5",
       "published": "2026-09-21T16:15:42.000Z",
       "feed": "us-safety"
@@ -53,14 +53,14 @@
     },
     {
       "title": "Brother of former Atlanta Braves pitcher killed in Huntsville motorcycle crash",
-      "source": "waff.com",
+      "source": "WAFF",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZTdKVERaTWRQTUV1YVAtUEFTem5lT0RpeHI2TnZQNDB2d0hyZFFyaUxOc0RLRWI0Wk9YbkJzSEk1WWI2LTAwZHhZTk9pcmNKQmdoZXREdWRTU093R0ZFYjFSTjRDbzQ4NVRxTEloNm1mWEVPUzl5WE9FeVBDcUt3alEwY3MwVFduamNxNm1JX1Rac2QxU0VDa0xDeXJUNWhHMFctRU1tb0_SAbwBQVVfeXFMUGJFY2dMVE90c1ZwRU5naDRPZmkyMXpwTVFRTXhMQ0NZbndEUFJjNERUdjcwbkpqZkR2RU1QU3pZYUJpdVRxdHNfeHBLdlZIWGN3QUtONGVrOTFjM0xsSGd3M015LVh2SkZSVVdfNXAwUzRmY3QtckNITHJtNUcycERFYzRpM0Z5N3VjeExSeVNyeVFybUVZcWhlMnYzRHhDMmpfa0N5YU13WTMybjB4aDlMWDUxbkVkdWtGclY?oc=5",
       "published": "2026-09-19T17:03:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "time.com",
+      "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
@@ -81,7 +81,7 @@
     },
     {
       "title": "Major crash involving garbage truck in Henry County",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQdIBowFBVV95cUxOd0RFUWllUG5fNVpVZE5TLWRTOERYVVh4VmFfQXQtdkdaTWc5RkVJRzFaU2UtQ2FJcGh2RjFmYUtwUzNQZGtxQ1JlMlprYmQ5eFh2RHN3cFZnbk1hdlpjZ3VjT2hLeXZNQ2NGNU1mM0V3eGN1cUVxb1diQWh2X2F3dC02b2N5UUY3TmFSbU1PR0JLRTF2ZzZxMy0tNUtaSlFnc25N?oc=5",
       "published": "2026-09-18T19:39:30.000Z",
       "feed": "ga-roads"
@@ -102,7 +102,7 @@
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-metro"
@@ -130,7 +130,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "insurancejournal.com",
+      "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -151,7 +151,7 @@
     },
     {
       "title": "Toyota recalls over 8,000 vehicles. See affected model",
-      "source": "USA Today",
+      "source": "usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
