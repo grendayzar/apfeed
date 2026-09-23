@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T09:34:43.615Z",
+  "generated": "2026-09-23T09:52:06.476Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,10 +11,17 @@
   "items": [
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "Courthouse News",
+      "source": "courthousenews.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "This Is The Most Dangerous Time To Drive",
+      "source": "Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGJTcGtoekd6eEN6WFVUaG1OclNfYXctQ0Q1Sm9ONUpzZF9LYlh1dHpZOVZfMzdZd3dmbTZXcDZBZXYtaFg0UjY1OC1fdnppaHFOZjJqeWZ0eVZYN3pNVnRiQzRoUVYzOGJaLXY2TTRxNmhxWVMtNUZfRkpmVzE5cXdqUEtXTzRkS3NwTEw1UlB6UHFRdWlvaGJVX0k?oc=5",
+      "published": "2026-09-22T14:49:00.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
@@ -64,13 +71,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Democrat and Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
-      "published": "2026-09-19T02:48:05.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Tractor-trailer overturns on I-20 ramp to I-285",
