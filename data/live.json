@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T21:49:15.347Z",
+  "generated": "2026-09-23T22:16:25.951Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQkRGSjMweTU1T3FXX2xyenJnNlI0YkRiX0o4djFKQ2dYQlhReXpFY3drY1dYVlpCQnFPZ0NBMm1BSUVCd2tTTTd6a3BaMDZIREJ0ZnUzcWxWUzNyYnppSDdMQU9sOUpSQm9jMkUwTG9Wa0dXOTRQZGZqRHROOUhJQ1NiX2g2cDFLZUt4czB5SnY5SW1BSXhjQVJFUHl1LXVLclF6clhDbmtwT1NwMDMtQldOV2tlU3ZKY2Ffektuakg0cUVNOHZFaENiWjZOZTdyNDk4RXR5ZGw2dnc0Sm9TaXhUaUlUWko5QkgwbUl6eC1PRjQweVh2M1d6NERBTG55SFNjaWhkY3ZjNmVkTG5MY1M5dFJpR3RGRWc?oc=5",
       "published": "2026-09-23T20:19:00.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Southbound I-95 lanes closed in Liberty County due to crash",
+      "source": "WTOC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3o4dFVNWnR6VjRtTEEwdHVtMG5zdnFoS0RBREJxMUtyRDFQYzVjdDJXUG5xdHFmMzhsVnh5RWxXWEtiVEloUGcybWtyRXFDdGt5WkN3ODM4M0xOUWpXMEdROTFjdFAyT1ZMOWZieFVjUTYtdEdlOElCZVNKNWNiUVE0dFpUeUVkYl9NNUk1aw?oc=5",
+      "published": "2026-09-23T19:52:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
@@ -52,13 +59,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Fatal crash reported on Ogeechee Road near Bradley Blvd.",
-      "source": "WTOC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjl2YmNUM09VMG8weHMwcl9RcjJadkNRdERCUU1SX013c19QUXczWThVdUxjMTF2ejk0RjlZY1hzdnNTZHBYcEFjNE85NS1oZnhfWmFwc3RibU9RYWFpWHpmWmhQeXJQN001bHJwRXVqSkFIajFlNlEzbHpEOXJudTZza2E4cF9iclAyam930gGiAUFVX3lxTE5SUkdoY1dZOVl3Sk5RVUo4Z2xPNktmVVB1VTYtQ2RWMVk0WTdTSkU1U2pPRWtxU1l3OEtHUDR6UDdjWlUxQ29PQUl5NXB4eGt1UTFLSzgzMkh1ZEdZWnc2LVBFVW85c0RjeFFPNkVxSHZaUDZZNEExaHNjeEhvdUpUbUlOLWVIeHRnWE9OMUd3aE9HWjV5S0JNWHk5RVhvcHlhZw?oc=5",
-      "published": "2026-09-21T00:59:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "One dead following Saturday four wheeler crash",
       "source": "Barnesville.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yV05BTzF1QnZXSFdPZFNwSVRkZWg3T2J2dmVQTXh4bHZHMnhZcmdiNnVvMUNleHUtYTZ4eE9NZkJWZFgxNHlPdld4STF5ZDdlUlRNVGUyQVVxOGprUTNjUkstbFZocF9wVHlxN1YybEkyZTRWaS1yMWtaQQ?oc=5",
@@ -88,7 +88,7 @@
     },
     {
       "title": "Major crash involving garbage truck in Henry County",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQdIBowFBVV95cUxOd0RFUWllUG5fNVpVZE5TLWRTOERYVVh4VmFfQXQtdkdaTWc5RkVJRzFaU2UtQ2FJcGh2RjFmYUtwUzNQZGtxQ1JlMlprYmQ5eFh2RHN3cFZnbk1hdlpjZ3VjT2hLeXZNQ2NGNU1mM0V3eGN1cUVxb1diQWh2X2F3dC02b2N5UUY3TmFSbU1PR0JLRTF2ZzZxMy0tNUtaSlFnc25N?oc=5",
       "published": "2026-09-18T19:39:30.000Z",
       "feed": "ga-roads"
@@ -102,7 +102,7 @@
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-metro"
@@ -116,7 +116,7 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
