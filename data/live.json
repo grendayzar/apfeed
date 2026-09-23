@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T10:17:01.027Z",
+  "generated": "2026-09-23T10:34:47.015Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 23,
   "items": [
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
@@ -80,6 +80,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Major crash involving garbage truck in Henry County",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQdIBowFBVV95cUxOd0RFUWllUG5fNVpVZE5TLWRTOERYVVh4VmFfQXQtdkdaTWc5RkVJRzFaU2UtQ2FJcGh2RjFmYUtwUzNQZGtxQ1JlMlprYmQ5eFh2RHN3cFZnbk1hdlpjZ3VjT2hLeXZNQ2NGNU1mM0V3eGN1cUVxb1diQWh2X2F3dC02b2N5UUY3TmFSbU1PR0JLRTF2ZzZxMy0tNUtaSlFnc25N?oc=5",
+      "published": "2026-09-18T19:39:30.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "I-85 crash between car and tractor-trailer injures woman, breaks concrete divider",
       "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjJJZzF2VzN2bWtkYUNRakhoQVJ2TzBfRGp4LVJaaC1JQjZRdDFMS3V4TWJqT0p4a1A5ZUZERDlaMWNNbkVsdUh4TzdUNkdNTFZ2NmlwNG54UUd5U3JLSG5PSF80QjhnOV82NGVER0xHMlFGLXp1QnNka0h2YUxHREFfNWZUMDE4bjhLX3BHb0FEeDBfMWlRb1VzaHMtX2FseWhmZnI4WWwxV29qZW54TDMzNUdVTXlMYmlEUXJR0gHSAUFVX3lxTFBuZU9Yd29zRGtPODhiZlhGU3VxQThuMk14RjhobjBVZVU5eUduTzhQQ3JNREp1eGhaSG1jSDhZNDdUeFo2RnBDWDEtck51NktXcFRHbU9nRE9Oc21nUDFKTGRXTmhsWVZwNTY0Q2RHU3pSd1F2cE9pVUZKeXV3VjB1amJZdmZlYkFFdzF1VlU5cG5rNjdUb3o4RGk2c0ZnV2FoUFJ5VlRwR3hPN0NYNkc2SHFVYU9nOWVaSFBNTUVqd2FwOExlNHNZZEhydXFxUjk2dw?oc=5",
@@ -98,7 +105,7 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "MARTA bus involved in accident near I-20, Atlanta police say",
@@ -109,7 +116,7 @@
     },
     {
       "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "WCTV",
+      "source": "wctv.tv",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
       "published": "2026-09-17T01:48:00.000Z",
       "feed": "ga-roads"
