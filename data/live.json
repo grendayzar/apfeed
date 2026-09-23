@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T08:17:45.426Z",
+  "generated": "2026-09-23T08:37:15.076Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
+      "published": "2026-09-22T17:09:18.000Z",
+      "feed": "recalls"
     },
     {
       "title": "This Is The Most Dangerous Time To Drive",
@@ -136,15 +143,8 @@
       "feed": "injurylaw"
     },
     {
-      "title": "NHTSA commercial vehicle recalls for the week of Sept. 14, 2026",
-      "source": "Trucks, Parts, Service",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1FDc25sSFRadndjVlF6eERmd0ZZNTd6c2lFY1NFUnBFcVNmZXRjN0pHaE91VXdGNF84c3ZGN2RZRWhwYlE1MDZLV0RTQ0cwbzI3Y1E5SzhIdG1fcFYwS3EtcDZxdUpOcUxQSjJFVXQ3dTQyR0c3VHp4ODRocTVQTFdOZ2R2NzV5UU9hWEhYZDY2SlRlbjBjX216Y2ZxWm16TTJUbEFoQlNWcXlURHAyM2xwYTNzSkpyaFpMUlZSU2VKa1JvaWhjWHN5VEF0aWVqQjln?oc=5",
-      "published": "2026-09-14T15:43:27.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
-      "source": "freep.com",
+      "source": "Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcThrM1B1cXpQeXhSVG8tM2lGT3BTUjFqSndwQ1E4cS1xd2Q0RnNET21WWGlzdEN5Q0F5WFV2VWlqOXRJc3pXdDIwRjlfZDFvanhhR08tYjdUQjFyQ3ZoR1pyN1lSZlN6eFA0dmlldlhSMWtkSzhHOGgxU0UzQzgxU0V4WkRjR096MTBiOHVrQWdlTmRzQ3J2TTgtWkRUc2JkdnhXTlBR?oc=5",
       "published": "2026-09-14T07:00:00.000Z",
       "feed": "recalls"
