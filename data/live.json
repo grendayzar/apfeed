@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T07:35:43.750Z",
+  "generated": "2026-09-23T07:52:07.417Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
+      "published": "2026-09-22T17:09:18.000Z",
+      "feed": "recalls"
     },
     {
       "title": "This Is The Most Dangerous Time To Drive",
@@ -162,13 +169,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
-      "source": "FleetOwner",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
-      "published": "2026-09-09T19:18:48.000Z",
-      "feed": "recalls"
     }
   ]
 }
