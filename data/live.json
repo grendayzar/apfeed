@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T15:52:09.311Z",
+  "generated": "2026-09-23T16:18:23.562Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
@@ -28,7 +28,7 @@
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN1BtZ0tRR285VlFlWFJiSXQ5YVp3ejhiRlpkdlc3enJtTTNxM19RcnQ0YWxibkVzMnl0STJRSXBldnJwTDBtT2FUVFdrbnJ2elQ1WWJIZHowVkVyWXBMVnhVdWxKdDZGbVNDdE9XeHhqeURmU1hucFZYblBqZmE5akc2Zl9hNmxwNnJNMk15R0Z5NnB1U1habFZXMTIzTHA3aU92M1RrR2lEZDVSWHZDeHgtRkE1X1g3ckNGNmhOU2NLdHpCakVqaDln0gHeAUFVX3lxTFBrWGM2Sk9nX24wVVRGSmVqRDZ6SHg0SVVSTkdJeFZzSTk2Z3UySDRIQ2tabXV4RGdPTi04THM2NEx5WWxhSmQtcDRZc0ctUEdSSTZhZWg4OTRpWHItTF9uUVU4UlotVWJ6SHB0WUxQWl9SY1BUd3JrSnRBazB1blgyTkl6VW9PdzNIRXdWUmV0WTVfNEtRRnVPVWVqRUhLSVRRaFl1cFVETmFNSDViMTgya1IyTFo2T1RsS3ZOdHRxYkI1Z09uSkdybzJua3JfYzVaa0V2V19XVUlaZGtiUQ?oc=5",
       "published": "2026-09-22T11:32:00.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
@@ -45,10 +45,10 @@
       "feed": "recalls"
     },
     {
-      "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
-      "source": "WVTM Channel 13",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
-      "published": "2026-09-21T03:14:00.000Z",
+      "title": "Fatal crash reported on Ogeechee Road near Bradley Blvd.",
+      "source": "WTOC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjl2YmNUM09VMG8weHMwcl9RcjJadkNRdERCUU1SX013c19QUXczWThVdUxjMTF2ejk0RjlZY1hzdnNTZHBYcEFjNE85NS1oZnhfWmFwc3RibU9RYWFpWHpmWmhQeXJQN001bHJwRXVqSkFIajFlNlEzbHpEOXJudTZza2E4cF9iclAyam930gGiAUFVX3lxTE5SUkdoY1dZOVl3Sk5RVUo4Z2xPNktmVVB1VTYtQ2RWMVk0WTdTSkU1U2pPRWtxU1l3OEtHUDR6UDdjWlUxQ29PQUl5NXB4eGt1UTFLSzgzMkh1ZEdZWnc2LVBFVW85c0RjeFFPNkVxSHZaUDZZNEExaHNjeEhvdUpUbUlOLWVIeHRnWE9OMUd3aE9HWjV5S0JNWHk5RVhvcHlhZw?oc=5",
+      "published": "2026-09-21T00:59:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -80,8 +80,15 @@
       "feed": "ga-metro"
     },
     {
+      "title": "I-85 crash between car and tractor-trailer injures woman, breaks concrete divider",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSjJJZzF2VzN2bWtkYUNRakhoQVJ2TzBfRGp4LVJaaC1JQjZRdDFMS3V4TWJqT0p4a1A5ZUZERDlaMWNNbkVsdUh4TzdUNkdNTFZ2NmlwNG54UUd5U3JLSG5PSF80QjhnOV82NGVER0xHMlFGLXp1QnNka0h2YUxHREFfNWZUMDE4bjhLX3BHb0FEeDBfMWlRb1VzaHMtX2FseWhmZnI4WWwxV29qZW54TDMzNUdVTXlMYmlEUXJR0gHSAUFVX3lxTFBuZU9Yd29zRGtPODhiZlhGU3VxQThuMk14RjhobjBVZVU5eUduTzhQQ3JNREp1eGhaSG1jSDhZNDdUeFo2RnBDWDEtck51NktXcFRHbU9nRE9Oc21nUDFKTGRXTmhsWVZwNTY0Q2RHU3pSd1F2cE9pVUZKeXV3VjB1amJZdmZlYkFFdzF1VlU5cG5rNjdUb3o4RGk2c0ZnV2FoUFJ5VlRwR3hPN0NYNkc2SHFVYU9nOWVaSFBNTUVqd2FwOExlNHNZZEhydXFxUjk2dw?oc=5",
+      "published": "2026-09-18T12:18:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "I-285 set to full close again this weekend in southwest Atlanta",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQllvZXpGWjBHUjExaUJPWk9jc0Q5U0FkLTQ0SE03MGZJTHVtLTIxcW10NTR6RzNvWnM5bVZENngyYTFBd1hfUmJ4MHlQalFBZDNJQnl0U1N4dzg0SEFkOHM0OUtpUnRVVVVEemR6ckl4Y1VEaXBHZktrM0NaVUhyLUNNWkZucW8zMHRfLUJGYkFkUkpoLW9kOWZLR0dxSC1lYThjUW9ySXFLeS0tcENIWS1QUW42NktUNjJ6NExqdkM0RjhqejR2cDlfeGg?oc=5",
       "published": "2026-09-18T11:25:00.000Z",
       "feed": "ga-metro"
@@ -95,14 +102,14 @@
     },
     {
       "title": "Funeral held for Atlanta police recruit killed in motorcycle crash",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2VaUnF3ekxNSmZMelhIV0JGWV9GTE12akZIN3E2MjVvTXpWSFpzaENmT2FvclVPcFZaWlByVDNhMDB6NUFJMjVqSEVRTGwzc1JJTXNDVUs4a1lCNjlITks4UnNDajByb0pISC1sVW5GSWFfMThMRjNnX0xWUWNDU3laSy1iLWRBUm1TOU5PcnpKMHZOMnNNTlhhVEpPTG9SZXNPWm4tTQ?oc=5",
       "published": "2026-09-17T18:19:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "WCTV",
+      "source": "wctv.tv",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
       "published": "2026-09-17T01:48:00.000Z",
       "feed": "ga-roads"
@@ -137,7 +144,7 @@
     },
     {
       "title": "Toyota recalls over 8,000 vehicles. See affected model",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
