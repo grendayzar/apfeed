@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T20:17:53.844Z",
+  "generated": "2026-09-23T20:34:32.105Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,18 +10,18 @@
   "count": 21,
   "items": [
     {
+      "title": "Report: Texas' traffic fatality rate was 20th highest in nation last year; 25K+ killed in five-year period",
+      "source": "kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQkRGSjMweTU1T3FXX2xyenJnNlI0YkRiX0o4djFKQ2dYQlhReXpFY3drY1dYVlpCQnFPZ0NBMm1BSUVCd2tTTTd6a3BaMDZIREJ0ZnUzcWxWUzNyYnppSDdMQU9sOUpSQm9jMkUwTG9Wa0dXOTRQZGZqRHROOUhJQ1NiX2g2cDFLZUt4czB5SnY5SW1BSXhjQVJFUHl1LXVLclF6clhDbmtwT1NwMDMtQldOV2tlU3ZKY2Ffektuakg0cUVNOHZFaENiWjZOZTdyNDk4RXR5ZGw2dnc0Sm9TaXhUaUlUWko5QkgwbUl6eC1PRjQweVh2M1d6NERBTG55SFNjaWhkY3ZjNmVkTG5MY1M5dFJpR3RGRWc?oc=5",
+      "published": "2026-09-23T20:19:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "courthousenews.com",
+      "source": "Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "This Is The Most Dangerous Time To Drive",
-      "source": "Yahoo Autos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGJTcGtoekd6eEN6WFVUaG1OclNfYXctQ0Q1Sm9ONUpzZF9LYlh1dHpZOVZfMzdZd3dmbTZXcDZBZXYtaFg0UjY1OC1fdnppaHFOZjJqeWZ0eVZYN3pNVnRiQzRoUVYzOGJaLXY2TTRxNmhxWVMtNUZfRkpmVzE5cXdqUEtXTzRkS3NwTEw1UlB6UHFRdWlvaGJVX0k?oc=5",
-      "published": "2026-09-22T14:49:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "First Alert Traffic: Lanes slow after crash on I-20 east at Fulton Industrial Boulevard",
@@ -39,7 +39,7 @@
     },
     {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
-      "source": "Delawareonline.com",
+      "source": "delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
       "published": "2026-09-21T14:36:00.000Z",
       "feed": "recalls"
@@ -88,14 +88,14 @@
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Funeral held for Atlanta police recruit killed in motorcycle crash",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2VaUnF3ekxNSmZMelhIV0JGWV9GTE12akZIN3E2MjVvTXpWSFpzaENmT2FvclVPcFZaWlByVDNhMDB6NUFJMjVqSEVRTGwzc1JJTXNDVUs4a1lCNjlITks4UnNDajByb0pISC1sVW5GSWFfMThMRjNnX0xWUWNDU3laSy1iLWRBUm1TOU5PcnpKMHZOMnNNTlhhVEpPTG9SZXNPWm4tTQ?oc=5",
       "published": "2026-09-17T18:19:00.000Z",
       "feed": "ga-roads"
@@ -118,7 +118,7 @@
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
       "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
-      "published": "2026-09-15T05:04:59.000Z",
+      "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
     },
     {
@@ -137,7 +137,7 @@
     },
     {
       "title": "National Safety Council Announces NHTSA-Funded 2026 Road to Zero Community Traffic Safety Grants",
-      "source": "prnewswire.com",
+      "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUzZlMUVwTWh5UzhjaFFmVnJKeS14bEp6ZkJXSWFNN2luNW0zLXpjOGFhaEYzc09BWF9vdEM0VFd0N0pQSDNob1NDUnNyMWtOZWJ3cFdSbmhWOHlEX0puX1A2R2pYQzI5eFAxV21jZzZTTktKS0lCWXl4R2ZuUVNGZHY0bjQ4bWlzNkp2OG5DQllQaEpKeG9MeW1ZalRpYVV0RmhwTkF1eUxObTNpTUxHYXByWHptSjk0V25TQnlYSDQwemk2V3E2cDA5RWhJcmkxa1RmallvU3JCaVRnVG5DODNFMWxXSGs?oc=5",
       "published": "2026-09-11T14:00:00.000Z",
       "feed": "us-safety"
