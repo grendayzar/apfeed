@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T09:16:51.247Z",
+  "generated": "2026-09-23T09:34:43.615Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,15 +17,8 @@
       "feed": "injurylaw"
     },
     {
-      "title": "This Is The Most Dangerous Time To Drive",
-      "source": "Yahoo Autos",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGJTcGtoekd6eEN6WFVUaG1OclNfYXctQ0Q1Sm9ONUpzZF9LYlh1dHpZOVZfMzdZd3dmbTZXcDZBZXYtaFg0UjY1OC1fdnppaHFOZjJqeWZ0eVZYN3pNVnRiQzRoUVYzOGJaLXY2TTRxNmhxWVMtNUZfRkpmVzE5cXdqUEtXTzRkS3NwTEw1UlB6UHFRdWlvaGJVX0k?oc=5",
-      "published": "2026-09-22T14:49:00.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
-      "source": "smartcitiesdive.com",
+      "source": "Smart Cities Dive",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSaWE5bVgxTmpDd3ZlZVlHQndaalJBcUM1SUdQNWw3VG5RQTFpZnFMMlFjb3lqcEpOYXEtanFVMUV3ajdOd003WnBFZ0s5WE1RNUFDS1kxWVVkejlwcVRheDFGZTN2cWx5QXRRN0Y0TlN5STAyS2tZ?oc=5",
       "published": "2026-09-21T16:15:42.000Z",
       "feed": "us-safety"
@@ -73,6 +66,13 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
+      "source": "Democrat and Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
+      "published": "2026-09-19T02:48:05.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Tractor-trailer overturns on I-20 ramp to I-285",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
@@ -109,7 +109,7 @@
     },
     {
       "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "wctv.tv",
+      "source": "WCTV",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
       "published": "2026-09-17T01:48:00.000Z",
       "feed": "ga-roads"
@@ -123,7 +123,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T05:04:59.000Z",
       "feed": "injurylaw"
@@ -158,7 +158,7 @@
     },
     {
       "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
-      "source": "fleetowner.com",
+      "source": "FleetOwner",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
       "published": "2026-09-09T19:18:48.000Z",
       "feed": "recalls"
