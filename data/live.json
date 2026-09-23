@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T12:21:55.994Z",
+  "generated": "2026-09-23T12:54:19.019Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
+      "published": "2026-09-22T17:09:18.000Z",
+      "feed": "recalls"
     },
     {
       "title": "This Is The Most Dangerous Time To Drive",
@@ -87,13 +94,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Major crash involving garbage truck in Henry County",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQdIBowFBVV95cUxOd0RFUWllUG5fNVpVZE5TLWRTOERYVVh4VmFfQXQtdkdaTWc5RkVJRzFaU2UtQ2FJcGh2RjFmYUtwUzNQZGtxQ1JlMlprYmQ5eFh2RHN3cFZnbk1hdlpjZ3VjT2hLeXZNQ2NGNU1mM0V3eGN1cUVxb1diQWh2X2F3dC02b2N5UUY3TmFSbU1PR0JLRTF2ZzZxMy0tNUtaSlFnc25N?oc=5",
-      "published": "2026-09-18T19:39:30.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "I-285 set to full close again this weekend in southwest Atlanta",
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQllvZXpGWjBHUjExaUJPWk9jc0Q5U0FkLTQ0SE03MGZJTHVtLTIxcW10NTR6RzNvWnM5bVZENngyYTFBd1hfUmJ4MHlQalFBZDNJQnl0U1N4dzg0SEFkOHM0OUtpUnRVVVVEemR6ckl4Y1VEaXBHZktrM0NaVUhyLUNNWkZucW8zMHRfLUJGYkFkUkpoLW9kOWZLR0dxSC1lYThjUW9ySXFLeS0tcENIWS1QUW42NktUNjJ6NExqdkM0RjhqejR2cDlfeGg?oc=5",
@@ -105,11 +105,11 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "wctv.tv",
+      "source": "WCTV",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
       "published": "2026-09-17T01:48:00.000Z",
       "feed": "ga-roads"
@@ -155,13 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Recall Roundup: NHTSA flags safety defects across trucks, vans, and pickups",
-      "source": "FleetOwner",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQakNJRndsWURSZ1ctOGZUUERZZ295UGw4WDJvQTBHUHhvVVEyYVZxaWJGRS1FM1lOYV9rR3pRUUM1MDhaSWZLY3RvQnNadXBnc1lYN2EtdjlQT0szeE9GWEJySkRxUnlzcWV1NjV5Nmd3VXpvWVlTd0t5MTdEUmw5OVN1dDRRUFFNUkpKZmZNYkJJOXVvNzVPZGV6VGp1cWo4dHh5cTF0c25WOXpYUndpUXJkUmliOS1kbl9vNnMtVDRucm5Gc0Nn?oc=5",
-      "published": "2026-09-09T19:18:48.000Z",
-      "feed": "recalls"
     }
   ]
 }
