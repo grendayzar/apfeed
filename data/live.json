@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T20:49:51.413Z",
+  "generated": "2026-09-23T21:17:00.321Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -52,6 +52,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Fatal crash reported on Ogeechee Road near Bradley Blvd.",
+      "source": "WTOC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYjl2YmNUM09VMG8weHMwcl9RcjJadkNRdERCUU1SX013c19QUXczWThVdUxjMTF2ejk0RjlZY1hzdnNTZHBYcEFjNE85NS1oZnhfWmFwc3RibU9RYWFpWHpmWmhQeXJQN001bHJwRXVqSkFIajFlNlEzbHpEOXJudTZza2E4cF9iclAyam930gGiAUFVX3lxTE5SUkdoY1dZOVl3Sk5RVUo4Z2xPNktmVVB1VTYtQ2RWMVk0WTdTSkU1U2pPRWtxU1l3OEtHUDR6UDdjWlUxQ29PQUl5NXB4eGt1UTFLSzgzMkh1ZEdZWnc2LVBFVW85c0RjeFFPNkVxSHZaUDZZNEExaHNjeEhvdUpUbUlOLWVIeHRnWE9OMUd3aE9HWjV5S0JNWHk5RVhvcHlhZw?oc=5",
+      "published": "2026-09-21T00:59:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Man dies in hit-and-run crash on interstate",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWpuSmFVNndTcGlyVTVjLVFwVk8weko3eWd0ZjdPZUFCMExxSkNzdlVtRmpBUWpUcnVJa0hqR1cxNnFPYkRYS1BjU1FPcXlQZmVlUjEzU0NpUTVxa1E2dTdLREc0UEo3anNTZExKUTUzUk5xdjE3VTlwVkhoaFFwallGTHY3aWNya0Naa29NNEtTNlhISUFtQVM3MjA5Zk1XZEFHdlB0UE9SUdIBvgFBVV95cUxOeG9QbTFBTnZrVlhmYW9vSEhubldBTWdGZG5pd3BJQzNGX3RoeEx0WWlsT29ReGEtS1dsYnN1ZXBBbVNPM1NlZnVLWV92dUVHeUdwRzBuby1vTUp6UmlhS05LWVFyZUZXWnhvX3Z2QTFESXZ5Um1EbVRYTmNkRlhRVjRQQWtwZE5TY0dyNUJlbUhuTnhlQjZVaUV0TW10djBNamR0c0tLSU9vUkJEZjFxT085ak0zNmNISzR6SU1R?oc=5",
@@ -73,13 +80,6 @@
       "feed": "injurylaw"
     },
     {
-      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Democrat and Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
-      "published": "2026-09-19T02:48:05.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Tractor-trailer overturns on I-20 ramp to I-285",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
@@ -98,13 +98,6 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Funeral held for Atlanta police recruit killed in motorcycle crash",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2VaUnF3ekxNSmZMelhIV0JGWV9GTE12akZIN3E2MjVvTXpWSFpzaENmT2FvclVPcFZaWlByVDNhMDB6NUFJMjVqSEVRTGwzc1JJTXNDVUs4a1lCNjlITks4UnNDajByb0pISC1sVW5GSWFfMThMRjNnX0xWUWNDU3laSy1iLWRBUm1TOU5PcnpKMHZOMnNNTlhhVEpPTG9SZXNPWm4tTQ?oc=5",
-      "published": "2026-09-17T18:19:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -144,7 +137,7 @@
     },
     {
       "title": "National Safety Council Announces NHTSA-Funded 2026 Road to Zero Community Traffic Safety Grants",
-      "source": "PR Newswire",
+      "source": "prnewswire.com",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUzZlMUVwTWh5UzhjaFFmVnJKeS14bEp6ZkJXSWFNN2luNW0zLXpjOGFhaEYzc09BWF9vdEM0VFd0N0pQSDNob1NDUnNyMWtOZWJ3cFdSbmhWOHlEX0puX1A2R2pYQzI5eFAxV21jZzZTTktKS0lCWXl4R2ZuUVNGZHY0bjQ4bWlzNkp2OG5DQllQaEpKeG9MeW1ZalRpYVV0RmhwTkF1eUxObTNpTUxHYXByWHptSjk0V25TQnlYSDQwemk2V3E2cDA5RWhJcmkxa1RmallvU3JCaVRnVG5DODNFMWxXSGs?oc=5",
       "published": "2026-09-11T14:00:00.000Z",
       "feed": "us-safety"
@@ -155,6 +148,13 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
+      "source": "KEYE",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
+      "published": "2026-09-11T07:00:00.000Z",
+      "feed": "us-safety"
     }
   ]
 }
