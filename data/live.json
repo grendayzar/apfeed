@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T20:34:32.105Z",
+  "generated": "2026-09-23T20:49:51.413Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,13 +18,13 @@
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "Courthouse News",
+      "source": "courthousenews.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
     },
     {
-      "title": "First Alert Traffic: Lanes slow after crash on I-20 east at Fulton Industrial Boulevard",
+      "title": "Lanes reopen after crash on I-20 east at Fulton Industrial Boulevard",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN1BtZ0tRR285VlFlWFJiSXQ5YVp3ejhiRlpkdlc3enJtTTNxM19RcnQ0YWxibkVzMnl0STJRSXBldnJwTDBtT2FUVFdrbnJ2elQ1WWJIZHowVkVyWXBMVnhVdWxKdDZGbVNDdE9XeHhqeURmU1hucFZYblBqZmE5akc2Zl9hNmxwNnJNMk15R0Z5NnB1U1habFZXMTIzTHA3aU92M1RrR2lEZDVSWHZDeHgtRkE1X1g3ckNGNmhOU2NLdHpCakVqaDln0gHeAUFVX3lxTFBrWGM2Sk9nX24wVVRGSmVqRDZ6SHg0SVVSTkdJeFZzSTk2Z3UySDRIQ2tabXV4RGdPTi04THM2NEx5WWxhSmQtcDRZc0ctUEdSSTZhZWg4OTRpWHItTF9uUVU4UlotVWJ6SHB0WUxQWl9SY1BUd3JrSnRBazB1blgyTkl6VW9PdzNIRXdWUmV0WTVfNEtRRnVPVWVqRUhLSVRRaFl1cFVETmFNSDViMTgya1IyTFo2T1RsS3ZOdHRxYkI1Z09uSkdybzJua3JfYzVaa0V2V19XVUlaZGtiUQ?oc=5",
       "published": "2026-09-22T11:32:00.000Z",
@@ -39,7 +39,7 @@
     },
     {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
       "published": "2026-09-21T14:36:00.000Z",
       "feed": "recalls"
@@ -73,6 +73,13 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
+      "source": "Democrat and Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
+      "published": "2026-09-19T02:48:05.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Tractor-trailer overturns on I-20 ramp to I-285",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
@@ -88,14 +95,14 @@
     },
     {
       "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
       "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Funeral held for Atlanta police recruit killed in motorcycle crash",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2VaUnF3ekxNSmZMelhIV0JGWV9GTE12akZIN3E2MjVvTXpWSFpzaENmT2FvclVPcFZaWlByVDNhMDB6NUFJMjVqSEVRTGwzc1JJTXNDVUs4a1lCNjlITks4UnNDajByb0pISC1sVW5GSWFfMThMRjNnX0xWUWNDU3laSy1iLWRBUm1TOU5PcnpKMHZOMnNNTlhhVEpPTG9SZXNPWm4tTQ?oc=5",
       "published": "2026-09-17T18:19:00.000Z",
       "feed": "ga-roads"
@@ -148,13 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "KEYE",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
-      "published": "2026-09-11T07:00:00.000Z",
-      "feed": "us-safety"
     }
   ]
 }
