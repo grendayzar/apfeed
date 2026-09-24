@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T01:33:26.569Z",
+  "generated": "2026-09-24T06:45:06.085Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,6 +10,20 @@
   "count": 22,
   "items": [
     {
+      "title": "All lanes of I-20 eastbound in DeKalb County closed after crash",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
+      "published": "2026-09-24T02:36:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Lanes reopen on I-95 in Liberty County following fatal crash",
+      "source": "wjcl.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1V0aERKNmpnMWprc3lsLWk0VXJtMWdfMjNUQmpHV1dhM2NKSEY2UnJXeGhydnJXdlJhLVFLUXljTGIwcTdHZEhZSmNFQWpKVnJzZUFCQ3R0WVp0YUlQQkZZdXZ1TnItUkhYdFdkekNCblRiRm1iS0dtR0g5aUQtNnZkWmdGNG52S28waGdvZmJaZw?oc=5",
+      "published": "2026-09-24T01:56:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Report: Texas' traffic fatality rate was 20th highest in nation last year; 25K+ killed in five-year period",
       "source": "kens5.com",
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQkRGSjMweTU1T3FXX2xyenJnNlI0YkRiX0o4djFKQ2dYQlhReXpFY3drY1dYVlpCQnFPZ0NBMm1BSUVCd2tTTTd6a3BaMDZIREJ0ZnUzcWxWUzNyYnppSDdMQU9sOUpSQm9jMkUwTG9Wa0dXOTRQZGZqRHROOUhJQ1NiX2g2cDFLZUt4czB5SnY5SW1BSXhjQVJFUHl1LXVLclF6clhDbmtwT1NwMDMtQldOV2tlU3ZKY2Ffektuakg0cUVNOHZFaENiWjZOZTdyNDk4RXR5ZGw2dnc0Sm9TaXhUaUlUWko5QkgwbUl6eC1PRjQweVh2M1d6NERBTG55SFNjaWhkY3ZjNmVkTG5MY1M5dFJpR3RGRWc?oc=5",
@@ -18,7 +32,7 @@
     },
     {
       "title": "Midway woman killed in I-95 crash in Liberty County",
-      "source": "WTOC",
+      "source": "wtoc.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3o4dFVNWnR6VjRtTEEwdHVtMG5zdnFoS0RBREJxMUtyRDFQYzVjdDJXUG5xdHFmMzhsVnh5RWxXWEtiVEloUGcybWtyRXFDdGt5WkN3ODM4M0xOUWpXMEdROTFjdFAyT1ZMOWZieFVjUTYtdEdlOElCZVNKNWNiUVE0dFpUeUVkYl9NNUk1a9IBowFBVV95cUxNNGNobDBLbEZVT2RUUVRiTl9LQ1FLejAwZzlwWVJsR2lOWnRfdDJWRlhKVk5oSmZZZE9tQkQyeDlYbGQ5TFBpVEg5VkhVMWZyd0FlV3B2X2Q0WlVZcHBJRDRfb1NPSFctNTZjZm1xWkJLbUJoVmxNeHBnZkJCdlBZcmR2T2dKSHFmUXNLZVVsZjdoenYwejJkSVJBN1ZjUXlJNnFR?oc=5",
       "published": "2026-09-23T19:52:00.000Z",
       "feed": "ga-roads"
@@ -31,29 +45,15 @@
       "feed": "injurylaw"
     },
     {
-      "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
-      "published": "2026-09-22T17:09:18.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Lanes reopen after crash on I-20 east at Fulton Industrial Boulevard",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN1BtZ0tRR285VlFlWFJiSXQ5YVp3ejhiRlpkdlc3enJtTTNxM19RcnQ0YWxibkVzMnl0STJRSXBldnJwTDBtT2FUVFdrbnJ2elQ1WWJIZHowVkVyWXBMVnhVdWxKdDZGbVNDdE9XeHhqeURmU1hucFZYblBqZmE5akc2Zl9hNmxwNnJNMk15R0Z5NnB1U1habFZXMTIzTHA3aU92M1RrR2lEZDVSWHZDeHgtRkE1X1g3ckNGNmhOU2NLdHpCakVqaDln0gHeAUFVX3lxTFBrWGM2Sk9nX24wVVRGSmVqRDZ6SHg0SVVSTkdJeFZzSTk2Z3UySDRIQ2tabXV4RGdPTi04THM2NEx5WWxhSmQtcDRZc0ctUEdSSTZhZWg4OTRpWHItTF9uUVU4UlotVWJ6SHB0WUxQWl9SY1BUd3JrSnRBazB1blgyTkl6VW9PdzNIRXdWUmV0WTVfNEtRRnVPVWVqRUhLSVRRaFl1cFVETmFNSDViMTgya1IyTFo2T1RsS3ZOdHRxYkI1Z09uSkdybzJua3JfYzVaa0V2V19XVUlaZGtiUQ?oc=5",
-      "published": "2026-09-22T11:32:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "US DOT’s new road safety plan emphasizes reducing congestion, national AV strategy",
-      "source": "Smart Cities Dive",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSaWE5bVgxTmpDd3ZlZVlHQndaalJBcUM1SUdQNWw3VG5RQTFpZnFMMlFjb3lqcEpOYXEtanFVMUV3ajdOd003WnBFZ0s5WE1RNUFDS1kxWVVkejlwcVRheDFGZTN2cWx5QXRRN0Y0TlN5STAyS2tZ?oc=5",
-      "published": "2026-09-21T16:15:42.000Z",
+      "title": "This Is The Most Dangerous Time To Drive",
+      "source": "Yahoo Autos",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZGJTcGtoekd6eEN6WFVUaG1OclNfYXctQ0Q1Sm9ONUpzZF9LYlh1dHpZOVZfMzdZd3dmbTZXcDZBZXYtaFg0UjY1OC1fdnppaHFOZjJqeWZ0eVZYN3pNVnRiQzRoUVYzOGJaLXY2TTRxNmhxWVMtNUZfRkpmVzE5cXdqUEtXTzRkS3NwTEw1UlB6UHFRdWlvaGJVX0k?oc=5",
+      "published": "2026-09-22T14:49:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "Delawareonline.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
       "published": "2026-09-21T14:36:00.000Z",
       "feed": "recalls"
@@ -81,7 +81,7 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "time.com",
+      "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
@@ -115,13 +115,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "‘An incredible person’: Woman killed in Thomasville crash remembered by husband",
-      "source": "WCTV",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEQ4LUZPeDhPYUNKSjN5NEhPV3M3U25tank1bEhmVjN6RlhTckc2eXl6NVVWb1g0Tzhma0lEOGFNa2x1Q2FadHlOQnU3Y01xc1kxeFNqcFJMQjF3eEtLU3hRSlNvaGlJWTJPOXFwNVN3R3NIeHY3clF1QUF4YjVOYUQxMGJCQS0tTEtmTTRWdUNWbGhXanp6VzVxTkwtanpRRmRFbnEyMVU?oc=5",
-      "published": "2026-09-17T01:48:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
       "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
@@ -134,6 +127,13 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "NHTSA commercial vehicle recalls for the week of Sept. 14, 2026",
+      "source": "Trucks, Parts, Service",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1FDc25sSFRadndjVlF6eERmd0ZZNTd6c2lFY1NFUnBFcVNmZXRjN0pHaE91VXdGNF84c3ZGN2RZRWhwYlE1MDZLV0RTQ0cwbzI3Y1E5SzhIdG1fcFYwS3EtcDZxdUpOcUxQSjJFVXQ3dTQyR0c3VHp4ODRocTVQTFdOZ2R2NzV5UU9hWEhYZDY2SlRlbjBjX216Y2ZxWm16TTJUbEFoQlNWcXlURHAyM2xwYTNzSkpyaFpMUlZSU2VKa1JvaWhjWHN5VEF0aWVqQjln?oc=5",
+      "published": "2026-09-14T15:43:27.000Z",
+      "feed": "recalls"
     },
     {
       "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
