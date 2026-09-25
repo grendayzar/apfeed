@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T19:33:24.069Z",
+  "generated": "2026-09-25T22:48:56.145Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,8 +17,15 @@
       "feed": "us-safety"
     },
     {
+      "title": "School bus carrying DeKalb County students collides with box truck near I-20",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXV1VlBnZlJ2N2lyaDRPdFQxbTZwcER4VzBsTFRCUTFXLUtSd05MLWxQSGZZRUVDc05XazFFMnVQaS1pU3psdnFKWVdyTmlpSnItdFZPT3ozVTFPT1JhV1JnZ0VrSGJtNXdWS0pDWTFxdmR3LTNYcTg3QkwxXzlwLVNNbXRneGRReEFiZmhjQkczMUwtc2c2NElrTGZXcEZGYkRLWnZOVElncVdBNFZWVzNmbGo?oc=5",
+      "published": "2026-09-25T13:55:51.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "GDOT says westside I-285 rebuild is 15-20% complete as seventh full closure begins",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUxBTXZHcnpkc2JmeDZETFBXa3RjaW1zWC1sRW5RVWN6TmYwTWlGVFBxWjdWYXRsMWZ6UDBwMlhIRlNrRzYtLUdWMG1xbTJHZTViYWI0RUVMeVJPakFiVURWN3lFcEhaRmw0akhwU2pVZk9Md19lODItMlNrNm9LTFhlbEZwN3VqbjlBNU8ycGhGeThiYkRQeXR4Ym1XLVVWNXNKMUNyVmNYRWZPMVY3ZXM2RE1WVFlzTmlEVFhERVJvOTNR?oc=5",
       "published": "2026-09-25T11:41:00.000Z",
       "feed": "ga-metro"
@@ -57,6 +64,13 @@
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQkRGSjMweTU1T3FXX2xyenJnNlI0YkRiX0o4djFKQ2dYQlhReXpFY3drY1dYVlpCQnFPZ0NBMm1BSUVCd2tTTTd6a3BaMDZIREJ0ZnUzcWxWUzNyYnppSDdMQU9sOUpSQm9jMkUwTG9Wa0dXOTRQZGZqRHROOUhJQ1NiX2g2cDFLZUt4czB5SnY5SW1BSXhjQVJFUHl1LXVLclF6clhDbmtwT1NwMDMtQldOV2tlU3ZKY2Ffektuakg0cUVNOHZFaENiWjZOZTdyNDk4RXR5ZGw2dnc0Sm9TaXhUaUlUWko5QkgwbUl6eC1PRjQweVh2M1d6NERBTG55SFNjaWhkY3ZjNmVkTG5MY1M5dFJpR3RGRWc?oc=5",
       "published": "2026-09-23T20:19:00.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Midway woman killed in I-95 crash in Liberty County",
+      "source": "WTOC",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3o4dFVNWnR6VjRtTEEwdHVtMG5zdnFoS0RBREJxMUtyRDFQYzVjdDJXUG5xdHFmMzhsVnh5RWxXWEtiVEloUGcybWtyRXFDdGt5WkN3ODM4M0xOUWpXMEdROTFjdFAyT1ZMOWZieFVjUTYtdEdlOElCZVNKNWNiUVE0dFpUeUVkYl9NNUk1a9IBowFBVV95cUxNNGNobDBLbEZVT2RUUVRiTl9LQ1FLejAwZzlwWVJsR2lOWnRfdDJWRlhKVk5oSmZZZE9tQkQyeDlYbGQ5TFBpVEg5VkhVMWZyd0FlV3B2X2Q0WlVZcHBJRDRfb1NPSFctNTZjZm1xWkJLbUJoVmxNeHBnZkJCdlBZcmR2T2dKSHFmUXNLZVVsZjdoenYwejJkSVJBN1ZjUXlJNnFR?oc=5",
+      "published": "2026-09-23T19:52:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
@@ -101,13 +115,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Motorcyclist dead following crash near Bradley Boulevard in Chatham County",
-      "source": "WTOC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczBJVDNrblFBNm1jVG1EOXJrbVdSSFRRUUNJenctZEFycXRzb1ZYbm9ZV2wzQXoySXBpUnNwd2JfTmRFeC0tM09QbDBnRC1LMXRJaUZsY3RxdlBWMUFUek5MMzNqcUQ5N0kwbE50SldFaHpsSGh3QW5RZlRHVVNUcEtYeXVrdHBPOEhRdzhqdnVZUklmUDJKSTdodHprMkpxcVpwQWZqMNIBuwFBVV95cUxNcVY3c19nOUd3SEdnakp6UW1NcXJVSXNyU2h4MXM0UTA1cnlOX0hHZmtQVXVRbGY4dzBabU5UUzhwdmRCNDZac3VMb0NkZ2JBWDZHOXY3LWwtYmVHVEw0a1JJWWdDUTV6X1pod21TdHlYMy1mVzJsdTZITk1FN2hjY3loVnUxQ2o5RkItQjRvbFZHMUo1MjJEU3F0UUFYdUFfR2t6VDVCS0YtQ0pCQ1N3ekh5blVfOVJINzFR?oc=5",
-      "published": "2026-09-21T00:59:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "One dead following Saturday four wheeler crash",
       "source": "Barnesville.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yV05BTzF1QnZXSFdPZFNwSVRkZWg3T2J2dmVQTXh4bHZHMnhZcmdiNnVvMUNleHUtYTZ4eE9NZkJWZFgxNHlPdld4STF5ZDdlUlRNVGUyQVVxOGprUTNjUkstbFZocF9wVHlxN1YybEkyZTRWaS1yMWtaQQ?oc=5",
@@ -127,13 +134,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
       "published": "2026-09-19T02:48:05.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Tractor-trailer overturns on I-20 ramp to I-285",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLTZlMXVuRV9UeW1TeUVpQWVlU0NFWGFKRGJRd01iaV9ORXA1MVRJSFNCZW5aTjZRYjVMY3Z6WlJMTjQ5QkxoNFRnX1BwLWdCbTk1U2VxcHhPekw1WkNnN2NjaUdubWNvU1VhMGRjcDNrQjFQUWZzM1QwZG91WnJzVEhuQ1VIU183T3RWYzZ0R2Z1c3FlRFZaR003Y0lQRG4yLWptWtIBuAFBVV95cUxOU0d5RkU3dnZYWDJsOVRzM1hLeGZfSmMwWHlyMDFla1NwR2pRRG5qT21KaU1vcWxMbkthUWdTLUpsVEhHOFFMaTZxTTJBbEVqaUNNcGVfRDFnQUcwUmdpVE5SbS0tWVk0bFBxVTFOWWVPRG5LeHR5TEdNWkcxYS1za0FUNjJvSlkzTVJlbjNzbGx2V2tEc2IwbXlJQV8zUlFZVlJSYVh4SEdnQUNIY0lkRm5nMmpyOHZs?oc=5",
-      "published": "2026-09-18T21:08:19.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
