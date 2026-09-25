@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T00:00:05.390Z",
+  "generated": "2026-09-25T04:47:50.977Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Woman killed in crash on I-95 in Liberty County",
@@ -18,14 +18,14 @@
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "The Oklahoman",
+      "source": "oklahoman.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "foxcarolina.com",
+      "source": "FOX Carolina News",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
       "published": "2026-09-24T09:53:00.000Z",
       "feed": "ga-roads"
@@ -73,11 +73,11 @@
       "feed": "recalls"
     },
     {
-      "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
-      "source": "WVTM Channel 13",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
-      "published": "2026-09-21T03:14:00.000Z",
-      "feed": "ga-roads"
+      "title": "NHTSA commercial vehicle recalls for the week of Sept. 21, 2026",
+      "source": "truckpartsandservice.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYTF4Y0pRR2Q1WEs2WW9jZzRzb1N5Q1l3UC1YVzNKMGxXbGRJTnVQYWtuM3prOVRHamg3cmhtdUduWkg3aTYzeGVSdzg3clpRVnlIUlhIMWZyWnprNXdlNmJzZF9RMXZrRzlTcjhEMlJBdFZ1dHlkcE0zb0VfM21qNWJTV1hVMUQwWHZfaHJmX1Faa2xCZ0ZHdVpqdlZkWG1BamdXRkwtVVdHLU5jaDhPT3ZOR2pyV0dtVjFHeTdzRmhDWi1sSUU2XzRPanFQTk5TblFB?oc=5",
+      "published": "2026-09-21T14:13:39.000Z",
+      "feed": "recalls"
     },
     {
       "title": "Pedestrian killed in hit-and-run on I-75/85 SB, Atlanta police say",
@@ -129,13 +129,6 @@
       "feed": "injurylaw"
     },
     {
-      "title": "NHTSA commercial vehicle recalls for the week of Sept. 14, 2026",
-      "source": "Trucks, Parts, Service",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd1FDc25sSFRadndjVlF6eERmd0ZZNTd6c2lFY1NFUnBFcVNmZXRjN0pHaE91VXdGNF84c3ZGN2RZRWhwYlE1MDZLV0RTQ0cwbzI3Y1E5SzhIdG1fcFYwS3EtcDZxdUpOcUxQSjJFVXQ3dTQyR0c3VHp4ODRocTVQTFdOZ2R2NzV5UU9hWEhYZDY2SlRlbjBjX216Y2ZxWm16TTJUbEFoQlNWcXlURHAyM2xwYTNzSkpyaFpMUlZSU2VKa1JvaWhjWHN5VEF0aWVqQjln?oc=5",
-      "published": "2026-09-14T15:43:27.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
       "source": "Detroit Free Press",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcThrM1B1cXpQeXhSVG8tM2lGT3BTUjFqSndwQ1E4cS1xd2Q0RnNET21WWGlzdEN5Q0F5WFV2VWlqOXRJc3pXdDIwRjlfZDFvanhhR08tYjdUQjFyQ3ZoR1pyN1lSZlN6eFA0dmlldlhSMWtkSzhHOGgxU0UzQzgxU0V4WkRjR096MTBiOHVrQWdlTmRzQ3J2TTgtWkRUc2JkdnhXTlBR?oc=5",
@@ -151,14 +144,14 @@
     },
     {
       "title": "Toyota recalls over 8,000 vehicles. See affected model",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "cbsaustin.com",
+      "source": "KEYE",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "us-safety"
