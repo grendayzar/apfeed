@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T21:25:39.308Z",
+  "generated": "2026-09-25T00:00:05.390Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,14 +25,14 @@
     },
     {
       "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "FOX Carolina News",
+      "source": "foxcarolina.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
       "published": "2026-09-24T09:53:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
       "published": "2026-09-24T02:36:00.000Z",
       "feed": "ga-roads"
@@ -80,6 +80,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Pedestrian killed in hit-and-run on I-75/85 SB, Atlanta police say",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLXQ3QlJXaEpmZU56eWpPS04yc2FNdVlGeUI4dW9pWGpYSE05SmlaYnJOalFhM2NxYmE5bEpoSDVjbExsbllqYnVUTGhJZzlWTWFhMDZTUWloVUlhTjJRVGhITGxhaFcxQXJGWGRtMTZVMFVpRFVNdV9jUEdKSlBnVlBEdlFxdWoxM1huS3BpZE4wWGNaUVI4?oc=5",
+      "published": "2026-09-19T16:59:12.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
       "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
@@ -105,13 +112,6 @@
       "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQllvZXpGWjBHUjExaUJPWk9jc0Q5U0FkLTQ0SE03MGZJTHVtLTIxcW10NTR6RzNvWnM5bVZENngyYTFBd1hfUmJ4MHlQalFBZDNJQnl0U1N4dzg0SEFkOHM0OUtpUnRVVVVEemR6ckl4Y1VEaXBHZktrM0NaVUhyLUNNWkZucW8zMHRfLUJGYkFkUkpoLW9kOWZLR0dxSC1lYThjUW9ySXFLeS0tcENIWS1QUW42NktUNjJ6NExqdkM0RjhqejR2cDlfeGg?oc=5",
       "published": "2026-09-18T11:25:00.000Z",
-      "feed": "ga-metro"
-    },
-    {
-      "title": "I-285 South lanes clear at South Atlanta Road following rollover crash",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEh4UmpmSGY5MlpoUE9MS1h3ODI2VFFkaHF6THl3SWZIcHRLUm4tVEpfY1Z1RG93WWZEc3M1R3JBU0xWam1aVWxwaVhrLUtEWmtPdzRkai1UaGZ5Nk9zRnZqYmZIV2JlcmQxemg3Q2RBX3NEWlVwOXJLUWgzSUx5TGNKbU1QZVVPa1lVU0ZsRnlNTFpOYW9sR2c4MThNSVB0UXc?oc=5",
-      "published": "2026-09-17T21:49:57.000Z",
       "feed": "ga-metro"
     },
     {
@@ -151,14 +151,14 @@
     },
     {
       "title": "Toyota recalls over 8,000 vehicles. See affected model",
-      "source": "USA Today",
+      "source": "usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "KEYE",
+      "source": "cbsaustin.com",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
       "published": "2026-09-11T07:00:00.000Z",
       "feed": "us-safety"
