@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T04:47:50.977Z",
+  "generated": "2026-09-25T10:07:05.652Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,15 +10,8 @@
   "count": 21,
   "items": [
     {
-      "title": "Woman killed in crash on I-95 in Liberty County",
-      "source": "WJCL",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1V0aERKNmpnMWprc3lsLWk0VXJtMWdfMjNUQmpHV1dhM2NKSEY2UnJXeGhydnJXdlJhLVFLUXljTGIwcTdHZEhZSmNFQWpKVnJzZUFCQ3R0WVp0YUlQQkZZdXZ1TnItUkhYdFdkekNCblRiRm1iS0dtR0g5aUQtNnZkWmdGNG52S28waGdvZmJaZw?oc=5",
-      "published": "2026-09-24T18:05:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "oklahoman.com",
+      "source": "The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
       "feed": "us-safety"
@@ -59,6 +52,13 @@
       "feed": "injurylaw"
     },
     {
+      "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
+      "published": "2026-09-22T17:09:18.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Georgia mom killed in four-wheeler crash",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRW11RmVtaEloNDNrb0ozdXY4dHRvcjhEZ2UxUUlqeF9xb2pNM3VGaXdyaWtyeUlWdHoyZGZtU1BHY3NhXzZIMDZGYnVaSGxhbXRxTE80ZXFiRlNiaWpVRUEwN0pld3l5Mlpha01CWjRJakw4MEtzVjVjSE9VRGQ1M2QzMnJwbm9uUUZLVElDM1lwUms4b2s5RWFub3AwUEHSAbMBQVVfeXFMUFk4WjZ2dTM2QjVXQ1VfN1c1a0VlVi10dkRYbm50SFB3VlgwOWQwZVZUOEtSeHpqa0RGTVRGbmEwaVlIdVpXVWNGNzNadURwMjhFMnNmU2xTVnZ4WmRoZHZNcmlycUtTQXM4Qlk1ZFB6VkhHU2lhU2FaekVVVTFVOGh3T2FaUzNQOW1adVZranFfcHNyTmJPczBtMFBTTHJBOGlPQ0RTZUJlaXgwMVR0ZkI0R3M?oc=5",
@@ -73,11 +73,11 @@
       "feed": "recalls"
     },
     {
-      "title": "NHTSA commercial vehicle recalls for the week of Sept. 21, 2026",
-      "source": "truckpartsandservice.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYTF4Y0pRR2Q1WEs2WW9jZzRzb1N5Q1l3UC1YVzNKMGxXbGRJTnVQYWtuM3prOVRHamg3cmhtdUduWkg3aTYzeGVSdzg3clpRVnlIUlhIMWZyWnprNXdlNmJzZF9RMXZrRzlTcjhEMlJBdFZ1dHlkcE0zb0VfM21qNWJTV1hVMUQwWHZfaHJmX1Faa2xCZ0ZHdVpqdlZkWG1BamdXRkwtVVdHLU5jaDhPT3ZOR2pyV0dtVjFHeTdzRmhDWi1sSUU2XzRPanFQTk5TblFB?oc=5",
-      "published": "2026-09-21T14:13:39.000Z",
-      "feed": "recalls"
+      "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
+      "source": "WVTM Channel 13",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
+      "published": "2026-09-21T03:14:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Pedestrian killed in hit-and-run on I-75/85 SB, Atlanta police say",
@@ -92,6 +92,13 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
+      "source": "democratandchronicle.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
+      "published": "2026-09-19T02:48:05.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Tractor-trailer overturns on I-20 ramp to I-285",
@@ -116,14 +123,14 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T20:16:05.000Z",
       "feed": "injurylaw"
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
@@ -136,24 +143,17 @@
       "feed": "recalls"
     },
     {
+      "title": "Ford recalls over 220,000 vehicles. See affected models",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1hDc3c5TUl1UUFnVWN2T0xfcHpTOTdHZmpsbDVTYmI3M3luV19VYlhqZXc4SDZoRXZjUFZ2OVdKdklhLWx0OXJKRDBPMGcxTEFoSm94UEN0SFRmZUFEc0xaX3hkN1Z5NTlfQmNOVzcwczZ1dmdUZEsxRjA0ei14dG1MVXpNdDNlS0VvUkJiRXZwZllPM3VKM1lCTGlCNWRxWTNJdg?oc=5",
+      "published": "2026-09-14T07:00:00.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "National Safety Council Announces NHTSA-Funded 2026 Road to Zero Community Traffic Safety Grants",
       "source": "PR Newswire",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUzZlMUVwTWh5UzhjaFFmVnJKeS14bEp6ZkJXSWFNN2luNW0zLXpjOGFhaEYzc09BWF9vdEM0VFd0N0pQSDNob1NDUnNyMWtOZWJ3cFdSbmhWOHlEX0puX1A2R2pYQzI5eFAxV21jZzZTTktKS0lCWXl4R2ZuUVNGZHY0bjQ4bWlzNkp2OG5DQllQaEpKeG9MeW1ZalRpYVV0RmhwTkF1eUxObTNpTUxHYXByWHptSjk0V25TQnlYSDQwemk2V3E2cDA5RWhJcmkxa1RmallvU3JCaVRnVG5DODNFMWxXSGs?oc=5",
       "published": "2026-09-11T14:00:00.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Toyota recalls over 8,000 vehicles. See affected model",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcUt1S2piTktFRndwdXNtMHJsQWF0djYwYUYwejRlc0txcGtPSEpYcFp0elQxTlhEOGwyUzB6Vm1sQ0dsN21Cc0ZtQVptY3BleHRZYjIybl9qa2FQcUJKVUN0bDhUV3VhdXVqa0MtXzk0d1l6czhEOS0xQ2xNZHlabUp1Q2pjX3A4RXFVQ1hmVjBiTzRDVEZXdkFKZ1NJRFgzTGpTUWpiM1RfN1g5UlRST2pZYw?oc=5",
-      "published": "2026-09-11T07:00:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "NHTSA makes Austin stop in tour to prevent alcohol-impaired driving",
-      "source": "KEYE",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzljcmN6c21DSzBGcHU2R2hibUtEUVlRdTlTMjFKV3NfT0NTSVg0SzFnY0k1OWptZ3prbWZkQi1HNHMyT1l6Sm9valhHNEo4bjdTbVlzNGM0YmRZNTJ3OHRZQUdNX2J5RXVuMGxCOGxvakg0bXJJeDFtTnhfTnpzTkVNV3RmWkxpRDVITFlaNGxYTkM3NEZBZG1fNHU1b1lRLXc?oc=5",
-      "published": "2026-09-11T07:00:00.000Z",
       "feed": "us-safety"
     }
   ]
