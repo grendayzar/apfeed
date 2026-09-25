@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T15:20:56.840Z",
+  "generated": "2026-09-25T19:33:24.069Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,6 +10,20 @@
   "count": 22,
   "items": [
     {
+      "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
+      "source": "AASHTO Journal",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
+      "published": "2026-09-25T16:48:26.000Z",
+      "feed": "us-safety"
+    },
+    {
+      "title": "GDOT says westside I-285 rebuild is 15-20% complete as seventh full closure begins",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUxBTXZHcnpkc2JmeDZETFBXa3RjaW1zWC1sRW5RVWN6TmYwTWlGVFBxWjdWYXRsMWZ6UDBwMlhIRlNrRzYtLUdWMG1xbTJHZTViYWI0RUVMeVJPakFiVURWN3lFcEhaRmw0akhwU2pVZk9Md19lODItMlNrNm9LTFhlbEZwN3VqbjlBNU8ycGhGeThiYkRQeXR4Ym1XLVVWNXNKMUNyVmNYRWZPMVY3ZXM2RE1WVFlzTmlEVFhERVJvOTNR?oc=5",
+      "published": "2026-09-25T11:41:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Bus involved in crash near I-20 in Lithonia",
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1UzZkQtQms0QXdxWENvOXV2SlBYLVhkSFg5RHJtR0xSMFdRWlhIeDlsdHlydW1ZQTdBWG1uTHdtaFZYeVptTUhzUGdmUld6ci1ZRjAxNnhQNzk0YnBfUzdEV0twcHd1NmgzT2ZqcmtPR0JlV1AwQS1ZQkJBV3RkenFKMWp1SjJWOXJvbEh6dDBiWjF6TXRHWjJETdIBoAFBVV95cUxOaDhja3dVTWJWQVRwQmdOUEFZeXQxaFdSYXZKSGtxZWNhcDc1VGFVUFQwdHdnd203YjE2SU9QUncteXM1NUFqUjhPU3hfakRvVWVaZnBlU1ZDU19oNllERXEtaGVlZno5UW45VHR5OXpaX1pmdEFadGRSX1dyTUsxVjNEOGs5cl9OY3pOVVFoV1piYXJ5bWE4Z3l2MHRhQ2kx?oc=5",
@@ -18,16 +32,9 @@
     },
     {
       "title": "Woman killed in crash on I-95 in Liberty County",
-      "source": "wjcl.com",
+      "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1V0aERKNmpnMWprc3lsLWk0VXJtMWdfMjNUQmpHV1dhM2NKSEY2UnJXeGhydnJXdlJhLVFLUXljTGIwcTdHZEhZSmNFQWpKVnJzZUFCQ3R0WVp0YUlQQkZZdXZ1TnItUkhYdFdkekNCblRiRm1iS0dtR0g5aUQtNnZkWmdGNG52S28waGdvZmJaZw?oc=5",
       "published": "2026-09-24T18:05:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "FOX5 Vegas",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNem9TQS1KMWEyVFdhR3IzYnlhTHByQ3FNTWktOFJfWWZDOE9rOXpxUmRkQmRZNWd0TnhTV0NvX045bmplN19SZ2ttSlVmVlBNRkt0d3VYY0N0bGhwNnd0c0lfaURZbFBjTjRjNUJiaDNpYjVhWWtwblpQYUVPYVpvNnkzVExPekdDeW9uX055Wm05LWJqeGNZcXU0UFBlUWprVUxIQUtsNG10c1ZqUXhiVXFYVDlKMm9W?oc=5",
-      "published": "2026-09-24T13:53:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -35,13 +42,6 @@
       "source": "The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "eBay bans airbag sales as concerns about faulty or counterfeit parts rise",
-      "source": "NPR",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcVBVTWdHX1NGMUlKYkRZQ0E5aTlkN1dhbnI1V0lRb2MxSVFDVTh4Y29SZm5SWFE4RTdCNHpVSzVOR3VNamtYdWUzczYtUlI0em9aZjFFOTROZ3FyRE1lUmRKY3ZZOWt2VE9CclpuNWJSVEJENTd4czBjUFZVbjMtajZDVUhwWDBPb2l4YzNLZ3VZZlVTelZZ?oc=5",
-      "published": "2026-09-24T09:00:00.000Z",
       "feed": "us-safety"
     },
     {
@@ -64,6 +64,13 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
+    },
+    {
+      "title": "Lawsuit filed over deadly newlywed helicopter crash in North Georgia",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE02WGFxbXZncGMtaXJrRmFiQUs1eE5IVFdGQllrTk5oTFZLaThES1Z5T19wOUpmcG9RaXN0NFlETWp4ajZoZnJWM0hyMVdVWjAxQWxhbF9Nd1FocDdURTE3cm5vVm1kd21fNnZWUlNlc2UzZkR6NjZPQ3dENTl4eWsyVkJuaG9Za1NVQ04zMVRwYXllRDE5NmF0eDMydG8?oc=5",
+      "published": "2026-09-22T18:57:59.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
@@ -94,8 +101,15 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Motorcyclist dead following crash near Bradley Boulevard in Chatham County",
+      "source": "WTOC",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczBJVDNrblFBNm1jVG1EOXJrbVdSSFRRUUNJenctZEFycXRzb1ZYbm9ZV2wzQXoySXBpUnNwd2JfTmRFeC0tM09QbDBnRC1LMXRJaUZsY3RxdlBWMUFUek5MMzNqcUQ5N0kwbE50SldFaHpsSGh3QW5RZlRHVVNUcEtYeXVrdHBPOEhRdzhqdnVZUklmUDJKSTdodHprMkpxcVpwQWZqMNIBuwFBVV95cUxNcVY3c19nOUd3SEdnakp6UW1NcXJVSXNyU2h4MXM0UTA1cnlOX0hHZmtQVXVRbGY4dzBabU5UUzhwdmRCNDZac3VMb0NkZ2JBWDZHOXY3LWwtYmVHVEw0a1JJWWdDUTV6X1pod21TdHlYMy1mVzJsdTZITk1FN2hjY3loVnUxQ2o5RkItQjRvbFZHMUo1MjJEU3F0UUFYdUFfR2t6VDVCS0YtQ0pCQ1N3ekh5blVfOVJINzFR?oc=5",
+      "published": "2026-09-21T00:59:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "One dead following Saturday four wheeler crash",
-      "source": "barnesville.com",
+      "source": "Barnesville.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yV05BTzF1QnZXSFdPZFNwSVRkZWg3T2J2dmVQTXh4bHZHMnhZcmdiNnVvMUNleHUtYTZ4eE9NZkJWZFgxNHlPdld4STF5ZDdlUlRNVGUyQVVxOGprUTNjUkstbFZocF9wVHlxN1YybEkyZTRWaS1yMWtaQQ?oc=5",
       "published": "2026-09-20T14:28:25.000Z",
       "feed": "ga-roads"
@@ -109,7 +123,7 @@
     },
     {
       "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "democratandchronicle.com",
+      "source": "Democrat and Chronicle",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
       "published": "2026-09-19T02:48:05.000Z",
       "feed": "us-safety"
@@ -122,20 +136,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Crews contain minor leak after fuel tank compromised in overturned tractor-trailer crash",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWXRPU0tyRjJMeVBpTm95WktsSVJCZDFWYU1NYmMteTBVQzVhSUZiYTJhT0x0REItczNtcWp1cDBacGR6WmhKMENqbFFmZzVQNVI3eXZOSVRVNk51RnE2QzRIQnFnaG84a1VSWUJHcGZySENZYzVMVEdIMVlSV1VjVHJTOFFkVXVtZkE4T1lxSDNtZW1SOXFHaXpRQTZkeHZtZWdtTHFKb2ZXeTJ4S2xsV05SS3cyNzFqREt3ZFlXcFBfbWc0TGZxaUFlODZJdDlydnB5QmFvMndlZGdoM2g5UWlR?oc=5",
-      "published": "2026-09-18T20:17:00.000Z",
-      "feed": "ga-metro"
-    },
-    {
-      "title": "3 seriously hurt in Henry County crash involving garbage truck, GSP says",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa052WndWOGwybkFXV2RGb0JHU3o0a2tGS3NVRzFTaE9paHJRTFg2WldWTS1NTHY1VE9YVFFfVXlTTXl3VjNCOS1XcjU5aFhXVEZla2RaN3J0OXNVcHdMUFI1bmtPRkJmZFdDQXhXVWpvYUU5Y2JiT012QnFwaVV0OFFhRi0tMjFaRkF6M1ladl9LN0Y1TXhHLXVYTE9yQQ?oc=5",
-      "published": "2026-09-18T19:39:30.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
       "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
@@ -144,7 +144,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "insurancejournal.com",
+      "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
