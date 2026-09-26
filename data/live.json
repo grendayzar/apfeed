@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T16:15:06.721Z",
+  "generated": "2026-09-26T19:15:47.327Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -52,15 +52,8 @@
       "feed": "us-safety"
     },
     {
-      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "FOX Carolina News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
-      "published": "2026-09-24T09:53:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
       "published": "2026-09-24T02:36:00.000Z",
       "feed": "ga-roads"
@@ -81,7 +74,7 @@
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "Courthouse News",
+      "source": "courthousenews.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
@@ -102,7 +95,7 @@
     },
     {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
       "published": "2026-09-21T14:36:00.000Z",
       "feed": "recalls"
@@ -119,6 +112,13 @@
       "source": "WVTM Channel 13",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
       "published": "2026-09-21T03:14:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "One dead following Saturday four wheeler crash",
+      "source": "Barnesville.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yV05BTzF1QnZXSFdPZFNwSVRkZWg3T2J2dmVQTXh4bHZHMnhZcmdiNnVvMUNleHUtYTZ4eE9NZkJWZFgxNHlPdld4STF5ZDdlUlRNVGUyQVVxOGprUTNjUkstbFZocF9wVHlxN1YybEkyZTRWaS1yMWtaQQ?oc=5",
+      "published": "2026-09-20T14:28:25.000Z",
       "feed": "ga-roads"
     },
     {
