@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T01:25:09.130Z",
+  "generated": "2026-09-26T06:36:11.815Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
       "published": "2026-09-24T02:36:00.000Z",
       "feed": "ga-roads"
@@ -74,7 +74,7 @@
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "courthousenews.com",
+      "source": "Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdThXQkpUMVBIdDhjTFNYbnNDeFpGQlR1ckRBaUEzdk56eVpLQ2ZXNjUtV3VFZjFZdmdhVURQaXpFMDRaWml2a2dXZmlWMTdtSlpYVGt4ekRlLTlrdzZCeXZLbzdqdFRLb01vMEQyeTVaQnJXRHFqWkdCZUtRSFFQQVhyZ2l4ZTZjZTdBZE9yOXQ5b3Zw?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
@@ -92,13 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
       "published": "2026-09-22T17:09:18.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "Georgia mom killed in four-wheeler crash",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRW11RmVtaEloNDNrb0ozdXY4dHRvcjhEZ2UxUUlqeF9xb2pNM3VGaXdyaWtyeUlWdHoyZGZtU1BHY3NhXzZIMDZGYnVaSGxhbXRxTE80ZXFiRlNiaWpVRUEwN0pld3l5Mlpha01CWjRJakw4MEtzVjVjSE9VRGQ1M2QzMnJwbm9uUUZLVElDM1lwUms4b2s5RWFub3AwUEHSAbMBQVVfeXFMUFk4WjZ2dTM2QjVXQ1VfN1c1a0VlVi10dkRYbm50SFB3VlgwOWQwZVZUOEtSeHpqa0RGTVRGbmEwaVlIdVpXVWNGNzNadURwMjhFMnNmU2xTVnZ4WmRoZHZNcmlycUtTQXM4Qlk1ZFB6VkhHU2lhU2FaekVVVTFVOGh3T2FaUzNQOW1adVZranFfcHNyTmJPczBtMFBTTHJBOGlPQ0RTZUJlaXgwMVR0ZkI0R3M?oc=5",
-      "published": "2026-09-21T16:45:13.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
@@ -119,6 +112,13 @@
       "source": "Barnesville.com",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yV05BTzF1QnZXSFdPZFNwSVRkZWg3T2J2dmVQTXh4bHZHMnhZcmdiNnVvMUNleHUtYTZ4eE9NZkJWZFgxNHlPdld4STF5ZDdlUlRNVGUyQVVxOGprUTNjUkstbFZocF9wVHlxN1YybEkyZTRWaS1yMWtaQQ?oc=5",
       "published": "2026-09-20T14:28:25.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "Man dies in hit-and-run crash on interstate",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWpuSmFVNndTcGlyVTVjLVFwVk8weko3eWd0ZjdPZUFCMExxSkNzdlVtRmpBUWpUcnVJa0hqR1cxNnFPYkRYS1BjU1FPcXlQZmVlUjEzU0NpUTVxa1E2dTdLREc0UEo3anNTZExKUTUzUk5xdjE3VTlwVkhoaFFwallGTHY3aWNya0Naa29NNEtTNlhISUFtQVM3MjA5Zk1XZEFHdlB0UE9SUdIBvgFBVV95cUxOeG9QbTFBTnZrVlhmYW9vSEhubldBTWdGZG5pd3BJQzNGX3RoeEx0WWlsT29ReGEtS1dsYnN1ZXBBbVNPM1NlZnVLWV92dUVHeUdwRzBuby1vTUp6UmlhS05LWVFyZUZXWnhvX3Z2QTFESXZ5Um1EbVRYTmNkRlhRVjRQQWtwZE5TY0dyNUJlbUhuTnhlQjZVaUV0TW10djBNamR0c0tLSU9vUkJEZjFxT085ak0zNmNISzR6SU1R?oc=5",
+      "published": "2026-09-19T21:37:33.000Z",
       "feed": "ga-roads"
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "title": "Ford recalls over 220,000 vehicles. See affected models",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1hDc3c5TUl1UUFnVWN2T0xfcHpTOTdHZmpsbDVTYmI3M3luV19VYlhqZXc4SDZoRXZjUFZ2OVdKdklhLWx0OXJKRDBPMGcxTEFoSm94UEN0SFRmZUFEc0xaX3hkN1Z5NTlfQmNOVzcwczZ1dmdUZEsxRjA0ei14dG1MVXpNdDNlS0VvUkJiRXZwZllPM3VKM1lCTGlCNWRxWTNJdg?oc=5",
       "published": "2026-09-14T07:00:00.000Z",
       "feed": "recalls"
