@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T11:48:01.213Z",
+  "generated": "2026-09-26T16:15:06.721Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -52,8 +52,15 @@
       "feed": "us-safety"
     },
     {
+      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
+      "source": "FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
+      "published": "2026-09-24T09:53:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
       "published": "2026-09-24T02:36:00.000Z",
       "feed": "ga-roads"
@@ -112,13 +119,6 @@
       "source": "WVTM Channel 13",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
       "published": "2026-09-21T03:14:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "One dead following Saturday four wheeler crash",
-      "source": "Barnesville.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yV05BTzF1QnZXSFdPZFNwSVRkZWg3T2J2dmVQTXh4bHZHMnhZcmdiNnVvMUNleHUtYTZ4eE9NZkJWZFgxNHlPdld4STF5ZDdlUlRNVGUyQVVxOGprUTNjUkstbFZocF9wVHlxN1YybEkyZTRWaS1yMWtaQQ?oc=5",
-      "published": "2026-09-20T14:28:25.000Z",
       "feed": "ga-roads"
     },
     {
