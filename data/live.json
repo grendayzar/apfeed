@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T12:26:58.518Z",
+  "generated": "2026-09-27T17:17:29.564Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Pilot dies in north Georgia plane crash",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFgwYkZEcTIwVDVkSy1DNnBDamVFeFR2ZkxvRFJYWnYwdmV1ZlJKcS1EdThSU2hqQUEzdnBKN19lekRodWRYcDBHY0k1Qm9wcmRUQjg3ZlJiWXNJX2U5Z09PdU04eGJRTmhxcUdwd2liTU9ab0tPWGRSMjktZHZFcHRVSnRSOHBRblkyMjlLX3ZyOFNlME9yY203QnZad9IBsgFBVV95cUxPNGI5SmdkYjAzQ2FJT3dBUEtTUmVGM2hYTlVrOTVyRHJuYmJhMUtRdDFkMWFtTjBsTGlZOElkS25jNUFtV01kVS0yU01fcjNDUUhoem5GbWx3UkJXWld0b1JqTDBTWFNnZGk1M085bDJYMUUxLTQ1UmpKSjJQM3hlSTY2WlZkVU9CLUVTc200WnYwamNramNNTGViQlB4QWZoUzNVWDdIV0JQYk1GVzJ1VEZB?oc=5",
+      "published": "2026-09-27T01:15:00.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
       "source": "AASHTO Journal",
@@ -45,6 +52,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
+      "source": "FOX5 Vegas",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNem9TQS1KMWEyVFdhR3IzYnlhTHByQ3FNTWktOFJfWWZDOE9rOXpxUmRkQmRZNWd0TnhTV0NvX045bmplN19SZ2ttSlVmVlBNRkt0d3VYY0N0bGhwNnd0c0lfaURZbFBjTjRjNUJiaDNpYjVhWWtwblpQYUVPYVpvNnkzVExPekdDeW9uX055Wm05LWJqeGNZcXU0UFBlUWprVUxIQUtsNG10c1ZqUXhiVXFYVDlKMm9W?oc=5",
+      "published": "2026-09-24T13:53:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
       "source": "The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
@@ -74,7 +88,7 @@
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "Courthouse News",
+      "source": "courthousenews.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFYyaHhOVDdwNGR6bngwMFQxRWJra3JhS2hWZmV4US1MXzZRSzk2MVZrc3NzaWY4ZUE3NkpaVERhLU0xQWFQZ0FFYnhVMmw2Z2pjUFRRUnhwUDk5bWJmMGlfZ1RpWnBaNTdhRm56Nmd4N1V3ekRwMFFmQXBOTDJ0RFFyOGpQN3k1ek1zNWtaeVdGU3pQZFl5bg?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
@@ -84,13 +98,6 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE02WGFxbXZncGMtaXJrRmFiQUs1eE5IVFdGQllrTk5oTFZLaThES1Z5T19wOUpmcG9RaXN0NFlETWp4ajZoZnJWM0hyMVdVWjAxQWxhbF9Nd1FocDdURTE3cm5vVm1kd21fNnZWUlNlc2UzZkR6NjZPQ3dENTl4eWsyVkJuaG9Za1NVQ04zMVRwYXllRDE5NmF0eDMydG8?oc=5",
       "published": "2026-09-22T18:57:59.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Georgia mom killed in four-wheeler crash",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRW11RmVtaEloNDNrb0ozdXY4dHRvcjhEZ2UxUUlqeF9xb2pNM3VGaXdyaWtyeUlWdHoyZGZtU1BHY3NhXzZIMDZGYnVaSGxhbXRxTE80ZXFiRlNiaWpVRUEwN0pld3l5Mlpha01CWjRJakw4MEtzVjVjSE9VRGQ1M2QzMnJwbm9uUUZLVElDM1lwUms4b2s5RWFub3AwUEHSAbMBQVVfeXFMUFk4WjZ2dTM2QjVXQ1VfN1c1a0VlVi10dkRYbm50SFB3VlgwOWQwZVZUOEtSeHpqa0RGTVRGbmEwaVlIdVpXVWNGNzNadURwMjhFMnNmU2xTVnZ4WmRoZHZNcmlycUtTQXM4Qlk1ZFB6VkhHU2lhU2FaekVVVTFVOGh3T2FaUzNQOW1adVZranFfcHNyTmJPczBtMFBTTHJBOGlPQ0RTZUJlaXgwMVR0ZkI0R3M?oc=5",
-      "published": "2026-09-21T16:45:13.000Z",
       "feed": "ga-roads"
     },
     {
@@ -112,13 +119,6 @@
       "source": "WVTM Channel 13",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
       "published": "2026-09-21T03:14:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "One dead following Saturday four wheeler crash",
-      "source": "Barnesville.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yV05BTzF1QnZXSFdPZFNwSVRkZWg3T2J2dmVQTXh4bHZHMnhZcmdiNnVvMUNleHUtYTZ4eE9NZkJWZFgxNHlPdld4STF5ZDdlUlRNVGUyQVVxOGprUTNjUkstbFZocF9wVHlxN1YybEkyZTRWaS1yMWtaQQ?oc=5",
-      "published": "2026-09-20T14:28:25.000Z",
       "feed": "ga-roads"
     },
     {
@@ -158,7 +158,7 @@
     },
     {
       "title": "Ford recalls over 220,000 vehicles. See affected models",
-      "source": "usatoday.com",
+      "source": "USA Today",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1hDc3c5TUl1UUFnVWN2T0xfcHpTOTdHZmpsbDVTYmI3M3luV19VYlhqZXc4SDZoRXZjUFZ2OVdKdklhLWx0OXJKRDBPMGcxTEFoSm94UEN0SFRmZUFEc0xaX3hkN1Z5NTlfQmNOVzcwczZ1dmdUZEsxRjA0ei14dG1MVXpNdDNlS0VvUkJiRXZwZllPM3VKM1lCTGlCNWRxWTNJdg?oc=5",
       "published": "2026-09-14T07:00:00.000Z",
       "feed": "recalls"
