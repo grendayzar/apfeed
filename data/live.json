@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T01:46:13.914Z",
+  "generated": "2026-09-28T08:35:12.636Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -18,14 +18,14 @@
     },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
-      "source": "AASHTO Journal",
+      "source": "aashtojournal.transportation.org",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
       "feed": "us-safety"
     },
     {
       "title": "School bus carrying DeKalb County students collides with box truck near I-20",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXV1VlBnZlJ2N2lyaDRPdFQxbTZwcER4VzBsTFRCUTFXLUtSd05MLWxQSGZZRUVDc05XazFFMnVQaS1pU3psdnFKWVdyTmlpSnItdFZPT3ozVTFPT1JhV1JnZ0VrSGJtNXdWS0pDWTFxdmR3LTNYcTg3QkwxXzlwLVNNbXRneGRReEFiZmhjQkczMUwtc2c2NElrTGZXcEZGYkRLWnZOVElncVdBNFZWVzNmbGo?oc=5",
       "published": "2026-09-25T13:55:51.000Z",
       "feed": "ga-metro"
@@ -43,6 +43,13 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1UzZkQtQms0QXdxWENvOXV2SlBYLVhkSFg5RHJtR0xSMFdRWlhIeDlsdHlydW1ZQTdBWG1uTHdtaFZYeVptTUhzUGdmUld6ci1ZRjAxNnhQNzk0YnBfUzdEV0twcHd1NmgzT2ZqcmtPR0JlV1AwQS1ZQkJBV3RkenFKMWp1SjJWOXJvbEh6dDBiWjF6TXRHWjJETdIBoAFBVV95cUxOaDhja3dVTWJWQVRwQmdOUEFZeXQxaFdSYXZKSGtxZWNhcDc1VGFVUFQwdHdnd203YjE2SU9QUncteXM1NUFqUjhPU3hfakRvVWVaZnBlU1ZDU19oNllERXEtaGVlZno5UW45VHR5OXpaX1pmdEFadGRSX1dyTUsxVjNEOGs5cl9OY3pOVVFoV1piYXJ5bWE4Z3l2MHRhQ2kx?oc=5",
       "published": "2026-09-25T11:01:02.000Z",
       "feed": "ga-metro"
+    },
+    {
+      "title": "Woman killed in crash on I-95 in Liberty County",
+      "source": "WJCL",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1V0aERKNmpnMWprc3lsLWk0VXJtMWdfMjNUQmpHV1dhM2NKSEY2UnJXeGhydnJXdlJhLVFLUXljTGIwcTdHZEhZSmNFQWpKVnJzZUFCQ3R0WVp0YUlQQkZZdXZ1TnItUkhYdFdkekNCblRiRm1iS0dtR0g5aUQtNnZkWmdGNG52S28waGdvZmJaZw?oc=5",
+      "published": "2026-09-24T18:05:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
@@ -74,7 +81,7 @@
     },
     {
       "title": "Midway woman killed in I-95 crash in Liberty County",
-      "source": "WTOC",
+      "source": "wtoc.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3o4dFVNWnR6VjRtTEEwdHVtMG5zdnFoS0RBREJxMUtyRDFQYzVjdDJXUG5xdHFmMzhsVnh5RWxXWEtiVEloUGcybWtyRXFDdGt5WkN3ODM4M0xOUWpXMEdROTFjdFAyT1ZMOWZieFVjUTYtdEdlOElCZVNKNWNiUVE0dFpUeUVkYl9NNUk1a9IBowFBVV95cUxNNGNobDBLbEZVT2RUUVRiTl9LQ1FLejAwZzlwWVJsR2lOWnRfdDJWRlhKVk5oSmZZZE9tQkQyeDlYbGQ5TFBpVEg5VkhVMWZyd0FlV3B2X2Q0WlVZcHBJRDRfb1NPSFctNTZjZm1xWkJLbUJoVmxNeHBnZkJCdlBZcmR2T2dKSHFmUXNLZVVsZjdoenYwejJkSVJBN1ZjUXlJNnFR?oc=5",
       "published": "2026-09-23T19:52:00.000Z",
       "feed": "ga-roads"
@@ -108,11 +115,11 @@
       "feed": "recalls"
     },
     {
-      "title": "Georgia man killed, woman injured after being hit on I-20 in St. Clair County",
-      "source": "WVTM Channel 13",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSm9WNFZSbEUxLUo2WVdNN3EyOW1LMkRzMURkdTJkRGV4dFU2b1h0QzRlNXNJUE1LUXVoTDlfS2E5eFBWcUsya1FaVTJwcHVjc25ONUl4WlBjRDdsdExHMFA4V015SXdHcTVyMDFKanFwazRqVmxGUUtuamtfVUl0TXppNEFxNnpyQkpWcw?oc=5",
-      "published": "2026-09-21T03:14:00.000Z",
-      "feed": "ga-roads"
+      "title": "NHTSA commercial vehicle recalls for the week of Sept. 21, 2026",
+      "source": "Trucks, Parts, Service",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYTF4Y0pRR2Q1WEs2WW9jZzRzb1N5Q1l3UC1YVzNKMGxXbGRJTnVQYWtuM3prOVRHamg3cmhtdUduWkg3aTYzeGVSdzg3clpRVnlIUlhIMWZyWnprNXdlNmJzZF9RMXZrRzlTcjhEMlJBdFZ1dHlkcE0zb0VfM21qNWJTV1hVMUQwWHZfaHJmX1Faa2xCZ0ZHdVpqdlZkWG1BamdXRkwtVVdHLU5jaDhPT3ZOR2pyV0dtVjFHeTdzRmhDWi1sSUU2XzRPanFQTk5TblFB?oc=5",
+      "published": "2026-09-21T14:13:39.000Z",
+      "feed": "recalls"
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
@@ -129,8 +136,15 @@
       "feed": "us-safety"
     },
     {
+      "title": "Audi, Volkswagen drivers warned of recall over issue that causes a loss of steering control",
+      "source": "MLive.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVlJBcTJzV3RWV2lYSlhYVHJpLWllWURTa0NLLXdhU2xIWWtyVllEZkZkVm90dkw3UDhkcGZzMTE3enNHWHRzaHY2T2FacGlfNVhQODl0QlY2Q0p2UDJ6V0c3NGNjakEtdmJOT3UtWVU0cXNaYWIxUERuYlV6a1ZId19vaFVNandsQUlMdW1ha3dQSkJ2OW00ZFIzdXZScWdUQnBaX3o0RlhEYWhLRHZod1BkZUNUVFVDWWRKZlM3cmRXajlyWldFSkFR?oc=5",
+      "published": "2026-09-18T07:00:00.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
+      "source": "law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
@@ -141,20 +155,6 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Ford files 4 new recalls that will impact 225,000-plus vehicles",
-      "source": "Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcThrM1B1cXpQeXhSVG8tM2lGT3BTUjFqSndwQ1E4cS1xd2Q0RnNET21WWGlzdEN5Q0F5WFV2VWlqOXRJc3pXdDIwRjlfZDFvanhhR08tYjdUQjFyQ3ZoR1pyN1lSZlN6eFA0dmlldlhSMWtkSzhHOGgxU0UzQzgxU0V4WkRjR096MTBiOHVrQWdlTmRzQ3J2TTgtWkRUc2JkdnhXTlBR?oc=5",
-      "published": "2026-09-14T07:00:00.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "Ford recalls over 220,000 vehicles. See affected models",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1hDc3c5TUl1UUFnVWN2T0xfcHpTOTdHZmpsbDVTYmI3M3luV19VYlhqZXc4SDZoRXZjUFZ2OVdKdklhLWx0OXJKRDBPMGcxTEFoSm94UEN0SFRmZUFEc0xaX3hkN1Z5NTlfQmNOVzcwczZ1dmdUZEsxRjA0ei14dG1MVXpNdDNlS0VvUkJiRXZwZllPM3VKM1lCTGlCNWRxWTNJdg?oc=5",
-      "published": "2026-09-14T07:00:00.000Z",
-      "feed": "recalls"
     }
   ]
 }
