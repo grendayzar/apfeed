@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T08:35:12.636Z",
+  "generated": "2026-09-28T17:00:43.481Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,6 +10,13 @@
   "count": 21,
   "items": [
     {
+      "title": "NHTSA commercial vehicle recalls for the week of Sept. 28, 2026",
+      "source": "Trucks, Parts, Service",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXhKQUtIVDFNVWtkV3R0Q04xWEgzb1NUQU9TM1pQRXdaNmJsZURoNWcyQ0FjVUlYSjFwYkpKcEZBUTdBWlVXZ284VGNWakJjYXBrZ3J1b1ZkSVRpM3UzZWJpSjNCeXRJbGNBR1RvV0o1UFJmcEV4Wmh2SldqZXl4N2ZtSGtVMEowRV9lWW56UlB1UW9fZV9SVTFPTUZQWW1yX1E3SVZFT01XbEI4aU1OcW9iLXJ1QzJHNkFmM1NFbUJIRFRib3ktMDRUUjN6TmdtLUhB?oc=5",
+      "published": "2026-09-28T14:39:31.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Pilot dies in north Georgia plane crash",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFgwYkZEcTIwVDVkSy1DNnBDamVFeFR2ZkxvRFJYWnYwdmV1ZlJKcS1EdThSU2hqQUEzdnBKN19lekRodWRYcDBHY0k1Qm9wcmRUQjg3ZlJiWXNJX2U5Z09PdU04eGJRTmhxcUdwd2liTU9ab0tPWGRSMjktZHZFcHRVSnRSOHBRblkyMjlLX3ZyOFNlME9yY203QnZad9IBsgFBVV95cUxPNGI5SmdkYjAzQ2FJT3dBUEtTUmVGM2hYTlVrOTVyRHJuYmJhMUtRdDFkMWFtTjBsTGlZOElkS25jNUFtV01kVS0yU01fcjNDUUhoem5GbWx3UkJXWld0b1JqTDBTWFNnZGk1M085bDJYMUUxLTQ1UmpKSjJQM3hlSTY2WlZkVU9CLUVTc200WnYwamNramNNTGViQlB4QWZoUzNVWDdIV0JQYk1GVzJ1VEZB?oc=5",
@@ -18,14 +25,14 @@
     },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
-      "source": "aashtojournal.transportation.org",
+      "source": "AASHTO Journal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
       "feed": "us-safety"
     },
     {
       "title": "School bus carrying DeKalb County students collides with box truck near I-20",
-      "source": "cbsnews.com",
+      "source": "CBS News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXV1VlBnZlJ2N2lyaDRPdFQxbTZwcER4VzBsTFRCUTFXLUtSd05MLWxQSGZZRUVDc05XazFFMnVQaS1pU3psdnFKWVdyTmlpSnItdFZPT3ozVTFPT1JhV1JnZ0VrSGJtNXdWS0pDWTFxdmR3LTNYcTg3QkwxXzlwLVNNbXRneGRReEFiZmhjQkczMUwtc2c2NElrTGZXcEZGYkRLWnZOVElncVdBNFZWVzNmbGo?oc=5",
       "published": "2026-09-25T13:55:51.000Z",
       "feed": "ga-metro"
@@ -53,7 +60,7 @@
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "The Oklahoman",
+      "source": "oklahoman.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
       "feed": "us-safety"
@@ -81,7 +88,7 @@
     },
     {
       "title": "Midway woman killed in I-95 crash in Liberty County",
-      "source": "wtoc.com",
+      "source": "WTOC",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3o4dFVNWnR6VjRtTEEwdHVtMG5zdnFoS0RBREJxMUtyRDFQYzVjdDJXUG5xdHFmMzhsVnh5RWxXWEtiVEloUGcybWtyRXFDdGt5WkN3ODM4M0xOUWpXMEdROTFjdFAyT1ZMOWZieFVjUTYtdEdlOElCZVNKNWNiUVE0dFpUeUVkYl9NNUk1a9IBowFBVV95cUxNNGNobDBLbEZVT2RUUVRiTl9LQ1FLejAwZzlwWVJsR2lOWnRfdDJWRlhKVk5oSmZZZE9tQkQyeDlYbGQ5TFBpVEg5VkhVMWZyd0FlV3B2X2Q0WlVZcHBJRDRfb1NPSFctNTZjZm1xWkJLbUJoVmxNeHBnZkJCdlBZcmR2T2dKSHFmUXNLZVVsZjdoenYwejJkSVJBN1ZjUXlJNnFR?oc=5",
       "published": "2026-09-23T19:52:00.000Z",
       "feed": "ga-roads"
@@ -115,13 +122,6 @@
       "feed": "recalls"
     },
     {
-      "title": "NHTSA commercial vehicle recalls for the week of Sept. 21, 2026",
-      "source": "Trucks, Parts, Service",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYTF4Y0pRR2Q1WEs2WW9jZzRzb1N5Q1l3UC1YVzNKMGxXbGRJTnVQYWtuM3prOVRHamg3cmhtdUduWkg3aTYzeGVSdzg3clpRVnlIUlhIMWZyWnprNXdlNmJzZF9RMXZrRzlTcjhEMlJBdFZ1dHlkcE0zb0VfM21qNWJTV1hVMUQwWHZfaHJmX1Faa2xCZ0ZHdVpqdlZkWG1BamdXRkwtVVdHLU5jaDhPT3ZOR2pyV0dtVjFHeTdzRmhDWi1sSUU2XzRPanFQTk5TblFB?oc=5",
-      "published": "2026-09-21T14:13:39.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
       "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
@@ -144,7 +144,7 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
