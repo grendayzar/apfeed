@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T08:45:38.015Z",
+  "generated": "2026-09-29T15:38:23.245Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,6 +17,13 @@
       "feed": "us-safety"
     },
     {
+      "title": "Flock cameras help identify suspect in deadly Gwinnett County hit-and-run crash, police say",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXFxMktUZDBWOEZsc1RFMS1zNU9OTTFzSnNtZWhIZThOclVDSEZDS3J1eGdVZ0xUNTZfa2NRRFdZOFk3OXpRZ3UySDFjOGE3Y05yUHRKb1Y1SHc5MlB0WlgxV1dhYnhIajl5aGc0aFVmM0VHZEZPaVV3dGdLTXRRRjBXemhDcURISGdzbzdJYnN6Y184bWc5bW04MTRCSHJtclBOMm4yXzExMmZXelZubERoeURIaExFT1haZml6aGpFaExPM3hF?oc=5",
+      "published": "2026-09-28T20:04:37.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "1 dead after crash into tree in Georgia, troopers say",
       "source": "FOX Carolina News",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHRDaVhmOFRfRHgxcG1nVVYtZE1tNU9ULUtxYWVXZE1XSmFKWkhzdk1SYzZnRXFpRS1STkd5NUNWQXhsc2hZUU05cjdDY0pKU054czJZakVpZmRkTDROZnZMeW9ra2ItemV1RjQ2RkRZSi1RX1hMaVE2M0xTVUM4TmxPRFlJVXFSSU5rcWdDcUxDQUE?oc=5",
@@ -25,7 +32,7 @@
     },
     {
       "title": "NHTSA commercial vehicle recalls for the week of Sept. 28, 2026",
-      "source": "truckpartsandservice.com",
+      "source": "Trucks, Parts, Service",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXhKQUtIVDFNVWtkV3R0Q04xWEgzb1NUQU9TM1pQRXdaNmJsZURoNWcyQ0FjVUlYSjFwYkpKcEZBUTdBWlVXZ284VGNWakJjYXBrZ3J1b1ZkSVRpM3UzZWJpSjNCeXRJbGNBR1RvV0o1UFJmcEV4Wmh2SldqZXl4N2ZtSGtVMEowRV9lWW56UlB1UW9fZV9SVTFPTUZQWW1yX1E3SVZFT01XbEI4aU1OcW9iLXJ1QzJHNkFmM1NFbUJIRFRib3ktMDRUUjN6TmdtLUhB?oc=5",
       "published": "2026-09-28T14:39:31.000Z",
       "feed": "recalls"
@@ -35,13 +42,6 @@
       "source": "WCNC",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVmd6TzA1MU5velM4b19uUEd5aElFajFaRWFlSFduZzVnQWZuZmlEOXZtUUpsQ2tiSmVnSzBWYlJGUjVrR0RMU2p0cUl4Vl9tTnFqUUUzd1ZNNUFCWWtROFlXNjJ2Z2tPWmNRZkZBVGJMRHgtSmVpZXBXZFVPTkNDOEJCNXVTR1kxNHp0ZUduUXVXT0lZN1QwM0FGZmxpeVJnaGMtRnMtek1uOHppVW9ZTzZxQnJ6ZnlLWV84OVlDcXNLVWJrV2lMTVloNWp2cndCT2ljalJKRDZubjhyczZ3ZkFUaE9TdGdoNFpPTjFnOTFTVGRKR3RJeGxyQzBhTTNKVDg4dnVn?oc=5",
       "published": "2026-09-28T12:41:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "UPDATE: Pilot killed in small plane crash in Murray Co. identified",
-      "source": "local3news.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0lsOW5kM2llbFBuRDN6a2tzVEl0dVppNHBOU3pGS2tmYWU5Qnh5cUZJZmRzUkRTNjZreDVRTXZFMDVHYWVUdnVlX1ZXeEI0OVBQdjdXeDdudGlDSnozaXJ3MS1NU0pubjlWTHBleGI1eWhzb1pyd0hiOUNWbEJPTWhwRzIxcFhqN3J6MWo2Y2lvcnFzcm8zTnpPWGg3UzV2eXNweS1JblFwWS1oQmlwenF4Si1VNldJbHVXazFBa1BsLVY5N01obEJvWm40aUpBakpqaXFFdVotQ3oxa3dTZVc4Nmx6eGc?oc=5",
-      "published": "2026-09-27T20:09:42.000Z",
       "feed": "ga-roads"
     },
     {
@@ -67,7 +67,7 @@
     },
     {
       "title": "GDOT says westside I-285 rebuild is 15-20% complete as seventh full closure begins",
-      "source": "11alive.com",
+      "source": "11Alive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUxBTXZHcnpkc2JmeDZETFBXa3RjaW1zWC1sRW5RVWN6TmYwTWlGVFBxWjdWYXRsMWZ6UDBwMlhIRlNrRzYtLUdWMG1xbTJHZTViYWI0RUVMeVJPakFiVURWN3lFcEhaRmw0akhwU2pVZk9Md19lODItMlNrNm9LTFhlbEZwN3VqbjlBNU8ycGhGeThiYkRQeXR4Ym1XLVVWNXNKMUNyVmNYRWZPMVY3ZXM2RE1WVFlzTmlEVFhERVJvOTNR?oc=5",
       "published": "2026-09-25T11:41:00.000Z",
       "feed": "ga-metro"
@@ -88,14 +88,14 @@
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "The Oklahoman",
+      "source": "oklahoman.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
       "published": "2026-09-24T02:36:00.000Z",
       "feed": "ga-roads"
@@ -109,7 +109,7 @@
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "Courthouse News",
+      "source": "courthousenews.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFYyaHhOVDdwNGR6bngwMFQxRWJra3JhS2hWZmV4US1MXzZRSzk2MVZrc3NzaWY4ZUE3NkpaVERhLU0xQWFQZ0FFYnhVMmw2Z2pjUFRRUnhwUDk5bWJmMGlfZ1RpWnBaNTdhRm56Nmd4N1V3ekRwMFFmQXBOTDJ0RFFyOGpQN3k1ek1zNWtaeVdGU3pQZFl5bg?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
@@ -132,7 +132,7 @@
       "title": "GM recalls more than 306,000 vehicles. See recall list",
       "source": "The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
-      "published": "2026-09-21T14:36:00.000Z",
+      "published": "2026-09-21T07:00:00.000Z",
       "feed": "recalls"
     },
     {
