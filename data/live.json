@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T20:14:34.828Z",
+  "generated": "2026-09-29T23:47:44.372Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Small plane crashes in Morgan County, pilot reportedly alert and conscious at scene",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmpETl8tUWdzOHZveklLMEZocUpFdWVHdHpJLXd2N0NMODE1Y1B0RmtUSUJ4ZEVFaTQ4THZyTjBfWV9FOXJlRXpXSHkxSlFVeW9UY3FIUHYtWVFKQXBPUE9ETWNVX3RKMWkwTUNBWV9QaUdoQkJqYnJWRXU3RFlMWGRsZmoxdTNfTzBwa2ZBS2o0dG4wZzVBNHpJOUxqVThxUDdsZ0xQaHBnYXl2ZnhHNUlDX0dISmFnOVRnQ1ZpTQ?oc=5",
+      "published": "2026-09-29T18:57:00.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "U.S. Traffic Fatalities Fall for Fourth Straight Year, but Safety Concerns Remain",
       "source": "Roads & Bridges",
@@ -25,14 +32,14 @@
     },
     {
       "title": "NHTSA commercial vehicle recalls for the week of Sept. 28, 2026",
-      "source": "Trucks, Parts, Service",
+      "source": "truckpartsandservice.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXhKQUtIVDFNVWtkV3R0Q04xWEgzb1NUQU9TM1pQRXdaNmJsZURoNWcyQ0FjVUlYSjFwYkpKcEZBUTdBWlVXZ284VGNWakJjYXBrZ3J1b1ZkSVRpM3UzZWJpSjNCeXRJbGNBR1RvV0o1UFJmcEV4Wmh2SldqZXl4N2ZtSGtVMEowRV9lWW56UlB1UW9fZV9SVTFPTUZQWW1yX1E3SVZFT01XbEI4aU1OcW9iLXJ1QzJHNkFmM1NFbUJIRFRib3ktMDRUUjN6TmdtLUhB?oc=5",
       "published": "2026-09-28T14:39:31.000Z",
       "feed": "recalls"
     },
     {
       "title": "Georgia man accused of DWI in crash that killed Queens University swimmer",
-      "source": "wcnc.com",
+      "source": "WCNC",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVmd6TzA1MU5velM4b19uUEd5aElFajFaRWFlSFduZzVnQWZuZmlEOXZtUUpsQ2tiSmVnSzBWYlJGUjVrR0RMU2p0cUl4Vl9tTnFqUUUzd1ZNNUFCWWtROFlXNjJ2Z2tPWmNRZkZBVGJMRHgtSmVpZXBXZFVPTkNDOEJCNXVTR1kxNHp0ZUduUXVXT0lZN1QwM0FGZmxpeVJnaGMtRnMtek1uOHppVW9ZTzZxQnJ6ZnlLWV84OVlDcXNLVWJrV2lMTVloNWp2cndCT2ljalJKRDZubjhyczZ3ZkFUaE9TdGdoNFpPTjFnOTFTVGRKR3RJeGxyQzBhTTNKVDg4dnVn?oc=5",
       "published": "2026-09-28T12:41:00.000Z",
       "feed": "ga-roads"
@@ -46,7 +53,7 @@
     },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
-      "source": "AASHTO Journal",
+      "source": "aashtojournal.transportation.org",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
       "feed": "us-safety"
@@ -80,13 +87,6 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2dQb3BGNkdhQWNsdEdkTi1BVWxva3hXWEQ0TnQ5dHpQSk5vVERjTk1zSFZPS0lRNjY4UGVDWGxvYlNKUU5Yc0kyelFxN2QtOVBiaFR4bjhkcEh6aGdHdHpDTHFNTWRzVVFQeXZPb2lBQ3ZldmNGbXhyZHF4NEpYQ0dJMzlaX2hkRDFrRTAwTm1YV19WV2dQWlJtbFV1NnloWC1DeHV2R1ZGNlc0RnFNRUlrOXFmZw?oc=5",
-      "published": "2026-09-24T13:53:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
       "source": "The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
@@ -95,7 +95,7 @@
     },
     {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "atlantanewsfirst.com",
+      "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
       "published": "2026-09-24T02:36:00.000Z",
       "feed": "ga-roads"
@@ -151,7 +151,7 @@
     },
     {
       "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "law.com",
+      "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
