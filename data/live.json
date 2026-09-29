@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T02:18:11.295Z",
+  "generated": "2026-09-29T08:45:38.015Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,14 +11,21 @@
   "items": [
     {
       "title": "U.S. Traffic Fatalities Fall for Fourth Straight Year, but Safety Concerns Remain",
-      "source": "roadsbridges.com",
+      "source": "Roads & Bridges",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXNVbmNCb2d6MWdCMDQ1WHVWX3c3ZHVrZGJwUFlidzlmRF9MMzQ5YnF0QldDeVRBckFZUW9fSlFJVkVweFpHUXNRckFpdTRpMGpJVDh1YnBhUVMzUkVVd3Y2SHJobGwwUXZYek1DZlVmZjVrMWloalN3M1JzRVlEQURIU2tDVXQyU1BQQjdWVUczZEZSYThlaDFibTZVQ2ZXVnZ0cVhzUW1haTNDN1IySk52clNTUmZCbGY0MnFsdnJxRVc0NVlFX0p0WXJ3eGRsMFE?oc=5",
       "published": "2026-09-29T00:46:54.000Z",
       "feed": "us-safety"
     },
     {
+      "title": "1 dead after crash into tree in Georgia, troopers say",
+      "source": "FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHRDaVhmOFRfRHgxcG1nVVYtZE1tNU9ULUtxYWVXZE1XSmFKWkhzdk1SYzZnRXFpRS1STkd5NUNWQXhsc2hZUU05cjdDY0pKU054czJZakVpZmRkTDROZnZMeW9ra2ItemV1RjQ2RkRZSi1RX1hMaVE2M0xTVUM4TmxPRFlJVXFSSU5rcWdDcUxDQUE?oc=5",
+      "published": "2026-09-28T19:53:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "NHTSA commercial vehicle recalls for the week of Sept. 28, 2026",
-      "source": "Trucks, Parts, Service",
+      "source": "truckpartsandservice.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXhKQUtIVDFNVWtkV3R0Q04xWEgzb1NUQU9TM1pQRXdaNmJsZURoNWcyQ0FjVUlYSjFwYkpKcEZBUTdBWlVXZ284VGNWakJjYXBrZ3J1b1ZkSVRpM3UzZWJpSjNCeXRJbGNBR1RvV0o1UFJmcEV4Wmh2SldqZXl4N2ZtSGtVMEowRV9lWW56UlB1UW9fZV9SVTFPTUZQWW1yX1E3SVZFT01XbEI4aU1OcW9iLXJ1QzJHNkFmM1NFbUJIRFRib3ktMDRUUjN6TmdtLUhB?oc=5",
       "published": "2026-09-28T14:39:31.000Z",
       "feed": "recalls"
@@ -28,6 +35,13 @@
       "source": "WCNC",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVmd6TzA1MU5velM4b19uUEd5aElFajFaRWFlSFduZzVnQWZuZmlEOXZtUUpsQ2tiSmVnSzBWYlJGUjVrR0RMU2p0cUl4Vl9tTnFqUUUzd1ZNNUFCWWtROFlXNjJ2Z2tPWmNRZkZBVGJMRHgtSmVpZXBXZFVPTkNDOEJCNXVTR1kxNHp0ZUduUXVXT0lZN1QwM0FGZmxpeVJnaGMtRnMtek1uOHppVW9ZTzZxQnJ6ZnlLWV84OVlDcXNLVWJrV2lMTVloNWp2cndCT2ljalJKRDZubjhyczZ3ZkFUaE9TdGdoNFpPTjFnOTFTVGRKR3RJeGxyQzBhTTNKVDg4dnVn?oc=5",
       "published": "2026-09-28T12:41:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "UPDATE: Pilot killed in small plane crash in Murray Co. identified",
+      "source": "local3news.com",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPd0lsOW5kM2llbFBuRDN6a2tzVEl0dVppNHBOU3pGS2tmYWU5Qnh5cUZJZmRzUkRTNjZreDVRTXZFMDVHYWVUdnVlX1ZXeEI0OVBQdjdXeDdudGlDSnozaXJ3MS1NU0pubjlWTHBleGI1eWhzb1pyd0hiOUNWbEJPTWhwRzIxcFhqN3J6MWo2Y2lvcnFzcm8zTnpPWGg3UzV2eXNweS1JblFwWS1oQmlwenF4Si1VNldJbHVXazFBa1BsLVY5N01obEJvWm40aUpBakpqaXFFdVotQ3oxa3dTZVc4Nmx6eGc?oc=5",
+      "published": "2026-09-27T20:09:42.000Z",
       "feed": "ga-roads"
     },
     {
@@ -67,7 +81,7 @@
     },
     {
       "title": "Woman killed in crash on I-95 in Liberty County",
-      "source": "wjcl.com",
+      "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1V0aERKNmpnMWprc3lsLWk0VXJtMWdfMjNUQmpHV1dhM2NKSEY2UnJXeGhydnJXdlJhLVFLUXljTGIwcTdHZEhZSmNFQWpKVnJzZUFCQ3R0WVp0YUlQQkZZdXZ1TnItUkhYdFdkekNCblRiRm1iS0dtR0g5aUQtNnZkWmdGNG52S28waGdvZmJaZw?oc=5",
       "published": "2026-09-24T18:05:00.000Z",
       "feed": "ga-roads"
@@ -80,15 +94,8 @@
       "feed": "us-safety"
     },
     {
-      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "FOX Carolina News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
-      "published": "2026-09-24T09:53:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
       "published": "2026-09-24T02:36:00.000Z",
       "feed": "ga-roads"
@@ -99,13 +106,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQkRGSjMweTU1T3FXX2xyenJnNlI0YkRiX0o4djFKQ2dYQlhReXpFY3drY1dYVlpCQnFPZ0NBMm1BSUVCd2tTTTd6a3BaMDZIREJ0ZnUzcWxWUzNyYnppSDdMQU9sOUpSQm9jMkUwTG9Wa0dXOTRQZGZqRHROOUhJQ1NiX2g2cDFLZUt4czB5SnY5SW1BSXhjQVJFUHl1LXVLclF6clhDbmtwT1NwMDMtQldOV2tlU3ZKY2Ffektuakg0cUVNOHZFaENiWjZOZTdyNDk4RXR5ZGw2dnc0Sm9TaXhUaUlUWko5QkgwbUl6eC1PRjQweVh2M1d6NERBTG55SFNjaWhkY3ZjNmVkTG5MY1M5dFJpR3RGRWc?oc=5",
       "published": "2026-09-23T20:19:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Midway woman killed in I-95 crash in Liberty County",
-      "source": "WTOC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3o4dFVNWnR6VjRtTEEwdHVtMG5zdnFoS0RBREJxMUtyRDFQYzVjdDJXUG5xdHFmMzhsVnh5RWxXWEtiVEloUGcybWtyRXFDdGt5WkN3ODM4M0xOUWpXMEdROTFjdFAyT1ZMOWZieFVjUTYtdEdlOElCZVNKNWNiUVE0dFpUeUVkYl9NNUk1a9IBowFBVV95cUxNNGNobDBLbEZVT2RUUVRiTl9LQ1FLejAwZzlwWVJsR2lOWnRfdDJWRlhKVk5oSmZZZE9tQkQyeDlYbGQ5TFBpVEg5VkhVMWZyd0FlV3B2X2Q0WlVZcHBJRDRfb1NPSFctNTZjZm1xWkJLbUJoVmxNeHBnZkJCdlBZcmR2T2dKSHFmUXNLZVVsZjdoenYwejJkSVJBN1ZjUXlJNnFR?oc=5",
-      "published": "2026-09-23T19:52:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
@@ -137,7 +137,7 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "time.com",
+      "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
