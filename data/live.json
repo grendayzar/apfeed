@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T22:34:52.558Z",
+  "generated": "2026-09-29T02:18:11.295Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,14 +7,28 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
+    {
+      "title": "U.S. Traffic Fatalities Fall for Fourth Straight Year, but Safety Concerns Remain",
+      "source": "roadsbridges.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXNVbmNCb2d6MWdCMDQ1WHVWX3c3ZHVrZGJwUFlidzlmRF9MMzQ5YnF0QldDeVRBckFZUW9fSlFJVkVweFpHUXNRckFpdTRpMGpJVDh1YnBhUVMzUkVVd3Y2SHJobGwwUXZYek1DZlVmZjVrMWloalN3M1JzRVlEQURIU2tDVXQyU1BQQjdWVUczZEZSYThlaDFibTZVQ2ZXVnZ0cVhzUW1haTNDN1IySk52clNTUmZCbGY0MnFsdnJxRVc0NVlFX0p0WXJ3eGRsMFE?oc=5",
+      "published": "2026-09-29T00:46:54.000Z",
+      "feed": "us-safety"
+    },
     {
       "title": "NHTSA commercial vehicle recalls for the week of Sept. 28, 2026",
       "source": "Trucks, Parts, Service",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXhKQUtIVDFNVWtkV3R0Q04xWEgzb1NUQU9TM1pQRXdaNmJsZURoNWcyQ0FjVUlYSjFwYkpKcEZBUTdBWlVXZ284VGNWakJjYXBrZ3J1b1ZkSVRpM3UzZWJpSjNCeXRJbGNBR1RvV0o1UFJmcEV4Wmh2SldqZXl4N2ZtSGtVMEowRV9lWW56UlB1UW9fZV9SVTFPTUZQWW1yX1E3SVZFT01XbEI4aU1OcW9iLXJ1QzJHNkFmM1NFbUJIRFRib3ktMDRUUjN6TmdtLUhB?oc=5",
       "published": "2026-09-28T14:39:31.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Georgia man accused of DWI in crash that killed Queens University swimmer",
+      "source": "WCNC",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVmd6TzA1MU5velM4b19uUEd5aElFajFaRWFlSFduZzVnQWZuZmlEOXZtUUpsQ2tiSmVnSzBWYlJGUjVrR0RMU2p0cUl4Vl9tTnFqUUUzd1ZNNUFCWWtROFlXNjJ2Z2tPWmNRZkZBVGJMRHgtSmVpZXBXZFVPTkNDOEJCNXVTR1kxNHp0ZUduUXVXT0lZN1QwM0FGZmxpeVJnaGMtRnMtek1uOHppVW9ZTzZxQnJ6ZnlLWV84OVlDcXNLVWJrV2lMTVloNWp2cndCT2ljalJKRDZubjhyczZ3ZkFUaE9TdGdoNFpPTjFnOTFTVGRKR3RJeGxyQzBhTTNKVDg4dnVn?oc=5",
+      "published": "2026-09-28T12:41:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Pilot dies in north Georgia plane crash",
@@ -39,7 +53,7 @@
     },
     {
       "title": "GDOT says westside I-285 rebuild is 15-20% complete as seventh full closure begins",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUxBTXZHcnpkc2JmeDZETFBXa3RjaW1zWC1sRW5RVWN6TmYwTWlGVFBxWjdWYXRsMWZ6UDBwMlhIRlNrRzYtLUdWMG1xbTJHZTViYWI0RUVMeVJPakFiVURWN3lFcEhaRmw0akhwU2pVZk9Md19lODItMlNrNm9LTFhlbEZwN3VqbjlBNU8ycGhGeThiYkRQeXR4Ym1XLVVWNXNKMUNyVmNYRWZPMVY3ZXM2RE1WVFlzTmlEVFhERVJvOTNR?oc=5",
       "published": "2026-09-25T11:41:00.000Z",
       "feed": "ga-metro"
@@ -53,7 +67,7 @@
     },
     {
       "title": "Woman killed in crash on I-95 in Liberty County",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT1V0aERKNmpnMWprc3lsLWk0VXJtMWdfMjNUQmpHV1dhM2NKSEY2UnJXeGhydnJXdlJhLVFLUXljTGIwcTdHZEhZSmNFQWpKVnJzZUFCQ3R0WVp0YUlQQkZZdXZ1TnItUkhYdFdkekNCblRiRm1iS0dtR0g5aUQtNnZkWmdGNG52S28waGdvZmJaZw?oc=5",
       "published": "2026-09-24T18:05:00.000Z",
       "feed": "ga-roads"
@@ -123,17 +137,10 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "Time Magazine",
+      "source": "time.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Dermer Appel Ruder, LLC Examines Georgia’s Latest Traffic Fatality Trends",
-      "source": "Democrat and Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbXYxSFV3dnkyNmhnU2EzR2FPVE1tXzRVd1dPRlFQVi1zQjZJcTNMN256dC1iSUFUeXB4Uk5jbkQ3V282d1I0cUN1bEJyTVptQXBJa2tJQW5WZU8yR2J0STdfRWVoTmgyNldQZ1B2VVUybTNRTER5S3o2WTFpREhndXpaTW5CMTVlbVVtS2ZvTjJkUmNFdjJfVVFJbURUV0F1YVFZUklwQm1hcTBoemlMTEktQm5SWVpUVEZma3RMeFgwZm52WjRrbXNoUTZPR1JMUEE?oc=5",
-      "published": "2026-09-19T02:48:05.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Audi, Volkswagen drivers warned of recall over issue that causes a loss of steering control",
