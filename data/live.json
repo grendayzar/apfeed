@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T16:51:37.838Z",
+  "generated": "2026-09-30T21:21:57.290Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -10,10 +10,17 @@
   "count": 22,
   "items": [
     {
-      "title": "Troopers: 3 killed, 4 seriously injured in I-16 crash",
+      "title": "Overturned vehicle crash at I-75/85 interchange in Midtown",
+      "source": "11Alive.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDlXN0k3eG9nUm1pQ1oxS0RPQmFzd2x3Z3pRenpEN3FiYW9wS3EyQzAwblhXcERRQS0zYllzTmtOZUhYYndpYjNPbm8tcnYxRXN4WlNYQjlxbGRTTGNIcllVM1piMDhTckhFa3RQR2g3OVJ2SlF5N1ByYjNsRFkyRXQwNWpGQ2wyTDN3TUs2MnhzVmVfZWdiRXRnUWJ0dDhDaVU4MTRRMzRjNzBtZjVGMTktZ1pPNmNOV1psVW10eXZGVFp2Q2Jz?oc=5",
+      "published": "2026-09-30T17:50:00.000Z",
+      "feed": "ga-metro"
+    },
+    {
+      "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
       "source": "WJCL",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVFZDanMxaUR1UGZiYnB3X2N0Y3FiSFZpZzc0d3VGZGotcnQwVTVtcUhvdmFtX2pZbklhbV80Z2ZZTW5nM1NmT3J6d1JuakZKZ3BmSE5ScEhfLWp0Y1FYbnZXN0JwOUtSM2thazZkUnd4RG5JSTVmQUs3WGdVVmhUQUdjbGRFVGNlTTA2bTUxYXJYdw?oc=5",
-      "published": "2026-09-30T14:20:00.000Z",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
+      "published": "2026-09-30T14:58:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -31,15 +38,29 @@
       "feed": "ga-roads"
     },
     {
-      "title": "3 dead, 4 juveniles injured in I-16 crash in Bryan County",
-      "source": "WTOC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR1FVc0x4djBQTk9pZjFOSTNGLWJXTExvNXVneDhIU1BnTW9xbzBBeFRpSTdtbE9iVWZ1a2VlNWV0R0NlV01BaGFxdUhKeGpqZnhPQlE4RjJvVm45ZUo1OHVJZnAzeVNOcHItVjQtN29uVEdBakZ3TG5LOFBPR2cwVFUzMlFPZWZqdXcw?oc=5",
+      "title": "Driver killed, another injured in crash on I-75 in Atlanta, GSP says",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTNDTjBJNTM2Nkh2dUdVMHlPd3NjR29QOV9rWFA2dko3TVpGV01ybmJCc2ZuQlhfVXJHRC13Tl9lOWpvUk5ILXBBNlZ0VVdEX2tJTlgzaU1WbDNwSE1Nb1JueEdtWktYTmNKdDA0TUtRVmVlSEd4Mkg5Y3JTN3NJTDBmdTlDd1J1UlFDX3lNZnFReFhpLUVfaVlyVEZvN2JrbXNMMQ?oc=5",
+      "published": "2026-09-30T00:10:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "4 dead, 3 juveniles injured in I-16 crash in Bryan County",
+      "source": "wtoc.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkh5am0wR2pQWlFhWlViM1ZLMDBmbzlCVk1ndEtCVmMyenB4VEZKNUVlcWx5aW9aN2FFTU8zdTBKUkpkMnI0QVZmemxubUh5MFEzczAyVG14TVJEdzFKM0pmU1E4UzU5U2RCNW9OMnBnNHFsbnRjRXpGQ1A5ZDdjQ3VTMjkxeEJDZ0RV?oc=5",
       "published": "2026-09-29T18:52:00.000Z",
       "feed": "ga-roads"
     },
     {
+      "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
+      "published": "2026-09-29T15:52:17.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "U.S. Traffic Fatalities Fall for Fourth Straight Year, but Safety Concerns Remain",
-      "source": "roadsbridges.com",
+      "source": "Roads & Bridges",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXNVbmNCb2d6MWdCMDQ1WHVWX3c3ZHVrZGJwUFlidzlmRF9MMzQ5YnF0QldDeVRBckFZUW9fSlFJVkVweFpHUXNRckFpdTRpMGpJVDh1YnBhUVMzUkVVd3Y2SHJobGwwUXZYek1DZlVmZjVrMWloalN3M1JzRVlEQURIU2tDVXQyU1BQQjdWVUczZEZSYThlaDFibTZVQ2ZXVnZ0cVhzUW1haTNDN1IySk52clNTUmZCbGY0MnFsdnJxRVc0NVlFX0p0WXJ3eGRsMFE?oc=5",
       "published": "2026-09-29T00:46:54.000Z",
       "feed": "us-safety"
@@ -67,21 +88,14 @@
     },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
-      "source": "aashtojournal.transportation.org",
+      "source": "AASHTO Journal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
       "feed": "us-safety"
     },
     {
-      "title": "GDOT says westside I-285 rebuild is 15-20% complete as seventh full closure begins",
-      "source": "11Alive.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeUxBTXZHcnpkc2JmeDZETFBXa3RjaW1zWC1sRW5RVWN6TmYwTWlGVFBxWjdWYXRsMWZ6UDBwMlhIRlNrRzYtLUdWMG1xbTJHZTViYWI0RUVMeVJPakFiVURWN3lFcEhaRmw0akhwU2pVZk9Md19lODItMlNrNm9LTFhlbEZwN3VqbjlBNU8ycGhGeThiYkRQeXR4Ym1XLVVWNXNKMUNyVmNYRWZPMVY3ZXM2RE1WVFlzTmlEVFhERVJvOTNR?oc=5",
-      "published": "2026-09-25T11:41:00.000Z",
-      "feed": "ga-metro"
-    },
-    {
       "title": "Bus involved in crash near I-20 in Lithonia",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1UzZkQtQms0QXdxWENvOXV2SlBYLVhkSFg5RHJtR0xSMFdRWlhIeDlsdHlydW1ZQTdBWG1uTHdtaFZYeVptTUhzUGdmUld6ci1ZRjAxNnhQNzk0YnBfUzdEV0twcHd1NmgzT2ZqcmtPR0JlV1AwQS1ZQkJBV3RkenFKMWp1SjJWOXJvbEh6dDBiWjF6TXRHWjJETdIBoAFBVV95cUxOaDhja3dVTWJWQVRwQmdOUEFZeXQxaFdSYXZKSGtxZWNhcDc1VGFVUFQwdHdnd203YjE2SU9QUncteXM1NUFqUjhPU3hfakRvVWVaZnBlU1ZDU19oNllERXEtaGVlZno5UW45VHR5OXpaX1pmdEFadGRSX1dyTUsxVjNEOGs5cl9OY3pOVVFoV1piYXJ5bWE4Z3l2MHRhQ2kx?oc=5",
       "published": "2026-09-25T11:01:02.000Z",
       "feed": "ga-metro"
@@ -95,21 +109,14 @@
     },
     {
       "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "FOX Carolina News",
+      "source": "foxcarolina.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
       "published": "2026-09-24T09:53:00.000Z",
       "feed": "ga-roads"
     },
     {
-      "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
-      "published": "2026-09-24T02:36:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Man killed by tractor-trailer after crash on Hwy 78, DeKalb police say",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlFFUDZKWTd4QjZMTi1kdEU5R1FYSzQwajI2RmxPLWtfNGRyd0pJNlNVczRoamlsMWVSM2lJQWtmSkNDUDJtVkZwRk80ckRMVW5KdVM2NllUdUdqT0c4bTNmX09sQkdrTGVBMkxyM0JLTUtMRURVVmRFUzlzeFR5MVoyN29lUlRfYVNyN0ZVeG5fM3RZYUVvX3VNblM?oc=5",
       "published": "2026-09-23T23:30:16.000Z",
       "feed": "ga-roads"
@@ -129,13 +136,6 @@
       "feed": "injurylaw"
     },
     {
-      "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
-      "published": "2026-09-22T17:09:18.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
       "source": "The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
@@ -144,7 +144,7 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "Time Magazine",
+      "source": "time.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
