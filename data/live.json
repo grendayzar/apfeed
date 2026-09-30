@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T05:18:27.890Z",
+  "generated": "2026-09-30T11:15:09.064Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,6 +17,13 @@
       "feed": "ga-roads"
     },
     {
+      "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
+      "published": "2026-09-29T15:52:17.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "U.S. Traffic Fatalities Fall for Fourth Straight Year, but Safety Concerns Remain",
       "source": "Roads & Bridges",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXNVbmNCb2d6MWdCMDQ1WHVWX3c3ZHVrZGJwUFlidzlmRF9MMzQ5YnF0QldDeVRBckFZUW9fSlFJVkVweFpHUXNRckFpdTRpMGpJVDh1YnBhUVMzUkVVd3Y2SHJobGwwUXZYek1DZlVmZjVrMWloalN3M1JzRVlEQURIU2tDVXQyU1BQQjdWVUczZEZSYThlaDFibTZVQ2ZXVnZ0cVhzUW1haTNDN1IySk52clNTUmZCbGY0MnFsdnJxRVc0NVlFX0p0WXJ3eGRsMFE?oc=5",
@@ -25,7 +32,7 @@
     },
     {
       "title": "Flock cameras help identify suspect in deadly Gwinnett County hit-and-run crash, police say",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXFxMktUZDBWOEZsc1RFMS1zNU9OTTFzSnNtZWhIZThOclVDSEZDS3J1eGdVZ0xUNTZfa2NRRFdZOFk3OXpRZ3UySDFjOGE3Y05yUHRKb1Y1SHc5MlB0WlgxV1dhYnhIajl5aGc0aFVmM0VHZEZPaVV3dGdLTXRRRjBXemhDcURISGdzbzdJYnN6Y184bWc5bW04MTRCSHJtclBOMm4yXzExMmZXelZubERoeURIaExFT1haZml6aGpFaExPM3hF?oc=5",
       "published": "2026-09-28T20:04:37.000Z",
       "feed": "ga-roads"
@@ -60,7 +67,7 @@
     },
     {
       "title": "School bus carrying DeKalb County students collides with box truck near I-20",
-      "source": "CBS News",
+      "source": "cbsnews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXV1VlBnZlJ2N2lyaDRPdFQxbTZwcER4VzBsTFRCUTFXLUtSd05MLWxQSGZZRUVDc05XazFFMnVQaS1pU3psdnFKWVdyTmlpSnItdFZPT3ozVTFPT1JhV1JnZ0VrSGJtNXdWS0pDWTFxdmR3LTNYcTg3QkwxXzlwLVNNbXRneGRReEFiZmhjQkczMUwtc2c2NElrTGZXcEZGYkRLWnZOVElncVdBNFZWVzNmbGo?oc=5",
       "published": "2026-09-25T13:55:51.000Z",
       "feed": "ga-metro"
@@ -94,6 +101,13 @@
       "feed": "us-safety"
     },
     {
+      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
+      "source": "FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
+      "published": "2026-09-24T09:53:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Lanes of I-20 eastbound in DeKalb County reopened after crash",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSWsxNUdyWDRzVjF5Q09lYnM2dks3dDRNcXl6bGRRT3lVRS1yZFNocVRsQW8xQ2V3cDdndXFkMFROMkw0bmF3bnpkNy1YaVMxc0hGcDRiMVpRTERNNURLeXpySW1ra2Z1SWp5Y0Rka1BkVzVEaDdNOTh5WWVLd0JQTkNTdW5WcGo2TVl5Sk10clhSS0Jya08wdFNpOEFTX0JWQmNwbg?oc=5",
@@ -115,25 +129,11 @@
       "feed": "us-safety"
     },
     {
-      "title": "Midway woman killed in I-95 crash in Liberty County",
-      "source": "WTOC",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON3o4dFVNWnR6VjRtTEEwdHVtMG5zdnFoS0RBREJxMUtyRDFQYzVjdDJXUG5xdHFmMzhsVnh5RWxXWEtiVEloUGcybWtyRXFDdGt5WkN3ODM4M0xOUWpXMEdROTFjdFAyT1ZMOWZieFVjUTYtdEdlOElCZVNKNWNiUVE0dFpUeUVkYl9NNUk1a9IBowFBVV95cUxNNGNobDBLbEZVT2RUUVRiTl9LQ1FLejAwZzlwWVJsR2lOWnRfdDJWRlhKVk5oSmZZZE9tQkQyeDlYbGQ5TFBpVEg5VkhVMWZyd0FlV3B2X2Q0WlVZcHBJRDRfb1NPSFctNTZjZm1xWkJLbUJoVmxNeHBnZkJCdlBZcmR2T2dKSHFmUXNLZVVsZjdoenYwejJkSVJBN1ZjUXlJNnFR?oc=5",
-      "published": "2026-09-23T19:52:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
       "source": "Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFYyaHhOVDdwNGR6bngwMFQxRWJra3JhS2hWZmV4US1MXzZRSzk2MVZrc3NzaWY4ZUE3NkpaVERhLU0xQWFQZ0FFYnhVMmw2Z2pjUFRRUnhwUDk5bWJmMGlfZ1RpWnBaNTdhRm56Nmd4N1V3ekRwMFFmQXBOTDJ0RFFyOGpQN3k1ek1zNWtaeVdGU3pQZFl5bg?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "US closes rear-view camera probe into more than 129,000 Honda vehicles",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWd1RlZTWk1vRlBVYjF1VkhZUDVNc0lkVHVmcy15dkdHZzhPSlFVczkwVWFVQmhXRDhiZFk0NE94bXBPdUlOUklkamRocmY1QS1NQXVHTExtRHQ3a2xzaE1Uc1hzMkE2eThFcjJWeFRqLV9jWERPeG5xZVllQUNKY2EwZ3hQTUtsTmUxRnIzRmtKcC0waDFOVTY5bTBHc1k1QmlWNXdaXzN6MmFKZ3VsdEZnZ1l2bkRpUk94cUFSOA?oc=5",
-      "published": "2026-09-22T17:09:18.000Z",
-      "feed": "recalls"
     },
     {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
