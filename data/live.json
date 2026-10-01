@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T00:50:12.020Z",
+  "generated": "2026-10-01T07:07:16.276Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,13 +15,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDlXN0k3eG9nUm1pQ1oxS0RPQmFzd2x3Z3pRenpEN3FiYW9wS3EyQzAwblhXcERRQS0zYllzTmtOZUhYYndpYjNPbm8tcnYxRXN4WlNYQjlxbGRTTGNIcllVM1piMDhTckhFa3RQR2g3OVJ2SlF5N1ByYjNsRFkyRXQwNWpGQ2wyTDN3TUs2MnhzVmVfZWdiRXRnUWJ0dDhDaVU4MTRRMzRjNzBtZjVGMTktZ1pPNmNOV1psVW10eXZGVFp2Q2Jz?oc=5",
       "published": "2026-09-30T17:50:00.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Moses Lake doctor dies in Georgia car accident",
-      "source": "Source ONE News",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUUJTQUxLdEUzQXpHZU1uV2Vha0ZyXzQxcnlEY0xBRmpuSVNMcnFIRUZ5ZVgwQ1Bqc1B3NnNkSnlnM3p4RzREbTh3dlBfN2VnLWYwTTVXT0JvNGRLSEJnS3hrSXpXemttQlJnZTNwRlhRVXJIMDQtRTV6OVZ4UkRsTEE3bXFWVm14eW5ZTDg2NGNOSDNFTGVieV84Y2hTQkU2VWxCd2pqa0lRZUpyd3l2REpBR1JLcGxYcFBOVk9TZFpvR0ZlNExWbi1MVXVTRWRFWTRLNHhKT0RJZ2lIUnQ0?oc=5",
-      "published": "2026-09-30T15:39:55.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
@@ -60,7 +53,7 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
@@ -71,6 +64,13 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXNVbmNCb2d6MWdCMDQ1WHVWX3c3ZHVrZGJwUFlidzlmRF9MMzQ5YnF0QldDeVRBckFZUW9fSlFJVkVweFpHUXNRckFpdTRpMGpJVDh1YnBhUVMzUkVVd3Y2SHJobGwwUXZYek1DZlVmZjVrMWloalN3M1JzRVlEQURIU2tDVXQyU1BQQjdWVUczZEZSYThlaDFibTZVQ2ZXVnZ0cVhzUW1haTNDN1IySk52clNTUmZCbGY0MnFsdnJxRVc0NVlFX0p0WXJ3eGRsMFE?oc=5",
       "published": "2026-09-29T00:46:54.000Z",
       "feed": "us-safety"
+    },
+    {
+      "title": "Flock cameras help identify suspect in deadly Gwinnett County hit-and-run crash, police say",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXFxMktUZDBWOEZsc1RFMS1zNU9OTTFzSnNtZWhIZThOclVDSEZDS3J1eGdVZ0xUNTZfa2NRRFdZOFk3OXpRZ3UySDFjOGE3Y05yUHRKb1Y1SHc5MlB0WlgxV1dhYnhIajl5aGc0aFVmM0VHZEZPaVV3dGdLTXRRRjBXemhDcURISGdzbzdJYnN6Y184bWc5bW04MTRCSHJtclBOMm4yXzExMmZXelZubERoeURIaExFT1haZml6aGpFaExPM3hF?oc=5",
+      "published": "2026-09-28T20:04:37.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Auto Safety Recall Derby - Week of September 28",
@@ -88,7 +88,7 @@
     },
     {
       "title": "Pilot dies in north Georgia plane crash",
-      "source": "wsbtv.com",
+      "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFgwYkZEcTIwVDVkSy1DNnBDamVFeFR2ZkxvRFJYWnYwdmV1ZlJKcS1EdThSU2hqQUEzdnBKN19lekRodWRYcDBHY0k1Qm9wcmRUQjg3ZlJiWXNJX2U5Z09PdU04eGJRTmhxcUdwd2liTU9ab0tPWGRSMjktZHZFcHRVSnRSOHBRblkyMjlLX3ZyOFNlME9yY203QnZad9IBsgFBVV95cUxPNGI5SmdkYjAzQ2FJT3dBUEtTUmVGM2hYTlVrOTVyRHJuYmJhMUtRdDFkMWFtTjBsTGlZOElkS25jNUFtV01kVS0yU01fcjNDUUhoem5GbWx3UkJXWld0b1JqTDBTWFNnZGk1M085bDJYMUUxLTQ1UmpKSjJQM3hlSTY2WlZkVU9CLUVTc200WnYwamNramNNTGViQlB4QWZoUzNVWDdIV0JQYk1GVzJ1VEZB?oc=5",
       "published": "2026-09-27T01:15:00.000Z",
       "feed": "ga-roads"
