@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T07:07:16.276Z",
+  "generated": "2026-10-01T14:35:25.260Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,18 +17,18 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Moses Lake doctor dies in Georgia car accident",
+      "source": "Source ONE News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUUJTQUxLdEUzQXpHZU1uV2Vha0ZyXzQxcnlEY0xBRmpuSVNMcnFIRUZ5ZVgwQ1Bqc1B3NnNkSnlnM3p4RzREbTh3dlBfN2VnLWYwTTVXT0JvNGRLSEJnS3hrSXpXemttQlJnZTNwRlhRVXJIMDQtRTV6OVZ4UkRsTEE3bXFWVm14eW5ZTDg2NGNOSDNFTGVieV84Y2hTQkU2VWxCd2pqa0lRZUpyd3l2REpBR1JLcGxYcFBOVk9TZFpvR0ZlNExWbi1MVXVTRWRFWTRLNHhKT0RJZ2lIUnQ0?oc=5",
+      "published": "2026-09-30T15:39:55.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
       "published": "2026-09-30T14:58:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Add Us On Google Add as a preferred source on Google ATLANTA, Ga. (Atlanta News First) - Several lanes are closed on I-85 southbound in DeKalb County after a crash involving a police vehicle. The incident happened near the I-285 eastbound exit, accordi",
-      "source": "instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuUEdaOW1RSUhCUXJGYjdhVU1tSEo3VjlYQXRuak54RTFtUVRyYnVZUmUtN2JQbHNLXzE1ejRYRGlBbF85LVBIWVBUdUY0RUdQc2c?oc=5",
-      "published": "2026-09-30T13:38:53.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "One person dead, one person critical in crash on Fulton Industrial Blvd.",
@@ -66,15 +66,8 @@
       "feed": "us-safety"
     },
     {
-      "title": "Flock cameras help identify suspect in deadly Gwinnett County hit-and-run crash, police say",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZXFxMktUZDBWOEZsc1RFMS1zNU9OTTFzSnNtZWhIZThOclVDSEZDS3J1eGdVZ0xUNTZfa2NRRFdZOFk3OXpRZ3UySDFjOGE3Y05yUHRKb1Y1SHc5MlB0WlgxV1dhYnhIajl5aGc0aFVmM0VHZEZPaVV3dGdLTXRRRjBXemhDcURISGdzbzdJYnN6Y184bWc5bW04MTRCSHJtclBOMm4yXzExMmZXelZubERoeURIaExFT1haZml6aGpFaExPM3hF?oc=5",
-      "published": "2026-09-28T20:04:37.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Auto Safety Recall Derby - Week of September 28",
-      "source": "ConsumerAffairs",
+      "source": "consumeraffairs.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0ZncUhIQ1RQRmZQRVZLM1R4OFlGQUVhbzQzQzhQYjFva05ZeWZWQjRoYTd0dXp0MW1XRkVvY0s2cmhGZnhXSHYxUFlhcmxndEp1TERIY0xfNEZ6RGJZTnJkVEEzX3pEU1dOR254T2hlX2U2b0JSZ3lLTE1lRXRwM0NLUlJHQUxLZ2RYZ0xlcEpTRkNVbG5meHZn?oc=5",
       "published": "2026-09-28T16:17:30.000Z",
       "feed": "recalls"
@@ -95,14 +88,21 @@
     },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
-      "source": "AASHTO Journal",
+      "source": "aashtojournal.transportation.org",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
       "feed": "us-safety"
     },
     {
+      "title": "School bus carrying DeKalb County students collides with box truck near I-20",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUXV1VlBnZlJ2N2lyaDRPdFQxbTZwcER4VzBsTFRCUTFXLUtSd05MLWxQSGZZRUVDc05XazFFMnVQaS1pU3psdnFKWVdyTmlpSnItdFZPT3ozVTFPT1JhV1JnZ0VrSGJtNXdWS0pDWTFxdmR3LTNYcTg3QkwxXzlwLVNNbXRneGRReEFiZmhjQkczMUwtc2c2NElrTGZXcEZGYkRLWnZOVElncVdBNFZWVzNmbGo?oc=5",
+      "published": "2026-09-25T13:55:51.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Bus involved in crash near I-20 in Lithonia",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1UzZkQtQms0QXdxWENvOXV2SlBYLVhkSFg5RHJtR0xSMFdRWlhIeDlsdHlydW1ZQTdBWG1uTHdtaFZYeVptTUhzUGdmUld6ci1ZRjAxNnhQNzk0YnBfUzdEV0twcHd1NmgzT2ZqcmtPR0JlV1AwQS1ZQkJBV3RkenFKMWp1SjJWOXJvbEh6dDBiWjF6TXRHWjJETdIBoAFBVV95cUxOaDhja3dVTWJWQVRwQmdOUEFZeXQxaFdSYXZKSGtxZWNhcDc1VGFVUFQwdHdnd203YjE2SU9QUncteXM1NUFqUjhPU3hfakRvVWVaZnBlU1ZDU19oNllERXEtaGVlZno5UW45VHR5OXpaX1pmdEFadGRSX1dyTUsxVjNEOGs5cl9OY3pOVVFoV1piYXJ5bWE4Z3l2MHRhQ2kx?oc=5",
       "published": "2026-09-25T11:01:02.000Z",
       "feed": "ga-roads"
