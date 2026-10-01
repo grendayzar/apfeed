@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T19:49:15.253Z",
+  "generated": "2026-10-01T23:50:28.858Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "title": "Twin City family among 4 killed in Bryan County crash",
@@ -60,7 +60,7 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
@@ -87,6 +87,13 @@
       "feed": "recalls"
     },
     {
+      "title": "Pilot killed in Chatsworth plane crash over the weekend identified",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDFNUHY2d3ZvNGRZeGhSc0dzaEIzZzlRQS1naFhxZWlZN2l2SEpEUWt6Nnk5S0pTS1gwdEw0X1lIRFQwbHlOS0Z3UDhWQndaN0E5ZUhCR0thSzN4MjVYcjlCMUtkbTNLUE1fR29qU05nLVZWZFRvV2dMbkRXazl1VW5KdmFoTTFpbzZXWXpOYmQ?oc=5",
+      "published": "2026-09-27T18:36:01.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Pilot dies in north Georgia plane crash",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFgwYkZEcTIwVDVkSy1DNnBDamVFeFR2ZkxvRFJYWnYwdmV1ZlJKcS1EdThSU2hqQUEzdnBKN19lekRodWRYcDBHY0k1Qm9wcmRUQjg3ZlJiWXNJX2U5Z09PdU04eGJRTmhxcUdwd2liTU9ab0tPWGRSMjktZHZFcHRVSnRSOHBRblkyMjlLX3ZyOFNlME9yY203QnZad9IBsgFBVV95cUxPNGI5SmdkYjAzQ2FJT3dBUEtTUmVGM2hYTlVrOTVyRHJuYmJhMUtRdDFkMWFtTjBsTGlZOElkS25jNUFtV01kVS0yU01fcjNDUUhoem5GbWx3UkJXWld0b1JqTDBTWFNnZGk1M085bDJYMUUxLTQ1UmpKSjJQM3hlSTY2WlZkVU9CLUVTc200WnYwamNramNNTGViQlB4QWZoUzNVWDdIV0JQYk1GVzJ1VEZB?oc=5",
@@ -105,7 +112,7 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1UzZkQtQms0QXdxWENvOXV2SlBYLVhkSFg5RHJtR0xSMFdRWlhIeDlsdHlydW1ZQTdBWG1uTHdtaFZYeVptTUhzUGdmUld6ci1ZRjAxNnhQNzk0YnBfUzdEV0twcHd1NmgzT2ZqcmtPR0JlV1AwQS1ZQkJBV3RkenFKMWp1SjJWOXJvbEh6dDBiWjF6TXRHWjJETdIBoAFBVV95cUxOaDhja3dVTWJWQVRwQmdOUEFZeXQxaFdSYXZKSGtxZWNhcDc1VGFVUFQwdHdnd203YjE2SU9QUncteXM1NUFqUjhPU3hfakRvVWVaZnBlU1ZDU19oNllERXEtaGVlZno5UW45VHR5OXpaX1pmdEFadGRSX1dyTUsxVjNEOGs5cl9OY3pOVVFoV1piYXJ5bWE4Z3l2MHRhQ2kx?oc=5",
       "published": "2026-09-25T11:01:02.000Z",
-      "feed": "ga-roads"
+      "feed": "ga-metro"
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
