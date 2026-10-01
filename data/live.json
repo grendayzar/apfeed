@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T21:21:57.290Z",
+  "generated": "2026-10-01T00:50:12.020Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Overturned vehicle crash at I-75/85 interchange in Midtown",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDlXN0k3eG9nUm1pQ1oxS0RPQmFzd2x3Z3pRenpEN3FiYW9wS3EyQzAwblhXcERRQS0zYllzTmtOZUhYYndpYjNPbm8tcnYxRXN4WlNYQjlxbGRTTGNIcllVM1piMDhTckhFa3RQR2g3OVJ2SlF5N1ByYjNsRFkyRXQwNWpGQ2wyTDN3TUs2MnhzVmVfZWdiRXRnUWJ0dDhDaVU4MTRRMzRjNzBtZjVGMTktZ1pPNmNOV1psVW10eXZGVFp2Q2Jz?oc=5",
       "published": "2026-09-30T17:50:00.000Z",
       "feed": "ga-metro"
+    },
+    {
+      "title": "Moses Lake doctor dies in Georgia car accident",
+      "source": "Source ONE News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUUJTQUxLdEUzQXpHZU1uV2Vha0ZyXzQxcnlEY0xBRmpuSVNMcnFIRUZ5ZVgwQ1Bqc1B3NnNkSnlnM3p4RzREbTh3dlBfN2VnLWYwTTVXT0JvNGRLSEJnS3hrSXpXemttQlJnZTNwRlhRVXJIMDQtRTV6OVZ4UkRsTEE3bXFWVm14eW5ZTDg2NGNOSDNFTGVieV84Y2hTQkU2VWxCd2pqa0lRZUpyd3l2REpBR1JLcGxYcFBOVk9TZFpvR0ZlNExWbi1MVXVTRWRFWTRLNHhKT0RJZ2lIUnQ0?oc=5",
+      "published": "2026-09-30T15:39:55.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
@@ -46,14 +53,14 @@
     },
     {
       "title": "4 dead, 3 juveniles injured in I-16 crash in Bryan County",
-      "source": "wtoc.com",
+      "source": "WTOC",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkh5am0wR2pQWlFhWlViM1ZLMDBmbzlCVk1ndEtCVmMyenB4VEZKNUVlcWx5aW9aN2FFTU8zdTBKUkpkMnI0QVZmemxubUh5MFEzczAyVG14TVJEdzFKM0pmU1E4UzU5U2RCNW9OMnBnNHFsbnRjRXpGQ1A5ZDdjQ3VTMjkxeEJDZ0RV?oc=5",
       "published": "2026-09-29T18:52:00.000Z",
       "feed": "ga-roads"
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
@@ -81,7 +88,7 @@
     },
     {
       "title": "Pilot dies in north Georgia plane crash",
-      "source": "WSB-TV",
+      "source": "wsbtv.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFgwYkZEcTIwVDVkSy1DNnBDamVFeFR2ZkxvRFJYWnYwdmV1ZlJKcS1EdThSU2hqQUEzdnBKN19lekRodWRYcDBHY0k1Qm9wcmRUQjg3ZlJiWXNJX2U5Z09PdU04eGJRTmhxcUdwd2liTU9ab0tPWGRSMjktZHZFcHRVSnRSOHBRblkyMjlLX3ZyOFNlME9yY203QnZad9IBsgFBVV95cUxPNGI5SmdkYjAzQ2FJT3dBUEtTUmVGM2hYTlVrOTVyRHJuYmJhMUtRdDFkMWFtTjBsTGlZOElkS25jNUFtV01kVS0yU01fcjNDUUhoem5GbWx3UkJXWld0b1JqTDBTWFNnZGk1M085bDJYMUUxLTQ1UmpKSjJQM3hlSTY2WlZkVU9CLUVTc200WnYwamNramNNTGViQlB4QWZoUzNVWDdIV0JQYk1GVzJ1VEZB?oc=5",
       "published": "2026-09-27T01:15:00.000Z",
       "feed": "ga-roads"
@@ -98,7 +105,7 @@
       "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1UzZkQtQms0QXdxWENvOXV2SlBYLVhkSFg5RHJtR0xSMFdRWlhIeDlsdHlydW1ZQTdBWG1uTHdtaFZYeVptTUhzUGdmUld6ci1ZRjAxNnhQNzk0YnBfUzdEV0twcHd1NmgzT2ZqcmtPR0JlV1AwQS1ZQkJBV3RkenFKMWp1SjJWOXJvbEh6dDBiWjF6TXRHWjJETdIBoAFBVV95cUxOaDhja3dVTWJWQVRwQmdOUEFZeXQxaFdSYXZKSGtxZWNhcDc1VGFVUFQwdHdnd203YjE2SU9QUncteXM1NUFqUjhPU3hfakRvVWVaZnBlU1ZDU19oNllERXEtaGVlZno5UW45VHR5OXpaX1pmdEFadGRSX1dyTUsxVjNEOGs5cl9OY3pOVVFoV1piYXJ5bWE4Z3l2MHRhQ2kx?oc=5",
       "published": "2026-09-25T11:01:02.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
@@ -106,20 +113,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Coroner identifies Georgia man killed in early morning Anderson County crash",
-      "source": "foxcarolina.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam4yV0RNekEwRDZwWnZiY0dPaXgxWDNGei1LdEdRajBXZ1gtS0hVX1pxNVF0YWJVbEs5MlNfN0JjTmlWUDgyRGhLU01nZ2duRVRha3pLb0NtRzRBSzI1ZFRsYXBSenhqYS1nUkdCU25fZ1ZYcnFFeUxEV1hIUGNOVmgwT0Q?oc=5",
-      "published": "2026-09-24T09:53:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Man killed by tractor-trailer after crash on Hwy 78, DeKalb police say",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdlFFUDZKWTd4QjZMTi1kdEU5R1FYSzQwajI2RmxPLWtfNGRyd0pJNlNVczRoamlsMWVSM2lJQWtmSkNDUDJtVkZwRk80ckRMVW5KdVM2NllUdUdqT0c4bTNmX09sQkdrTGVBMkxyM0JLTUtMRURVVmRFUzlzeFR5MVoyN29lUlRfYVNyN0ZVeG5fM3RZYUVvX3VNblM?oc=5",
-      "published": "2026-09-23T23:30:16.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Report: Texas' traffic fatality rate was 20th highest in nation last year; 25K+ killed in five-year period",
@@ -144,7 +137,7 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "time.com",
+      "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
