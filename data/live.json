@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T11:21:01.770Z",
+  "generated": "2026-10-02T16:49:21.092Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,20 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Ford recalls more than 40,000 trucks and SUVs over visibility risk",
+      "source": "Fox Business",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczJLdnduV09yb25KVGd6M2hHV2Q1cG43eldTckdnb2t0ZGxxTlliVm9rZ0NlRmtBMVhLTVpkVHVCVXVzZjZjdTlUSmIzbjIyakNFWlpKZXlURVhlbEl1X0lZSkNpY1VESzBqMzBWYlBvM24takZVOG9ZMjRRSnR1NHIyTnJ0NGlnR0xLb002eHhIczVTVDBNRThWLUdIQdIBowFBVV95cUxNUjFtTEJYb25zSWcyX1Mza2I0elp0SllGLWRRMTdKNW1vbndFeGhmb1dOOXB4ZkpYUjdpaU8wZk9rTU5KSW5xVlMtVk45Qy1pWlJTQ0tGQmEyYTdkNVJiSXZLM3dvVFY3cVViZHp3SFlRSnNnR29Mdk43V0g1TUNzY1ZIeW1oZnFlNENDSFAwUGJ0MFd1d0RKZFZzb2xFSlQ4OGFN?oc=5",
+      "published": "2026-10-02T06:43:00.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "State officials call on drivers to make better choices, slow down to save lives",
+      "source": "Minnesota Department of Public Safety (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1pvY2ExcXczaXpKYS1mZmo5UXlKSzRJSGVjYWdUNGtCS1BYbVNUSzRmTHVqYWlXMTZ2SjVBYVlKbW5qblJZdnBSaVUxZUZMVWVRVHhjX2F5ZFpuX3c0UlAwVEVjX0RtXzQ3QzhGSUF4SGF4V0hpZjc2ZlVZVXBCYjZYN05JSndDdS1uSTgxS281REVTVUZ4aDdlZ2kxQQ?oc=5",
+      "published": "2026-10-01T21:06:21.000Z",
+      "feed": "us-safety"
+    },
     {
       "title": "Twin City family among 4 killed in Bryan County crash",
       "source": "WRDW",
@@ -53,7 +67,7 @@
     },
     {
       "title": "Driver killed, another injured in crash on I-75 in Atlanta, GSP says",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTNDTjBJNTM2Nkh2dUdVMHlPd3NjR29QOV9rWFA2dko3TVpGV01ybmJCc2ZuQlhfVXJHRC13Tl9lOWpvUk5ILXBBNlZ0VVdEX2tJTlgzaU1WbDNwSE1Nb1JueEdtWktYTmNKdDA0TUtRVmVlSEd4Mkg5Y3JTN3NJTDBmdTlDd1J1UlFDX3lNZnFReFhpLUVfaVlyVEZvN2JrbXNMMQ?oc=5",
       "published": "2026-09-30T00:10:00.000Z",
       "feed": "ga-roads"
@@ -67,28 +81,14 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
     },
     {
-      "title": "U.S. Traffic Fatalities Fall for Fourth Straight Year, but Safety Concerns Remain",
-      "source": "Roads & Bridges",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXNVbmNCb2d6MWdCMDQ1WHVWX3c3ZHVrZGJwUFlidzlmRF9MMzQ5YnF0QldDeVRBckFZUW9fSlFJVkVweFpHUXNRckFpdTRpMGpJVDh1YnBhUVMzUkVVd3Y2SHJobGwwUXZYek1DZlVmZjVrMWloalN3M1JzRVlEQURIU2tDVXQyU1BQQjdWVUczZEZSYThlaDFibTZVQ2ZXVnZ0cVhzUW1haTNDN1IySk52clNTUmZCbGY0MnFsdnJxRVc0NVlFX0p0WXJ3eGRsMFE?oc=5",
-      "published": "2026-09-29T00:46:54.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Auto Safety Recall Derby - Week of September 28",
-      "source": "ConsumerAffairs",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0ZncUhIQ1RQRmZQRVZLM1R4OFlGQUVhbzQzQzhQYjFva05ZeWZWQjRoYTd0dXp0MW1XRkVvY0s2cmhGZnhXSHYxUFlhcmxndEp1TERIY0xfNEZ6RGJZTnJkVEEzX3pEU1dOR254T2hlX2U2b0JSZ3lLTE1lRXRwM0NLUlJHQUxLZ2RYZ0xlcEpTRkNVbG5meHZn?oc=5",
-      "published": "2026-09-28T16:17:30.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "NHTSA commercial vehicle recalls for the week of Sept. 28, 2026",
-      "source": "Trucks, Parts, Service",
+      "source": "truckpartsandservice.com",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXhKQUtIVDFNVWtkV3R0Q04xWEgzb1NUQU9TM1pQRXdaNmJsZURoNWcyQ0FjVUlYSjFwYkpKcEZBUTdBWlVXZ284VGNWakJjYXBrZ3J1b1ZkSVRpM3UzZWJpSjNCeXRJbGNBR1RvV0o1UFJmcEV4Wmh2SldqZXl4N2ZtSGtVMEowRV9lWW56UlB1UW9fZV9SVTFPTUZQWW1yX1E3SVZFT01XbEI4aU1OcW9iLXJ1QzJHNkFmM1NFbUJIRFRib3ktMDRUUjN6TmdtLUhB?oc=5",
       "published": "2026-09-28T14:39:31.000Z",
       "feed": "recalls"
@@ -137,7 +137,7 @@
     },
     {
       "title": "GM recalls more than 306,000 vehicles. See recall list",
-      "source": "delawareonline.com",
+      "source": "The News Journal",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
       "published": "2026-09-21T07:00:00.000Z",
       "feed": "recalls"
