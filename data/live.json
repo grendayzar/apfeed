@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T23:50:28.858Z",
+  "generated": "2026-10-02T05:20:45.814Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
     {
       "title": "Twin City family among 4 killed in Bryan County crash",
@@ -18,7 +18,7 @@
     },
     {
       "title": "Overturned vehicle crash at I-75/85 interchange in Midtown",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDlXN0k3eG9nUm1pQ1oxS0RPQmFzd2x3Z3pRenpEN3FiYW9wS3EyQzAwblhXcERRQS0zYllzTmtOZUhYYndpYjNPbm8tcnYxRXN4WlNYQjlxbGRTTGNIcllVM1piMDhTckhFa3RQR2g3OVJ2SlF5N1ByYjNsRFkyRXQwNWpGQ2wyTDN3TUs2MnhzVmVfZWdiRXRnUWJ0dDhDaVU4MTRRMzRjNzBtZjVGMTktZ1pPNmNOV1psVW10eXZGVFp2Q2Jz?oc=5",
       "published": "2026-09-30T17:50:00.000Z",
       "feed": "ga-metro"
@@ -39,7 +39,7 @@
     },
     {
       "title": "One person dead, one person critical in crash on Fulton Industrial Blvd.",
-      "source": "11Alive.com",
+      "source": "11alive.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV3JjZEo4Y2RieHQzLTd4blFrZTNLcTIzTWxqTGswYUM3RmtkU2xpYXhpUTRfcG5GMFNyVVVsdlJ0a21CazdmeEZSTy1qNV9vdGZZOU9nOGdBLWQwNDA5T2VPUFl2V0pmTWVaMjJvbnJGU2RzekRvU2NTN0FpX05ONFZSUW1CTVhMRlI1U3VhWGt6U0tkRExFZS16SHVrWlNxOXlXdkZnUUg0NHhuLVI1TkdQQWYyck9pZVJic3JIamN6SGxaMllWV1pYWVVzcmZl?oc=5",
       "published": "2026-09-30T12:19:00.000Z",
       "feed": "ga-roads"
@@ -87,13 +87,6 @@
       "feed": "recalls"
     },
     {
-      "title": "Pilot killed in Chatsworth plane crash over the weekend identified",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDFNUHY2d3ZvNGRZeGhSc0dzaEIzZzlRQS1naFhxZWlZN2l2SEpEUWt6Nnk5S0pTS1gwdEw0X1lIRFQwbHlOS0Z3UDhWQndaN0E5ZUhCR0thSzN4MjVYcjlCMUtkbTNLUE1fR29qU05nLVZWZFRvV2dMbkRXazl1VW5KdmFoTTFpbzZXWXpOYmQ?oc=5",
-      "published": "2026-09-27T18:36:01.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Pilot dies in north Georgia plane crash",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcFgwYkZEcTIwVDVkSy1DNnBDamVFeFR2ZkxvRFJYWnYwdmV1ZlJKcS1EdThSU2hqQUEzdnBKN19lekRodWRYcDBHY0k1Qm9wcmRUQjg3ZlJiWXNJX2U5Z09PdU04eGJRTmhxcUdwd2liTU9ab0tPWGRSMjktZHZFcHRVSnRSOHBRblkyMjlLX3ZyOFNlME9yY203QnZad9IBsgFBVV95cUxPNGI5SmdkYjAzQ2FJT3dBUEtTUmVGM2hYTlVrOTVyRHJuYmJhMUtRdDFkMWFtTjBsTGlZOElkS25jNUFtV01kVS0yU01fcjNDUUhoem5GbWx3UkJXWld0b1JqTDBTWFNnZGk1M085bDJYMUUxLTQ1UmpKSjJQM3hlSTY2WlZkVU9CLUVTc200WnYwamNramNNTGViQlB4QWZoUzNVWDdIV0JQYk1GVzJ1VEZB?oc=5",
@@ -109,10 +102,10 @@
     },
     {
       "title": "Bus involved in crash near I-20 in Lithonia",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1UzZkQtQms0QXdxWENvOXV2SlBYLVhkSFg5RHJtR0xSMFdRWlhIeDlsdHlydW1ZQTdBWG1uTHdtaFZYeVptTUhzUGdmUld6ci1ZRjAxNnhQNzk0YnBfUzdEV0twcHd1NmgzT2ZqcmtPR0JlV1AwQS1ZQkJBV3RkenFKMWp1SjJWOXJvbEh6dDBiWjF6TXRHWjJETdIBoAFBVV95cUxOaDhja3dVTWJWQVRwQmdOUEFZeXQxaFdSYXZKSGtxZWNhcDc1VGFVUFQwdHdnd203YjE2SU9QUncteXM1NUFqUjhPU3hfakRvVWVaZnBlU1ZDU19oNllERXEtaGVlZno5UW45VHR5OXpaX1pmdEFadGRSX1dyTUsxVjNEOGs5cl9OY3pOVVFoV1piYXJ5bWE4Z3l2MHRhQ2kx?oc=5",
       "published": "2026-09-25T11:01:02.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
@@ -158,7 +151,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
