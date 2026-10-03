@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T18:43:50.920Z",
+  "generated": "2026-10-03T22:05:37.562Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -25,8 +25,8 @@
     },
     {
       "title": "Head-on crash in Jefferson kills Jackson County father of 3",
-      "source": "Hilton Head Island Packet",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sdjA1YWtVZWRNWXZlcDN4Yk5ZYTd5M2lVd0tscTRvbW11MTY3TXFHQVpvQUt0R05aVEV4MEVXUHhoeGFEUXEwZDlKcVBTWVJ1Ulhvc3hDd2JmcnRfU0U2Rm9odGZwUQ?oc=5",
+      "source": "The State",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aURhbUw5WEtraVpEcDhDUkpYWGwyT1NQSE5QcGhnX2ljekptYUNuaXAzQTFqN3NKbGg1MVRndTVfeUdSMTltcTZLX2VyUnZobFBwZ2o0T29WM2dYcGZHTQ?oc=5",
       "published": "2026-10-02T15:01:00.000Z",
       "feed": "ga-roads"
     },
@@ -39,7 +39,7 @@
     },
     {
       "title": "State officials call on drivers to make better choices, slow down to save lives",
-      "source": "dps.mn.gov",
+      "source": "Minnesota Department of Public Safety (.gov)",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1pvY2ExcXczaXpKYS1mZmo5UXlKSzRJSGVjYWdUNGtCS1BYbVNUSzRmTHVqYWlXMTZ2SjVBYVlKbW5qblJZdnBSaVUxZUZMVWVRVHhjX2F5ZFpuX3c0UlAwVEVjX0RtXzQ3QzhGSUF4SGF4V0hpZjc2ZlVZVXBCYjZYN05JSndDdS1uSTgxS281REVTVUZ4aDdlZ2kxQQ?oc=5",
       "published": "2026-10-01T21:06:21.000Z",
       "feed": "us-safety"
@@ -59,15 +59,15 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Ford Recalling Another 41,000 Vehicles For Headlight Issue",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdHR1ZUpLM0tDZzhvVlV2Y3NPdkdnZnhIVXlabUxVR1dNZEg2V0dza2g2VzdOYWVvYWtabzNRVld0YXVtbVo5c1pub2xlREJyamM0NlAtWkJzNlpKOHhXRGIwZVhwNnlsalVBdHUta2RUTGVsc21MSWhaNXhMTVdMUU9uVnZLSjhwRTM0MEh2WXhPaGtlSGRVODdPWmpSV1pHUTY5elJTbGVyc2JYRDVORUNOb2k?oc=5",
-      "published": "2026-09-30T15:09:49.000Z",
+      "title": "Ford recalls 41K cars over headlight issue. See models",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGpFSmZNblI2TmZzU0NxTnJ6cW1Xbl94bmNGVWFDQ3kxNUlwLVNNUW9qbzBsMW9OX1BCZXRveFdTSTU4dkl4UXRkTlhzUVhGaUVxbDVhY3laNXB4Y1dXZXpEcC1XQnFkX3U4dHYwemd2V0xSa2VRR3VLdUNjZURtdnBFNUdRU2tRUE9YUzVuLV9mSFQ2OVJXalE2bXlfZw?oc=5",
+      "published": "2026-09-30T15:49:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
-      "source": "wjcl.com",
+      "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
       "published": "2026-09-30T14:58:00.000Z",
       "feed": "ga-roads"
