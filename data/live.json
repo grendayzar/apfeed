@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T00:34:15.198Z",
+  "generated": "2026-10-03T05:44:15.449Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -45,6 +45,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Ford recalls 41K cars over headlight issue. See models",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGpFSmZNblI2TmZzU0NxTnJ6cW1Xbl94bmNGVWFDQ3kxNUlwLVNNUW9qbzBsMW9OX1BCZXRveFdTSTU4dkl4UXRkTlhzUVhGaUVxbDVhY3laNXB4Y1dXZXpEcC1XQnFkX3U4dHYwemd2V0xSa2VRR3VLdUNjZURtdnBFNUdRU2tRUE9YUzVuLV9mSFQ2OVJXalE2bXlfZw?oc=5",
+      "published": "2026-09-30T15:49:00.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
@@ -74,9 +81,16 @@
     },
     {
       "title": "Driver killed, another injured in crash on I-75 in Atlanta, GSP says",
-      "source": "Atlanta News First",
+      "source": "atlantanewsfirst.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTNDTjBJNTM2Nkh2dUdVMHlPd3NjR29QOV9rWFA2dko3TVpGV01ybmJCc2ZuQlhfVXJHRC13Tl9lOWpvUk5ILXBBNlZ0VVdEX2tJTlgzaU1WbDNwSE1Nb1JueEdtWktYTmNKdDA0TUtRVmVlSEd4Mkg5Y3JTN3NJTDBmdTlDd1J1UlFDX3lNZnFReFhpLUVfaVlyVEZvN2JrbXNMMQ?oc=5",
       "published": "2026-09-30T00:10:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
+      "title": "4 dead, 3 juveniles injured in I-16 crash in Bryan County",
+      "source": "WTOC",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkh5am0wR2pQWlFhWlViM1ZLMDBmbzlCVk1ndEtCVmMyenB4VEZKNUVlcWx5aW9aN2FFTU8zdTBKUkpkMnI0QVZmemxubUh5MFEzczAyVG14TVJEdzFKM0pmU1E4UzU5U2RCNW9OMnBnNHFsbnRjRXpGQ1A5ZDdjQ3VTMjkxeEJDZ0RV?oc=5",
+      "published": "2026-09-29T18:52:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -84,20 +98,6 @@
       "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
-      "feed": "recalls"
-    },
-    {
-      "title": "18-year-old Jones County native dies in 3-vehicle crash in Laurens County, per GSP",
-      "source": "WGXA",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQbTI5TFhKdnhfVDVIYmVkci05OHpsQlRIbFNVWnhnbE9HaUhQcGZjTVR6UEQ0dlFoaFBnLUppWHd1a2ZEVHNwMWFBLXYyY1hCV3pXb0p1ZmFiZ0h3NzRTMWdhZGluS0VOQjkzakpQMU4xNWFJSDU1MmR1ZzdidDBtV2RyNHo1MVhodTNsMFp5YVN4T0w1Zk9tdzJzcmJPWmZyT0g3d2libnJKV0ptMFRBRWt5ZF9nVW5WMlZud0k5akMtb0VvaFVEczNHcHNFWjBwTWZCQkN0SEpKNkV2QlVzWXVSQ21uRHRwWnNyMXNZMC12TDhKYmRzOTF3NS1YYTJVbzZJd09xU3M5WkNjN3ZFczAxNWFmbGZNcTFPRjZ0NS1SVGtlbEVzem9UOGNFR1lEemVneHNjcVlCY2pZbXhDbGNlWno3WGdpR0ExR3hIZzZPaUM0WVBwV3JfSkxudElaQUpGRHF4WmtVZ2lZZzB4eGkwTmhYSUhWaDJiSU1jUjZOZw?oc=5",
-      "published": "2026-09-28T18:01:37.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "NHTSA commercial vehicle recalls for the week of Sept. 28, 2026",
-      "source": "Trucks, Parts, Service",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTXhKQUtIVDFNVWtkV3R0Q04xWEgzb1NUQU9TM1pQRXdaNmJsZURoNWcyQ0FjVUlYSjFwYkpKcEZBUTdBWlVXZ284VGNWakJjYXBrZ3J1b1ZkSVRpM3UzZWJpSjNCeXRJbGNBR1RvV0o1UFJmcEV4Wmh2SldqZXl4N2ZtSGtVMEowRV9lWW56UlB1UW9fZV9SVTFPTUZQWW1yX1E3SVZFT01XbEI4aU1OcW9iLXJ1QzJHNkFmM1NFbUJIRFRib3ktMDRUUjN6TmdtLUhB?oc=5",
-      "published": "2026-09-28T14:39:31.000Z",
       "feed": "recalls"
     },
     {
