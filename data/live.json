@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T07:01:44.905Z",
+  "generated": "2026-10-04T13:18:23.641Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dBTXhiUENVLTZ1WjNubElIZkVvMlV3TnU0WXFFREVQVXJwRUR4amtqZUhzSElJLUlzakVGZ2N0REFzbTRac0NzdHZjZlFtYWs2Z0tjVlBHaWhOVFZVbFJJcDU3cW9TX0xWMWFCbXVNa3hkQ2ZjbEdtZWdyUXF0TVd1V2paWk9neUFfS21LblNQMTVRQlREelB3?oc=5",
       "published": "2026-10-02T20:57:21.000Z",
       "feed": "ga-roads"
@@ -25,7 +25,7 @@
     },
     {
       "title": "Head-on crash in Jefferson kills Jackson County father of 3",
-      "source": "thestate.com",
+      "source": "The State",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aURhbUw5WEtraVpEcDhDUkpYWGwyT1NQSE5QcGhnX2ljekptYUNuaXAzQTFqN3NKbGg1MVRndTVfeUdSMTltcTZLX2VyUnZobFBwZ2o0T29WM2dYcGZHTQ?oc=5",
       "published": "2026-10-02T15:01:00.000Z",
       "feed": "ga-roads"
@@ -59,13 +59,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Ford recalls 41K cars over headlight issue. See models",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGpFSmZNblI2TmZzU0NxTnJ6cW1Xbl94bmNGVWFDQ3kxNUlwLVNNUW9qbzBsMW9OX1BCZXRveFdTSTU4dkl4UXRkTlhzUVhGaUVxbDVhY3laNXB4Y1dXZXpEcC1XQnFkX3U4dHYwemd2V0xSa2VRR3VLdUNjZURtdnBFNUdRU2tRUE9YUzVuLV9mSFQ2OVJXalE2bXlfZw?oc=5",
-      "published": "2026-09-30T15:49:00.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
@@ -88,7 +81,7 @@
     },
     {
       "title": "Driver killed by another vehicle on I-75 South, troopers say",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWFBRHZWV25XY1hWZWZQdWMwSnhTaUJhYW1zWWdTdHV1eV90MS1BcmNxTkFmQzl1cWlNaE5LQkVKeXd1QXQwX25xN015cFNKRDFPVWJSa1BuRkNKenRZZkc2VkFDYW9tQ0E0b2RnR0ZydjlCUW5sNkdxaWRadGpPYTMtLUpKR092bmtiUTdiaFROcWtVT3c?oc=5",
       "published": "2026-09-30T02:18:35.000Z",
       "feed": "ga-metro"
@@ -102,9 +95,16 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
+      "feed": "recalls"
+    },
+    {
+      "title": "NHTSA Wants Your Ideas to Fix Recalls. Its Meeting Won’t Be Streamed or Recorded.",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU1hcmk1ZjhaeENoaW1EX256XzY0UDVhS2Q1MmhlUFVQOEI3TWE0QzJYVV9GRnI0N0RULTB5dlpPeW9NbzE2b0luS3RZbU16bXlfbDhHa1hZbGtMdWVhRGNEcTZoMlEwaXQ1Tm0yNVp6dUpjLW5kTXBWX09tNnZhdXhfNHdXTXZBaGww?oc=5",
+      "published": "2026-09-28T12:09:49.000Z",
       "feed": "recalls"
     },
     {
@@ -130,7 +130,7 @@
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "courthousenews.com",
+      "source": "Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFYyaHhOVDdwNGR6bngwMFQxRWJra3JhS2hWZmV4US1MXzZRSzk2MVZrc3NzaWY4ZUE3NkpaVERhLU0xQWFQZ0FFYnhVMmw2Z2pjUFRRUnhwUDk5bWJmMGlfZ1RpWnBaNTdhRm56Nmd4N1V3ekRwMFFmQXBOTDJ0RFFyOGpQN3k1ek1zNWtaeVdGU3pQZFl5bg?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
