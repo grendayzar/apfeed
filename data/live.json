@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T13:18:23.641Z",
+  "generated": "2026-10-04T17:42:29.187Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dBTXhiUENVLTZ1WjNubElIZkVvMlV3TnU0WXFFREVQVXJwRUR4amtqZUhzSElJLUlzakVGZ2N0REFzbTRac0NzdHZjZlFtYWs2Z0tjVlBHaWhOVFZVbFJJcDU3cW9TX0xWMWFCbXVNa3hkQ2ZjbEdtZWdyUXF0TVd1V2paWk9neUFfS21LblNQMTVRQlREelB3?oc=5",
       "published": "2026-10-02T20:57:21.000Z",
       "feed": "ga-roads"
@@ -81,7 +81,7 @@
     },
     {
       "title": "Driver killed by another vehicle on I-75 South, troopers say",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWFBRHZWV25XY1hWZWZQdWMwSnhTaUJhYW1zWWdTdHV1eV90MS1BcmNxTkFmQzl1cWlNaE5LQkVKeXd1QXQwX25xN015cFNKRDFPVWJSa1BuRkNKenRZZkc2VkFDYW9tQ0E0b2RnR0ZydjlCUW5sNkdxaWRadGpPYTMtLUpKR092bmtiUTdiaFROcWtVT3c?oc=5",
       "published": "2026-09-30T02:18:35.000Z",
       "feed": "ga-metro"
@@ -95,7 +95,7 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
@@ -116,7 +116,7 @@
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "The Oklahoman",
+      "source": "oklahoman.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
       "feed": "us-safety"
