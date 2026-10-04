@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-03T22:05:37.562Z",
+  "generated": "2026-10-04T01:10:59.240Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,13 +9,6 @@
   ],
   "count": 22,
   "items": [
-    {
-      "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dBTXhiUENVLTZ1WjNubElIZkVvMlV3TnU0WXFFREVQVXJwRUR4amtqZUhzSElJLUlzakVGZ2N0REFzbTRac0NzdHZjZlFtYWs2Z0tjVlBHaWhOVFZVbFJJcDU3cW9TX0xWMWFCbXVNa3hkQ2ZjbEdtZWdyUXF0TVd1V2paWk9neUFfS21LblNQMTVRQlREelB3?oc=5",
-      "published": "2026-10-02T20:57:21.000Z",
-      "feed": "ga-roads"
-    },
     {
       "title": "Crash kills 4 family members, including child; 3 seriously injured",
       "source": "WSB-TV",
@@ -67,7 +60,7 @@
     },
     {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
-      "source": "WJCL",
+      "source": "wjcl.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
       "published": "2026-09-30T14:58:00.000Z",
       "feed": "ga-roads"
@@ -108,6 +101,13 @@
       "feed": "recalls"
     },
     {
+      "title": "Pilot killed in Chatsworth plane crash over the weekend identified",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRDFNUHY2d3ZvNGRZeGhSc0dzaEIzZzlRQS1naFhxZWlZN2l2SEpEUWt6Nnk5S0pTS1gwdEw0X1lIRFQwbHlOS0Z3UDhWQndaN0E5ZUhCR0thSzN4MjVYcjlCMUtkbTNLUE1fR29qU05nLVZWZFRvV2dMbkRXazl1VW5KdmFoTTFpbzZXWXpOYmQ?oc=5",
+      "published": "2026-09-27T18:36:01.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
       "source": "AASHTO Journal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
@@ -130,7 +130,7 @@
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
-      "source": "courthousenews.com",
+      "source": "Courthouse News",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaFYyaHhOVDdwNGR6bngwMFQxRWJra3JhS2hWZmV4US1MXzZRSzk2MVZrc3NzaWY4ZUE3NkpaVERhLU0xQWFQZ0FFYnhVMmw2Z2pjUFRRUnhwUDk5bWJmMGlfZ1RpWnBaNTdhRm56Nmd4N1V3ekRwMFFmQXBOTDJ0RFFyOGpQN3k1ek1zNWtaeVdGU3pQZFl5bg?oc=5",
       "published": "2026-09-22T19:11:08.000Z",
       "feed": "injurylaw"
@@ -158,7 +158,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
