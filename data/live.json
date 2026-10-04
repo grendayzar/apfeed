@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T17:42:29.187Z",
+  "generated": "2026-10-04T21:12:27.090Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -31,8 +31,15 @@
       "feed": "ga-roads"
     },
     {
+      "title": "GDOT postpones I-285 full closure this weekend",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUFwb052QXRFejhIdkRRMmVUOHZFOFZDVWthVEIxZ0pDelBxVVl6SjRWYWoxcDNuRnF6Q201WHZHWUhWek9KNjg0aWJqZk5pd2dCZk5uTzJ3MENXc0NaQmVfX3dqV1FMd1R0V21RcFZrS3JqaWMxWHpBQmdjSG5zdk5qTmpXREZWN3VUUXp5RWtQWi05Zm9TWWZTR1lBbHhWUWlQdW56OWpUcmfSAb8BQVVfeXFMTmZNWUkyMEtuallFaHlQZ3VvZkg4U3NvenhGaWxvbmpXVHBES2Z4RnpSaGZXcThORy0yWUliTlp1UUFqV1lBWlc0RWcxbmd3dVBDb196WC1DVllDTW9VMVFyXzJ1QnhPN1lFOG5Kc3lEOE1pNURsdTdGWmlCb1JBQmhHU0xRNjI4RjAySG1WaFpSc2NZRG5ndm9Da2ZETWNOaEFyZjJiblVTQjFXakhBa1RfZThTT0ZhVUJSRXpNeTg?oc=5",
+      "published": "2026-10-02T12:55:25.000Z",
+      "feed": "ga-metro"
+    },
+    {
       "title": "Ford recalls more than 40,000 trucks and SUVs over visibility risk",
-      "source": "Fox Business",
+      "source": "foxbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczJLdnduV09yb25KVGd6M2hHV2Q1cG43eldTckdnb2t0ZGxxTlliVm9rZ0NlRmtBMVhLTVpkVHVCVXVzZjZjdTlUSmIzbjIyakNFWlpKZXlURVhlbEl1X0lZSkNpY1VESzBqMzBWYlBvM24takZVOG9ZMjRRSnR1NHIyTnJ0NGlnR0xLb002eHhIczVTVDBNRThWLUdIQdIBowFBVV95cUxNUjFtTEJYb25zSWcyX1Mza2I0elp0SllGLWRRMTdKNW1vbndFeGhmb1dOOXB4ZkpYUjdpaU8wZk9rTU5KSW5xVlMtVk45Qy1pWlJTQ0tGQmEyYTdkNVJiSXZLM3dvVFY3cVViZHp3SFlRSnNnR29Mdk43V0g1TUNzY1ZIeW1oZnFlNENDSFAwUGJ0MFd1d0RKZFZzb2xFSlQ4OGFN?oc=5",
       "published": "2026-10-02T06:43:00.000Z",
       "feed": "recalls"
@@ -64,13 +71,6 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
       "published": "2026-09-30T14:58:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "Add Us On Google Add as a preferred source on Google ATLANTA, Ga. (Atlanta News First) - Several lanes are closed on I-85 southbound in DeKalb County after a crash involving a police vehicle. The incident happened near the I-285 eastbound exit, accordi",
-      "source": "instagram.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuUEdaOW1RSUhCUXJGYjdhVU1tSEo3VjlYQXRuak54RTFtUVRyYnVZUmUtN2JQbHNLXzE1ejRYRGlBbF85LVBIWVBUdUY0RUdQc2c?oc=5",
-      "published": "2026-09-30T13:38:53.000Z",
-      "feed": "ga-metro"
     },
     {
       "title": "One person dead, one person critical in crash on Fulton Industrial Blvd.",
@@ -116,7 +116,7 @@
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "oklahoman.com",
+      "source": "The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T10:04:00.000Z",
       "feed": "us-safety"
@@ -144,7 +144,7 @@
     },
     {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "Time Magazine",
+      "source": "time.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
