@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T05:27:37.525Z",
+  "generated": "2026-10-05T12:39:22.426Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dBTXhiUENVLTZ1WjNubElIZkVvMlV3TnU0WXFFREVQVXJwRUR4amtqZUhzSElJLUlzakVGZ2N0REFzbTRac0NzdHZjZlFtYWs2Z0tjVlBHaWhOVFZVbFJJcDU3cW9TX0xWMWFCbXVNa3hkQ2ZjbEdtZWdyUXF0TVd1V2paWk9neUFfS21LblNQMTVRQlREelB3?oc=5",
       "published": "2026-10-02T20:57:21.000Z",
       "feed": "ga-roads"
@@ -25,8 +25,8 @@
     },
     {
       "title": "Head-on crash in Jefferson kills Jackson County father of 3",
-      "source": "The State",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90aURhbUw5WEtraVpEcDhDUkpYWGwyT1NQSE5QcGhnX2ljekptYUNuaXAzQTFqN3NKbGg1MVRndTVfeUdSMTltcTZLX2VyUnZobFBwZ2o0T29WM2dYcGZHTQ?oc=5",
+      "source": "Hilton Head Island Packet",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sdjA1YWtVZWRNWXZlcDN4Yk5ZYTd5M2lVd0tscTRvbW11MTY3TXFHQVpvQUt0R05aVEV4MEVXUHhoeGFEUXEwZDlKcVBTWVJ1Ulhvc3hDd2JmcnRfU0U2Rm9odGZwUQ?oc=5",
       "published": "2026-10-02T15:01:00.000Z",
       "feed": "ga-roads"
     },
@@ -46,7 +46,7 @@
     },
     {
       "title": "State officials call on drivers to make better choices, slow down to save lives",
-      "source": "dps.mn.gov",
+      "source": "Minnesota Department of Public Safety (.gov)",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1pvY2ExcXczaXpKYS1mZmo5UXlKSzRJSGVjYWdUNGtCS1BYbVNUSzRmTHVqYWlXMTZ2SjVBYVlKbW5qblJZdnBSaVUxZUZMVWVRVHhjX2F5ZFpuX3c0UlAwVEVjX0RtXzQ3QzhGSUF4SGF4V0hpZjc2ZlVZVXBCYjZYN05JSndDdS1uSTgxS281REVTVUZ4aDdlZ2kxQQ?oc=5",
       "published": "2026-10-01T21:06:21.000Z",
       "feed": "us-safety"
@@ -66,6 +66,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Ford recalls 41K cars over headlight issue. See models",
+      "source": "usatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGpFSmZNblI2TmZzU0NxTnJ6cW1Xbl94bmNGVWFDQ3kxNUlwLVNNUW9qbzBsMW9OX1BCZXRveFdTSTU4dkl4UXRkTlhzUVhGaUVxbDVhY3laNXB4Y1dXZXpEcC1XQnFkX3U4dHYwemd2V0xSa2VRR3VLdUNjZURtdnBFNUdRU2tRUE9YUzVuLV9mSFQ2OVJXalE2bXlfZw?oc=5",
+      "published": "2026-09-30T15:49:00.000Z",
+      "feed": "recalls"
+    },
+    {
       "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
@@ -81,7 +88,7 @@
     },
     {
       "title": "Driver killed by another vehicle on I-75 South, troopers say",
-      "source": "fox5atlanta.com",
+      "source": "FOX 5 Atlanta",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWFBRHZWV25XY1hWZWZQdWMwSnhTaUJhYW1zWWdTdHV1eV90MS1BcmNxTkFmQzl1cWlNaE5LQkVKeXd1QXQwX25xN015cFNKRDFPVWJSa1BuRkNKenRZZkc2VkFDYW9tQ0E0b2RnR0ZydjlCUW5sNkdxaWRadGpPYTMtLUpKR092bmtiUTdiaFROcWtVT3c?oc=5",
       "published": "2026-09-30T02:18:35.000Z",
       "feed": "ga-metro"
@@ -95,7 +102,7 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "reuters.com",
+      "source": "Reuters",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
@@ -116,15 +123,15 @@
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "The Oklahoman",
+      "source": "oklahoman.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
-      "published": "2026-09-24T10:04:00.000Z",
+      "published": "2026-09-24T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Report: Texas' traffic fatality rate was 20th highest in nation last year; 25K+ killed in five-year period",
-      "source": "kens5.com",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOQkRGSjMweTU1T3FXX2xyenJnNlI0YkRiX0o4djFKQ2dYQlhReXpFY3drY1dYVlpCQnFPZ0NBMm1BSUVCd2tTTTd6a3BaMDZIREJ0ZnUzcWxWUzNyYnppSDdMQU9sOUpSQm9jMkUwTG9Wa0dXOTRQZGZqRHROOUhJQ1NiX2g2cDFLZUt4czB5SnY5SW1BSXhjQVJFUHl1LXVLclF6clhDbmtwT1NwMDMtQldOV2tlU3ZKY2Ffektuakg0cUVNOHZFaENiWjZOZTdyNDk4RXR5ZGw2dnc0Sm9TaXhUaUlUWko5QkgwbUl6eC1PRjQweVh2M1d6NERBTG55SFNjaWhkY3ZjNmVkTG5MY1M5dFJpR3RGRWc?oc=5",
+      "source": "Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzhrOC1zRDhQOE1OYTVxU3V1TWVKaURWVV9wck1OUWhfUjk4TUxvLTRjbGxXNUJQeUozeEY1cVdxNm00dDNYOHZ1a0dvbWQ4emZsU3lZQXV5YjFiXzZnQlV2VlRNSVBpMWlFeExxYUNIODRmSm5IMkJpeWhoQVJINndYSXhxX3hBYUFxdmdMZ3phQQ?oc=5",
       "published": "2026-09-23T07:00:00.000Z",
       "feed": "us-safety"
     },
@@ -136,15 +143,8 @@
       "feed": "injurylaw"
     },
     {
-      "title": "GM recalls more than 306,000 vehicles. See recall list",
-      "source": "The News Journal",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPamg3NGxrMUNVQkNRM2hsNUt6WjlURUZzaTJULThBekNxUjNORXFiTTlIZGNIZGpDNERhWHBrVGRtVnlXVlY4Xy1rYjZFbkJadWhQN3F0MWpEZGdiSEdTSjdoN3cwOGE1bk52UTdsNHVTakUxTzlKNFcxVDAzcjBGUWZTaG5oT1lUR2U4dWtJRDlMMXltQko0RVNUQ1Zka2t0UkM0U2tzMmdpczJSMnlHbWNud3piV2tKZUdFYjBfcTE3dktrdTA4ODJTdw?oc=5",
-      "published": "2026-09-21T07:00:00.000Z",
-      "feed": "recalls"
-    },
-    {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "time.com",
+      "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
@@ -158,7 +158,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "insurancejournal.com",
+      "source": "Insurance Journal",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
