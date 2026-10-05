@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T21:12:27.090Z",
+  "generated": "2026-10-05T05:27:37.525Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -11,7 +11,7 @@
   "items": [
     {
       "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dBTXhiUENVLTZ1WjNubElIZkVvMlV3TnU0WXFFREVQVXJwRUR4amtqZUhzSElJLUlzakVGZ2N0REFzbTRac0NzdHZjZlFtYWs2Z0tjVlBHaWhOVFZVbFJJcDU3cW9TX0xWMWFCbXVNa3hkQ2ZjbEdtZWdyUXF0TVd1V2paWk9neUFfS21LblNQMTVRQlREelB3?oc=5",
       "published": "2026-10-02T20:57:21.000Z",
       "feed": "ga-roads"
@@ -46,7 +46,7 @@
     },
     {
       "title": "State officials call on drivers to make better choices, slow down to save lives",
-      "source": "Minnesota Department of Public Safety (.gov)",
+      "source": "dps.mn.gov",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1pvY2ExcXczaXpKYS1mZmo5UXlKSzRJSGVjYWdUNGtCS1BYbVNUSzRmTHVqYWlXMTZ2SjVBYVlKbW5qblJZdnBSaVUxZUZMVWVRVHhjX2F5ZFpuX3c0UlAwVEVjX0RtXzQ3QzhGSUF4SGF4V0hpZjc2ZlVZVXBCYjZYN05JSndDdS1uSTgxS281REVTVUZ4aDdlZ2kxQQ?oc=5",
       "published": "2026-10-01T21:06:21.000Z",
       "feed": "us-safety"
@@ -81,7 +81,7 @@
     },
     {
       "title": "Driver killed by another vehicle on I-75 South, troopers say",
-      "source": "FOX 5 Atlanta",
+      "source": "fox5atlanta.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWFBRHZWV25XY1hWZWZQdWMwSnhTaUJhYW1zWWdTdHV1eV90MS1BcmNxTkFmQzl1cWlNaE5LQkVKeXd1QXQwX25xN015cFNKRDFPVWJSa1BuRkNKenRZZkc2VkFDYW9tQ0E0b2RnR0ZydjlCUW5sNkdxaWRadGpPYTMtLUpKR092bmtiUTdiaFROcWtVT3c?oc=5",
       "published": "2026-09-30T02:18:35.000Z",
       "feed": "ga-metro"
@@ -95,7 +95,7 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
@@ -158,7 +158,7 @@
     },
     {
       "title": "Appeals Court Throws a Wrench into Part of Georgia’s 2025 Tort-Reform Law",
-      "source": "Insurance Journal",
+      "source": "insurancejournal.com",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wemlwXzVTWEpQa1k2Vlo4eE1aRkx1VWVQTUJ1Tnd1TDAwZGhJZGVNZGJSM2RvUUNfZzdCZTgyaWNmX0pfMUVMT1ZrQmZING5uVXRPeDVmTm1GUWRCcVlxdkpnVmtJeXVwZ3pIYm9KVjJsZXNlLU41UQ?oc=5",
       "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
