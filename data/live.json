@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T20:53:38.828Z",
+  "generated": "2026-10-06T01:43:04.448Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDRTUk4xUXRrU25VMnNDOXBmSG9id2F1Uk1Gd0x4RlEtRkp5ZGk1YXNlZzdoeFJBSTFQN2NZdlhXdWRxeU5Cb3M3Y09BUERMRFRScGpLTkNHbjV2bVctSDQ1NnByRGdFS05uSlg4NjU1azNEdGg4TVAyV0ZjWXNEMXZTY3l3UVZUNm9MbldfaHRiU1NpSkZ1VVZNOF80eEVCYnVXTw?oc=5",
       "published": "2026-10-05T15:58:00.000Z",
       "feed": "recalls"
+    },
+    {
+      "title": "Troopers: 1 dead, 1 injured after back-to-back crashes on I-95 in Coastal Georgia",
+      "source": "WJCL",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHQ1V3VoU1czTUxoSXI2cXU1SkNTa3Q1S3R0Q2Jmdmc5bjdzd0ZvUEttZ0xMRXFya0ZjanJObFF0OWozNGJPdkF5U2ozZFJoVGVtQWlhNXYyWHF1QVFodi1idFFpWHdvNWk3THNfelR6R2k4bEVJMWlnMFBfeC1uMHhKb1NEVVBmYW9Fd0I2T294TmZQZUFRQnk0RVFPaHB2UWc?oc=5",
+      "published": "2026-10-05T15:15:00.000Z",
+      "feed": "ga-roads"
     },
     {
       "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
@@ -60,7 +67,7 @@
     },
     {
       "title": "Twin City family among 4 killed in Bryan County crash",
-      "source": "wrdw.com",
+      "source": "WRDW",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTdYUjFseHIyVjJFVzdVTkd1MGJyVDVtck5UQkl1VGNRd1RlR2tiTC1YaHJWLVdvVGZFUmdpblR4RlpraXFuLXdtRTdBSE1qc3N2dHUtNENsMEZ4cVFTdUhxWFU4VWl2X3NyU2ZrcDlHSU5JVFFzTHVTb3YzVTRqci1vSll0Z3AtWXVvVkhkVEPSAaQBQVVfeXFMTjVVU0RZTXBHeU8tN3lya1dpQmxESFkyNFM4SUJNNEt6cS1SQ3F1eDlsMzdPeWFxTVhfVDg0SjNYaDZpWDBmRjlwbnB3aDd1Zk5XNkZmZl9wVjROd3VjTFBWNEVwVlpuUGZubjdCcktWdWozS1lKMFV1TFVKa01NOFhsVFYtXzBORWdYMUIxakF1d285eGpmb3lPRDBDY2drZ2FsOVc?oc=5",
       "published": "2026-10-01T15:35:00.000Z",
       "feed": "ga-roads"
@@ -71,13 +78,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUDlXN0k3eG9nUm1pQ1oxS0RPQmFzd2x3Z3pRenpEN3FiYW9wS3EyQzAwblhXcERRQS0zYllzTmtOZUhYYndpYjNPbm8tcnYxRXN4WlNYQjlxbGRTTGNIcllVM1piMDhTckhFa3RQR2g3OVJ2SlF5N1ByYjNsRFkyRXQwNWpGQ2wyTDN3TUs2MnhzVmVfZWdiRXRnUWJ0dDhDaVU4MTRRMzRjNzBtZjVGMTktZ1pPNmNOV1psVW10eXZGVFp2Q2Jz?oc=5",
       "published": "2026-09-30T17:50:00.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Crash impacting I-95 near the Georgia-South Carolina state line",
-      "source": "WJCL",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWUw5NWxsWTJzNWxwREp4NEtQNDc4N0JURkZ0ZDR5Mk9tUEI3NmZnc0NiOXZvTFpheXZaVVZCbWpBcnlTMzBDQmNtZnVIUlljZTEtV0toMEtfSGRVb2g3eEV5QmpaYTFpbmdTYmVWbHNDbFZpNGsxNGU2MDR2RkhfSQ?oc=5",
-      "published": "2026-09-30T14:58:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "One person dead, one person critical in crash on Fulton Industrial Blvd.",
@@ -116,21 +116,21 @@
     },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
-      "source": "AASHTO Journal",
+      "source": "aashtojournal.transportation.org",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "The Oklahoman",
+      "source": "oklahoman.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Bader Law Personal Injury Lawyers Expands Georgia Footprint to Augusta, Columbus and Macon",
-      "source": "The Manila Times",
+      "source": "manilatimes.net",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ29CRk5DNXJ1eXR6aV9Xdm1fLUhRRTdfenpLOC1EaUhCRDV2R3ZTWWY3Y2ZzSEdNdkszdDFwRUxQQjIwV2IyUXdDeHZUTDdlLTctNDRlYTlvUWxMUTFhR3VjR0hBVnJpN2FpdVF2MXNuclZIby00bV9hYS1LdmVfVi00TTZWaWVYQkFaS2k0M1hucVZLMEhGRmNyQUp4dWVuRFhUenRQNEsxcjI4ZnZmVWJPcmd3LU1WM0g4QWlnS3NwU0pzZGdVUzRMaGloNDd4eEEtaW9WYVY2SndrQndITDkxNlYtQXVBQktnYWptOGhoYWxrcWfSAfsBQVVfeXFMTTNqc1lPLTlLR19FUnM5YW9PVUwxYV8ydWVsRHhDdXZwSUxlSEo0dllQWDE4WVFIdVY1Z28wN1k4TFdTY1N1b2JmQU9zbWJHWExUY2RMSnRLQmtMYWdQRzN6ZFJ5Qjd0Q2pwNUhnVE1LZDNaMEdNcHptZ0VWTlgxS0RfSlRhN2ZhZkgyT3R1bWhOT21JOUxDa3dXQnVpUmFhNWtVb25VQzNoam5DdUpxOVhDN2ZnS09MVGI4cjlJSnNud2pJMjJkNjdIMzEzc1ZZQzFPZENMZXhTYWJpZkdvYmtvcXdUN3VNTDYyclhnN2xCSmZxUnVHcmY1UHc?oc=5",
       "published": "2026-09-23T17:16:57.000Z",
       "feed": "injurylaw"
