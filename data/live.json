@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T01:43:04.448Z",
+  "generated": "2026-10-06T08:51:37.194Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Police investigate deadly 4-vehicle crash on I-285",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWWtBZFo4OVlfWWJNdEtBUlA4cGxUZlJqVmVEakNhQjhqSjFrd2lvT3Y0UTA4X1RRUzFmcnR4ZUtaM2M0aDJBZng5Mjk5Mm13cWtnTE4wX1BDOFJQWjh1TW4xaGFuUmhOS1g4aW1QTkdMTFdrOGE2LU9sT05BYjZDMEQ0RTJHcFBSWnRuckR6WEFwZnNqRUlKbjRVbDNHa25OVUxxVF9fWHZLd2QwTUU3Y0tNTXNZbDVZSWw2TdIB0AFBVV95cUxQd3pRX3YtZGFmcFlHdEhDMTd4cnpUWkhDOXBKbEdiVmllc0pqSE1HTU1fMFpnOEJBODkxcE9ncVUzS3lNUVc2Q25lc0xkSFlDN1NJMUp5enNma0VpN1dmWFR6dWtSeHN2akZkMlg5cE5xNXg4NlBQM3UxOERQOHpJSElxRlZoT1NEQ0xNa3FwR2RSS3V5Mk9kdVNIZFpob0VtTVZnSlh4STlVSnlWX3FjYUszQWlTRjJBMGc0R3dHVTlYUHBpTGNxSXJLWjZrRmxP?oc=5",
+      "published": "2026-10-05T16:12:12.000Z",
+      "feed": "ga-metro"
+    },
     {
       "title": "Ford recalls more than 41,000 vehicles. See recall list",
       "source": "The News Journal",
@@ -45,22 +52,15 @@
       "feed": "ga-roads"
     },
     {
-      "title": "GDOT postpones I-285 full closure this weekend",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQUFwb052QXRFejhIdkRRMmVUOHZFOFZDVWthVEIxZ0pDelBxVVl6SjRWYWoxcDNuRnF6Q201WHZHWUhWek9KNjg0aWJqZk5pd2dCZk5uTzJ3MENXc0NaQmVfX3dqV1FMd1R0V21RcFZrS3JqaWMxWHpBQmdjSG5zdk5qTmpXREZWN3VUUXp5RWtQWi05Zm9TWWZTR1lBbHhWUWlQdW56OWpUcmfSAb8BQVVfeXFMTmZNWUkyMEtuallFaHlQZ3VvZkg4U3NvenhGaWxvbmpXVHBES2Z4RnpSaGZXcThORy0yWUliTlp1UUFqV1lBWlc0RWcxbmd3dVBDb196WC1DVllDTW9VMVFyXzJ1QnhPN1lFOG5Kc3lEOE1pNURsdTdGWmlCb1JBQmhHU0xRNjI4RjAySG1WaFpSc2NZRG5ndm9Da2ZETWNOaEFyZjJiblVTQjFXakhBa1RfZThTT0ZhVUJSRXpNeTg?oc=5",
-      "published": "2026-10-02T12:55:25.000Z",
-      "feed": "ga-metro"
-    },
-    {
       "title": "Ford recalls more than 40,000 trucks and SUVs over visibility risk",
-      "source": "Fox Business",
+      "source": "foxbusiness.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczJLdnduV09yb25KVGd6M2hHV2Q1cG43eldTckdnb2t0ZGxxTlliVm9rZ0NlRmtBMVhLTVpkVHVCVXVzZjZjdTlUSmIzbjIyakNFWlpKZXlURVhlbEl1X0lZSkNpY1VESzBqMzBWYlBvM24takZVOG9ZMjRRSnR1NHIyTnJ0NGlnR0xLb002eHhIczVTVDBNRThWLUdIQdIBowFBVV95cUxNUjFtTEJYb25zSWcyX1Mza2I0elp0SllGLWRRMTdKNW1vbndFeGhmb1dOOXB4ZkpYUjdpaU8wZk9rTU5KSW5xVlMtVk45Qy1pWlJTQ0tGQmEyYTdkNVJiSXZLM3dvVFY3cVViZHp3SFlRSnNnR29Mdk43V0g1TUNzY1ZIeW1oZnFlNENDSFAwUGJ0MFd1d0RKZFZzb2xFSlQ4OGFN?oc=5",
       "published": "2026-10-02T06:43:00.000Z",
       "feed": "recalls"
     },
     {
       "title": "State officials call on drivers to make better choices, slow down to save lives",
-      "source": "Minnesota Department of Public Safety (.gov)",
+      "source": "dps.mn.gov",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1pvY2ExcXczaXpKYS1mZmo5UXlKSzRJSGVjYWdUNGtCS1BYbVNUSzRmTHVqYWlXMTZ2SjVBYVlKbW5qblJZdnBSaVUxZUZMVWVRVHhjX2F5ZFpuX3c0UlAwVEVjX0RtXzQ3QzhGSUF4SGF4V0hpZjc2ZlVZVXBCYjZYN05JSndDdS1uSTgxS281REVTVUZ4aDdlZ2kxQQ?oc=5",
       "published": "2026-10-01T21:06:21.000Z",
       "feed": "us-safety"
@@ -102,7 +102,7 @@
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "Reuters",
+      "source": "reuters.com",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
       "published": "2026-09-29T15:52:17.000Z",
       "feed": "recalls"
@@ -116,21 +116,21 @@
     },
     {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
-      "source": "aashtojournal.transportation.org",
+      "source": "AASHTO Journal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "oklahoman.com",
+      "source": "The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
       "published": "2026-09-24T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
       "title": "Bader Law Personal Injury Lawyers Expands Georgia Footprint to Augusta, Columbus and Macon",
-      "source": "manilatimes.net",
+      "source": "The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ29CRk5DNXJ1eXR6aV9Xdm1fLUhRRTdfenpLOC1EaUhCRDV2R3ZTWWY3Y2ZzSEdNdkszdDFwRUxQQjIwV2IyUXdDeHZUTDdlLTctNDRlYTlvUWxMUTFhR3VjR0hBVnJpN2FpdVF2MXNuclZIby00bV9hYS1LdmVfVi00TTZWaWVYQkFaS2k0M1hucVZLMEhGRmNyQUp4dWVuRFhUenRQNEsxcjI4ZnZmVWJPcmd3LU1WM0g4QWlnS3NwU0pzZGdVUzRMaGloNDd4eEEtaW9WYVY2SndrQndITDkxNlYtQXVBQktnYWptOGhoYWxrcWfSAfsBQVVfeXFMTTNqc1lPLTlLR19FUnM5YW9PVUwxYV8ydWVsRHhDdXZwSUxlSEo0dllQWDE4WVFIdVY1Z28wN1k4TFdTY1N1b2JmQU9zbWJHWExUY2RMSnRLQmtMYWdQRzN6ZFJ5Qjd0Q2pwNUhnVE1LZDNaMEdNcHptZ0VWTlgxS0RfSlRhN2ZhZkgyT3R1bWhOT21JOUxDa3dXQnVpUmFhNWtVb25VQzNoam5DdUpxOVhDN2ZnS09MVGI4cjlJSnNud2pJMjJkNjdIMzEzc1ZZQzFPZENMZXhTYWJpZkdvYmtvcXdUN3VNTDYyclhnN2xCSmZxUnVHcmY1UHc?oc=5",
       "published": "2026-09-23T17:16:57.000Z",
       "feed": "injurylaw"
@@ -150,17 +150,17 @@
       "feed": "injurylaw"
     },
     {
+      "title": "$8.2M Henry County Verdict Tests Georgia’s New Tort-Reform Rules",
+      "source": "Law.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcl9xVG5KbE16NXhmUk1KRTY4U09SUEE2UkY2RXlvWmFqT25kbXJKQ1ZlRHJhd2NYZngtby1yWDFvUGZqeGs3b0FxQTdsN25IemptZ3lTTHhSbGYwM205VUY0a0JUSmdIZzBLWTlIbFl4cW0xRkgzeVJzX0hpUE52WUxyMGZBQ3pYNXVFYmtVMWxxVDBLMmtoNUlwLTg1Y2tLOVQ5WGZZME80UFlMY25fZQ?oc=5",
+      "published": "2026-09-22T07:00:00.000Z",
+      "feed": "injurylaw"
+    },
+    {
       "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
       "source": "Time Magazine",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
       "published": "2026-09-19T05:30:50.000Z",
-      "feed": "injurylaw"
-    },
-    {
-      "title": "Georgia Tort Reform Is Pushing More Cases to Litigation, Some Plaintiff Attorneys Say",
-      "source": "Law.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWFROcEVSNzdRYU9WWWxRZkxLLW9vSXg0R0VFUGxETlN0d2VTQjlaYl9xcUxpYWNnSGhXdGp4bVRjNmVQb0k3ci12OUJwUFBKQTZBQ3dYOXg4MEZrTGs4cloxWHIwZjZSY1NyRTlDZHNiQ3I4eEsyOU9CREZKaWdFTWM3T01EcFlIRmhpWVV5NGk4dE5vdENSeHhpTmJFU25SY0UtbE1xNy1WRzVEeG5sam9ZMWNweGFBRndTRGZZaW9vZE8ySjhudVphcE5neWM?oc=5",
-      "published": "2026-09-15T07:00:00.000Z",
       "feed": "injurylaw"
     }
   ]
