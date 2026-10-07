@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T06:28:23.353Z",
+  "generated": "2026-10-07T13:55:56.538Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 22,
   "items": [
+    {
+      "title": "Crash blocks I-85SB near Atlanta airport",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3UzQWFuWTJpZ2JkQTZmT0RuVmVnNTJLVmZ0VlMtTG5GdFNGLUp2UmJEVS1FTHJUcFZLMUVia0JjTFpfN0pfSnNBZk1leDdqMDNHdUlIc1R3dTRHcmwxazZZTGxFeXlUSGdXWjhzYWxNWlVLVmctOUhxVVhodmVhY25Bam1jYVdrc0ZydlQzeGpRZUFrN2tZeUlQS0tudmRkRzRWMk9RcG4xZ9IBrwFBVV95cUxPM253OTJURU91TlhuTDB5cXlzaHg2U05UUFo4Y3Q5OVQzTTNJaWZhclo4ekxpXzR5aExCcmNTR2FjUElmeWx6ek9KMXRudXpXdngtNUtxb3pWVmJYWFZMZExSQzF1d19vYnI0QldHT0ZfRWtDemx1Qk9ab2dxejRmMVp4ZU1jNThYdzA1MDdWSGlIM29ERDhmSTk5ZDUzQTd0RndqSUg2aHY3amdwcm00?oc=5",
+      "published": "2026-10-07T10:10:50.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "TRAFFIC | Crash closes lanes on I-85 South heading into Midtown Atlanta",
       "source": "11Alive.com",
@@ -52,13 +59,6 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dBTXhiUENVLTZ1WjNubElIZkVvMlV3TnU0WXFFREVQVXJwRUR4amtqZUhzSElJLUlzakVGZ2N0REFzbTRac0NzdHZjZlFtYWs2Z0tjVlBHaWhOVFZVbFJJcDU3cW9TX0xWMWFCbXVNa3hkQ2ZjbEdtZWdyUXF0TVd1V2paWk9neUFfS21LblNQMTVRQlREelB3?oc=5",
-      "published": "2026-10-02T20:57:21.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "21-year-old motorcyclist dead in Dunwoody crash, police say",
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQay02eS1adEpISC1KVVUxdU40Sm16dDZ0VnlFbkdHdTRvWTZBX1hTLS1HY3dYdmJDNnhPblFIVmQybzFrb2EzeFZJN3RMYWpHc05SWlZwMmVFWUFZb0ZxWFJLZnpleDlVNjRtRGl5R1E3UkhiT2dzalpaTUVpRk1PLVM3MTlESFhEMUhrcjVWMEVzblJiM1BnT25jZmxkT0ZibUE?oc=5",
@@ -87,10 +87,10 @@
       "feed": "recalls"
     },
     {
-      "title": "State officials call on drivers to make better choices, slow down to save lives",
-      "source": "Minnesota Department of Public Safety (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd1pvY2ExcXczaXpKYS1mZmo5UXlKSzRJSGVjYWdUNGtCS1BYbVNUSzRmTHVqYWlXMTZ2SjVBYVlKbW5qblJZdnBSaVUxZUZMVWVRVHhjX2F5ZFpuX3c0UlAwVEVjX0RtXzQ3QzhGSUF4SGF4V0hpZjc2ZlVZVXBCYjZYN05JSndDdS1uSTgxS281REVTVUZ4aDdlZ2kxQQ?oc=5",
-      "published": "2026-10-01T21:06:21.000Z",
+      "title": "Wrongful Death Krause Law Firm Highlights Georgia Traffic Fatality Data",
+      "source": "Florida Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYUpVTjFmQnQ0SWtTOUNWV0lVTGVVVUFYVmpqRmVEMEg0dXlVUDFfeHV0NFlNVUtWb3R1Q3c3RTR2dmdsOEt6U3prWUFOM2xNbEdQellVZE1hdFMzSzZHTF9DYV9uX1ZIblZNU0pObzNydE1XNnBoN1d3ZzFHb3FLUFZUV0tsMkNhSDRaMmlMMHdtMGV1RGdYNlFhMzJ0TVdHaWtaYzgyc21rbUtqYWZqN3pCaFNVS3JKemkwcXNaMmF6cElqOWxV?oc=5",
+      "published": "2026-10-01T19:48:48.000Z",
       "feed": "us-safety"
     },
     {
@@ -115,6 +115,13 @@
       "feed": "recalls"
     },
     {
+      "title": "Smart Headlights Finally Trickle Down to Cars in the U.S.",
+      "source": "The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hZDlMVzU1bWJxVmpwVFFHb0lrQ1lDaXktNUpaY3ktT3J6TUdiVVcydGRfT3V5LVZIVmJQbzJLMnlEanRsNXUtLW5FQjFzaXV3dElpLWlwR3dVOHRMVzV3MVpaZl9Pbll5bVRrRFJFSFhJQUIxdmNiaUdlRmRKQjQ?oc=5",
+      "published": "2026-09-28T07:00:00.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "TRIP Report: U.S. Traffic Fatalities Continue to Decline",
       "source": "AASHTO Journal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
@@ -134,13 +141,6 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ29CRk5DNXJ1eXR6aV9Xdm1fLUhRRTdfenpLOC1EaUhCRDV2R3ZTWWY3Y2ZzSEdNdkszdDFwRUxQQjIwV2IyUXdDeHZUTDdlLTctNDRlYTlvUWxMUTFhR3VjR0hBVnJpN2FpdVF2MXNuclZIby00bV9hYS1LdmVfVi00TTZWaWVYQkFaS2k0M1hucVZLMEhGRmNyQUp4dWVuRFhUenRQNEsxcjI4ZnZmVWJPcmd3LU1WM0g4QWlnS3NwU0pzZGdVUzRMaGloNDd4eEEtaW9WYVY2SndrQndITDkxNlYtQXVBQktnYWptOGhoYWxrcWfSAfsBQVVfeXFMTTNqc1lPLTlLR19FUnM5YW9PVUwxYV8ydWVsRHhDdXZwSUxlSEo0dllQWDE4WVFIdVY1Z28wN1k4TFdTY1N1b2JmQU9zbWJHWExUY2RMSnRLQmtMYWdQRzN6ZFJ5Qjd0Q2pwNUhnVE1LZDNaMEdNcHptZ0VWTlgxS0RfSlRhN2ZhZkgyT3R1bWhOT21JOUxDa3dXQnVpUmFhNWtVb25VQzNoam5DdUpxOVhDN2ZnS09MVGI4cjlJSnNud2pJMjJkNjdIMzEzc1ZZQzFPZENMZXhTYWJpZkdvYmtvcXdUN3VNTDYyclhnN2xCSmZxUnVHcmY1UHc?oc=5",
       "published": "2026-09-23T17:16:57.000Z",
       "feed": "injurylaw"
-    },
-    {
-      "title": "Report: Texas' traffic fatality rate was 20th highest in nation last year; 25K+ killed in five-year period",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzhrOC1zRDhQOE1OYTVxU3V1TWVKaURWVV9wck1OUWhfUjk4TUxvLTRjbGxXNUJQeUozeEY1cVdxNm00dDNYOHZ1a0dvbWQ4emZsU3lZQXV5YjFiXzZnQlV2VlRNSVBpMWlFeExxYUNIODRmSm5IMkJpeWhoQVJINndYSXhxX3hBYUFxdmdMZ3phQQ?oc=5",
-      "published": "2026-09-23T07:00:00.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Georgia Supreme Court intervenes in lawyers' solicitation fight",
