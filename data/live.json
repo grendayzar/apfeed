@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T20:53:30.549Z",
+  "generated": "2026-10-07T00:33:55.868Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,7 +7,7 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 21,
+  "count": 22,
   "items": [
     {
       "title": "TRAFFIC | Crash closes lanes on I-85 South heading into Midtown Atlanta",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTU9hY3VDaHE2SVM2eGZ1ZEMtQXZXUWlBaDlGaUxxbzV3ZGhsdHhxMUR1U1JLWGxCdlY4VUxYdGZsRWZ4VDJ4TGlwdGc2bHJ3VXNjRmcxa1o1ZUJuNE9LWTgzWkFZQzU0MDdxUEhKbGF5eEZEYV84YVZDVnRydUJUVkw1aUV2V1dQbzdHNXhfQWtqZjhPR29GTFJqc3M2ZmtGdVhkQ3ktRkRpYU00M1oweDVpM3p1ZkRVT04tYVYzTE8yMHJWdzRZdWlraHRwOUxzSWdlag?oc=5",
       "published": "2026-10-06T11:06:00.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "1 killed in multi-vehicle crash on I-285 in Cobb County, police say",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYU5fYkZiQVRuX0FpTFVMRml5c3VBdFdHOGJTZDk2a0hWTHMwZGRiX1pyUjhGUkhSS3J2T2xfVWVsNnVNMVY2T3A4YS1Bc2lDamZ6NEpLal9LNzROcmF4Y3pSU0U3a0diRzNXVUs3UmtaTFVXZG5VOWxvZW5kS3RNUEhycWFMMEZmdDlMSDBMV2MyaFFjUFRibmVUY0o3QWlGWFJDeQ?oc=5",
+      "published": "2026-10-05T20:54:00.000Z",
+      "feed": "ga-metro"
     },
     {
       "title": "Police investigate deadly 4-vehicle crash on I-285",
@@ -45,10 +52,10 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Motorcyclist killed in Dunwoody crash on Tilly Mill Road, police say",
-      "source": "FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN1dBTXhiUENVLTZ1WjNubElIZkVvMlV3TnU0WXFFREVQVXJwRUR4amtqZUhzSElJLUlzakVGZ2N0REFzbTRac0NzdHZjZlFtYWs2Z0tjVlBHaWhOVFZVbFJJcDU3cW9TX0xWMWFCbXVNa3hkQ2ZjbEdtZWdyUXF0TVd1V2paWk9neUFfS21LblNQMTVRQlREelB3?oc=5",
-      "published": "2026-10-02T20:57:21.000Z",
+      "title": "21-year-old motorcyclist dead in Dunwoody crash, police say",
+      "source": "Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQay02eS1adEpISC1KVVUxdU40Sm16dDZ0VnlFbkdHdTRvWTZBX1hTLS1HY3dYdmJDNnhPblFIVmQybzFrb2EzeFZJN3RMYWpHc05SWlZwMmVFWUFZb0ZxWFJLZnpleDlVNjRtRGl5R1E3UkhiT2dzalpaTUVpRk1PLVM3MTlESFhEMUhrcjVWMEVzblJiM1BnT25jZmxkT0ZibUE?oc=5",
+      "published": "2026-10-02T17:33:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -87,10 +94,10 @@
       "feed": "ga-roads"
     },
     {
-      "title": "Driver killed, another injured in crash on I-75 in Atlanta, GSP says",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTNDTjBJNTM2Nkh2dUdVMHlPd3NjR29QOV9rWFA2dko3TVpGV01ybmJCc2ZuQlhfVXJHRC13Tl9lOWpvUk5ILXBBNlZ0VVdEX2tJTlgzaU1WbDNwSE1Nb1JueEdtWktYTmNKdDA0TUtRVmVlSEd4Mkg5Y3JTN3NJTDBmdTlDd1J1UlFDX3lNZnFReFhpLUVfaVlyVEZvN2JrbXNMMQ?oc=5",
-      "published": "2026-09-30T00:10:00.000Z",
+      "title": "Driver killed by another vehicle on I-75 South, troopers say",
+      "source": "FOX 5 Atlanta",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbWFBRHZWV25XY1hWZWZQdWMwSnhTaUJhYW1zWWdTdHV1eV90MS1BcmNxTkFmQzl1cWlNaE5LQkVKeXd1QXQwX25xN015cFNKRDFPVWJSa1BuRkNKenRZZkc2VkFDYW9tQ0E0b2RnR0ZydjlCUW5sNkdxaWRadGpPYTMtLUpKR092bmtiUTdiaFROcWtVT3c?oc=5",
+      "published": "2026-09-30T02:18:35.000Z",
       "feed": "ga-roads"
     },
     {
