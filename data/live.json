@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T06:19:03.089Z",
+  "generated": "2026-10-08T13:48:03.244Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -7,8 +7,15 @@
     "injurylaw",
     "us-safety"
   ],
-  "count": 22,
+  "count": 21,
   "items": [
+    {
+      "title": "Person hit, pole struck in serious Gainesville shopping center crash",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWVmdlF1Y04xbC1XeGFuSDZGYjFVR09wUW9QVklPNTAxbWVTSXBpR24tNzRQOXdMRkY4MGctNkVQMWZhYVFHenMxWEFmWkxkTTNsanRIWTU1MVFyU3UzalloZzRKYkY5VFRMUUotdEJzVkFOSXpuS2VKTE5ic0FZR0ZQUDRGSFYzMk1CSERQRFBsLUJyQ0RYek9CZS03R3F6RFFfSElFcTdDcDV0ZlE?oc=5",
+      "published": "2026-10-07T16:59:00.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "Hapeville officer involved in crash",
       "source": "FOX 5 Atlanta",
@@ -28,7 +35,7 @@
       "source": "Atlanta News First",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYU5fYkZiQVRuX0FpTFVMRml5c3VBdFdHOGJTZDk2a0hWTHMwZGRiX1pyUjhGUkhSS3J2T2xfVWVsNnVNMVY2T3A4YS1Bc2lDamZ6NEpLal9LNzROcmF4Y3pSU0U3a0diRzNXVUs3UmtaTFVXZG5VOWxvZW5kS3RNUEhycWFMMEZmdDlMSDBMV2MyaFFjUFRibmVUY0o3QWlGWFJDeQ?oc=5",
       "published": "2026-10-05T20:54:00.000Z",
-      "feed": "ga-metro"
+      "feed": "ga-roads"
     },
     {
       "title": "Police investigate deadly 4-vehicle crash on I-285",
@@ -59,24 +66,10 @@
       "feed": "ga-metro"
     },
     {
-      "title": "21-year-old motorcyclist dead in Dunwoody crash, police say",
-      "source": "Atlanta News First",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQay02eS1adEpISC1KVVUxdU40Sm16dDZ0VnlFbkdHdTRvWTZBX1hTLS1HY3dYdmJDNnhPblFIVmQybzFrb2EzeFZJN3RMYWpHc05SWlZwMmVFWUFZb0ZxWFJLZnpleDlVNjRtRGl5R1E3UkhiT2dzalpaTUVpRk1PLVM3MTlESFhEMUhrcjVWMEVzblJiM1BnT25jZmxkT0ZibUE?oc=5",
-      "published": "2026-10-02T17:33:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
       "title": "Crash kills 4 family members, including child; 3 seriously injured",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2pSY3BZRXJ5ckFOVUhjcmFtUndJTG5ZT19rNENLYWFSOGU3OEY4X2NHM1JwRElrNjFEY1RtRllHcHRZVFJIOFExdWloVlN2OVEyY2lDVGVwb3EtTVJnX2VJN25LNDkzYTAxV2FrV0Foc0U1bDlJR0RjRUd3cm5WdDlqT3ZoSWZJM3I5SDVhU2oyQmtzMl9vSkVvZWNrRkFqQkstMkJ0UDlLRzZUcF80YU05OEhQYW9WWEV1UtIB0AFBVV95cUxOLW5ud1FqODUwMUdsT3F1X1MzVzZJRDdJRGVfZm9tU2EzTTRyLUFSSnRQUnlodS1tS1Q0al9lbEZSd09FWmJkZ00yVThfN3NlVEk5TXQ3SFd3V1RiTUZ1bDc0TkZyUVBGSTZYRG14S3RrNlliOFp5SHBwVnJlcDRpeWgzM2JSdXZfMVZYVW1mNjdnTDFvUnV6a3NYRTJEX1pPUk0xUkVtRHN2WU94WXdfMEhpQURXdzhaS3VGQ1FrczVHZUM0UEJFQ19FZ1RwX1d6?oc=5",
       "published": "2026-10-02T17:04:10.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Head-on crash in Jefferson kills Jackson County father of 3",
-      "source": "Hilton Head Island Packet",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9sdjA1YWtVZWRNWXZlcDN4Yk5ZYTd5M2lVd0tscTRvbW11MTY3TXFHQVpvQUt0R05aVEV4MEVXUHhoeGFEUXEwZDlKcVBTWVJ1Ulhvc3hDd2JmcnRfU0U2Rm9odGZwUQ?oc=5",
-      "published": "2026-10-02T15:01:00.000Z",
       "feed": "ga-roads"
     },
     {
@@ -94,6 +87,13 @@
       "feed": "us-safety"
     },
     {
+      "title": "Wrongful Death Krause Law Firm Highlights Georgia Traffic Fatality Data",
+      "source": "Florida Today",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYUpVTjFmQnQ0SWtTOUNWV0lVTGVVVUFYVmpqRmVEMEg0dXlVUDFfeHV0NFlNVUtWb3R1Q3c3RTR2dmdsOEt6U3prWUFOM2xNbEdQellVZE1hdFMzSzZHTF9DYV9uX1ZIblZNU0pObzNydE1XNnBoN1d3ZzFHb3FLUFZUV0tsMkNhSDRaMmlMMHdtMGV1RGdYNlFhMzJ0TVdHaWtaYzgyc21rbUtqYWZqN3pCaFNVS3JKemkwcXNaMmF6cElqOWxV?oc=5",
+      "published": "2026-10-01T19:48:48.000Z",
+      "feed": "us-safety"
+    },
+    {
       "title": "Twin City family among 4 killed in Bryan County crash",
       "source": "WRDW",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTdYUjFseHIyVjJFVzdVTkd1MGJyVDVtck5UQkl1VGNRd1RlR2tiTC1YaHJWLVdvVGZFUmdpblR4RlpraXFuLXdtRTdBSE1qc3N2dHUtNENsMEZ4cVFTdUhxWFU4VWl2X3NyU2ZrcDlHSU5JVFFzTHVTb3YzVTRqci1vSll0Z3AtWXVvVkhkVEPSAaQBQVVfeXFMTjVVU0RZTXBHeU8tN3lya1dpQmxESFkyNFM4SUJNNEt6cS1SQ3F1eDlsMzdPeWFxTVhfVDg0SjNYaDZpWDBmRjlwbnB3aDd1Zk5XNkZmZl9wVjROd3VjTFBWNEVwVlpuUGZubjdCcktWdWozS1lKMFV1TFVKa01NOFhsVFYtXzBORWdYMUIxakF1d285eGpmb3lPRDBDY2drZ2FsOVc?oc=5",
@@ -101,17 +101,17 @@
       "feed": "ga-roads"
     },
     {
-      "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
-      "source": "Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
-      "published": "2026-09-29T15:52:17.000Z",
+      "title": "Ford recalls 41K cars over headlight issue. See models",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGpFSmZNblI2TmZzU0NxTnJ6cW1Xbl94bmNGVWFDQ3kxNUlwLVNNUW9qbzBsMW9OX1BCZXRveFdTSTU4dkl4UXRkTlhzUVhGaUVxbDVhY3laNXB4Y1dXZXpEcC1XQnFkX3U4dHYwemd2V0xSa2VRR3VLdUNjZURtdnBFNUdRU2tRUE9YUzVuLV9mSFQ2OVJXalE2bXlfZw?oc=5",
+      "published": "2026-09-30T15:49:00.000Z",
       "feed": "recalls"
     },
     {
-      "title": "NHTSA Wants Your Ideas to Fix Recalls. Its Meeting Won’t Be Streamed or Recorded.",
-      "source": "Yahoo",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbU1hcmk1ZjhaeENoaW1EX256XzY0UDVhS2Q1MmhlUFVQOEI3TWE0QzJYVV9GRnI0N0RULTB5dlpPeW9NbzE2b0luS3RZbU16bXlfbDhHa1hZbGtMdWVhRGNEcTZoMlEwaXQ1Tm0yNVp6dUpjLW5kTXBWX09tNnZhdXhfNHdXTXZBaGww?oc=5",
-      "published": "2026-09-28T12:09:49.000Z",
+      "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQUNlN1JzZ1k1ekhjazJfdWFuYXYyanRFdl8zV29wOE5XdjVJQWNtQUJaRmszZzhVYVpWbUVTb2tZc3BqTzZiOWdIdll6S3ZSYVVqazRXTF9idWRBaGlUSGJNN3kzWDJsZnZLaS10aGl5TXhQM09oSndfQVcwY0xFemJ4YVR4ckltZDZQYVVKbm1jRlRJRXRNNWpTNUZtM1NVRkhDYWpObjRPdEVUZDdfM3VXUG9KTnBHb0pfOVkzVGJiaFE5Zi1WUGZpRmhWV3RhUzRaWENsU2QwaFYy?oc=5",
+      "published": "2026-09-29T07:00:00.000Z",
       "feed": "recalls"
     },
     {
@@ -126,13 +126,6 @@
       "source": "AASHTO Journal",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3MzQkpYb2Iwd3BkLS1ucnBvY2VkMlBKT2RTYWJVTHkzWF9TUktSUzNOdTF5VEpRaFVCa0R1WGNkX2tkNTRTeGw2SkwyWGNvN2hRQ2J5aXJVc2o3ZFd3ZVFneW1lUURFbG9POUpGNkJDblN5Mm13QWNRRXMyWlY4WGktLUYySjZGU2lwZDlWVUtyVnE3em9iRFBxN1I?oc=5",
       "published": "2026-09-25T16:47:24.000Z",
-      "feed": "us-safety"
-    },
-    {
-      "title": "Oklahoma ranks 10th in traffic fatalities despite improvement",
-      "source": "The Oklahoman",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOazg0dUVuZDdUaGp1VUpaUlBPdVRvaVUtOEJvdi1VQURzaGt0aF80UkZYanZoQnh3MFBFWjN5dFdHUlN6NDN2RWtWSFQ3S05VX0phQXdjTkJFSzRud05pc1paeTFKbl9ObE10SFNJWU9wQjhtOXpmLXFFblViaXphVjB3V3F3OFdNUjlLb1VxeGV2SVFaWjJTRmFEZWdqU2NvR3VIU01Sd0J5SGxoTXp0N1B6WUtCWkRFRE1pNFpiTU1Lc21sSmllUTU3WGRCZw?oc=5",
-      "published": "2026-09-24T07:00:00.000Z",
       "feed": "us-safety"
     },
     {
