@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T13:48:03.244Z",
+  "generated": "2026-10-08T19:47:14.092Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 21,
   "items": [
+    {
+      "title": "Over 16K Ram trucks recalled. See the affected models",
+      "source": "USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYnE4TW43NWZTek9ib3V3c01nY0hvbjI4Zlc5UGlhOVVPMERNZHh4c2pZbzdfNUctakdKU0NBZ2o4bEFVN3lKR1hBRmZ2eEVieGFqR19pSnh0U0owR1pYMHRPdWdaeE5VOGNkUnZGOTAyTTgtSGhIZE5GWFJSeE9lNDk0RnBsWWdRaTlld3hhbWJPRUpJWF9ONC1RdGxnX3RDWnpTaEtvbkVYMDg?oc=5",
+      "published": "2026-10-08T16:32:00.000Z",
+      "feed": "recalls"
+    },
     {
       "title": "Person hit, pole struck in serious Gainesville shopping center crash",
       "source": "CBS News",
@@ -66,6 +73,13 @@
       "feed": "ga-metro"
     },
     {
+      "title": "Two killed when car hits tree in Franklin County I-85 crash, troopers say",
+      "source": "WYFF",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tbHZRZ2JJSnV0NkxqSEpiRWFHdlBmNU13ellNMU9xaUJLeEdfZmxMc2tCSTdqNnVLR2g2WDRLQTlQaWUxTzd1Qk1Ec0tYMlFnUXBkS2U4Q3hGNTlQYm9xVXljUlNxLXFwNllDMWpkY01Yb1ZZMTdZMA?oc=5",
+      "published": "2026-10-03T23:05:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "Crash kills 4 family members, including child; 3 seriously injured",
       "source": "WSB-TV",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ2pSY3BZRXJ5ckFOVUhjcmFtUndJTG5ZT19rNENLYWFSOGU3OEY4X2NHM1JwRElrNjFEY1RtRllHcHRZVFJIOFExdWloVlN2OVEyY2lDVGVwb3EtTVJnX2VJN25LNDkzYTAxV2FrV0Foc0U1bDlJR0RjRUd3cm5WdDlqT3ZoSWZJM3I5SDVhU2oyQmtzMl9vSkVvZWNrRkFqQkstMkJ0UDlLRzZUcF80YU05OEhQYW9WWEV1UtIB0AFBVV95cUxOLW5ud1FqODUwMUdsT3F1X1MzVzZJRDdJRGVfZm9tU2EzTTRyLUFSSnRQUnlodS1tS1Q0al9lbEZSd09FWmJkZ00yVThfN3NlVEk5TXQ3SFd3V1RiTUZ1bDc0TkZyUVBGSTZYRG14S3RrNlliOFp5SHBwVnJlcDRpeWgzM2JSdXZfMVZYVW1mNjdnTDFvUnV6a3NYRTJEX1pPUk0xUkVtRHN2WU94WXdfMEhpQURXdzhaS3VGQ1FrczVHZUM0UEJFQ19FZ1RwX1d6?oc=5",
@@ -92,20 +106,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYUpVTjFmQnQ0SWtTOUNWV0lVTGVVVUFYVmpqRmVEMEg0dXlVUDFfeHV0NFlNVUtWb3R1Q3c3RTR2dmdsOEt6U3prWUFOM2xNbEdQellVZE1hdFMzSzZHTF9DYV9uX1ZIblZNU0pObzNydE1XNnBoN1d3ZzFHb3FLUFZUV0tsMkNhSDRaMmlMMHdtMGV1RGdYNlFhMzJ0TVdHaWtaYzgyc21rbUtqYWZqN3pCaFNVS3JKemkwcXNaMmF6cElqOWxV?oc=5",
       "published": "2026-10-01T19:48:48.000Z",
       "feed": "us-safety"
-    },
-    {
-      "title": "Twin City family among 4 killed in Bryan County crash",
-      "source": "WRDW",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTdYUjFseHIyVjJFVzdVTkd1MGJyVDVtck5UQkl1VGNRd1RlR2tiTC1YaHJWLVdvVGZFUmdpblR4RlpraXFuLXdtRTdBSE1qc3N2dHUtNENsMEZ4cVFTdUhxWFU4VWl2X3NyU2ZrcDlHSU5JVFFzTHVTb3YzVTRqci1vSll0Z3AtWXVvVkhkVEPSAaQBQVVfeXFMTjVVU0RZTXBHeU8tN3lya1dpQmxESFkyNFM4SUJNNEt6cS1SQ3F1eDlsMzdPeWFxTVhfVDg0SjNYaDZpWDBmRjlwbnB3aDd1Zk5XNkZmZl9wVjROd3VjTFBWNEVwVlpuUGZubjdCcktWdWozS1lKMFV1TFVKa01NOFhsVFYtXzBORWdYMUIxakF1d285eGpmb3lPRDBDY2drZ2FsOVc?oc=5",
-      "published": "2026-10-01T15:35:00.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "Ford recalls 41K cars over headlight issue. See models",
-      "source": "USA Today",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGpFSmZNblI2TmZzU0NxTnJ6cW1Xbl94bmNGVWFDQ3kxNUlwLVNNUW9qbzBsMW9OX1BCZXRveFdTSTU4dkl4UXRkTlhzUVhGaUVxbDVhY3laNXB4Y1dXZXpEcC1XQnFkX3U4dHYwemd2V0xSa2VRR3VLdUNjZURtdnBFNUdRU2tRUE9YUzVuLV9mSFQ2OVJXalE2bXlfZw?oc=5",
-      "published": "2026-09-30T15:49:00.000Z",
-      "feed": "recalls"
     },
     {
       "title": "US closes Jeep fire probe after Stellantis recalls 1.08 million vehicles",
