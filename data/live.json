@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T19:24:33.135Z",
+  "generated": "2026-10-09T23:29:42.701Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 21,
   "items": [
+    {
+      "title": "8 injured, including 2 children, after fiery I-95 crash near Georgia-South Carolina line",
+      "source": "WJCL",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWJ2YjlmTXpGRXNRcVFfdUVmc3BwMWZ4Nm1EYk03U0NTenFZYXVPbFROdzZlNW9PQmI0cnRwQ1NFYzYwTGhqQkdvRVQ2aXBnWmphX2UyZG9IX3dzRWJ4WXFMencwa1pVVldaN1p1VDU5QjVwUmlNaldRYUlERmU2dGduN1JDSUxxSkNv?oc=5",
+      "published": "2026-10-09T18:45:00.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "Over 16K Ram trucks recalled. See the affected models",
       "source": "USA Today",
@@ -57,13 +64,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZDRTUk4xUXRrU25VMnNDOXBmSG9id2F1Uk1Gd0x4RlEtRkp5ZGk1YXNlZzdoeFJBSTFQN2NZdlhXdWRxeU5Cb3M3Y09BUERMRFRScGpLTkNHbjV2bVctSDQ1NnByRGdFS05uSlg4NjU1azNEdGg4TVAyV0ZjWXNEMXZTY3l3UVZUNm9MbldfaHRiU1NpSkZ1VVZNOF80eEVCYnVXTw?oc=5",
       "published": "2026-10-05T15:58:00.000Z",
       "feed": "recalls"
-    },
-    {
-      "title": "Troopers: 1 dead, 1 injured after back-to-back crashes on I-95 in Coastal Georgia",
-      "source": "WJCL",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHQ1V3VoU1czTUxoSXI2cXU1SkNTa3Q1S3R0Q2Jmdmc5bjdzd0ZvUEttZ0xMRXFya0ZjanJObFF0OWozNGJPdkF5U2ozZFJoVGVtQWlhNXYyWHF1QVFodi1idFFpWHdvNWk3THNfelR6R2k4bEVJMWlnMFBfeC1uMHhKb1NEVVBmYW9Fd0I2T294TmZQZUFRQnk0RVFPaHB2UWc?oc=5",
-      "published": "2026-10-05T15:15:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Passenger dies after disabled truck triggers wreck on I-285",
