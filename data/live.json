@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T02:45:26.762Z",
+  "generated": "2026-10-10T09:41:30.122Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -15,6 +15,13 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWJ2YjlmTXpGRXNRcVFfdUVmc3BwMWZ4Nm1EYk03U0NTenFZYXVPbFROdzZlNW9PQmI0cnRwQ1NFYzYwTGhqQkdvRVQ2aXBnWmphX2UyZG9IX3dzRWJ4WXFMencwa1pVVldaN1p1VDU5QjVwUmlNaldRYUlERmU2dGduN1JDSUxxSkNv?oc=5",
       "published": "2026-10-09T18:45:00.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "A Pedestrian Dies Every 74 Minutes Nationwide, EPD Reminds Drivers",
+      "source": "Redheaded Blackbelt",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGRsXzd3QXRsdVVpRVIwWi1jUGtmbWpXbGtLeVg0dnBHMmdzX0ZUcEZqS2cwdmJjM001WUMweEU2NlUzRk5Pc2pnUlgtOTZlZ0RZTERsME9zbTFzSU9kblpDc0JwZmpSbjg2SzBYdzZ5V3kwVEJJYXdiLXI3QVBKRFJUUEt4c29VNXkyaUc3TFhiTWw3VGdHMkpuZEVHQQ?oc=5",
+      "published": "2026-10-09T07:00:27.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "Over 16K Ram trucks recalled. See the affected models",
@@ -90,7 +97,7 @@
       "title": "Ford recalls more than 40,000 trucks and SUVs over visibility risk",
       "source": "Fox Business",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPczJLdnduV09yb25KVGd6M2hHV2Q1cG43eldTckdnb2t0ZGxxTlliVm9rZ0NlRmtBMVhLTVpkVHVCVXVzZjZjdTlUSmIzbjIyakNFWlpKZXlURVhlbEl1X0lZSkNpY1VESzBqMzBWYlBvM24takZVOG9ZMjRRSnR1NHIyTnJ0NGlnR0xLb002eHhIczVTVDBNRThWLUdIQdIBowFBVV95cUxNUjFtTEJYb25zSWcyX1Mza2I0elp0SllGLWRRMTdKNW1vbndFeGhmb1dOOXB4ZkpYUjdpaU8wZk9rTU5KSW5xVlMtVk45Qy1pWlJTQ0tGQmEyYTdkNVJiSXZLM3dvVFY3cVViZHp3SFlRSnNnR29Mdk43V0g1TUNzY1ZIeW1oZnFlNENDSFAwUGJ0MFd1d0RKZFZzb2xFSlQ4OGFN?oc=5",
-      "published": "2026-10-02T06:43:00.000Z",
+      "published": "2026-10-02T07:00:00.000Z",
       "feed": "recalls"
     },
     {
@@ -122,17 +129,10 @@
       "feed": "us-safety"
     },
     {
-      "title": "New Jersey tops US ranking for lowest drunk driving fatalities | Study",
-      "source": "Asbury Park Press",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYU90N2hKV0NCYnpEZVFfWG5Vb0lsd3pOOGNXdXBHbWpZVHRna0F1RGZvUEJiZ3lrcHpiZlFVR25UeGxkMExhVWFrWVlRTFdQNURnNHFOUzJJSEhwSnNlV3dmcUMtaFQ4dmlxbjZEb2JmdlV1cjM0cjMzcmN1ejF6ZDNXRWdFeXVFZnZ3b2xLOG5WTVZnRy1DeDZjS0g2b2xUYVA3dkhYaG1SR2lsYnQ3X3YyMVhwUzg?oc=5",
-      "published": "2026-09-26T07:00:00.000Z",
-      "feed": "us-safety"
-    },
-    {
       "title": "Bader Law Personal Injury Lawyers Expands Georgia Footprint to Augusta, Columbus and Macon",
       "source": "The Manila Times",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ29CRk5DNXJ1eXR6aV9Xdm1fLUhRRTdfenpLOC1EaUhCRDV2R3ZTWWY3Y2ZzSEdNdkszdDFwRUxQQjIwV2IyUXdDeHZUTDdlLTctNDRlYTlvUWxMUTFhR3VjR0hBVnJpN2FpdVF2MXNuclZIby00bV9hYS1LdmVfVi00TTZWaWVYQkFaS2k0M1hucVZLMEhGRmNyQUp4dWVuRFhUenRQNEsxcjI4ZnZmVWJPcmd3LU1WM0g4QWlnS3NwU0pzZGdVUzRMaGloNDd4eEEtaW9WYVY2SndrQndITDkxNlYtQXVBQktnYWptOGhoYWxrcWfSAfsBQVVfeXFMTTNqc1lPLTlLR19FUnM5YW9PVUwxYV8ydWVsRHhDdXZwSUxlSEo0dllQWDE4WVFIdVY1Z28wN1k4TFdTY1N1b2JmQU9zbWJHWExUY2RMSnRLQmtMYWdQRzN6ZFJ5Qjd0Q2pwNUhnVE1LZDNaMEdNcHptZ0VWTlgxS0RfSlRhN2ZhZkgyT3R1bWhOT21JOUxDa3dXQnVpUmFhNWtVb25VQzNoam5DdUpxOVhDN2ZnS09MVGI4cjlJSnNud2pJMjJkNjdIMzEzc1ZZQzFPZENMZXhTYWJpZkdvYmtvcXdUN3VNTDYyclhnN2xCSmZxUnVHcmY1UHc?oc=5",
-      "published": "2026-09-23T17:16:57.000Z",
+      "published": "2026-09-24T07:00:00.000Z",
       "feed": "injurylaw"
     },
     {
@@ -143,17 +143,17 @@
       "feed": "injurylaw"
     },
     {
+      "title": "Are you prepared for the latest legal changes affecting Georgia accident victims?",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN3huTWFTak4tV09RUVZybzY0dnJ2OG1IM25BbVgzcTBndjVKOUdnLUh6MFhHS2RLSGZRdTR5MGtuNzA1MmVfMnJBVkpualN0Mnhic2ZKX3U3bkcwYXhyTjl5RWJ4ODZDSDBoU1dWVkFKcjJJc0FyMFNYQk9yWnA2U3IyTkLSAZgBQVVfeXFMUHJ2emt5cGpDOHBSYVMyV0FPQ053MFVsTEY4UkpjdWNSbUFRYVFXRU55R2p2UnZGLWlsbjRFOFhybGY3cHpsMFhDNFplTEZOaEsyNFpBXzhJdE1VdVpreTJkZ1c4Qld5a201RkFPdjdZSUcwbHgycGt2bHRXQU9RVzhRanlEYUJNb0Jvdm1IcU1PdlZ1aHJ5emw?oc=5",
+      "published": "2026-09-22T07:00:00.000Z",
+      "feed": "injurylaw"
+    },
+    {
       "title": "What Makes a Good Personal Injury Billboard?",
       "source": "Law.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdnpJeWR5UFdra2FyeW5nLVBXaEw0eGF3RXJ1TDd1RFdpeTNvN0VBNC1rYjRWRTBpYy1HelFlTjNwWTg1VW5aTGV5dzAzdDlsRU5NbmdZd2lvb256ekFhSEJnNmlKY1lZRTlqRDExejhzWmQtLTRTT2pnUnlJUGdRWQ?oc=5",
       "published": "2026-09-21T07:00:00.000Z",
-      "feed": "injurylaw"
-    },
-    {
-      "title": "How Van Sant Law Supports the Atlanta Area Beyond the Courtroom",
-      "source": "Time Magazine",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT3B4bVZMSV9hS2JxM1RJNGl4eE10YXk5NU11cHVpbUMtYUVoWEV0V2tmQmFjSU85UXY4OElrSVJJdDYzaHVsNkhjMGhUUUVuTHdJOW5Qd3c1N2xISmNKNUNuQWM0S042YmxybE93d3VVZDRXeDVaQ01KaHh2TE9YWkdyd1FrdV95UGZ2b1JsdEplanMwUDFMQ0tqYVkyTV9taFI0?oc=5",
-      "published": "2026-09-19T05:30:50.000Z",
       "feed": "injurylaw"
     }
   ]
