@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T19:58:23.426Z",
+  "generated": "2026-10-10T23:27:53.955Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -17,18 +17,18 @@
       "feed": "ga-roads"
     },
     {
+      "title": "Troopers: 2 killed in late-night wrong-way Franklin County crash",
+      "source": "FOX Carolina News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeEIwSmVZN1FobWxYUTBReDFOVTl2WS1yb0JUZ1ZYeVFvYVVSNGxLWHNJRTVHMXN4QzVQajhGQmFjZDgwLUtkVHktaHB2OHFZT1B4VjlIMlBnZHB1RUZpT05RQW0xOGxCY0FFdWNheWduX2ZNWHh0Zi0yUmZYdVFteVZEU0Q0V1BoU0NBS1Z0RWpkQjNzRUR3NjdWbXVVaFRyTGc?oc=5",
+      "published": "2026-10-10T10:46:00.000Z",
+      "feed": "ga-roads"
+    },
+    {
       "title": "8 injured, including 2 children, after fiery I-95 crash near Georgia-South Carolina line",
       "source": "WJCL",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWJ2YjlmTXpGRXNRcVFfdUVmc3BwMWZ4Nm1EYk03U0NTenFZYXVPbFROdzZlNW9PQmI0cnRwQ1NFYzYwTGhqQkdvRVQ2aXBnWmphX2UyZG9IX3dzRWJ4WXFMencwa1pVVldaN1p1VDU5QjVwUmlNaldRYUlERmU2dGduN1JDSUxxSkNv?oc=5",
       "published": "2026-10-09T18:45:00.000Z",
       "feed": "ga-roads"
-    },
-    {
-      "title": "A Pedestrian Dies Every 74 Minutes Nationwide, EPD Reminds Drivers",
-      "source": "Redheaded Blackbelt",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbGRsXzd3QXRsdVVpRVIwWi1jUGtmbWpXbGtLeVg0dnBHMmdzX0ZUcEZqS2cwdmJjM001WUMweEU2NlUzRk5Pc2pnUlgtOTZlZ0RZTERsME9zbTFzSU9kblpDc0JwZmpSbjg2SzBYdzZ5V3kwVEJJYXdiLXI3QVBKRFJUUEt4c29VNXkyaUc3TFhiTWw3VGdHMkpuZEVHQQ?oc=5",
-      "published": "2026-10-09T07:00:27.000Z",
-      "feed": "us-safety"
     },
     {
       "title": "Over 16K Ram trucks recalled. See the affected models",
@@ -50,6 +50,13 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3UzQWFuWTJpZ2JkQTZmT0RuVmVnNTJLVmZ0VlMtTG5GdFNGLUp2UmJEVS1FTHJUcFZLMUVia0JjTFpfN0pfSnNBZk1leDdqMDNHdUlIc1R3dTRHcmwxazZZTGxFeXlUSGdXWjhzYWxNWlVLVmctOUhxVVhodmVhY25Bam1jYVdrc0ZydlQzeGpRZUFrN2tZeUlQS0tudmRkRzRWMk9RcG4xZ9IBrwFBVV95cUxPM253OTJURU91TlhuTDB5cXlzaHg2U05UUFo4Y3Q5OVQzTTNJaWZhclo4ekxpXzR5aExCcmNTR2FjUElmeWx6ek9KMXRudXpXdngtNUtxb3pWVmJYWFZMZExSQzF1d19vYnI0QldHT0ZfRWtDemx1Qk9ab2dxejRmMVp4ZU1jNThYdzA1MDdWSGlIM29ERDhmSTk5ZDUzQTd0RndqSUg2aHY3amdwcm00?oc=5",
       "published": "2026-10-07T10:10:50.000Z",
       "feed": "ga-roads"
+    },
+    {
+      "title": "Kentucky joins ‘Operation Crash Reduction’ to focus on seat belt safety, Oct. 9-12",
+      "source": "NKyTribune",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZjZkVW84bmpJVEF4UXNsQ1hCNTRRWVdKdzR3cHFwMDJnMjhEMnc4QV9hMU1EX196bWluVGRpaE5ucVBBVjFhal9ndkJzZldkUHZRSHpfNWY5bnpZTEo1eHl1dnhRR1NYV3gtYjdOQVJ4MjA3Yno5U01mQ3p0TXRTU0dDYzhqM21xaGJZSWxRSm94cXFOcDdubkVxNFRMY1VBY0ZETG52TmpCMk5qQW5j?oc=5",
+      "published": "2026-10-07T04:32:02.000Z",
+      "feed": "us-safety"
     },
     {
       "title": "TRAFFIC | Crash closes lanes on I-85 South heading into Midtown Atlanta",
@@ -85,13 +92,6 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQWE0UEFCUE5pSE9iczJXRHZVRmxsT1dJaUIyakdtS1N0WWhPSDBERjVfMmg0NzZMSlh3czc3NVh1U0hPWnBwb1NmR25hdUJ4VHlpbjBBYVdHT0ppdVM2R2RkUl9kTjM1Z3JtbHlvT0stRGtBWTM3VFhNLVZxdUlHN1o5TjNyNVNudkcxYTNLWVNIbEE?oc=5",
       "published": "2026-10-05T13:02:29.000Z",
       "feed": "ga-metro"
-    },
-    {
-      "title": "Two killed when car hits tree in Franklin County I-85 crash, troopers say",
-      "source": "WYFF",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tbHZRZ2JJSnV0NkxqSEpiRWFHdlBmNU13ellNMU9xaUJLeEdfZmxMc2tCSTdqNnVLR2g2WDRLQTlQaWUxTzd1Qk1Ec0tYMlFnUXBkS2U4Q3hGNTlQYm9xVXljUlNxLXFwNllDMWpkY01Yb1ZZMTdZMA?oc=5",
-      "published": "2026-10-03T23:05:00.000Z",
-      "feed": "ga-roads"
     },
     {
       "title": "Ford recalls more than 40,000 trucks and SUVs over visibility risk",
