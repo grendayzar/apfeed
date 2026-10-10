@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T15:49:31.566Z",
+  "generated": "2026-10-10T19:58:23.426Z",
   "sources": [
     "ga-roads",
     "ga-metro",
@@ -9,6 +9,13 @@
   ],
   "count": 21,
   "items": [
+    {
+      "title": "8 hospitalized after fiery crash on Georgia interstate",
+      "source": "WSB-TV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYnk2dFhpV3hJbVdKaGZOa3N1V3lUeENsZF95cEpVUGpWTDRPbGgwSDhKeUtDQW5NQm9ibzN5Y0d5RFdzYVJyTGtKa0hXbXZheFRsc2hPV2Z3SjVwUXdYTGVHWmd1dEh3ZFBKeUFrQWwySElkZHlhcjh5TWFjdE1PR1ZLMHVJdmVUc1hDUHVIWnI5Qm5rNm9kQlV3WmVObmx6aTNYaElQa1MtSTVPTEVMTEVIam3SAcgBQVVfeXFMUExRa29IYVBPS2k3NHFsMW5DMW5ldUlNNVRvV21IemVKYzhfXzQ0enlJU3MzbXNLS29NTldEMUZPZnpRdURUTkVWNUdqaTVscmh5WTl3Z0R1SnIycnN1NEViRkFGUHVDMDBZeWZHWFFiOTV0ZUNzaDNxanVjOXdXNXhTay1NNE9ER2tGeVhTampDUlYwMm9WbE8xc3E1UEcxOWc2bTFqeFMzVlpibUlTNnJyUkMxM09hVlR2aFNhNFRMNG1PQlFzb1Q?oc=5",
+      "published": "2026-10-10T12:43:43.000Z",
+      "feed": "ga-roads"
+    },
     {
       "title": "8 injured, including 2 children, after fiery I-95 crash near Georgia-South Carolina line",
       "source": "WJCL",
@@ -80,17 +87,10 @@
       "feed": "ga-metro"
     },
     {
-      "title": "Four family members killed in Georgia crash, three seriously injured",
-      "source": "Action News Jax",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVc1c1FMNVp3cjJ1NC1HX2FjNnljMElkRGdTU2ZiNS15SkgyU2RxUmtjRlQ0QW01bGJNQkZaX3p5ZndLRzJJdzJrVTg2dVliZW9Xc242NFV4UmNDLUptcVJ3N19DdnpCWlVucmR2aXVDT3lxTjMxNG1feU1SOTNXNk9KRkhTbXp3TEhlb2p1eU5LSTNmZmpDQnROMkpqZHhJcTBsQnVqYUNpM3paakVMc18xSEFPWXJMUFU2enJES2dKUGpObWlsdGxsS2lOd9IB4gFBVV95cUxPU0x3RDJWczJGRWdjNk84X01jaGF2QmU3R25tZmpzdzFkZWlzNzg5UFRydk92NDRhdEY3b0pPUC0tbHQwLWZOVnZtOVVxc3lIQThTTjFWX2JHX0l3V20yMTBZd3hHU0xkeGk3aHAtaGR6NVZ2Z0NYVjRqZEo2STFrT21PZC1VeGJ5MEN1ZTNUeGFQWWNCYll1b3ByTDNOeHN0MzVuZzBBUWJyQ2JkZWtJTkVsdlFCVHpBX2VwZkpSem5NSkg4QThOcEg5a2lPMTFZaEtKV0x6aGN6UjNwVnFqNFp3?oc=5",
-      "published": "2026-10-03T17:33:32.000Z",
-      "feed": "ga-roads"
-    },
-    {
-      "title": "21-year-old motorcyclist killed in Dunwoody crash",
-      "source": "WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONHYycGhvUmwyOUdRbHQ5ejd5ZHNZTVdqaDVQLXhGRGNIeDM4NktoT2ZWdm1WSER2QmtZNEN4MXBRakhFYVZ3OE9veHp6SjF0OExSZy1fbjhZRTZPYS03WGZxZnpVQUdTWEpaUThWQ3IweDRPbTd3WFZLOFNJdy1kNHFOblZEM3BOSWxPTFpYcGFGV2ZXdTFlSjlQLWxwNVozRGw5OGQzNFNrdnfSAb8BQVVfeXFMUGthTTRnaHUzVzdFajNvN01ab0haZDJzTWhvQ2l0amhNUVRva0wyaWk5MWVUejJ6RmdybGJMelJ3SXNlV1JpZ09ER1JwVHpUVUdLMTZwRkFINWNYZ016WnV1elRfeVEwa185YXFWYlZFS3dIQkFKQV83VkYwVHRiWmZuMExnMzV3dFkxSUhGTmhBdXhxSXJJWU9PWEo2eU5ZRjNzMENHTTRjU0pPeERGUTdMMm83em9vUjRfTWNzanc?oc=5",
-      "published": "2026-10-03T16:39:48.000Z",
+      "title": "Two killed when car hits tree in Franklin County I-85 crash, troopers say",
+      "source": "WYFF",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tbHZRZ2JJSnV0NkxqSEpiRWFHdlBmNU13ellNMU9xaUJLeEdfZmxMc2tCSTdqNnVLR2g2WDRLQTlQaWUxTzd1Qk1Ec0tYMlFnUXBkS2U4Q3hGNTlQYm9xVXljUlNxLXFwNllDMWpkY01Yb1ZZMTdZMA?oc=5",
+      "published": "2026-10-03T23:05:00.000Z",
       "feed": "ga-roads"
     },
     {
